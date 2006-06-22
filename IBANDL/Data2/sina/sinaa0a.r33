@@ -22,7 +22,7 @@ Source: R.Somatri et al. Nucl. Instr. Meth. B113 (1996) 284-287
 Name: 
 Serial Number: 
 SubFile: si8aa0a.r33
-X4Number: 
+X4Number: D0097003
 Reaction: natSi(a,a0)natSi
 Distribution: Energy
 Composition: 
