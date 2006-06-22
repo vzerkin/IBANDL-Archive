@@ -1,0 +1,41 @@
+Comment: M.Berty and A.V.Drigo Nucl.Instrum.Methods 201 (1982) 476;
+     Van de Graaff accelerator, surface barrier  detector  covered 
+with a 13 micrometer thick Mylar film at 150  deg  lab.  16O(d,p0) 
+and 14N(d,p5) reactions cross  sections  measured  in  the  energy 
+range from 0.55 to 0.66 MeV. The absolute calibration of  16O  and 
+14N  was  performed  by  comparison  with  Ta2O5/Ta  and  Si3N4/Si 
+calibrated standards  whose  concentration  is  known  with  a  3% 
+precision. A 10% systematic  error  is  assumed  by  the  authors. 
+Graphical data only are presented.
+     Simultaneous   nuclear microanalysis of nitrogen and oxygen 
+on silicon is discussed.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: M.Berty and A.V.Drigo Nucl.Instrum. Methods 201 (1982) 476
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: 
+Reaction: 14N(d,p5)15N
+Distribution: Energy
+Composition: 
+Masses:    2.000,   14.000,    1.000,   15.000
+Zeds: 1, 7, 1, 7
+Qvalue:   1309.00,      0.00,      0.00,      0.00,      0.00
+Theta:    150.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  544.900,  0.000,   0.610, 0.000
+  564.700,  0.000,   0.690, 0.000
+  574.400,  0.000,   0.760, 0.000
+  584.200,  0.000,   0.820, 0.000
+  594.200,  0.000,   0.830, 0.000
+  604.100,  0.000,   0.870, 0.000
+  614.000,  0.000,   0.900, 0.000
+  623.600,  0.000,   0.990, 0.000
+  633.700,  0.000,   1.050, 0.000
+  643.700,  0.000,   1.110, 0.000
+EndData:
