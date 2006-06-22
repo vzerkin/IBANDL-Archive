@@ -1,11 +1,11 @@
 Comment: Data taken from Table 1 in the publication cited below
- J. Räisänen and E. Rauhala. Nucl. Instr. Meth. B73 (1993) 439
+ J. Raisanen and E. Rauhala. Nucl. Instr. Meth. B73 (1993) 439
 WARNING ! THIS IS MAINLY FOR TEST NO GUARANTY IS PROVIDED FOR EVEN
 AGREEMENT WITH THE ORIGINAL PUBLICATION.
 File created by R33 Manager version 0.21
 
 Version: R33
-Source: J. Räisänen and E. Rauhala. Nucl. Instr. Meth. B73 (1993) 439
+Source: J. R?is?nen and E. Rauhala. Nucl. Instr. Meth. B73 (1993) 439
 Name: B. Diaz Herrera/M. Mayer
 Address1: Max-Planck-Institut fuer Plasmaphysik
 Address2: Boltzmannstr. 2
@@ -15,7 +15,7 @@ Address5:
 Address6: 
 Serial Number: 
 SubFile: 27Al7LiAl.r33
-X4Number: 
+X4Number: A0599002
 Reaction: 27Al(7Li,7Li0)27Al
 Distribution: Energy
 Composition: 
