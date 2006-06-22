@@ -6,6 +6,7 @@ Version: R33
 Source: A. Gurbich, S. Molodtsov, Nucl. Instr. Meth. B 226 (2004) 637
 Name:
 Serial Number: 0
+X4Number: O1225003 
 Reaction: 16O(d,p0)17O
 Distribution: Energy
 Composition:
