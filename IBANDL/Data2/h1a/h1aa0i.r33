@@ -27,7 +27,7 @@ Source: S.Yamaguchi et al. Nucl. Instr. & Meth. 218 (1983) 598
 Name: 
 Serial Number: 
 SubFile: 
-X4Number: 
+X4Number: E1861002
 Reaction: 1H(a,p)4He
 Distribution: Energy
 Composition: 
@@ -35,7 +35,7 @@ Masses:    4.000,    1.000,    1.000,    4.000
 Zeds: 2, 1, 1, 2
 Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
 Theta:     21.50
-Sigfactors: 1.00, 0.00
+Sigfactors: 1.00, 0.05
 Enfactors: 1000.00, 0.00, 0.00, 0.00
 Units: mb
 Data:
