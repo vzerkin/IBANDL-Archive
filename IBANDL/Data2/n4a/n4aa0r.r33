@@ -1,0 +1,46 @@
+Comment: 2300-2540 keV energy range
+
+Source: Y. Qiu, A.P. Rice, T.A. Tombrello, Nucl.Instr.& Meth. B71 (1992) 324
+Name: A. R. Ramos
+Address1: ITN - Nuclear and Technological Institute
+Address2: Estrada Nacional 10
+Address3: 2686-953 Sacavem
+Address4: Portugal
+Serial Number:
+SubFile: Qiu_177.r33
+X4Number: 
+Reaction: 14N(a,a0)14N
+Distribution: Energy
+Masses: 4,14,4,14
+Zeds: 2,7,2,7
+Qvalue: 0
+Theta: 177
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+9092	0	62.11	0
+9112	0	56.15	0
+9132	0	55.39	0
+9152	0	57.50	0
+9172	0	76.18	0
+9192	0	142.52	0
+9212	0	172.41	0
+9232	0	176.49	0
+9252	0	183.44	0
+9272	0	195.82	0
+9292	0	194.01	0
+9312	0	192.82	0
+9332	0	185.37	0
+9352	0	176.63	0
+9372	0	172.35	0
+9392	0	149.16	0
+9412	0	125.39	0
+9432	0	104.49	0
+9452	0	65.12	0
+9472	0	33.16	0
+9492	0	22.30	0
+9512	0	29.90	0
+9552	0	38.70	0
+9592	0	62.57	0
+EndData:
