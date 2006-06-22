@@ -1,0 +1,44 @@
+Comment: Data taken from Table 2 in the publication cited below
+ratio-to-Rutherford converted to mb/sr from original data
+WARNING ! THIS IS MAINLY FOR TEST NO GUARANTY IS PROVIDED FOR EVEN
+AGREEMENT WITH THE ORIGINAL PUBLICATION.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: M. Mayer and M. Schneider, Nucl. Instr. Meth. B183 (2001) 221
+Name: M. Mayer
+Address1: Max-Planck-Institut fuer Plasmaphysik
+Address2: Boltzmannstr. 2
+Address3: 85748 Garching
+Address4: Germany
+Address5: 
+Address6: 
+Serial Number: 
+SubFile: C7LiLiC.r33
+X4Number: 
+Reaction: 12C(7Li,7Li0)12C
+Distribution: Energy
+Composition: Natural
+Masses:    7.000,   12.000,    7.000,   12.000
+Zeds: 3, 6, 3, 6
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    165.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 2875.000,  0.000,  23.850, 0.690
+ 2999.000,  0.000,  21.590, 0.630
+ 3072.000,  0.000,  20.940, 0.600
+ 3201.000,  0.000,  19.480, 0.570
+ 3402.000,  0.000,  16.640, 0.510
+ 3474.000,  0.000,  15.870, 0.520
+ 3603.000,  0.000,  13.510, 0.480
+ 3803.000,  0.000,  11.340, 0.430
+ 4004.000,  0.000,   9.960, 0.430
+ 4205.000,  0.000,   8.660, 0.400
+ 4406.000,  0.000,   7.570, 0.400
+ 4606.000,  0.000,   6.090, 0.360
+ 5007.000,  0.000,   3.890, 0.350
+ 5408.000,  0.000,   2.690, 0.420
+EndData:
