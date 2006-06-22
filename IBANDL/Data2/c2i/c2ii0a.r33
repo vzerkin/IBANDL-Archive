@@ -1,0 +1,53 @@
+Comment: Data taken from Table 1 in the publication cited below
+ratio-to-Rutherford converted to mb/sr from original data
+WARNING ! THIS IS MAINLY FOR TEST NO GUARANTY IS PROVIDED FOR EVEN
+AGREEMENT WITH THE ORIGINAL PUBLICATION.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: M. Mayer and M. Schneider, Nucl. Instr. Meth. B183 (2001) 221
+Name: M. Mayer
+Address1: Max-Planck-Institut fuer Plasmaphysik
+Address2: Boltzmannstr. 2
+Address3: 85748 Garching
+Address4: Germany
+Address5: 
+Address6: 
+Serial Number: 
+SubFile: C6LiLiC.r33
+X4Number: 
+Reaction: 12C(6Li,6Li0)12C
+Distribution: Energy
+Composition: Natural
+Masses:    6.000,   12.000,    6.000,   12.000
+Zeds: 3, 6, 3, 6
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    165.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 1797.000,  0.000,  77.900, 2.250
+ 1996.000,  0.000,  64.920, 1.900
+ 2097.000,  0.000,  54.640, 1.650
+ 2197.000,  0.000,  51.150, 1.540
+ 2297.000,  0.000,  44.850, 1.400
+ 2397.000,  0.000,  43.650, 1.350
+ 2598.000,  0.000,  37.680, 1.200
+ 2698.000,  0.000,  34.380, 1.140
+ 2799.000,  0.000,  33.070, 1.090
+ 2899.000,  0.000,  30.190, 1.030
+ 3000.000,  0.000,  27.380, 0.940
+ 3201.000,  0.000,  25.520, 0.880
+ 3301.000,  0.000,  22.860, 0.820
+ 3352.000,  0.000,  24.390, 0.860
+ 3402.000,  0.000,  22.830, 0.810
+ 3452.000,  0.000,  20.960, 0.770
+ 3603.000,  0.000,  19.330, 0.710
+ 3804.000,  0.000,  15.510, 0.630
+ 4004.000,  0.000,  13.890, 0.590
+ 4205.000,  0.000,  12.840, 0.570
+ 4406.000,  0.000,   9.200, 0.510
+ 4606.000,  0.000,   8.150, 0.480
+ 4707.000,  0.000,   6.610, 0.450
+EndData:
