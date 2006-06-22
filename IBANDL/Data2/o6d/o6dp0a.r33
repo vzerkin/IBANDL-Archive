@@ -1,0 +1,62 @@
+Comment: M.Berty and A.V.Drigo Nucl.Instrum.Methods 201 (1982) 476;
+     Van de Graaff accelerator, surface barrier  detector  covered 
+with a 13 micrometer thick Mylar film at 150  deg  lab.  16O(d,p0) 
+and 14N(d,p5) reactions cross  sections  measured  in  the  energy 
+range from 0.55 to 0.66 MeV. The absolute calibration of  16O  and 
+14N  was  performed  by  comparison  with  Ta2O5/Ta  and  Si3N4/Si 
+calibrated standards  whose  concentration  is  known  with  a  3% 
+precision. A 10% systematic  error  is  assumed  by  the  authors. 
+Graphical data only are presented.
+     Simultaneous   nuclear microanalysis of nitrogen and oxygen 
+on silicon is discussed.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: M.Berty and A.V.Drigo Nucl.Instrum. Methods 201 (1982) 476
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: 
+Reaction: 16O(d,p0)17O
+Distribution: Energy
+Composition: 
+Masses:    2.000,   16.000,    1.000,   17.000
+Zeds: 1, 8, 1, 8
+Qvalue:   1918.00,      0.00,      0.00,      0.00,      0.00
+Theta:    150.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  545.800,  0.000,   0.217, 0.000
+  547.800,  0.000,   0.234, 0.000
+  565.600,  0.000,   0.274, 0.000
+  565.700,  0.000,   0.279, 0.000
+  567.900,  0.000,   0.311, 0.000
+  575.900,  0.000,   0.304, 0.000
+  576.100,  0.000,   0.316, 0.000
+  578.000,  0.000,   0.324, 0.000
+  585.800,  0.000,   0.348, 0.000
+  586.000,  0.000,   0.369, 0.000
+  588.100,  0.000,   0.386, 0.000
+  593.800,  0.000,   0.399, 0.000
+  595.800,  0.000,   0.399, 0.000
+  596.000,  0.000,   0.405, 0.000
+  597.900,  0.000,   0.399, 0.000
+  600.900,  0.000,   0.405, 0.000
+  603.000,  0.000,   0.398, 0.000
+  605.900,  0.000,   0.390, 0.000
+  606.100,  0.000,   0.396, 0.000
+  608.200,  0.000,   0.384, 0.000
+  615.700,  0.000,   0.352, 0.000
+  615.800,  0.000,   0.333, 0.000
+  617.700,  0.000,   0.327, 0.000
+  625.700,  0.000,   0.294, 0.000
+  627.800,  0.000,   0.285, 0.000
+  635.600,  0.000,   0.254, 0.000
+  637.800,  0.000,   0.244, 0.000
+  646.000,  0.000,   0.222, 0.000
+  647.800,  0.000,   0.209, 0.000
+  655.600,  0.000,   0.205, 0.000
+  658.200,  0.000,   0.201, 0.000
+EndData:
