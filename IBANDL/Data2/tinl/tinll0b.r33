@@ -4,7 +4,7 @@ AGREEMENT WITH THE ORIGINAL PUBLICATION.
 File created by R33 Manager version 0.21
 
 Version: R33
-Source: J. Räisänen and E. Rauhala. Nucl. Instr. Meth. B73 (1993) 439
+Source: J. Raisanen and E. Rauhala. Nucl. Instr. Meth. B73 (1993) 439
 Name: B. Diaz Herrera/M. Mayer
 Address1: Max-Planck-Institut fuer Plasmaphysik
 Address2: Boltzmannstr. 2
@@ -12,7 +12,7 @@ Address3: 85748 Garching
 Address4: Germany
 Serial Number: 
 SubFile: Pi7LiLiTi.r33
-X4Number: 
+X4Number: A0599004
 Reaction: natTi(7Li,7Li)natTi
 Distribution: Energy
 Composition: Natural
