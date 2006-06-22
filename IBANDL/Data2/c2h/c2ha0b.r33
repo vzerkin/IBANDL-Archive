@@ -1,0 +1,55 @@
+Comment: These cross sections have been measured at LARN (Namur-Belgium)
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: G.Terwagne, Nucl.Instrm.Meth. B122(1997)1-7
+Name: Guy Terwagne
+Address1: Laboratoire d'Analyses par Réactions Nucléaires
+Address2: Facultés Universitaires N-D de la Paix
+Address3: rue de Bruxelles, 61
+Address4: B-5000 Namur, BELGIUM
+Address5: tel: (+32) 81 725478 fax: (+32) 81 725474
+Address6: guy.terwagne@fundp.ac.be
+Serial Number: 
+SubFile: 12cta0x2.r33
+X4Number: 
+Reaction: 12C(3He,a0)11C
+Distribution: Energy
+Composition: 
+Masses:    3.000,   12.000,    4.000,   11.000
+Zeds: 2, 6, 2, 6
+Qvalue:   1856.00,      0.00,      0.00,      0.00,      0.00
+Theta:    177.20
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 1957.720,  0.000,   2.400, 0.190
+ 2348.420,  0.000,   2.790, 0.220
+ 2445.840,  0.000,   4.030, 0.320
+ 2055.450,  0.000,   3.220, 0.260
+ 2153.300,  0.000,   3.140, 0.250
+ 2250.860,  0.000,   2.970, 0.240
+ 2348.420,  0.000,   2.280, 0.180
+ 2446.130,  0.000,   3.270, 0.260
+ 2543.880,  0.000,   5.110, 0.410
+ 2641.550,  0.000,   6.250, 0.500
+ 2739.030,  0.000,   3.580, 0.290
+ 2299.850,  0.000,   2.340, 0.190
+ 2201.500,  0.000,   2.620, 0.210
+ 2397.500,  0.000,   3.020, 0.240
+ 2372.900,  0.000,   2.550, 0.200
+ 2495.250,  0.000,   4.270, 0.340
+ 2593.960,  0.000,   6.140, 0.490
+ 2690.570,  0.000,   5.750, 0.460
+ 2422.230,  0.000,   3.420, 0.270
+ 2787.920,  0.000,   2.770, 0.220
+ 2837.250,  0.000,   2.750, 0.220
+ 2885.960,  0.000,   4.200, 0.340
+ 2714.750,  0.000,   5.450, 0.440
+ 2763.420,  0.000,   3.290, 0.260
+ 2812.530,  0.000,   2.910, 0.230
+ 2861.040,  0.000,   3.110, 0.250
+ 2909.950,  0.000,   5.680, 0.450
+ 2935.090,  0.000,   8.110, 0.650
+EndData:
