@@ -3,7 +3,7 @@ and 30 deg. Data are presented on IBA-15 Conference, Cairns, Australia
 File created by R33 Manager version 0.21
 
 Version: R33
-Source: Bogdanovic-Radovic et al., Nucl. Instr. Meth. B190 (2002) 100
+Source: Bogdanovic Radovic et al., Nucl. Instr. Meth. B190 (2002) 100
 Name: Iva Bogdanovic Radovic
 Address1: Laboratory for Ion Beam Interactions
 Address2: Rudjer Boskovic Institute
@@ -13,7 +13,7 @@ Address5: Croatia
 Address6: iva@rudjer.irb.hr
 Serial Number: 
 SubFile: 12Caa12C30.r33
-X4Number: 
+X4Number: D0079002
 Reaction: 12C(a,a0)12C
 Distribution: Energy
 Composition: 
