@@ -8,7 +8,7 @@ Source: I.Bogdanovic et al. Nucl.Instr.& Meth. v.B79 (1993) 524
 Name: 
 Serial Number: 
 SubFile: 
-X4Number: 
+X4Number: D0102006
 Reaction: natBr(p,p0)natBr
 Distribution: Energy
 Composition: Natural
