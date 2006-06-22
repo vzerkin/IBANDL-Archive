@@ -5,7 +5,7 @@ Source: R.Salomonovic, Nucl. Instr. Meth. v.B82 (1993) 1
 Name: 
 Serial Number: 
 SubFile: si8pp0c.r33
-X4Number: 
+X4Number: F0571002
 Reaction: natSi(p,p0)natSi
 Distribution: Energy
 Composition: 
