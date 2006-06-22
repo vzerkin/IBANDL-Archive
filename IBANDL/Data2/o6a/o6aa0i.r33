@@ -1,0 +1,74 @@
+Comment: J.A.Davies et al. "Quantitative calibration of intense (a,a)    
+elastic scattering resonances for 12C at 5.50 - 5.80 MeV and for 
+16O at 7.30 - 7.65 MeV" - Nucl.Instr.& Meth. B85(1994)28.
+    Extremely strong (a,a) elastic scaftering resonances - more
+than 100 times the Rufherford value - occur in 160 at 7.35-7.65 keV 
+and in 12C at 5.50-5.80 MeV, thus allowing the normal RBS technique 
+to be extended to low-Z components, such as oxygen and carbon. Both 
+resonances have been calibrated over the appropriate 300 keV energy 
+region with an overall accuracy of ~4%.Some recent examples of their 
+use in profiling oxygen and carbon in various substrates are given.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: J.A.Davies, F.J.D.Almeida, H.K.Haugen, R.Siegele, J.S.Foster, T.E.Jackman Nucl. Instrum. Methods B85 (1994) 28
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: 
+Reaction: 16O(a,a0)16O
+Distribution: Energy
+Composition: 
+Masses:    4.000,   16.000,    4.000,   16.000
+Zeds: 2, 8, 2, 8
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    170.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+    7.300,  0.000,  91.000, 0.000
+    7.310,  0.000, 162.000, 0.000
+    7.320,  0.000, 209.000, 0.000
+    7.330,  0.000, 463.000, 0.000
+    7.340,  0.000, 558.000, 0.000
+    7.350,  0.000, 568.000, 0.000
+    7.360,  0.000, 587.000, 0.000
+    7.370,  0.000, 640.000, 0.000
+    7.380,  0.000, 670.000, 0.000
+    7.390,  0.000, 693.000, 0.000
+    7.400,  0.000, 694.000, 0.000
+    7.410,  0.000, 665.000, 0.000
+    7.420,  0.000, 694.000, 0.000
+    7.430,  0.000, 721.000, 0.000
+    7.440,  0.000, 728.000, 0.000
+    7.450,  0.000, 703.000, 0.000
+    7.460,  0.000, 702.000, 0.000
+    7.470,  0.000, 729.000, 0.000
+    7.480,  0.000, 716.000, 0.000
+    7.490,  0.000, 724.000, 0.000
+    7.500,  0.000, 680.000, 0.000
+    7.510,  0.000, 804.000, 0.000
+    7.520,  0.000, 791.000, 0.000
+    7.530,  0.000, 763.000, 0.000
+    7.540,  0.000, 758.000, 0.000
+    7.550,  0.000, 727.000, 0.000
+    7.560,  0.000, 719.000, 0.000
+    7.570,  0.000, 792.000, 0.000
+    7.580,  0.000, 780.000, 0.000
+    7.590,  0.000, 789.000, 0.000
+    7.600,  0.000, 815.000, 0.000
+    7.610,  0.000, 859.000, 0.000
+    7.610,  0.000, 816.000, 0.000
+    7.620,  0.000, 852.000, 0.000
+    7.620,  0.000, 784.000, 0.000
+    7.630,  0.000, 821.000, 0.000
+    7.630,  0.000, 730.000, 0.000
+    7.640,  0.000, 770.000, 0.000
+    7.640,  0.000, 632.000, 0.000
+    7.640,  0.000, 596.000, 0.000
+    7.640,  0.000, 496.000, 0.000
+    7.650,  0.000, 325.000, 0.000
+    7.650,  0.000, 286.000, 0.000
+    7.650,  0.000, 218.000, 0.000
+EndData:
