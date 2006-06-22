@@ -1,0 +1,97 @@
+Comment: E.Rauhala Nucl.Instrum.Methods B40/41 (1989) 790;
+     Van de Graaff accelerator, natural targets of bulk Al and Ti. 
+A thin gold film on  each  of  the  target  used  as  an  internal 
+standard. The scattering geometry was set to THETA lab=170 deg with 
+an angle of incidence of 5 deg.  The  energy  calibration  of  the 
+accelerator with accuracy better then 3 keV.
+     The cross section as a   function  of  collision  energy  was 
+taken  as  free  parameter,  adjusted   to   fit   a   synthesized 
+computer-generated spectrum  to  the  experimental  one.  Incident 
+proton energies in intervals of 100-200 keV were used and only the 
+high-energy part of the thick-target signal was used. The  a  real 
+densities of the Au films of the targets were  determined  by  2.0 
+MeV alpha particle backscattering. Stopping powers  from  Andersen 
+and Zigler were assumed. Tabular data presented.
+     Kinematics of proton-induced charged-particle  reactions  for 
+nuclei from 4He to 48Ti and summary of literature  data  (selected 
+from   Nucl.   Data   Tables)   on   proton   elastic   scattering 
+cross-sections relevant to backscattering analysis are presented. 
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: E.Rauhala Nucl.Instrum.Methods B40/41 (1989) 790
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: 
+Reaction: 27Al(p,p0)27Al
+Distribution: Energy
+Composition: 
+Masses:    1.000,   27.000,    1.000,   27.000
+Zeds: 1, 13, 1, 13
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    170.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 1000.000,  0.000, 226.000, 0.000
+ 1105.000,  0.000, 180.000, 0.000
+ 1132.000,  0.000, 178.000, 0.000
+ 1194.000,  0.000, 138.000, 0.000
+ 1202.000,  0.000, 178.000, 0.000
+ 1250.000,  0.000, 152.000, 0.000
+ 1286.000,  0.000, 142.000, 0.000
+ 1363.000,  0.000, 116.000, 0.000
+ 1385.000,  0.000, 141.000, 0.000
+ 1430.000,  0.000, 110.000, 0.000
+ 1444.000,  0.000,  98.000, 0.000
+ 1458.000,  0.000, 125.000, 0.000
+ 1471.000,  0.000, 108.000, 0.000
+ 1486.000,  0.000, 100.000, 0.000
+ 1520.000,  0.000, 110.000, 0.000
+ 1561.000,  0.000,  93.000, 0.000
+ 1581.000,  0.000, 104.000, 0.000
+ 1640.000,  0.000,  83.000, 0.000
+ 1661.000,  0.000,  94.000, 0.000
+ 1686.000,  0.000,  75.000, 0.000
+ 1708.000,  0.000,  74.000, 0.000
+ 1721.000,  0.000,  94.000, 0.000
+ 1740.000,  0.000,  86.000, 0.000
+ 1747.000,  0.000, 103.000, 0.000
+ 1760.000,  0.000,  89.000, 0.000
+ 1781.000,  0.000,  77.000, 0.000
+ 1787.000,  0.000,  82.000, 0.000
+ 1834.000,  0.000,  76.000, 0.000
+ 1865.000,  0.000,  69.000, 0.000
+ 1891.000,  0.000,  52.000, 0.000
+ 1922.000,  0.000,  53.000, 0.000
+ 1932.000,  0.000,  57.000, 0.000
+ 1957.000,  0.000,  58.000, 0.000
+ 1963.000,  0.000,  74.000, 0.000
+ 1977.000,  0.000,  80.000, 0.000
+ 1992.000,  0.000,  78.000, 0.000
+ 2016.000,  0.000,  63.000, 0.000
+ 2046.000,  0.000, 109.000, 0.000
+ 2051.000,  0.000,  89.000, 0.000
+ 2080.000,  0.000,  59.000, 0.000
+ 2091.000,  0.000,  59.000, 0.000
+ 2105.000,  0.000,  67.000, 0.000
+ 2132.000,  0.000,  86.000, 0.000
+ 2137.000,  0.000,  84.000, 0.000
+ 2183.000,  0.000,  42.000, 0.000
+ 2193.000,  0.000,  40.000, 0.000
+ 2198.000,  0.000,  42.000, 0.000
+ 2238.000,  0.000,  76.000, 0.000
+ 2260.000,  0.000,  68.000, 0.000
+ 2278.000,  0.000,  66.000, 0.000
+ 2290.000,  0.000,  75.000, 0.000
+ 2310.000,  0.000,  59.000, 0.000
+ 2340.000,  0.000,  62.000, 0.000
+ 2363.000,  0.000,  37.000, 0.000
+ 2370.000,  0.000,  51.000, 0.000
+ 2387.000,  0.000,  56.000, 0.000
+ 2400.000,  0.000,  55.000, 0.000
+ 2430.000,  0.000,  46.000, 0.000
+ 2450.000,  0.000,  52.000, 0.000
+EndData:
