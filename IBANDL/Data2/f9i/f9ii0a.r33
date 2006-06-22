@@ -1,5 +1,5 @@
 Comment: Data taken from Table 1 in the publication cited below
-Energies between 2.5 and 7 MeV. The scattering angle was 150° in the lab system.
+Energies between 2.5 and 7 MeV. The scattering angle was 150? in the lab system.
 WARNING ! THIS IS MAINLY FOR TEST NO GUARANTY IS PROVIDED FOR EVEN
 AGREEMENT WITH THE ORIGINAL PUBLICATION.
 File created by R33 Manager version 0.21
@@ -15,7 +15,7 @@ Address5:
 Address6: 
 Serial Number: 
 SubFile: 19FLi6LiF.r33
-X4Number: 
+X4Number: O0855002 
 Reaction: 19F(6Li,6Li0)19F
 Distribution: Energy
 Composition: 
