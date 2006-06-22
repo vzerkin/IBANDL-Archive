@@ -1,0 +1,57 @@
+Comment: Data taken from Table 1 in the publication cited below
+ J. Räisänen and E. Rauhala. Nucl. Instr. Meth. B73 (1993) 439
+WARNING ! THIS IS MAINLY FOR TEST NO GUARANTY IS PROVIDED FOR EVEN
+AGREEMENT WITH THE ORIGINAL PUBLICATION.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: J. Räisänen and E. Rauhala. Nucl. Instr. Meth. B73 (1993) 439
+Name: B. Diaz Herrera/M. Mayer
+Address1: Max-Planck-Institut fuer Plasmaphysik
+Address2: Boltzmannstr. 2
+Address3: 85748 Garching
+Address4: Germany
+Address5: 
+Address6: 
+Serial Number: 
+SubFile: 27Al7LiAl.r33
+X4Number: 
+Reaction: 27Al(7Li,7Li0)27Al
+Distribution: Energy
+Composition: 
+Masses:    7.000,   27.000,    7.000,   27.000
+Zeds: 3, 13, 3, 13
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    170.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 3460.000,  0.000, 146.000, 2.900
+ 3940.000,  0.000, 113.000, 2.300
+ 4450.000,  0.000,  87.300, 1.700
+ 4950.000,  0.000,  72.300, 1.400
+ 5200.000,  0.000,  64.000, 1.300
+ 5450.000,  0.000,  57.100, 1.100
+ 5550.000,  0.000,  54.600, 1.100
+ 5700.000,  0.000,  50.500, 1.000
+ 5750.000,  0.000,  49.700, 0.990
+ 5950.000,  0.000,  45.400, 0.910
+ 6200.000,  0.000,  39.700, 1.190
+ 6450.000,  0.000,  37.800, 1.130
+ 6550.000,  0.000,  34.200, 1.030
+ 6700.000,  0.000,  32.800, 0.980
+ 6850.000,  0.000,  28.000, 0.840
+ 6950.000,  0.000,  23.300, 0.700
+ 7050.000,  0.000,  22.700, 0.680
+ 7150.000,  0.000,  22.800, 0.680
+ 7200.000,  0.000,  24.800, 0.740
+ 7250.000,  0.000,  22.100, 0.660
+ 7350.000,  0.000,  19.200, 0.580
+ 7450.000,  0.000,  20.900, 0.630
+ 7550.000,  0.000,  19.800, 0.590
+ 7650.000,  0.000,  18.900, 0.950
+ 7700.000,  0.000,  14.800, 0.740
+ 7750.000,  0.000,  14.400, 0.720
+ 7960.000,  0.000,  10.100, 0.510
+EndData:
