@@ -1,0 +1,39 @@
+Comment: S.T.Picraux Nucl.Instrum.Methods 149 (1978) 292;
+     The  differential  cross  section  vs  d   energy   for   the 
+16O(d,a)14N reaction was measured in the energy interval  840-1030 
+keV with a 219 Angstrom SiO2 film. The absolute cross section  was 
+obtained by normalizing  the  16Od,p1)  signal  to  Amsel's  value 
+[Ann.Phys.(Paris)v.9(1964)247] at 900 keV. Data in graphical form.
+     Detection angle 160 deg lab, low detector bias  in  order  to 
+reduce protons signals, no foils were placed over the detector.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: S.T.Picraux Nucl.Instrum.Methods 149 (1978) 292
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: 
+Reaction: 16O(d,a0)14N
+Distribution: Energy
+Composition: 
+Masses:    2.000,   16.000,    4.000,   14.000
+Zeds: 1, 8, 2, 7
+Qvalue:   3111.00,      0.00,      0.00,      0.00,      0.00
+Theta:    160.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  841.100,  0.000,   5.600, 0.000
+  870.000,  0.000,   5.800, 0.000
+  900.400,  0.000,   6.100, 0.000
+  930.600,  0.000,   7.200, 0.000
+  959.600,  0.000,   8.400, 0.000
+  975.100,  0.000,  11.100, 0.000
+  988.100,  0.000,  12.600, 0.000
+  991.400,  0.000,  12.100, 0.000
+ 1006.100,  0.000,  12.600, 0.000
+ 1013.700,  0.000,  12.000, 0.000
+ 1020.800,  0.000,  11.500, 0.000
+EndData:
