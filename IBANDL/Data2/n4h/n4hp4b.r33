@@ -4,15 +4,15 @@ File created by R33 Manager version 0.21
 Version: R33
 Source: G.Terwagne, D.D.Cohen and G.A.Collins, Nucl.Instrm.Meth. B84(1994)415-420
 Name: Guy Terwagne
-Address1: Laboratoire d'Analyses par Réactions Nucléaires
-Address2: Facultés Universitaires N-D de la Paix
+Address1: Laboratoire d'Analyses par R?actions Nucl?aires
+Address2: Facult?s Universitaires N-D de la Paix
 Address3: rue Muzet, 22
 Address4: B-5000 Namur, BELGIUM
 Address5: tel: (+32) 81 731267		fax: (+32) 81 737938
 Address6: guy.terwagne@fundp.ac.be
 Serial Number: 
 SubFile: 14ntp4x2.r33
-X4Number: 
+X4Number: A0625002
 Reaction: 14N(3He,p4)16O
 Distribution: Energy
 Composition: 
