@@ -1,0 +1,42 @@
+Comment: \Protons on F19; 850 - 1010 keV; CM angle = ; LAB angle = 165;
+\Knox & Harmon, 1989; RPC; No .DXF or .DIG file exists - Ratio to Rutherford
+\vs. proton lab KE in keV.
+16 2
+File was converted RTR -> R33
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: J.M.Knox and J.F.Harmon Nucl. Instrum. Methods B44 (1989) 41
+Name: 
+Address1: 
+Serial Number: 
+SubFile: pf_kn89a.rtr
+X4Number: C0589003 
+Reaction: 19F(p,p0)19F
+Distribution: Energy
+Composition: 
+Masses:    1.000,   19.000,    1.000,   19.000
+Zeds: 1, 9, 1, 9
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    165.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+  850.000,  0.000,   1.230, 0.000
+  860.000,  0.000,   1.790, 0.000
+  870.000,  0.000,   1.560, 0.000
+  882.000,  0.000,   1.260, 0.000
+  885.000,  0.000,   1.230, 0.000
+  887.000,  0.000,   1.390, 0.000
+  900.000,  0.000,   1.440, 0.000
+  910.000,  0.000,   1.400, 0.000
+  939.000,  0.000,   1.330, 0.000
+  950.000,  0.000,   1.410, 0.000
+  960.000,  0.000,   1.550, 0.000
+  970.000,  0.000,   1.410, 0.000
+  980.000,  0.000,   1.330, 0.000
+  990.000,  0.000,   1.370, 0.000
+ 1000.000,  0.000,   1.370, 0.000
+ 1010.000,  0.000,   1.430, 0.000
+EndData:
