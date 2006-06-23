@@ -1,0 +1,47 @@
+Comment: Data taken from Table 1 in the publication cited below
+Differential scattering cross section for 7Li-ions scattering from oxygen between 2.75 and 6.25 MeV
+WARNING ! THIS IS MAINLY FOR TEST NO GUARANTY IS PROVIDED FOR EVEN
+AGREEMENT WITH THE ORIGINAL PUBLICATION.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: E. Rauhala and J. R?is?nen. Nucl. Instr. Meth. B35 (1988) 7
+Name: B. Diaz Herrera/M. Mayer
+Address1: Max-Planck-Institut fuer Plasmaphysik
+Address2: Boltzmannstr. 2
+Address3: 85748 Garching
+Address4: Germany
+Address5: 
+Address6: 
+Serial Number: 
+SubFile: 16O7LILIO.r33
+X4Number: O0869002
+Reaction: 16O(7Li,7Li0)16O
+Distribution: Energy
+Composition: 
+Masses:    7.000,   16.000,    7.000,   16.000
+Zeds: 3, 8, 3, 8
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    170.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 2750.000,  0.000,  66.600, 3.300
+ 3000.000,  0.000,  56.000, 2.800
+ 3250.000,  0.000,  50.100, 2.000
+ 3500.000,  0.000,  43.400, 1.700
+ 3750.000,  0.000,  37.100, 1.500
+ 4000.000,  0.000,  30.000, 1.200
+ 4250.000,  0.000,  26.200, 0.790
+ 4500.000,  0.000,  23.100, 0.690
+ 4750.000,  0.000,  19.600, 0.590
+ 5000.000,  0.000,  17.700, 0.530
+ 5250.000,  0.000,  14.100, 0.420
+ 5500.000,  0.000,   8.050, 0.320
+ 5750.000,  0.000,   4.510, 0.180
+ 6000.000,  0.000,   3.180, 0.160
+ 6250.000,  0.000,   2.350, 0.120
+ 6250.000,  0.000,   2.350, 0.120
+ 6250.000,  0.000,   2.350, 0.120
+EndData:
