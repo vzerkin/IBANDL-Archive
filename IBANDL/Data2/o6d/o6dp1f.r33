@@ -1,0 +1,43 @@
+Comment: ABSOLUTE CALIBRATlON OF 14N(d,alpha) AND 14N(d,p) REACTIONS FOR
+SURFACE ADSORPTION STUDIES
+I.A. DAVIES, T.E. JACKMAN, H. PLATTNER and I. BUBB *
+Solid State Science Branch, Atomic Energy of Canada Limited, 
+Research Company, Chalk River Nuclear Laboratories,
+Chalk River, Ontario, Canada KOJ IJO
+Abstract:
+  The (d,alpha) and (d,p) reactions on 14N have been calibrated
+relative to the 160(d,p1)170 reaction at deuteron energies of 
+972 and 1200 keV, using high purity NO and N2O condensed on a 
+thick Au or Pt substrate at 20 K. Six clearly resolvable 
+nitrogen groups have been calibrated with an overall accuracy of
++/-3%. With the aid of two primary standards (Ta,O, and 
+Bi-implanted Si), all relative cross-sections have been converted
+into absolute values. Excellent agreement with earlier
+measurements of the 16O(d,p1) cross-section is obtained; the 
+nitrogen groups, however, all exhibit markedly smaller 
+cross-sections than previously reported.
+  One very weak 14N group fell under the p1 peak of the 16O
+reaction; hence, the spectrum from a frozen NH, target was 
+used to evaluate the necessary background correction to the 
+observed 160 p1 yields.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: J.A.Davies, T.E.Jackman, H.Plattner, I.Bubb, Nucl.Instr.& Meth. v.218 (1983) p.141
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: C0192002 
+Reaction: 16O(d,p1)17O
+Distribution: Energy
+Composition: 
+Masses:    2.000,   16.000,    1.000,   17.000
+Zeds: 1, 8, 1, 8
+Qvalue:   1047.00,      0.00,      0.00,      0.00,      0.00
+Theta:    150.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  972.000,  0.000,  13.200, 0.300
+EndData:
