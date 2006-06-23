@@ -1,0 +1,62 @@
+Comment: From fig. 5 in L.C. McIntyre, Jr.,J.A. Leavitt, M.D. Ashbaugh,
+J. Borgardt, E. Andrade, J. Rickards, A. Oliver, Nucl. Instr. and
+Meth. B 118 (1996) 219.
+The target thickness was 40 keV for a 3000 keV 3He beam. 
+QValue is (8322+8122)/2
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: L.C. McIntyre, Jr.,J.A. Leavitt, M.D. Ashbaugh, J. Borgardt, E. Andrade, J. Rickards, A. Oliver, Nucl. Instr. and Meth. B 118 (1996) 219.
+Name: L. C. McIntyre, Jr.
+Address1: Physics Department, University of Arizona
+Address2: Tucson, AZ 85721
+Address3: mcintyre@physics.arizona.edu
+Address4: 
+Address5: 
+Address6: 
+Serial Number: 
+SubFile: n14he3p3-4t90.r33
+X4Number: C0229007
+Reaction: 14N(3He,p3+p4)16O
+Distribution: Energy
+Composition: 
+Masses:    3.000,   14.000,    1.000,   16.000
+Zeds: 2, 7, 1, 8
+Qvalue:   8222.00,      0.00,      0.00,      0.00,      0.00
+Theta:     90.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 1976.000,  0.000,   0.060, 0.010
+ 2077.000,  0.000,   0.090, 0.010
+ 2177.000,  0.000,   0.110, 0.020
+ 2277.000,  0.000,   0.130, 0.020
+ 2378.000,  0.000,   0.150, 0.020
+ 2478.000,  0.000,   0.190, 0.030
+ 2579.000,  0.000,   0.210, 0.030
+ 2679.000,  0.000,   0.260, 0.040
+ 2779.000,  0.000,   0.320, 0.050
+ 2880.000,  0.000,   0.370, 0.060
+ 2980.000,  0.000,   0.440, 0.070
+ 3030.000,  0.000,   0.460, 0.070
+ 3080.000,  0.000,   0.520, 0.080
+ 3131.000,  0.000,   0.530, 0.080
+ 3181.000,  0.000,   0.600, 0.090
+ 3231.000,  0.000,   0.590, 0.090
+ 3281.000,  0.000,   0.630, 0.100
+ 3330.000,  0.000,   0.670, 0.100
+ 3382.000,  0.000,   0.690, 0.100
+ 3432.000,  0.000,   0.700, 0.110
+ 3482.000,  0.000,   0.740, 0.110
+ 3532.000,  0.000,   0.750, 0.110
+ 3582.000,  0.000,   0.770, 0.120
+ 3632.000,  0.000,   0.790, 0.120
+ 3683.000,  0.000,   0.800, 0.120
+ 3733.000,  0.000,   0.820, 0.120
+ 3783.000,  0.000,   0.810, 0.120
+ 3833.000,  0.000,   0.830, 0.130
+ 3883.000,  0.000,   0.830, 0.130
+ 3933.000,  0.000,   0.820, 0.120
+ 3983.000,  0.000,   0.850, 0.130
+EndData:
