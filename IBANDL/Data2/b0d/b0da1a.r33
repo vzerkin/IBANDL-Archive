@@ -1,0 +1,79 @@
+Comment: These cross sections have been digitized from the publication
+cited below. No error of either the energy and or the sigma is given.
+Some errors may be among the data, we are recently checking them.
+The Los Alamos Ion Beam Handbook also will contain these data as soon
+as it is ready. If you use this data please refer to the paper below.
+Special comment:
+WARNING ! THIS IS MAINLY FOR TEST NO GUARANTY IS PROVIDED FOR EVEN
+AGREEMENT WITH THE ORIGINAL PUBLICATION.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: K.H.Purser and B.H.Wildenthal, Nucl.Phys., 44(1963), 22
+Name: Gyorgy Vizkelethy
+Address1: Department of Physics
+Address2: Idaho State University
+Address3: Campus Box 8106
+Address4: Pocatello, ID 83209-8106
+Address5: (208) 236-2626
+Address6: vizkel@physics.isu.edu
+Serial Number: 
+SubFile: 10bda1.r33
+X4Number: F0215002
+Reaction: 10B(d,a1)8Be
+Distribution: Energy
+Composition: 
+Masses:    2.000,   10.000,    4.000,    8.000
+Zeds: 1, 5, 2, 4
+Qvalue:  14918.00,      0.00,      0.00,      0.00,      0.00
+Theta:    156.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  976.000,  0.000,   2.880, 0.000
+  997.000,  0.000,   2.930, 0.000
+ 1008.000,  0.000,   3.040, 0.000
+ 1018.000,  0.000,   3.130, 0.000
+ 1041.000,  0.000,   3.220, 0.000
+ 1064.000,  0.000,   3.380, 0.000
+ 1085.000,  0.000,   3.420, 0.000
+ 1109.000,  0.000,   3.510, 0.000
+ 1119.000,  0.000,   3.500, 0.000
+ 1131.000,  0.000,   3.500, 0.000
+ 1140.000,  0.000,   3.560, 0.000
+ 1154.000,  0.000,   3.670, 0.000
+ 1164.000,  0.000,   3.770, 0.000
+ 1175.000,  0.000,   3.770, 0.000
+ 1187.000,  0.000,   3.870, 0.000
+ 1198.000,  0.000,   3.910, 0.000
+ 1220.000,  0.000,   4.050, 0.000
+ 1242.000,  0.000,   4.170, 0.000
+ 1265.000,  0.000,   4.320, 0.000
+ 1287.000,  0.000,   4.460, 0.000
+ 1309.000,  0.000,   4.520, 0.000
+ 1332.000,  0.000,   4.640, 0.000
+ 1352.000,  0.000,   4.690, 0.000
+ 1375.000,  0.000,   4.870, 0.000
+ 1398.000,  0.000,   4.890, 0.000
+ 1420.000,  0.000,   4.950, 0.000
+ 1442.000,  0.000,   5.150, 0.000
+ 1465.000,  0.000,   5.170, 0.000
+ 1486.000,  0.000,   5.280, 0.000
+ 1509.000,  0.000,   5.220, 0.000
+ 1531.000,  0.000,   5.390, 0.000
+ 1551.000,  0.000,   5.430, 0.000
+ 1574.000,  0.000,   5.480, 0.000
+ 1586.000,  0.000,   5.570, 0.000
+ 1598.000,  0.000,   5.750, 0.000
+ 1620.000,  0.000,   5.830, 0.000
+ 1640.000,  0.000,   5.600, 0.000
+ 1652.000,  0.000,   5.520, 0.000
+ 1662.000,  0.000,   5.500, 0.000
+ 1686.000,  0.000,   5.220, 0.000
+ 1708.000,  0.000,   5.080, 0.000
+ 1732.000,  0.000,   5.270, 0.000
+ 1753.000,  0.000,   5.160, 0.000
+ 1774.000,  0.000,   5.100, 0.000
+ 1798.000,  0.000,   5.010, 0.000
+EndData:
