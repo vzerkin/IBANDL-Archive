@@ -1,0 +1,51 @@
+Comment: From fig. 2 in L.C. McIntyre, Jr.,J.A. Leavitt, M.D. Ashbaugh,
+J. Borgardt, E. Andrade, J. Rickards, A. Oliver, Nucl. Instr. and
+Meth. B 118 (1996) 219.
+The target thickness was 45 keV for a 3000 keV 3He beam. 
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: L.C. McIntyre, Jr.,J.A. Leavitt, M.D. Ashbaugh, J. Borgardt, E. Andrade, J. Rickards, A. Oliver, Nucl. Instr. and Meth. B 118 (1996) 219.
+Name: L. C. McIntyre, Jr.
+Address1: Physics Department, University of Arizona
+Address2: Tucson, AZ 85721
+Address3: mcintyre@physics.arizona.edu
+Address4: 
+Address5: 
+Address6: 
+Serial Number: 
+SubFile: B11HE3P0T90.R33
+X4Number: C0229004
+Reaction: 11B(3He,p0)13C
+Distribution: Energy
+Composition: 
+Masses:    3.000,   11.000,    1.000,   13.000
+Zeds: 2, 5, 1, 6
+Qvalue:  13185.00,      0.00,      0.00,      0.00,      0.00
+Theta:     90.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 1973.000,  0.000,   0.083, 0.012
+ 2074.000,  0.000,   0.100, 0.015
+ 2174.000,  0.000,   0.118, 0.018
+ 2275.000,  0.000,   0.140, 0.021
+ 2375.000,  0.000,   0.172, 0.026
+ 2476.000,  0.000,   0.199, 0.030
+ 2576.000,  0.000,   0.222, 0.033
+ 2677.000,  0.000,   0.256, 0.038
+ 2777.000,  0.000,   0.277, 0.042
+ 2878.000,  0.000,   0.290, 0.044
+ 2978.000,  0.000,   0.298, 0.045
+ 3079.000,  0.000,   0.312, 0.047
+ 3179.000,  0.000,   0.336, 0.050
+ 3280.000,  0.000,   0.347, 0.052
+ 3380.000,  0.000,   0.359, 0.054
+ 3481.000,  0.000,   0.365, 0.055
+ 3581.000,  0.000,   0.366, 0.055
+ 3682.000,  0.000,   0.370, 0.056
+ 3782.000,  0.000,   0.373, 0.056
+ 3883.000,  0.000,   0.373, 0.056
+ 3984.000,  0.000,   0.375, 0.056
+EndData:
