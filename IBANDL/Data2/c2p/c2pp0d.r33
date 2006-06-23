@@ -1,0 +1,61 @@
+Comment: H.O.Meyer et al. Z. fur Physik v.A279 (1976) 42;
+     Absolute differential cross sections of p+12C elastic
+scattering have been measured at 89.1,  118.7,  146.9  deg c.m.
+for bombarding energies between 0.3 and 2.0 MeV.
+     Cockroft-Walton accelerator, the uncertainty of the  beam
+energy of 0.1keV is reported. Self-supporting natural carbon
+foils  of  5-10 mcg/cm^2 thickness  were  used  as  targets.
+Cooled  surface  barrier detectors. An overall resolution of
+7.5 keV FWHM at 500  keV  incident beam-energy for  protons.
+Relative  measurements  with  normalization against integrated
+charge.  Absolute  calibration  by  comparing  the measured
+p+12C yield to the yield  for  elastic  scattering  of  alpha
+particles from the same target.
+The data were converted c.m. -> lab.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: H.O.Meyer et al. Z. fur Physik v.A279 (1976) 42
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: D0125002
+Reaction: 12C(p,p0)12C
+Distribution: Energy
+Composition: 
+Masses:    1.000,   12.000,    1.000,   12.000
+Zeds: 1, 6, 1, 6
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    144.10
+Sigfactors: 1000.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  290.500,  0.000,   0.660, 0.000
+  332.300,  0.000,   0.466, 0.000
+  363.200,  0.000,   0.360, 0.000
+  394.300,  0.000,   0.235, 0.000
+  405.500,  0.000,   0.186, 0.000
+  415.600,  0.000,   0.142, 0.000
+  425.900,  0.000,   0.095, 0.000
+  431.000,  0.000,   0.081, 0.000
+  436.000,  0.000,   0.073, 0.000
+  440.600,  0.000,   0.101, 0.000
+  445.900,  0.000,   0.188, 0.000
+  448.600,  0.000,   0.323, 0.000
+  451.600,  0.000,   0.523, 0.000
+  455.600,  0.000,   0.707, 0.000
+  459.600,  0.000,   0.783, 0.000
+  464.500,  0.000,   0.805, 0.000
+  469.300,  0.000,   0.803, 0.000
+  475.500,  0.000,   0.746, 0.000
+  480.800,  0.000,   0.714, 0.000
+  491.200,  0.000,   0.635, 0.000
+  501.600,  0.000,   0.572, 0.000
+  512.400,  0.000,   0.529, 0.000
+  532.900,  0.000,   0.455, 0.000
+  553.400,  0.000,   0.408, 0.000
+  573.100,  0.000,   0.379, 0.000
+  603.100,  0.000,   0.339, 0.000
+  634.000,  0.000,   0.302, 0.000
+EndData:
