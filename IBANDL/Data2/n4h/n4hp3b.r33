@@ -1,0 +1,39 @@
+Comment: These cross sections have been measured at Ansto (Sydney-Australia)
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: G.Terwagne, D.D.Cohen and G.A.Collins, Nucl.Instrm.Meth. B84(1994)415-420
+Name: Guy Terwagne
+Address1: Laboratoire d'Analyses par R?actions Nucl?aires
+Address2: Facult?s Universitaires N-D de la Paix
+Address3: rue Muzet, 22
+Address4: B-5000 Namur, BELGIUM
+Address5: tel: (+32) 81 731267		fax: (+32) 81 737938
+Address6: guy.terwagne@fundp.ac.be
+Serial Number: 
+SubFile: 14ntp3x2.r33
+X4Number: A0625002
+Reaction: 14N(3He,p3)16O
+Distribution: Energy
+Composition: 
+Masses:    3.000,   14.000,    1.000,   16.000
+Zeds: 2, 7, 1, 8
+Qvalue:   8324.00,      0.00,      0.00,      0.00,      0.00
+Theta:    135.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 1589.000,  0.000,   0.006, 0.001
+ 1787.000,  0.000,   0.012, 0.001
+ 1984.000,  0.000,   0.025, 0.003
+ 2083.000,  0.000,   0.034, 0.003
+ 2182.000,  0.000,   0.040, 0.004
+ 2231.000,  0.000,   0.047, 0.005
+ 2281.000,  0.000,   0.042, 0.004
+ 2358.000,  0.000,   0.057, 0.006
+ 2478.000,  0.000,   0.064, 0.006
+ 2577.000,  0.000,   0.075, 0.008
+ 2676.000,  0.000,   0.083, 0.008
+ 2775.000,  0.000,   0.100, 0.010
+EndData:
