@@ -1,6 +1,9 @@
 Comment: 2010-3840 keV energy range
 
-Source: Herring et al., Phys. Rev. 112 (1958) 1210.
+VS: "Source" corrected; "X4Number" added; EXFOR data DA (mb/sr).
+
+Version: R33
+Source: D.F.Herring+(1958), Physical Review, Vol.112, p.1210
 Name: A. R. Ramos
 Address1: ITN - Nuclear and Technological Institute
 Address2: Estrada Nacional 10
@@ -8,7 +11,7 @@ Address3: 2686-953 Sacavem
 Address4: Portugal
 Serial Number:
 SubFile: Herring127_5.r33
-X4Number: 
+X4Number: C1363002 20060104
 Reaction: 14N(a,a0)14N
 Distribution: Energy
 Masses: 4,14,4,14
