@@ -1,0 +1,44 @@
+Comment: These cross sections have been measured at Ansto (Sydney-Australia)
+Special comment: This cross setion has been measured for p1 and p2 proton groups
+because the first and the second levels of 16O are very close in energy.
+The QValue in the file is the average of these two qvalues : 
+9194.00 (p1) and 9113.00 (p2)
+Included individually : I. Vickridge april 2002
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: G.Terwagne, D.D.Cohen and G.A.Collins, Nucl.Instrm.Meth. B84(1994)415-420
+Name: Guy Terwagne
+Address1: Laboratoire d'Analyses par R?actions Nucl?aires
+Address2: Facult?s Universitaires N-D de la Paix
+Address3: rue Muzet, 22
+Address4: B-5000 Namur, BELGIUM
+Address5: tel: (+32) 81 731267		fax: (+32) 81 737938
+Address6: guy.terwagne@fundp.ac.be
+Serial Number: 
+SubFile: 14ntp1x1.r33
+X4Number: A0625002
+Reaction: 14N(3He,p1+2)16O
+Distribution: Energy
+Composition: 
+Masses:    3.000,   14.000,    1.000,   16.000
+Zeds: 2, 7, 1, 8
+Qvalue:   9194.00,   9113.00,      0.00,      0.00,      0.00
+Theta:     90.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 1589.000,  0.000,   0.013, 0.001
+ 1787.000,  0.000,   0.022, 0.002
+ 1984.000,  0.000,   0.041, 0.004
+ 2083.000,  0.000,   0.049, 0.005
+ 2182.000,  0.000,   0.061, 0.006
+ 2231.000,  0.000,   0.070, 0.007
+ 2281.000,  0.000,   0.073, 0.007
+ 2358.000,  0.000,   0.090, 0.009
+ 2478.000,  0.000,   0.102, 0.010
+ 2577.000,  0.000,   0.112, 0.011
+ 2676.000,  0.000,   0.123, 0.012
+ 2775.000,  0.000,   0.122, 0.012
+EndData:
