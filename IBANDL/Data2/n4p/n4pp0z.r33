@@ -1,0 +1,53 @@
+Comment: Energy range: 1710-1830 keV
+
+Source: A.J. Ferguson, R.L. Clarke. H.E. Gove, Phys. Rev. 115 (1959) 1655
+Name: A. R. Ramos
+Address1: ITN- Nuclear and Technological Institute
+Address2: Estrada Nacional 10
+Address3: 2686-953 Sacavem
+Address4: Portugal
+Address5: e-mail: ariel@itn.pt
+Serial Number:
+SubFile: FER1710_1830_130.r33
+X4Number: 
+Reaction: 14N(p,p0)14N
+Distribution: Energy
+Masses: 1,14,1,14
+Zeds: 1,7,1,7
+Qvalue: 0
+Theta: 130
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+1719.1	0	3.45	0
+1720.2	0	3.65	0
+1725.1	0	3.24	0
+1729.0	0	3.50	0
+1731.0	0	3.67	0
+1734.0	0	3.85	0
+1735.0	0	3.98	0
+1735.9	0	4.24	0
+1737.9	0	4.75	0
+1739.0	0	4.90	0
+1742.0	0	5.44	0
+1745.0	0	4.95	0
+1747.0	0	4.11	0
+1747.9	0	3.99	0
+1751.0	0	3.56	0
+1752.9	0	3.18	0
+1761.9	0	3.19	0
+1770.7	0	3.63	0
+1771.8	0	3.40	0
+1773.7	0	3.37	0
+1781.7	0	3.45	0
+1786.7	0	3.45	0
+1792.7	0	3.46	0
+1797.6	0	3.35	0
+1802.6	0	3.45	0
+1804.6	0	3.19	0
+1806.5	0	3.33	0
+1807.6	0	3.42	0
+1810.6	0	3.50	0
+1823.5	0	3.58	0
+EndData:
