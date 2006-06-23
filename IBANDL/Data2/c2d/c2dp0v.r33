@@ -1,0 +1,21 @@
+Comment: 
+
+Source: J.A. Davies, P.R. Norton, Nucl. Instr. and Meth. 168 (1980) 611
+Name: 
+Address1: 
+Serial Number:
+SubFile: 
+X4Number: C1537003
+Reaction: 12C(d,p0)13C
+Distribution: Energy
+Composition:
+Masses:    2.000,   12.000,    1.000,   13.000
+Zeds: 1, 6, 1, 6
+Qvalue:   2722.00,      0.00,      0.00,      0.00,      0.00
+Theta:    150
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+970  0.0  25.5  0.8
+EndData:
