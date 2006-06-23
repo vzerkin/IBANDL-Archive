@@ -1,0 +1,40 @@
+Comment: \Protons on Be9; 2400-2700 keV; CM angle = ; LAB angle = 170.5;
+\Leavitt et al., 1994; RPC; Ratio to Rutherford vs. Proton lab KE in keV.
+\.DXF & .DIG files do not exist.  Data is from Dr. Leavitt. ( to be used
+\in Be paper ).
+\   ENERGY (RTR)Be TARGET
+31 2
+File was converted RTR -> R33
+Data originally marked as Be1 are only retained in the file
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: Leavitt, J.A., McIntyre Jr., L.C., Champlin, R.S., Stoner Jr., J.O., Lin, Z., Ashbaugh, M.D., Cox, R.P. and Frank, J.D. Nucl. Instr. and Meth. B85 (1994)  37.
+Name: 
+Address1: 
+Serial Number: 
+SubFile: pbele94a.rtr
+X4Number: D0591003
+Reaction: 9Be(p,p0)9Be
+Distribution: Energy
+Composition: 
+Masses:    1.000,    9.000,    1.000,    9.000
+Zeds: 1, 4, 1, 4
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    170.50
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+ 2400.000,  0.000,  30.800, 0.000
+ 2450.000,  0.000,  41.500, 0.000
+ 2475.000,  0.000,  45.500, 0.000
+ 2500.000,  0.000,  59.100, 0.000
+ 2525.000,  0.000,  60.000, 0.000
+ 2550.000,  0.000,  52.600, 0.000
+ 2575.000,  0.000,  40.300, 0.000
+ 2600.000,  0.000,  29.500, 0.000
+ 2650.000,  0.000,  19.700, 0.000
+ 2675.000,  0.000,  17.100, 0.000
+ 2700.000,  0.000,  13.800, 0.000
+EndData:
