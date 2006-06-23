@@ -4,7 +4,7 @@ AGREEMENT WITH THE ORIGINAL PUBLICATION.
 File created by R33 Manager version 0.21
 
 Version: R33
-Source: J. Räisänen and E. Rauhala. Nucl. Instr. Meth. B73 (1993) 439
+Source:J.Raisanen+(1993), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.73, p.439
 Name: B. Diaz Herrera/M. Mayer
 Address1: Max-Planck-Institut fuer Plasmaphysik
 Address2: Boltzmannstr. 2
@@ -12,7 +12,7 @@ Address3: 85748 Garching
 Address4: Germany
 Serial Number: 
 SubFile: 
-X4Number: 
+X4Number:  A0599003 20050926
 Reaction: natSi(7Li,7Li)natSi
 Distribution: Energy
 Composition: Natural
