@@ -1,0 +1,57 @@
+Comment: M.Luomajarvi, E.Rauhala, M.Hautala,
+    Nucl.Instrum.Methods B9 (1985) 256;
+   "Oxygen detection by non-Rutherford proton backscattering
+    below 2.5 MeV".
+    Proton elastic scattering cross sections of oxygen for 170 
+deg lab have been measured in the energy range 770-2480 keV relative
+to Ti and Sn elastic scattering cross sections using TiO2 and SnO2
+samples. The angular dependence of the cross section was measured at
+energies 1790, 1990, 2191, and 2382 keV for backscattering angles. 
+An empirical formula for Sigma/Sigma Ruth(E,THETA) is presented.
+Note that for angular dependence the empirical formula is valid
+only for 1790-2382 energy range.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: M.Luomajarvi et al. Nucl.Instrum.Methods v.B9 (1985) 255
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: F0059002 
+Reaction: 16O(p,p0)16O
+Distribution: Energy
+Composition: 
+Masses:    1.000,   16.000,    1.000,   16.000
+Zeds: 1, 8, 1, 8
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    170.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+  704.000,  0.000,   1.090, 0.000
+  760.700,  0.000,   1.150, 0.000
+  798.100,  0.000,   1.280, 0.000
+  845.500,  0.000,   1.380, 0.000
+  886.600,  0.000,   1.310, 0.000
+  962.000,  0.000,   1.440, 0.000
+ 1091.000,  0.000,   1.670, 0.000
+ 1160.200,  0.000,   1.830, 0.000
+ 1231.400,  0.000,   1.970, 0.000
+ 1347.700,  0.000,   2.250, 0.000
+ 1361.400,  0.000,   2.190, 0.000
+ 1362.000,  0.000,   2.480, 0.000
+ 1460.200,  0.000,   2.400, 0.000
+ 1558.600,  0.000,   2.680, 0.000
+ 1557.400,  0.000,   2.900, 0.000
+ 1661.200,  0.000,   3.090, 0.000
+ 1752.700,  0.000,   3.320, 0.000
+ 1856.100,  0.000,   3.520, 0.000
+ 1943.000,  0.000,   3.880, 0.000
+ 1948.400,  0.000,   3.970, 0.000
+ 2045.100,  0.000,   4.200, 0.000
+ 2136.000,  0.000,   4.610, 0.000
+ 2233.800,  0.000,   4.830, 0.000
+ 2324.800,  0.000,   5.200, 0.000
+ 2421.600,  0.000,   5.600, 0.000
+EndData:
