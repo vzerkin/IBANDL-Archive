@@ -1,0 +1,43 @@
+Comment: These cross sections have been digitized from the publication
+cited below. No error of either the energy and or the sigma is given.
+Special comment:
+WARNING ! THIS IS MAINLY FOR TEST NO GUARANTY IS PROVIDED FOR EVEN
+AGREEMENT WITH THE ORIGINAL PUBLICATION.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: G.D. Symons and P.B. Treacy, Nucl. Phys. 46 (1963) 93
+Name: Matej Mayer
+Address1: Max-Planck-Institut fuer Plasmaphysik
+Address2: Boltzmannstr. 2
+Address3: D-85748 Garching
+Address4: Germany
+Address5: ++49 89 3299 1269
+Address6: mam@ipp.mpg.de
+Serial Number: 
+SubFile: 11bppb_1.r33
+X4Number: 
+Reaction: 11B(p,p0)11B
+Distribution: Energy
+Composition: 
+Masses:    1.000,   11.000,    1.000,   11.000
+Zeds: 1, 5, 1, 5
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    155.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 2223.950,  0.000, 101.928, 0.000
+ 2298.510,  0.000, 109.031, 0.000
+ 2372.970,  0.000, 120.663, 0.000
+ 2448.640,  0.000, 128.288, 0.000
+ 2523.230,  0.000, 133.126, 0.000
+ 2596.840,  0.000, 130.125, 0.000
+ 2673.010,  0.000, 110.921, 0.000
+ 2747.960,  0.000,  97.118, 0.000
+ 2823.990,  0.000,  85.579, 0.000
+ 2973.460,  0.000,  79.576, 0.000
+ 3122.930,  0.000,  73.747, 0.000
+ 3273.630,  0.000,  62.865, 0.000
+EndData:
