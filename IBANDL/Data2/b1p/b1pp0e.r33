@@ -1,0 +1,41 @@
+Comment: File created by R33 Manager version 0.21
+
+Version: R33
+Source: M. Mayer et. al. Nucl. Instr. Meth. B143 (1998) 244
+Name: Matej Mayer
+Address1: Max-Planck-Institut fuer Plasmaphysik
+Address2: Boltzmannstr. 2
+Address3: D-85748 Garching
+Address4: Germany
+Address5: ++49 89 3299 1269
+Address6: mam@ipp.mpg.de
+Serial Number: 
+SubFile: 11bppb_2.r33
+X4Number: O0864002 
+Reaction: 11B(p,p0)11B
+Distribution: Energy
+Composition: 
+Masses:    1.000,   11.000,    1.000,   11.000
+Zeds: 1, 5, 1, 5
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    165.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 1692.000,  0.000,  96.000, 5.800
+ 1792.000,  0.000,  92.500, 5.600
+ 1893.000,  0.000,  90.400, 5.400
+ 1993.000,  0.000,  96.100, 5.800
+ 2043.000,  0.000, 105.300, 6.300
+ 2093.000,  0.000, 109.100, 6.500
+ 2143.000,  0.000, 105.700, 6.300
+ 2193.000,  0.000, 105.400, 6.300
+ 2243.000,  0.000, 107.600, 6.500
+ 2344.000,  0.000, 126.700, 7.600
+ 2444.000,  0.000, 150.200, 9.000
+ 2594.000,  0.000, 167.000, 10.000
+ 2619.000,  0.000, 158.600, 9.500
+ 2644.000,  0.000, 146.100, 8.800
+ 2694.000,  0.000, 123.700, 7.400
+EndData:
