@@ -8,8 +8,10 @@ Comment: \Alphas on B11; 4000-8000 keV; CM angle= 150.0(deg); LAB angle= 160.5(d
 File was converted RTR -> R33
 File created by R33 Manager version 0.21
 
+LAB angle corrected  160.5(deg) -> 135.1(deg);
+
 Version: R33
-Source: Ott, W.R. and Weller, H.R. Nucl. Phys. A198 (1972) 505.
+Source: W.R.Ott+(1972), Jour. Nuclear Physics, Section A, Vol.198, p.505
 Name: 
 Address1: 
 Serial Number: 
@@ -21,7 +23,7 @@ Composition:
 Masses:    4.000,   11.000,    4.000,   11.000
 Zeds: 2, 5, 2, 5
 Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
-Theta:    160.50
+Theta:    135.1
 Sigfactors: 1.00, 0.00
 Enfactors: 1.00, 0.00, 0.00, 0.00
 Units: rr
