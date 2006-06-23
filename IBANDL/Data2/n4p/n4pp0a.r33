@@ -1,0 +1,79 @@
+Comment: E.Rauhala Nucl.Instrum.Methods B12 (1985) 447;
+     Differential elastic scattering cross sections of 0.7-2.5 MeV 
+protons for carbon, nitrogen, and silicon have been determined  at 
+a scattering angle 170 deg lab. Van de Graaf accelerator,  silicon 
+surface barrier detector (FWHM=12 keV), target normal tilted 5 deg 
+off the beam in the direction of the detector. 
+     Three  different   targets   were   used   for   the   proton 
+backscattering yield measurements of C,  N  and  Si.  The  targets 
+having natural isotopic abundances, TaN on a carbon substrate (1), 
+Au on carbon foil (2), and Au on SiO2 on Si (3) were  prepared  by 
+argon sputtering (TaN) and vacuum evaporation (Au foils). Each  of 
+the target was first investigated by 4He backscattering.
+     To compute the cross sections, the  areas  of  the  elemental 
+signals (Au,C,Ta and N) of the surface layers as well as the thick 
+target yields (of C and Si)  were  determined  at  varying  energy 
+intervals 10-200 keV. At least 5000 counts in each of the  signals 
+of the elements or 4000 counts in the plateau of the spectrum were 
+collected. Rutherford cross section for proton scattering from  Ta 
+and Au was assumed. For the thin layer targets (1,2) the ratios of 
+the signal areas from N to Ta, and C to Au were  weighted  by  the 
+known concentration ratio of the layer areal densities  to  obtain 
+the  cross  section  ratios.  A  computer  program  to  synthesize 
+backscattering energy spectra was used to fit the scattering yield 
+from thick target (3) by varying  the  unknown  proton  scattering 
+cross section.
+     Tabulated data are presented. The relative accuracy  for  all 
+elements is 2-3%. Near the narrow scattering anomaly  of  nitrogen 
+at 1.74 MeV the cross sections are more uncertain.
+The data are given in lab system.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: E.Rauhala Nucl.Instrum.Methods B12 (1985) 447
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: O0881003
+Reaction: 14N(p,p0)14N
+Distribution: Energy
+Composition: 
+Masses:    1.000,   14.000,    1.000,   14.000
+Zeds: 1, 7, 1, 7
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    170.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 1450.000,  0.000,  86.000, 0.000
+ 1500.000,  0.000,  72.000, 0.000
+ 1525.000,  0.000,  64.000, 0.000
+ 1538.000,  0.000,  58.000, 0.000
+ 1550.000,  0.000,  64.000, 0.000
+ 1563.000,  0.000,  94.000, 0.000
+ 1575.000,  0.000, 110.000, 0.000
+ 1588.000,  0.000, 108.000, 0.000
+ 1608.000,  0.000, 104.000, 0.000
+ 1625.000,  0.000, 102.000, 0.000
+ 1650.000,  0.000,  96.000, 0.000
+ 1675.000,  0.000,  93.000, 0.000
+ 1700.000,  0.000,  92.000, 0.000
+ 1710.000,  0.000,  91.000, 0.000
+ 1725.000,  0.000,  92.000, 0.000
+ 1730.000,  0.000,  96.000, 0.000
+ 1735.000,  0.000, 103.000, 0.000
+ 1740.000,  0.000, 145.000, 0.000
+ 1750.000,  0.000, 126.000, 0.000
+ 1760.000,  0.000,  77.000, 0.000
+ 1775.000,  0.000,  80.000, 0.000
+ 1800.000,  0.000,  78.000, 0.000
+ 1850.000,  0.000,  82.000, 0.000
+ 1900.000,  0.000,  81.000, 0.000
+ 2000.000,  0.000,  80.000, 0.000
+ 2100.000,  0.000,  81.000, 0.000
+ 2150.000,  0.000,  80.000, 0.000
+ 2200.000,  0.000,  89.000, 0.000
+ 2250.000,  0.000,  96.000, 0.000
+ 2300.000,  0.000, 106.000, 0.000
+EndData:
