@@ -1,0 +1,50 @@
+Comment: \Alphas on Li7; 2500 - 4500 keV; CM angle = 150; LAB angle = 121;
+\Bohlen et al., 1972; RPC; from aLiBo72B.DIG; Ratio to Rutherford vs.
+\alpha lab KE in keV.
+\ Center of mass angle = 150
+\ z1 = 2  z2 = 3
+\ m1 =  4.00  m2 =  7.00
+21 2
+File was converted RTR -> R33
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: Bohlen, H., Marquardt, N. and Von Oertzen, W. Nucl. Phys. A179 (1972) 504.
+Name: 
+Address1: 
+Serial Number: 
+SubFile: ALIBO72B.rtr
+X4Number: A1505003
+Reaction: 7Li(a,a0)7Li
+Distribution: Energy
+Composition: 
+Masses:    4.000,    7.000,    4.000,    7.000
+Zeds: 2, 3, 2, 3
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    121.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+ 2481.000,  0.000,   3.690, 0.000
+ 2600.000,  0.000,   5.020, 0.000
+ 2680.000,  0.000,   6.070, 0.000
+ 2791.000,  0.000,   2.520, 0.000
+ 2895.000,  0.000,   1.830, 0.000
+ 3000.000,  0.000,   2.320, 0.000
+ 3105.000,  0.000,   3.350, 0.000
+ 3195.000,  0.000,   2.350, 0.000
+ 3300.000,  0.000,   2.210, 0.000
+ 3391.000,  0.000,   2.330, 0.000
+ 3496.000,  0.000,   2.630, 0.000
+ 3601.000,  0.000,   2.780, 0.000
+ 3692.000,  0.000,   2.910, 0.000
+ 3797.000,  0.000,   3.070, 0.000
+ 3888.000,  0.000,   3.610, 0.000
+ 4007.000,  0.000,   5.280, 0.000
+ 4090.000,  0.000,  12.030, 0.000
+ 4187.000,  0.000,  20.820, 0.000
+ 4286.000,  0.000,  12.470, 0.000
+ 4401.000,  0.000,   9.850, 0.000
+ 4491.000,  0.000,   7.360, 0.000
+EndData:
