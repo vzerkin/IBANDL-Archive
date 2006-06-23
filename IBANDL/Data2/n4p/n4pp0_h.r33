@@ -1,0 +1,42 @@
+Comment: Energy range: 2300-2540 keV
+
+Source: A.J. Ferguson, R.L. Clarke. H.E. Gove, Phys. Rev. 115 (1959) 1655
+Name: A. R. Ramos
+Address1: ITN- Nuclear and Technological Institute
+Address2: Estrada Nacional 10
+Address3: 2686-953 Sacavem
+Address4: Portugal
+Address5: e-mail: ariel@itn.pt
+Serial Number:
+SubFile: FER2300_2540.r33
+X4Number:
+Reaction: 14N(p,p0)14N
+Distribution: Energy
+Masses: 1,14,1,14
+Zeds: 1,7,1,7
+Qvalue: 0
+Theta: 130
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+2292.2	0	5.03	0
+2305.4	0	5.24	0
+2318.1	0	5.81	0
+2328.0	0	5.91	0
+2338.2	0	6.70	0
+2343.1	0	8.12	0
+2347.9	0	8.35	0
+2357.7	0	7.57	0
+2372.9	0	7.65	0
+2383.8	0	7.32	0
+2438.0	0	7.72	0
+2452.0	0	7.34	0
+2467.3	0	6.92	0
+2472.1	0	7.79	0
+2482.1	0	9.18	0
+2483.1	0	8.49	0
+2496.9	0	8.25	0
+2517.1	0	8.21	0
+2532.8	0	7.70	0
+EndData:
