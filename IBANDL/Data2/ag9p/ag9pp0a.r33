@@ -1,0 +1,44 @@
+Comment: Differential   cross-sections   of    elastic    proton-109Ag 
+scattering are measured at the incident energy of 6.06 MeV for the 
+angles from 40 up to 165 deg lab, and in the energy range from 3.2 
+up to 6.2 MeV under the angles  65  and  165  deg  lab.  A  tandem 
+accelerator, a thin self-supporting  target  (0.3  mg/cm^2,  99.4% 
+enrichment). Data accuracy of about 1%. Author's tabular data. 
+Theoretical (optical-model) curve is shown in the graph.  
+Silver has two stable isotopes: 107Ag of 51.35% abundance and
+109 Ag of 48.65% abundance.
+The data are given in lab system.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: A.I.Baryshnikov, A.F.Gurbich, N.N.Titarenko Sov.J.Nucl.Phys.(Engl. Transl.) v.37(3) (1983) p.315
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: D0094002
+Reaction: 109Ag(p,p0)109Ag
+Distribution: Energy
+Composition: 
+Masses:    1.000,  109.000,    1.000,  109.000
+Zeds: 1, 47, 1, 47
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    165.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+    3.200,  0.000,   1.000, 0.000
+    3.600,  0.000,   1.000, 0.000
+    4.000,  0.000,   1.000, 0.000
+    4.400,  0.000,   0.990, 0.000
+    4.600,  0.000,   0.980, 0.000
+    4.800,  0.000,   0.980, 0.000
+    5.000,  0.000,   0.970, 0.000
+    5.200,  0.000,   0.960, 0.000
+    5.400,  0.000,   0.950, 0.000
+    5.600,  0.000,   0.940, 0.000
+    5.800,  0.000,   0.920, 0.000
+    5.900,  0.000,   0.910, 0.000
+    6.000,  0.000,   0.910, 0.000
+    6.100,  0.000,   0.900, 0.000
+EndData:
