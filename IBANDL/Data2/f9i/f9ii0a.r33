@@ -1,0 +1,40 @@
+Comment: Data taken from Table 1 in the publication cited below
+Energies between 2.5 and 7 MeV. The scattering angle was 150? in the lab system.
+WARNING ! THIS IS MAINLY FOR TEST NO GUARANTY IS PROVIDED FOR EVEN
+AGREEMENT WITH THE ORIGINAL PUBLICATION.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: Pastuovic et al. Nucl. Instr. meth. B 136-138 (1998) 81
+Name: B. Diaz Herrera/M. Mayer
+Address1: Max-Planck-Institut fuer Plasmaphysik
+Address2: Boltzmannstr. 2
+Address3: 85748 Garching
+Address4: Germany
+Address5: 
+Address6: 
+Serial Number: 
+SubFile: 19FLi6LiF.r33
+X4Number: O0855002 
+Reaction: 19F(6Li,6Li0)19F
+Distribution: Energy
+Composition: 
+Masses:    6.000,   19.000,    6.000,   19.000
+Zeds: 3, 9, 3, 9
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    150.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 2464.000,  0.000,  99.200, 5.000
+ 2966.000,  0.000,  67.800, 4.100
+ 3467.000,  0.000,  49.500, 2.500
+ 3969.000,  0.000,  38.700, 2.300
+ 4470.000,  0.000,  30.700, 2.100
+ 4971.000,  0.000,  21.700, 1.500
+ 5473.000,  0.000,  17.700, 1.400
+ 5975.000,  0.000,  12.600, 0.800
+ 6475.000,  0.000,   5.500, 1.600
+ 6975.000,  0.000,   4.300, 1.400
+EndData:
