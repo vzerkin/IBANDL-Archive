@@ -1,0 +1,33 @@
+Comment: "Measurement of (p,p) and (p,a) cross sections for lithium
+and fluorine", G.M.Lerner and J.B.Marion - Nucl.Instr& Meth.
+69(1969)115.
+Simultaneous measurements have been made of the differential
+cross sections (Ep = 1.36 MeV, THETAlab = 90 deg) for the
+6Li(p,p)6Li,7Li(p.p)7Li,19F(p,p)19F, 6Li(p,a)3He,7Li(p,a)4He
+and 19F(p,a0)16O reactions using LiF targets. The measurements
+provide a consistent set of cross sections for calibration
+purposes. The results are generally in agreement with previous
+cross section determinations except for the case of the
+19F(p,a0)16O reaction which is discussed in detail.
+The data are given in lab system.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: G.M.Lerner and J.B.Marion Nucl.Instr.Methods 69 (1969) 115
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: A1464003 
+Reaction: 6Li(p,a0)3He
+Distribution: Energy
+Composition: 
+Masses:    1.000,    6.000,    4.000,    3.000
+Zeds: 1, 3, 2, 2
+Qvalue:   4022.00,      0.00,      0.00,      0.00,      0.00
+Theta:     90.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+    1.360,  0.000,  10.900, 1.400
+EndData:
