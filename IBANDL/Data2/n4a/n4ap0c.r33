@@ -7,6 +7,7 @@ Address1: Departement de Physique
 Address2: Universite de Montreal
 Address3: Canada
 SubFile: 14N4Hep0_135t
+X4Number:     C1450002 20061127
 Serial Number: 0
 Reaction: 14N(a,p0)17O
 Distribution: Energy
@@ -19,6 +20,7 @@ Sigfactors: 1.00, 0.00
 Enfactors: 1.00, 0.00, 0.00, 0.00
 Units: mb
 Data:
+ 3186.804,  0.000,   1.321, 0.000
  3201.980,  0.000,   1.194, 0.000
  3217.160,  0.000,   1.089, 0.000
  3232.340,  0.000,   0.920, 0.000
