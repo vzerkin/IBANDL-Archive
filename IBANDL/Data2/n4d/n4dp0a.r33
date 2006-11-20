@@ -1,0 +1,21 @@
+Comment: File created by R33 Manager version 0.21
+
+Version: R33
+Source: J.A.Davies, T.E.Jackman, H.Plattner, I.Bubb, Nucl. Instr.& Meth. v.218 (1983) p.141
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: C0192004
+Reaction: 14N(d,p0)15N
+Distribution: Energy
+Composition: 
+Masses:    2.000,   14.000,    1.000,   15.000
+Zeds: 1, 7, 1, 7
+Qvalue:   8610.0,      0.00,      0.00,      0.00,      0.00
+Theta:    150.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  972.000,  0.000,   0.430, 0.012
+EndData:
