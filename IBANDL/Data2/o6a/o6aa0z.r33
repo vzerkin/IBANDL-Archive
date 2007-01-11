@@ -1,10 +1,10 @@
-Comment: Data for 16O(a,a)16O elastic reaction cross section from 2.4 to 6.0 MeV for laboratory angle 170°
+Comment: Data for 16O(a,a)16O elastic reaction cross section from 2.4 to 6.0 MeV for laboratory angle 170?
 File created by R33 Manager version 0.1
 
 Version: R33
 Source: J. Demarche and G. Terwagne, J. Appl. Phys. 100, 124909 (2006)
 Name: Julien Demarche
-Address1: Laboratoire d'Analyses par Réactions Nucléaires (LARN)
+Address1: Laboratoire d'Analyses par R?actions Nucl?aires (LARN)
 Address2: Department of Physics
 Address3: University of Namur (FUNdP)
 Address4: Rue de Bruxelles 61
@@ -12,7 +12,7 @@ Address5: B-5000 NAMUR (Belgium)
 Address6: E-mail : julien.demarche@fundp.ac.be
 Serial Number: 0
 SubFile: AO_DE170.r33
-X4Number: 
+X4Number: D0429002 
 Reaction: 16O(a,a0)16O
 Distribution: Energy
 Composition: 
