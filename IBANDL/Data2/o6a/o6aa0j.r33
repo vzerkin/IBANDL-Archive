@@ -1,0 +1,41 @@
+Comment: Invited paper for 15th International Conference on the
+Application of Ace. in Research and industry, Univ. of N.
+Texas, Denton, Texas, Nov. 4th-7th, 1998
+
+Version: R33
+Source:  C.J.Wetteland et al. LA-UR-98-4867
+Name:
+Serial Number: 0
+SubFile: 
+X4Number: 
+Reaction: 16O(a,a0)16O
+Distribution: Energy
+Composition:
+Masses: 4, 16, 4, 16
+Zeds: 2, 8, 2, 8
+Qvalue: 0, 0, 0, 0, 0
+Theta: 167
+Sigfactors: 1, 0
+Enfactors: 1, 0, 0, 0
+Units: rr
+Data:
+    5213       0.0      8.24       0.0
+    5242       0.0      7.43       0.0
+    5270       0.0      8.24       0.0
+    5308       0.0      9.05       0.0
+    5332       0.0      7.84       0.0
+    5355       0.0      9.05       0.0
+    5393       0.0     21.62       0.0
+    5450       0.0      6.22       0.0
+    5526       0.0      9.46       0.0
+    5588       0.0      8.65       0.0
+    5640       0.0      7.43       0.0
+    5706       0.0      8.24       0.0
+    5758       0.0      8.65       0.0
+    5825       0.0      8.65       0.0
+    5858       0.0      9.46       0.0
+    5877       0.0      7.84       0.0
+    5915       0.0      7.03       0.0
+    5943       0.0      3.78       0.0
+    5976       0.0     10.27       0.0
+EndData:
