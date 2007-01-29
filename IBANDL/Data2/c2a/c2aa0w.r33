@@ -1,0 +1,45 @@
+Comment: Invited paper for 15th International Conference on the
+Application of Ace. in Research and industry, Univ. of N.
+Texas, Denton, Texas, Nov. 4th-7th, 1998
+
+Version: R33
+Source:  C.J.Wetteland et al. LA-UR-98-4867
+Name:
+Serial Number: 0
+SubFile: 
+X4Number: 
+Reaction: 12C(a,a0)12C
+Distribution: Energy
+Composition:
+Masses: 4, 12, 4, 12
+Zeds: 2, 6, 2, 6
+Qvalue: 0, 0, 0, 0, 0
+Theta: 167
+Sigfactors: 1, 0
+Enfactors: 1, 0, 0, 0
+Units: rr
+Data:
+    5042       0.0     34.38       0.0
+    5071       0.0     38.13       0.0
+    5104       0.0     40.00       0.0
+    5137       0.0     41.88       0.0
+    5217       0.0     47.50       0.0
+    5297       0.0     56.88       0.0
+    5368       0.0     66.25       0.0
+    5443       0.0     77.50       0.0
+    5519       0.0     81.25       0.0
+    5580       0.0     92.50       0.0
+    5637       0.0    100.00       0.0
+    5665       0.0    101.88       0.0
+    5698       0.0    109.38       0.0
+    5726       0.0    107.50       0.0
+    5755       0.0    111.25       0.0
+    5788       0.0     88.75       0.0
+    5811       0.0     41.88       0.0
+    5840       0.0     25.00       0.0
+    5873       0.0     41.88       0.0
+    5906       0.0     45.63       0.0
+    5939       0.0     47.50       0.0
+    5958       0.0     51.25       0.0
+    5995       0.0     56.88       0.0
+EndData:
