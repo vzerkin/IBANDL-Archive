@@ -4,17 +4,17 @@ Special comment:
 File created by R33 Manager version 0.1
 
 Version: R33
-Source: J.L. Colaux, T. Thomé and G. Terwagne, Nucl. Instrm. Meth. B254(2007)25-29
+Source: J.L. Colaux, T. Thom? and G. Terwagne, Nucl. Instrm. Meth. B254(2007)25-29
 Name: Julien L. Colaux
-Address1: Laboratoire d'Analyses par Réactions Nucléaires
-Address2: Facultés Universitaires N-D de la Paix
+Address1: Laboratoire d'Analyses par R?actions Nucl?aires
+Address2: Facult?s Universitaires N-D de la Paix
 Address3: rue de Bruxellles, 61
 Address4: B-5000 Namur, BELGIUM
 Address5: tel: +32 (0)81 725479		fax: +32 (0)81 725474
 Address6: julien.colaux@fundp.ac.be
 Serial Number: 0
 SubFile: 13CDA1_150
-X4Number: 
+X4Number: D0428003
 Reaction: 13C(d,a1)11B
 Distribution: Energy
 Composition: 
