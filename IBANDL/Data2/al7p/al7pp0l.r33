@@ -5,6 +5,7 @@ Version: R33
 Source: Z.Siketic et al. Nucl.Instm.&Meth. 261 (2007) 414 
 Name: 
 Serial Number: 0
+X4Number: D0447002
 SubFile: 27Al(p,p)27Al_120.R33
 Reaction: 27Al(p,p0)27Al
 Distribution: Energy
