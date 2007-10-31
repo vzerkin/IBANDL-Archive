@@ -1,16 +1,17 @@
 Comment: Data were digitized. Energy digitizing error is 3.09 keV,
          data digitizing error is 0.004 mb/sr. 
+
+VS: Source is the second reference in F0917003. 
          
 Version: R33
-Source: G.L. Vysotskij et al. Izvestiya Academii Nauk v.37 (1973) 1633
-Name: Sophiya Taova 
+Source: G.L.Vysotskii+(1973), Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.37, p.1633
 Address1: All-Russia Scientific Research Institute of Experimental Physics
 Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
 Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
 Address4: e-mail: taova@expd.vniief.ru
 Serial Number: 
 SubFile: 
-X4Number: 
+X4Number: F0917003 20080516
 Reaction: 31P(d,a0)29Si
 Distribution: Energy
 Composition: 
