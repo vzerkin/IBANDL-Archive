@@ -1,0 +1,39 @@
+Comment: Data were digitized. Energy digitizing error is 6.0 keV,
+         data digitizing error is 0.004 mb/sr. 
+         
+Version: R33
+Source: N.S. Zelenskaya et al. Izvestiya Academii Nauk v.35 (1971) 193
+Name: Sophiya Taova 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0897002
+Reaction: 12C(a,p0)15N
+Distribution: Energy
+Composition: 
+Masses:    4.000,   12.000,    1.000,   15.000
+Zeds: 2, 6, 1, 7
+Qvalue:   -4965.6,      0.00,      0.00,      0.00,      0.00
+Theta:     40.0
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+    12.631, 0.000,  1.7324,  7.5199E-02
+    13.074, 0.000,  2.7473,  8.4692E-02
+    13.576, 0.000,  2.9815,  8.4648E-02
+    14.019, 0.000,  1.9555,           
+    14.459, 0.000,  0.69427,           
+    14.911, 0.000,  0.52411,           
+    15.298, 0.000,  0.66445, 7.5243E-02
+    15.754, 0.000,  0.79525,           
+    16.138, 0.000,  0.64402,           
+    16.532, 0.000,  1.3863,           
+    16.885, 0.000,  2.5049,  8.4647E-02
+    17.265, 0.000,  1.9492,           
+    17.686, 0.000,  1.0737,                     
+EndData:
+
