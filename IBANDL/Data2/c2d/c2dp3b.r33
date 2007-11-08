@@ -1,0 +1,31 @@
+Comment: Submitted for publication in NIM B (5/2006)
+File created by R33 Manager version 0.1
+
+Version: R33
+Source: M.Kokkoris et al., Nucl. Instr. and Meth. B254 (2007) 10
+Name: Michael Kokkoris
+Address1: National Technical University of Athens,
+Address2: Department of Physics, Zografou Campus,
+Address3: 157 80 Athens, Greece.
+Serial Number: 0
+SubFile: dp3_150.r33
+X4Number: D0398004
+Reaction: 12C(d,p3)13C
+Distribution: Energy
+Composition: 
+Masses:    2.000,   12.000,    1.000,   13.000
+Zeds: 1, 6, 1, 6
+Qvalue:   -1132.07,      0.00,      0.00,      0.00,      0.00
+Theta:    150.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 1849.000,  2.000,   0.430, 0.080
+ 1874.000,  2.000,   0.610, 0.050
+ 1899.000,  2.000,   0.720, 0.130
+ 1924.000,  2.000,   0.780, 0.060
+ 1949.000,  2.000,   1.190, 0.120
+ 1974.000,  2.000,   1.360, 0.130
+ 1999.000,  2.000,   1.600, 0.400
+EndData:
