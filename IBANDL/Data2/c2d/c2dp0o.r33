@@ -1,0 +1,76 @@
+Comment: 17th IBA Conference, Sevilla, Spain (2005)"A detailed study of the 12C(d,p) reaction at detector angles between 135 and 170 degrees for the energy range Ed,lab=900-2000 keV"M. Kokkoris1, P. Misailides2, S.Kossionides3, Ch. Zarkadas3, A.Lagoyannis3, R. Vlastou1, C. T. Papadopoulos1, and A. Kontos1(1)Department of Physics, N.T.U.A., Zografou Campus 157 80, Athens, Greece.
+(2)Department of Chemistry, Aristotle University, GR-54006, Thessaloniki, Greece.
+(3)Institute of Nuclear Physics, TANDEM Accelerator, N.C.S.R. 'Demokritos', Aghia Paraskevi 153 10, Athens, Greece.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: M.Kokkoris et al., Nucl. Instr. and Meth. B249 (2006) 77
+Name: Michael Kokkoris
+Address1: Dr. Michael Kokkoris,
+Address2: Lecturer,
+Address3: Department of Physics,
+Address4: National Technical University of Athens,
+Address5: Zografou Campus 157 80,
+Address6: Athens, GREECE.
+Address7: Tel: +30-210-7723049 
+Address8: kokkoris@central.ntua.gr
+Serial Number: 
+SubFile: s165
+X4Number: D0368002
+Reaction: 12C(d,p0)13C
+Distribution: Energy
+Composition: 
+Masses:    2.000,   12.000,    1.000,   13.000
+Zeds: 1, 6, 1, 6
+Qvalue:   2722.00,      0.00,      0.00,      0.00,      0.00
+Theta:    165.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  897.000,  2.000,  24.800, 1.400
+  922.000,  2.000,  31.900, 1.800
+  947.000,  2.000,  32.200, 1.800
+  972.000,  2.000,  30.300, 1.700
+  998.000,  2.000,  28.800, 1.600
+ 1022.000,  2.000,  28.700, 1.600
+ 1047.000,  2.000,  31.900, 1.800
+ 1072.000,  2.000,  38.700, 2.200
+ 1098.000,  2.000,  51.000, 2.900
+ 1123.000,  2.000,  67.400, 3.800
+ 1148.000,  2.000,  89.100, 10.300
+ 1173.000,  2.000,  99.000, 12.900
+ 1198.000,  2.000, 101.300, 5.900
+ 1223.000,  2.000,  92.400, 8.300
+ 1248.000,  2.000,  86.700, 7.800
+ 1273.000,  2.000,  83.200, 7.500
+ 1298.000,  2.000,  90.300, 8.100
+ 1323.000,  2.000,  86.300, 7.800
+ 1348.000,  2.000,  61.800, 5.600
+ 1373.000,  2.000,  51.000, 4.600
+ 1398.000,  2.000,  44.300, 4.000
+ 1423.000,  2.000,  38.900, 3.500
+ 1448.000,  2.000,  68.400, 10.400
+ 1473.000,  2.000,  42.700, 3.800
+ 1498.000,  2.000,  37.100, 2.100
+ 1523.000,  2.000,  36.900, 2.100
+ 1548.000,  2.000,  34.600, 2.000
+ 1573.000,  2.000,  32.300, 1.800
+ 1598.000,  2.000,  33.200, 1.900
+ 1624.000,  2.000,  35.400, 2.700
+ 1648.000,  2.000,  25.800, 3.500
+ 1673.000,  2.000,  21.000, 3.300
+ 1698.000,  2.000,  16.400, 1.300
+ 1723.000,  2.000,  16.800, 1.000
+ 1749.000,  2.000,  26.000, 1.500
+ 1773.000,  2.000,  30.300, 1.900
+ 1799.000,  2.000,  28.700, 1.600
+ 1824.000,  2.000,  26.800, 4.300
+ 1849.000,  2.000,  20.500, 3.000
+ 1874.000,  2.000,  19.300, 1.100
+ 1899.000,  2.000,  24.700, 1.400
+ 1924.000,  2.000,  27.900, 1.600
+ 1949.000,  2.000,  31.400, 2.800
+ 1974.000,  2.000,  32.600, 2.700
+ 1999.000,  2.000,  38.000, 8.600
+EndData:
