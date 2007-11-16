@@ -1,0 +1,59 @@
+Comment: Data were digitized. Energy digitizing error is 1.00 keV,
+         data digitizing error is 0.07 (relativ units).
+         Differential cross-sections are given in relative units. 
+         
+Version: R33
+Source: V.I.Borovlev et al. Yadernaya Fizika v.14 (1971) 47
+Name: Sophiya Taova 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0915003
+Reaction:  12C(d,d0)12C
+Distribution: Energy
+Composition: 
+Masses:    2.000,    12.000,    2.000,    12.000
+Zeds: 1,  6,  1,  6
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:      90.0
+Sigfactors:   1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: ru
+Data:                   
+     1.9641        0.0     1.2026     0.1020
+     1.9981        0.0     1.0086     0.1122
+     2.0297        0.0    0.96759     0.1020
+     2.0613        0.0    0.95722     0.1123
+     2.0977        0.0    0.94683     0.1225
+     2.1293        0.0    0.82421     0.1429
+     2.1634        0.0    0.85465     0.1020
+     2.1974        0.0    0.89529     0.1225
+     2.2315        0.0    0.94613     0.1020
+     2.2655        0.0    0.91534     0.1225
+     2.2971        0.0    0.89477     0.1123
+     2.3311        0.0    0.89459     0.1123
+     2.3676        0.0    0.86378     0.1020
+     2.3968        0.0    0.87384     0.1020
+      2.426        0.0    0.93491     0.1123
+     2.4601        0.0     1.0368 9.1837E-02
+     2.4917        0.0     1.2101     0.1020
+     2.5281        0.0    0.79152     0.1123
+     2.5572        0.0    0.57708     0.1020
+     2.5961        0.0    0.51565     0.1020
+     2.6252        0.0    0.44407     0.1122
+     2.6641        0.0    0.42346     0.1020
+     2.6959        0.0     0.9539     0.1123
+     2.7082        0.0     1.4947     0.1020
+     2.7327        0.0     2.1068     0.1225
+     2.7641        0.0     1.2699     0.1123
+     2.7933        0.0      1.382 9.1837E-02
+     2.8199        0.0     1.0655     0.1020
+     2.8637        0.0     1.0755     0.1123
+     2.8953        0.0    0.91204     0.1122
+     2.9269        0.0    0.84045     0.1122
+     2.9657        0.0    0.58514     0.1020
+     2.9974        0.0    0.72784     0.1123                                           
+EndData:
