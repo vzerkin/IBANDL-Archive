@@ -1,0 +1,54 @@
+Comment: Data were digitized. Energy digitizing error is 0.003 MeV
+         data digitizing error is 0.185 mb/sr. 
+         
+Version: R33
+Source: E.A Romanovskij et al. Izvestiya Akademii Nauk v.50 (1986) 129
+Name: Sophiya Taova 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number:
+SubFile: 
+X4Number: 
+Reaction: 26Mg(p,p0)26Mg
+Distribution: Energy
+Composition: 
+Masses:    1.000,   26.000,    1.000,   26.000
+Zeds: 1, 12, 1, 12
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:  160.75
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+     6.5052        0.0     28.415        0.0
+     6.5334        0.0     17.937        0.0
+     6.5715        0.0      15.39        0.0
+     6.6046        0.0     12.842        0.0
+     6.6376        0.0     12.084        0.0
+     6.6706        0.0      11.07        0.0
+     6.6983        0.0     18.494        0.0
+     6.7261        0.0     24.639        0.0
+     6.7438        0.0     26.179        0.0
+     6.7667        0.0     25.418        0.0
+     6.7845        0.0     21.075        0.0
+     6.8328        0.0     21.344        0.0
+     6.8655        0.0     29.536        0.0
+     6.9009        0.0     36.962        0.0
+     6.9368        0.0     23.418        0.0
+     6.9699        0.0     19.335        0.0
+     7.0029        0.0     18.833        0.0
+     7.0862        0.0     33.688        0.0
+     7.1268        0.0     36.257        0.0
+     7.1726        0.0     32.433        0.0
+      7.249        0.0     19.923        0.0
+     7.2895        0.0     24.026        0.0
+     7.3321        0.0     45.264        0.0
+     7.3726        0.0      50.39        0.0
+     7.4135        0.0     38.381        0.0
+     7.4417        0.0     29.438        0.0
+     7.4851        0.0     18.453        0.0
+     7.5284        0.0     12.327        0.0
+     7.5734        0.0     38.936        0.0
+EndData:
