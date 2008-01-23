@@ -1,0 +1,36 @@
+Comment: Data were digitized. Energy digitizing error is 0.001 MeV,
+         data digitizing error is 0.27 mb/sr. 
+         
+Version: R33
+Source: E.A. Antropov et al. Izvestiya Akademii Nauk v.40 (1976) 807
+Name: Sophiya Taova 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0923004
+Reaction:  48Ti(p,p0)48Ti
+Distribution: Energy
+Composition: 
+Masses:    1.000,    48.000,    1.000,    48.000
+Zeds: 1,  22,  1,  22
+Qvalue:       0.00,      0.00,      0.00,      0.00,      0.00
+Theta:      81.6
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:                   
+     5.2115        0.0     116.19     4.3835
+     5.3174        0.0      93.75      2.739
+     5.3392        0.0     81.153     4.3841
+     5.3962        0.0     77.331     3.2883
+     5.4667        0.0     73.513     4.9314
+     5.5969        0.0     66.421     3.2883
+     5.6864        0.0     66.442     4.9314
+     5.7406        0.0     68.647     3.2883
+     5.8112        0.0     53.322     4.3828
+     5.9197        0.0     47.868     4.3835
+     6.0011        0.0     48.436     3.8343                                         
+EndData:
