@@ -1,0 +1,42 @@
+Comment: Data were digitized. Energy digitizing error is 0.001 MeV,
+         data digitizing error is 0.007 mb/sr.
+         Polarized deuteron beam was used. Effective centre of detector
+         was displaced a value of 0.42+-0.06 during the measurements. 
+                   
+Version: R33
+Source: A.S. Dejneko et al. Izvestiya Akademii Nauk v.44 (1980) 2382
+Name: Sophiya Taova 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0266002 
+Reaction:  9Be(d,a0)7Li
+Distribution: Energy
+Composition: 
+Masses:    2.000,    9.000,    4.000,   7.000
+Zeds: 1, 4, 2, 3
+Qvalue:    7151.8,      0.00,      0.00,      0.00,      0.00
+Theta:       30.0
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:                   
+     1.4429        0.0     3.2288    0.21917
+     1.5384        0.0     3.7907    0.27397
+      1.634        0.0     3.9143    0.20548
+     1.6859        0.0     3.8186    0.19178
+     1.7323        0.0     3.9146    0.19178
+     1.7814        0.0       3.86    0.16438
+     1.8278        0.0      4.093    0.20548
+     1.8743        0.0     3.8603    0.23287
+     1.9288        0.0     4.2714    0.19178
+     1.9807        0.0     4.0798    0.23287
+     2.0817        0.0     4.4363    0.21917
+     2.1718        0.0     4.1627    0.19178
+     2.2783        0.0     4.4781    0.23287
+      2.382        0.0     4.6428    0.23287
+     2.4803        0.0      4.876    0.20548                                        
+EndData:
