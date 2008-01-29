@@ -1,0 +1,53 @@
+Comment: Data were digitized. Energy digitizing error is 1.08 keV
+         data digitizing error is 0.0017 mb/sr. 
+         
+Version: R33
+Source: M.I.El-Zaiki et al. Atomkernenergie v.11 (1966) 238
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-79-06   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0898002
+Reaction: 30Si(d,p1)31Si
+Distribution: Energy
+Composition: 
+Masses:    2.000,   30.000,    1.000,   31.000
+Zeds: 1, 14, 1, 14
+Qvalue:      3611.60,      0.00,      0.00,      0.00,      0.00
+Theta:  150.00
+Sigfactors: 1.00, 0.00 
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 1820.2    0.0    0.1330    0.1173E-01
+ 1848.2    0.0    0.0989    0.2017E-01
+ 1879.0    0.0    0.0834    0.6722E-02
+ 1895.6    0.0    0.0697    0.1008E-01
+ 1924.4    0.0    0.1298    0.1006E-01
+ 1950.9    0.0    0.2134    0.8402E-02
+ 1970.3    0.0    0.2266    0.1006E-01
+ 1993.5    0.0    0.2246    0.8384E-02
+ 2020.3    0.0    0.1906    0.8384E-02
+ 2047.5    0.0    0.2171    0.1175E-01
+ 2071.9    0.0    0.2016    0.8402E-02
+ 2097.1    0.0    0.1374    0.8402E-02
+ 2121.8    0.0    0.1640    0.1176E-01
+ 2144.9    0.0    0.4611    0.1512E-01
+ 2170.6    0.0    0.3061    0.2015E-01
+ 2195.4    0.0    0.4973    0.2689E-01
+ 2222.8    0.0    0.3911    0.2181E-01
+ 2245.5    0.0    0.3336    0.2349E-01
+ 2273.4    0.0    0.1215    0.2517E-01
+ 2294.6    0.0    0.2001    0.1344E-01
+ 2321.0    0.0    0.1124    0.1679E-01
+ 2349.7    0.0    0.1607    0.1509E-01
+ 2371.1    0.0    0.5587    0.1511E-01
+ 2396.8    0.0    0.4054    0.1509E-01
+ 2419.9    0.0    0.3984    0.1509E-01
+ 2446.1    0.0    0.2921    0.2181E-01
+ 2475.2    0.0    0.0799    0.1680E-01
+ 2497.3    0.0    0.1052    0.2015E-01
+EndData:
