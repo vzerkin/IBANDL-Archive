@@ -1,0 +1,39 @@
+Comment: Data were digitized. Energy digitizing error is 0.012 keV,
+         data digitizing error is 0.08 mb/sr. 
+         
+Version: R33
+Source: K.V. Karadzhev et al.  Yadernaya Fizika v.22 (1975) 886
+Name: Sophiya Taova 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0960003
+Reaction:  28Si(p,p0)28Si
+Distribution: Energy
+Composition: 
+Masses:    1.000,    28.000,    1.000,    28.000
+Zeds: 1,   14,  1,   14
+Qvalue:     0.00,      0.00,      0.00,      0.00,      0.00
+Theta:     167.0
+Sigfactors: 1.00,  0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:                   
+ 2.2960E+03        0.0      77.95     5.8333
+ 2.2990E+03        0.0     83.831        7.5
+ 2.3000E+03        0.0     109.26     6.6667
+ 2.3010E+03        0.0     128.86     5.4167
+ 2.3020E+03        0.0     80.128     6.6667
+ 2.3030E+03        0.0     71.394     4.5833
+ 2.3041E+03        0.0     69.327         5.
+ 2.3050E+03        0.0     68.926         5.
+ 2.6500E+03        0.0      29.59     1.3115
+ 2.6520E+03        0.0     32.459     1.3115
+ 2.6540E+03        0.0     31.721     1.1475
+ 2.6560E+03        0.0     27.869     1.1475
+ 2.6581E+03        0.0     28.525     1.3934
+ 2.6601E+03        0.0     27.459    0.90164                                   
+EndData:
