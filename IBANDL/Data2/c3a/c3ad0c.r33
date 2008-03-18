@@ -1,0 +1,55 @@
+Comment: Data were digitized. Energy digitizing error is 0.02 MeV,
+         data digitizing error is 0.002 mb/sr. 
+         
+Version: R33
+Source: V.M. Lebedev et al.  Izvestiya Akademii Nauk v. 37 (1973) 2663
+Name: Sophiya Taova 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0953002  
+Reaction:  13C(a,d0)15N
+Distribution: Energy
+Composition: 
+Masses:    4.000,    13.000,    2.000,    15.000
+Zeds: 2,    6,   1,   7
+Qvalue:     -7687.4,      0.00,      0.00,      0.00,      0.00
+Theta:     170.0
+Sigfactors: 1.00,  0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:                   
+      15.01        0.0     1.5046     0.1818
+     15.444        0.0     1.0383    0.14284
+     15.843        0.0     1.4679    0.12986
+     16.242        0.0     1.9495    0.19479
+     16.672        0.0     1.9507    0.15583
+     17.048        0.0     2.1465    0.12979
+     17.462        0.0     1.2256    0.11687
+     17.817        0.0     1.0318    0.10389
+     18.175        0.0     0.6302  9.090E-02
+     18.552        0.0     0.8001  7.792E-02
+     18.977        0.0     1.2557  9.097E-02
+     19.296        0.0     2.0747    0.12993
+     19.673        0.0     2.2576    0.11687
+     20.041        0.0     3.3624    0.11687
+     20.392        0.0     3.5711    0.16882
+     20.724        0.0     3.2084    0.16875
+      21.08        0.0     2.9627    0.15583
+      21.34        0.0     2.2751    0.20777
+     21.694        0.0     2.2112    0.14291
+      22.07        0.0     2.5109    0.14291
+     22.346        0.0     2.6545    0.12986
+     22.628        0.0     2.2137    0.12979
+     22.984        0.0     2.0459     0.1168
+     23.291        0.0     1.5922    0.11687
+     23.569        0.0     1.5929    0.11687
+     23.921        0.0     1.7887    0.11687
+     24.204        0.0     1.2570    0.10389
+     24.513        0.0     0.6475  5.194E-02
+     24.816        0.0     0.6873  9.090E-02
+      25.09        0.0     1.0647    0.10389                                      
+EndData:
