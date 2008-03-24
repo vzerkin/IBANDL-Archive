@@ -1,0 +1,47 @@
+Comment: Data were digitized. Energy digitizing error is 2.67 keV
+         data digitizing error is 0.017 (relative units). 
+         Differential cross-sections are given in relative units.  
+         
+Version: R33
+Source: S.S.Vasilyev et al. Izvestiya Academii Nauk v.31 (1967) 295
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:(831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0912002
+Reaction: 27Al(p,a0)24Mg
+Distribution: Energy
+Composition: 
+Masses:    1.000,   27.000,    4.000,   24.000
+Zeds: 1, 13, 2, 12
+Qvalue:      1600.40,      0.00,      0.00,      0.00,      0.00
+Theta:  135.00
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: ru
+Data:
+     6.2411         0.    0.86958         0.
+     6.2603         0.    0.81526         0.
+     6.2801         0.    0.96746         0.
+     6.2913         0.    0.85878         0.
+     6.3153         0.    0.86968         0.
+     6.3297         0.     0.9023         0.
+       6.35         0.    0.89146         0.
+     6.3645         0.    0.97844         0.
+     6.3799         0.     1.7067         0.
+     6.3901         0.     1.5872         0.
+      6.404         0.     1.3698         0.
+     6.4125         0.     1.1741         0.
+     6.4355         0.     1.6307         0.
+     6.4504         0.     2.2068         0.
+     6.4659         0.     2.1416         0.
+     6.4793         0.     1.7503         0.
+     6.4889         0.     1.2612         0.
+     6.4996         0.     1.5547         0.
+     6.5156         0.     1.6851         0.
+     6.5306         0.     1.8917         0.
+     6.5407         0.     2.0113         0.
+EndData:
