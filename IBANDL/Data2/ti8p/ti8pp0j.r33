@@ -1,0 +1,58 @@
+Comment: Data were digitized. Energy digitizing error is 0.007 keV,
+         data digitizing error is 7.63 (relative units).
+         Differential cross-sections are given in relative units (counts
+         per 120 microC).  
+         
+Version: R33
+Source: S. Maripuu   Nuclear Physics A v.153 (1970) 183
+Name: Sophiya Taova 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0946002
+Reaction: 48Ti(p,p0)48Ti
+Distribution: Energy
+Composition: 
+Masses:    1.000,   48.000,    1.000,   48.000
+Zeds: 1, 22, 1, 22
+Qvalue:       0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    172.0
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: ru
+Data:
+ 1.3580E+03        0.0 2.8029E+04        0.0
+ 1.3583E+03        0.0 2.7971E+04        0.0
+ 1.3586E+03        0.0 2.8101E+04        0.0
+ 1.3589E+03        0.0 2.8130E+04        0.0
+ 1.3593E+03        0.0 2.8087E+04        0.0
+ 1.3595E+03        0.0 2.8377E+04        0.0
+ 1.3599E+03        0.0 2.7651E+04        0.0
+ 1.3602E+03        0.0 2.8290E+04        0.0
+ 1.3605E+03        0.0 2.8072E+04        0.0
+ 1.3608E+03        0.0 2.7796E+04        0.0
+ 1.3611E+03        0.0 2.7927E+04        0.0
+ 1.3614E+03        0.0 2.7839E+04        0.0
+ 1.3617E+03        0.0 2.7070E+04        0.0
+ 1.3620E+03        0.0 2.6519E+04        0.0
+ 1.3624E+03        0.0 2.6896E+04        0.0
+ 1.3627E+03        0.0 2.9044E+04        0.0
+ 1.3630E+03        0.0 2.9668E+04        0.0
+ 1.3633E+03        0.0 2.9784E+04        0.0
+ 1.3636E+03        0.0 3.0016E+04        0.0
+ 1.3639E+03        0.0 2.9696E+04        0.0
+ 1.3642E+03        0.0 2.9363E+04        0.0
+ 1.3645E+03        0.0 2.9232E+04        0.0
+ 1.3648E+03        0.0 2.9479E+04        0.0
+ 1.3652E+03        0.0 2.9551E+04        0.0
+ 1.3655E+03        0.0 2.9420E+04        0.0
+ 1.3658E+03        0.0 2.9319E+04        0.0
+ 1.3661E+03        0.0 2.9406E+04        0.0
+ 1.3664E+03        0.0 2.9072E+04        0.0
+ 1.3667E+03        0.0 2.9260E+04        0.0
+ 1.3670E+03        0.0 2.9217E+04        0.0                  
+EndData:
+
