@@ -1,0 +1,61 @@
+Comment: Data were digitized. Energy digitizing error is 2.79 keV
+         data digitizing error is 0.013 mb/sr.  
+       
+Version: R33
+Source: S.Ouichaoui et al. Nuovo Cim.A v.94 (1986) 133
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0982004
+Reaction: 19F(p,a1)16O
+Distribution: Energy
+Composition: 
+Masses:    1.000,   19.000,    4.000,   16.000
+Zeds: 1, 9, 2, 8
+Qvalue:      2064.30,      0.00,      0.00,      0.00,      0.00
+Theta:  122.30
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+     2.7091         0.     0.3688         0.
+     2.7141         0.     0.4136         0.
+       2.72         0.     0.3917         0.
+      2.725         0.     0.3179         0.
+     2.7294         0.     0.4403         0.
+     2.7344         0.     0.4221         0.
+     2.7393         0.     0.4928         0.
+     2.7421         0.     0.4818         0.
+     2.7456         0.     0.5376         0.
+     2.7479         0.     0.5636         0.
+      2.751         0.      0.586         0.
+     2.7537         0.     0.6306         0.
+     2.7567         0.       0.79         0.
+     2.7595         0.     0.7531         0.
+     2.7621         0.     0.8274         0.
+     2.7653         0.     0.8609         0.
+     2.7682         0.     1.0832         0.
+     2.7705         0.      1.113         0.
+      2.775         0.     1.1614         0.
+     2.7795         0.     1.1468         0.
+     2.7845         0.     1.1619         0.
+      2.789         0.     1.0992         0.
+     2.7992         0.      0.822         0.
+     2.9563         0.     0.4907         0.
+     2.9589         0.     0.6294         0.
+     2.9604         0.      0.575         0.
+     2.9623         0.      0.575         0.
+     2.9641         0.     0.5553         0.
+     2.9659         0.     0.6098         0.
+      2.968         0.     0.6545         0.
+     2.9699         0.     0.5704         0.
+     2.9733         0.     0.6101         0.
+     2.9759         0.     0.6448         0.
+     2.9779         0.     0.6944         0.
+     2.9798         0.     0.6549         0.
+      2.985         0.     0.7045         0.
+EndData:
