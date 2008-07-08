@@ -1,0 +1,45 @@
+Comment: Data were digitized. Energy digitizing error is 5.1 keV,
+         data digitizing error is 0.01 (relative units).
+         Differential cross-sections are given in relative units.  
+         
+Version: R33
+Source: M.A.Chaudri, thesis, University of Heidelberg (1964)
+Name: Sophiya Taova 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: 
+Reaction: 14N(d,a0)12C
+Distribution: Energy
+Composition: 
+Masses:    2.000,   14.000,    4.000,   12.000
+Zeds: 1, 7, 2, 6
+Qvalue:    13574.3,      0.00,      0.00,      0.00,      0.00
+Theta:    135.0
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: ru
+Data:
+     4.3149        0.0     2.8388        0.0
+     4.5297        0.0      2.544        0.0
+     4.7497        0.0      2.851        0.0
+     4.9475        0.0     3.1578        0.0
+     5.1843        0.0     2.8918        0.0
+     5.3687        0.0     2.8452        0.0
+     5.5821        0.0      2.942        0.0
+     5.8077        0.0      3.736        0.0
+     6.0111        0.0     4.5394        0.0
+     6.2267        0.0      4.025        0.0
+      6.434        0.0     3.7493        0.0
+     6.6797        0.0     3.0537        0.0
+     6.8805        0.0     2.5487        0.0
+      7.095        0.0     2.3304        0.0
+     7.2949        0.0     2.0642        0.0
+     7.5231        0.0      2.142        0.0
+     7.7069        0.0     2.2482        0.0
+     7.9349        0.0     2.3928        0.0                  
+EndData:
+
