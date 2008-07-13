@@ -2,12 +2,13 @@ Comment: submitted to IBMM-2008
 File created by R33 Manager version 0.1
 
 Version: R33
-Source: M. Kokkoris et al.
+Source: M. Kokkoris +(2009), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.267, p.1740 
 Name: Michael Kokkoris
 Address1: Department of Physics,
 Address2: National Technical University of Athens,
 Address3: Zografou Campus,
 Address4: 157 80 Athens, GREECE.
+X4Number: D0558004
 SubFile: 11Bda2_160.R33
 Serial Number: 0
 Reaction: 11B(d,a2)9Be
