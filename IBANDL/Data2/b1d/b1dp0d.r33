@@ -1,0 +1,40 @@
+Comment: submitted to IBMM-2008
+File created by R33 Manager version 0.1
+
+Version: R33
+Source: M. Kokkoris +(2009), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.267, p.1740 
+Name: Michael Kokkoris
+Address1: Department of Physics,
+Address2: National Technical University of Athens,
+Address3: Zografou Campus,
+Address4: 157 80 Athens, GREECE.
+SubFile: 11Bdp0_170.R33
+X4Number: D0558002
+Serial Number: 0
+Reaction: 11B(d,p0)12B
+Distribution: Energy
+Composition: 
+Masses:    2.000,   11.000,    1.000,   12.000
+Zeds: 1, 5, 1, 5
+Qvalue:   1145.00,      0.00,      0.00,      0.00,      0.00
+Theta:    170.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  901.000,  2.000,   2.290, 0.280
+  926.000,  2.000,   2.500, 0.300
+  951.000,  2.000,   2.500, 0.300
+  976.000,  2.000,   3.000, 0.400
+ 1001.000,  2.000,   2.600, 0.300
+ 1026.000,  2.000,   3.000, 0.400
+ 1051.000,  2.000,   3.200, 0.400
+ 1076.000,  2.000,   3.500, 0.500
+ 1101.000,  2.000,   3.800, 0.500
+ 1126.000,  2.000,   3.500, 0.500
+ 1151.000,  2.000,   3.200, 0.400
+ 1176.000,  2.000,   3.300, 0.400
+ 1201.000,  2.000,   4.200, 0.600
+EndData:
+
+
