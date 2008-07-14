@@ -1,0 +1,39 @@
+Comment: File created by R33 Manager version 0.1
+
+Version: R33
+Source: M. Kokkoris +(2009), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.267, p.1740 
+Name: 
+Address1: Department of Physics,
+Address2: National Technical University of Athens,
+Address3: Zografou Campus,
+Address4: 157 80 Athens, GREECE.
+SubFile: 11Bda0_170.R33
+Serial Number: 0
+X4Number: D0558003
+Reaction: 11B(d,a0)9Be
+Distribution: Energy
+Composition: 
+Masses:    2.000,   11.000,    4.000,    9.000
+Zeds: 1, 5, 2, 4
+Qvalue:   8031.00,      0.00,      0.00,      0.00,      0.00
+Theta:    170.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  901.000,  2.000,   1.270, 0.160
+  926.000,  2.000,   1.280, 0.160
+  951.000,  2.000,   1.420, 0.180
+  976.000,  2.000,   1.530, 0.190
+ 1001.000,  2.000,   1.740, 0.210
+ 1026.000,  2.000,   2.010, 0.250
+ 1051.000,  2.000,   1.820, 0.230
+ 1076.000,  2.000,   2.290, 0.280
+ 1101.000,  2.000,   2.120, 0.260
+ 1126.000,  2.000,   2.500, 0.300
+ 1151.000,  2.000,   2.500, 0.300
+ 1176.000,  2.000,   2.700, 0.300
+ 1201.000,  2.000,   2.000, 0.270
+EndData:
+
+
