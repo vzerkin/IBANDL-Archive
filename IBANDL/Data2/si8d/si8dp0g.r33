@@ -1,0 +1,36 @@
+Comment: submitted to IBMM-2008
+File created by R33 Manager version 0.1
+
+Version: R33
+Source: M. Kokkoris +(2009), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.267, p.1744 
+Name: Michael Kokkoris
+Address1: Department of Physics,
+Address2: National Technical University of Athens,
+Address3: Zografou Campus,
+Address4: 157 80 Athens, GREECE.
+SubFile: 28Sidp0_160.R33
+Serial Number: 0
+X4Number: D0559002
+Reaction: 28Si(d,p0)29Si
+Distribution: Energy
+Composition: 
+Masses:    2.000,   28.000,    1.000,   29.000
+Zeds: 1, 14, 1, 14
+Qvalue:   6249.00,      0.00,      0.00,      0.00,      0.00
+Theta:    160.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 1552.600,  2.000,   0.294, 0.019
+ 1602.600,  2.000,   0.262, 0.018
+ 1702.700,  2.000,   0.210, 0.016
+ 1752.800,  2.000,   0.151, 0.013
+ 1802.800,  2.000,   0.365, 0.025
+ 1852.900,  2.000,   0.540, 0.030
+ 1902.900,  2.000,   0.550, 0.030
+ 1953.000,  2.000,   0.770, 0.040
+ 2003.000,  2.000,   0.206, 0.016
+EndData:
+
+
