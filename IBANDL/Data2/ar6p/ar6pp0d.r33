@@ -1,0 +1,52 @@
+Comment: Data were digitized. Energy digitizing error is 2.4 keV
+         data digitizing error is 0.547 mb/sr. 
+         Angle and data were converted from the center-of mass to the laboratory system. 
+       
+Version: R33
+Source: C.C.Kim et al. Nuclear Physics  v.28 (1961) 438
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0980003
+Reaction: 36Ar(p,p0)36Ar
+Distribution: Energy
+Composition: 
+Masses:    1.000,   18.000,    1.000,   18.000
+Zeds: 1, 36, 1, 36
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:  159.54
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+      1.433         0.   202.0925         0.
+     1.4399         0.   197.7726         0.
+     1.4471         0.   195.8287         0.
+     1.4551         0.   192.9307         0.
+     1.4617         0.   188.1247         0.
+       1.47         0.   187.6117         0.
+     1.4772         0.   179.9529         0.
+     1.4806         0.   174.2109         0.
+      1.484         0.   158.9381         0.
+     1.4877         0.   145.5733         0.
+     1.4906         0.   118.3936         0.
+     1.4941         0.   157.9391         0.
+     1.4956         0.   208.9325         0.
+     1.4961         0.   228.4802         0.
+      1.498         0.   235.6172         0.
+     1.5004         0.   232.2692         0.
+     1.5025         0.   227.9672         0.
+     1.5078         0.   212.6854         0.
+     1.5118         0.   205.5216         0.
+     1.5155         0.   197.8716         0.
+     1.5219         0.   193.5517         0.
+     1.5288         0.   188.2777         0.
+      1.537         0.   185.8477         0.
+      1.545         0.   184.8578         0.
+      1.553         0.   182.9138         0.
+     1.5588         0.   180.9789         0.
+EndData:
