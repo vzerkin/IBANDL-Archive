@@ -1,0 +1,50 @@
+Comment: Data were digitized. Energy digitizing error is 5.08 keV,
+         data digitizing error is 0.006 mb/sr. 
+         
+Version: R33
+Source: G.L. Vysotskij et al. Izvestiya Academii Nauk v.34 (1970) 1761
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0984002
+Reaction: 23Na(d,a0)21Ne       
+Distribution: Energy
+Composition: 
+Masses:    2.000,   23.000,    4.000,   21.000
+Zeds: 1, 11, 2, 10
+Qvalue:    6914.9,      0.00,      0.00,      0.00,      0.00
+Theta:     160.0
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:                   
+     2.5202         0.     0.2803  3.962E-02
+     2.8728         0.     0.3964  4.526E-02
+     2.9239         0.    0.33456  4.528E-02
+     2.9714         0.    0.27269  4.527E-02
+      3.026         0.    0.27314  4.528E-02
+     3.0767         0.    0.34148  4.518E-02
+     3.1276         0.    0.35887  4.525E-02
+     3.1749         0.    0.37058  3.962E-02
+     3.2259         0.    0.35402  4.528E-02
+     3.2769         0.    0.34312  5.094E-02
+     3.3279         0.    0.32656  5.096E-02
+      3.382         0.    0.47417  5.092E-02
+     3.4258         0.    0.42359  5.094E-02
+     3.4835         0.    0.57688  4.528E-02
+     3.5346         0.    0.52636  5.094E-02
+      3.582         0.    0.50411  5.093E-02
+     3.6328         0.    0.54415  4.528E-02
+     3.6836         0.    0.59551  3.962E-02
+     3.7309         0.     0.5959  5.094E-02
+     3.7819         0.    0.57368  4.528E-02
+     3.8398         0.    0.66471  5.660E-02
+     3.8834         0.    0.68771  6.226E-02
+     3.9317         0.    0.40511  4.528E-02
+     3.9825         0.    0.45647  3.962E-02
+     4.0298         0.    0.45686  4.528E-02
+EndData:
