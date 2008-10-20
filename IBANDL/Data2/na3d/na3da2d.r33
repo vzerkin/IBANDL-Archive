@@ -1,0 +1,60 @@
+Comment: Data were digitized. Energy digitizing error is 1.91 keV,
+         data digitizing error is 0.003 mb/sr. 
+         
+Version: R33
+Source: G.L. Vysotskij et al. Izvestiya Academii Nauk v.34 (1970) 1761
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0984002
+Reaction: 23Na(d,a2)21Ne       
+Distribution: Energy
+Composition: 
+Masses:    2.000,   23.000,    4.000,   21.000
+Zeds: 1, 11, 2, 10
+Qvalue:    5169.0,      0.00,      0.00,      0.00,      0.00
+Theta:     170.0
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:                   
+     2.3395         0.     0.3504   5.56E-02
+     2.3937         0.     0.4776   6.35E-02
+      2.448         0.     0.4381   6.34E-02
+     2.4944         0.       0.47   6.31E-02
+     2.5408         0.     0.5813   7.14E-02
+     2.5952         0.     0.5339   6.35E-02
+      2.638         0.     0.3277   5.56E-02
+     2.6883         0.     0.3676   6.35E-02
+     2.7463         0.     0.4948   6.37E-02
+     2.7929         0.     0.4473   6.36E-02
+     2.8432         0.     0.5031   7.14E-02
+     2.8936         0.     0.5668   7.94E-02
+     2.9403         0.     0.3606   6.35E-02
+     2.9906         0.     0.4639   7.14E-02
+     3.0408         0.     0.5753   7.13E-02
+     3.0912         0.     0.6548   6.35E-02
+     3.1454         0.     0.6788   6.37E-02
+     3.1843         0.     0.5044   6.34E-02
+     3.2386         0.      0.457   6.36E-02
+     3.2851         0.     0.5127   6.35E-02
+     3.3393         0.     0.5129   6.38E-02
+      3.386         0.     0.3543   5.56E-02
+     3.4364         0.     0.3228   6.35E-02
+     3.4791         0.     0.2912   6.36E-02
+     3.5409         0.     0.4819   7.14E-02
+      3.599         0.     0.5139   7.11E-02
+     3.6379         0.      0.387   7.13E-02
+     3.6921         0.     0.4587   7.94E-02
+     3.7348         0.     0.3715   7.14E-02
+     3.7852         0.     0.3479   7.13E-02
+     3.8433         0.     0.4354   7.94E-02
+     3.8937         0.     0.3562   6.35E-02
+     3.9479         0.     0.4517   7.14E-02
+     3.9906         0.     0.3645   7.11E-02
+     4.0411         0.     0.2933   7.13E-02
+EndData:
