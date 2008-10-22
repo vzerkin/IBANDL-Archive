@@ -1,12 +1,12 @@
 Comment: 
 
 Version: R33
-Source: M.Lambert et al.  J. Phys. 33 (1972) 155.
+Source: M.Lambert+(1972), Journal de Physique, Vol.33, p.155
 Name:  Gurbich
 Address1: 
 Serial Number: 
 SubFile: 
-X4Number: 
+X4Number: D0329002 20060324
 Reaction: 20Ne(p,p0)20Ne
 Distribution: Energy
 Composition: 
