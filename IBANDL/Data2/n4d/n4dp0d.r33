@@ -4,6 +4,7 @@ Version: R33
 Source: A.F. Gurbich, S.L. Molodtsov, Nucl. Instr. & Meth. B266 (2008) 1206
 Name: A.F. Gurbich, S.L. Molodtsov
 Serial Number: 0
+X4Number: D0448004
 Reaction: 14N(d,p0)15N
 Distribution: Energy
 Composition: 
