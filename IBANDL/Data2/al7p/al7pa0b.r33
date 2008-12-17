@@ -1,0 +1,52 @@
+Comment: Data were digitized. Energy digitizing error is 0.268 keV,
+         data digitizing error is 0.009 rel.units. 
+         Differential cross-sections are given in relative units. 
+
+Version: R33
+Source: S.S.Vasilyev et al. Izvestiya Academii Nauk v.30 (1966) 1399
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: 
+Reaction: 27Al(p,a0)24Mg  
+Distribution: Energy
+Composition: 
+Masses:    1.000,   27.000,    4.000,   24.000
+Zeds: 1, 13, 2, 12
+Qvalue:      1600.40,      0.00,      0.00,      0.00,      0.00
+Theta:  90.00
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: ru 
+Data:
+     6.2357         0.     2.1374         0.
+     6.2474         0.     2.0487         0.
+     6.2603         0.      2.073         0.
+     6.2727         0.      1.936         0.
+      6.285         0.     1.8393         0.
+     6.2967         0.     1.7184         0.
+     6.3091         0.     1.8798         0.
+      6.322         0.     1.8396         0.
+     6.3344         0.     2.0735         0.
+     6.3467         0.     2.2833         0.
+     6.3525         0.     2.4043         0.
+     6.3623         0.     2.6624         0.
+     6.3765         0.     2.7028         0.
+     6.3915         0.       2.34         0.
+        6.4         0.      2.074         0.
+     6.4136         0.     1.9289         0.
+     6.4285         0.      2.179         0.
+     6.4383         0.     2.3887         0.
+     6.4538         0.     2.3727         0.
+     6.4675         0.      1.768         0.
+     6.4798         0.     1.5019         0.
+     6.4928         0.     1.5504         0.
+     6.5052         0.      1.494         0.
+     6.5169         0.     1.4861         0.
+     6.5312         0.     1.3733         0.
+     6.5383         0.     1.5104         0.
+EndData:
