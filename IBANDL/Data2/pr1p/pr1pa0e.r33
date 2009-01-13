@@ -1,0 +1,52 @@
+Comment: Data were digitized. Energy digitizing error is 0.0001 MeV,
+         data digitizing error is 0.036 (relative units).
+         Differential cross-sections are given in relative units.
+
+Version: R33
+Source: J. Vernotte et al. Nuclear Physics A v.212 (1973) 493
+Name: Taova Sophiya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1006004
+Reaction: 31P(p,a0)28Si
+Distribution: Energy
+Composition: 
+Masses:    1.000,   31.000,    4.000,   28.000
+Zeds: 1, 15, 2, 14
+Qvalue:       1915.8,      0.00,      0.00,      0.00,      0.00
+Theta:  124.00
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: ru
+Data:
+     1.4957         0.     1.1083    0.45752
+     1.4974         0.     1.4347    0.39216
+     1.4992         0.     1.6304    0.43278
+     1.5006         0.     1.6955    0.42413
+     1.5023         0.     2.0873    0.51348
+      1.504         0.     2.7405    0.54283
+     1.5058         0.     3.6552    0.44891
+     1.5074         0.      4.962    0.56193
+      1.509         0.     7.5761    0.65359
+     1.5107         0.     12.086     1.0458
+     1.5124         0.     18.098     1.3725
+     1.5142         0.     23.719     1.5033
+     1.5158         0.     23.457     1.7647
+     1.5175         0.     19.862      1.634
+     1.5191         0.     11.299     1.1765
+     1.5208         0.      8.554    0.76581
+     1.5225         0.     5.2203    0.57612
+      1.524         0.     3.9128    0.76749
+     1.5258         0.     3.0628    0.64573
+     1.5275         0.     2.2781    0.51365
+      1.529         0.     2.1471    0.36831
+     1.5308         0.     1.5585    0.37915
+     1.5324         0.      1.362    0.29816
+      1.534         0.     1.1003    0.28792
+     1.5356         0.      1.296    0.30567
+       1.54         0.    0.90293    0.27984
+EndData:
