@@ -1,0 +1,49 @@
+Comment: Data were digitized. Energy digitizing error is 0.0001 MeV,
+         data digitizing error is 0.062 mb/sr.
+         Angle and data were converted from the center-of mass to the
+         laboratory system. 
+
+Version: R33
+Source: J. Vernotte et al. Nuclear Physics A v.212 (1973) 493
+Name: Taova Sophiya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1006002 
+Reaction: 31P(p,p0)31P
+Distribution: Energy
+Composition: 
+Masses:    1.000,   31.000,    1.000,   31.000
+Zeds: 1, 15, 1, 15
+Qvalue:       0.00,      0.00,      0.00,      0.00,      0.00
+Theta:  139.8
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+1.4336      0.0      182.8613      2.9708
+1.4339      0.0      183.0801      2.5030
+1.4343      0.0      178.0107      2.9823
+1.4346      0.0      178.6384      2.6878
+1.435       0.0      179.4944      2.9892
+1.4353      0.0      180.7594      2.5164
+1.4357      0.0      175.6899      2.5122
+1.436       0.0      177.1737      3.0019
+1.4363      0.0      175.9087      2.3421
+1.4366      0.0      175.9087      2.5030
+1.437       0.0      176.7552      2.9988
+1.4373      0.0      182.4714      2.4963
+1.4376      0.0      187.7596      2.2365
+1.438       0.0      181.8437      3.1923
+1.4383      0.0      178.6764      2.6766
+1.4387      0.0      175.0812      3.0092
+1.439       0.0      175.5092      2.4968
+1.4393      0.0      173.8162      2.6942
+1.4397      0.0      177.4115      2.9914
+1.44        0.0      176.1465      3.0101
+1.4403      0.0      174.4630      3.3689
+1.4407      0.0      172.1423      2.7119
+EndData:
