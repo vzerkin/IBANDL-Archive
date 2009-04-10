@@ -1,0 +1,40 @@
+Comment: Data were digitized. Energy digitizing error is 0.0001 MeV
+         data digitizing error is 0.013 mb/sr.
+         Thin Pb0 target (=0.1 mg/cm2) was used.
+
+Version: R33
+Source: G.Calvi, et al. Nuclear Physics v.38 (1962) 436
+Name: Taova Sophiya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1035003 
+Reaction: 16O(d,a0)14N
+Distribution: Energy
+Composition: 
+Masses:    2.000,   16.000,    4.000,   14.000
+Zeds: 1,  8,  2,  7
+Qvalue:         3110.4,      0.00,      0.00,      0.00,      0.00
+Theta:     90.0
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+     0.7857         0.    0.23964     0.2381
+    0.87812         0.    0.58373    0.21412
+    0.97472         0.     1.4834    0.26455
+     1.0629         0.     3.4941    0.37037
+     1.1638         0.     2.0658    0.23645
+     1.2647         0.     1.0607    0.21381
+     1.3655         0.    0.98152    0.25618
+     1.4663         0.     1.1669    0.24345
+     1.5503         0.     1.9343    0.25425
+     1.6553         0.     2.8869    0.29101
+     1.7477         0.     5.0034    0.31746
+     1.7938         0.     6.5115    0.39683
+     1.8484         0.     6.0354    0.36968
+     1.9325         0.      5.189    0.34539
+EndData:
