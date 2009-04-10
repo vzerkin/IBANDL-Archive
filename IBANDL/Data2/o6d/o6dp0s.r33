@@ -1,0 +1,38 @@
+Comment: Data were digitized. Energy digitizing error is 0.002 MeV
+         data digitizing error is 0.014 mb/sr.
+         Thick H20 target (<=0.3 mg/cm2) was used.
+
+Version: R33
+Source: G.Calvi, et al. Nuclear Physics v.38 (1962) 436
+Name: Taova Sophiya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1035004
+Reaction: 16O(d,p0)17O
+Distribution: Energy
+Composition: 
+Masses:    2.000,   16.000,    1.000,   17.000
+Zeds: 1,  8,  1,  8
+Qvalue:         1919.1,      0.00,      0.00,      0.00,      0.00
+Theta:     90.0
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+     0.7975         0.    0.28453    0.20942
+    0.90303         0.    0.75528    0.26178
+     1.0043         0.      1.069    0.21094
+     1.1056         0.     1.1733     0.2356
+     1.2997         0.     1.3557    0.28796
+     1.4053         0.     2.4023    0.36649
+     1.5024         0.     3.0302    0.44501
+     1.5954         0.      3.946    0.43413
+     1.7051         0.     4.5215    0.35283
+     1.7979         0.     3.8405    0.39267
+     1.9033         0.     3.2117    0.36792
+     2.0004         0.     3.4731    0.41885
+EndData:
