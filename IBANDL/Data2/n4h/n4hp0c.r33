@@ -1,0 +1,47 @@
+Comment: Data were digitized. Energy digitizing error is 0.155 keV
+         data digitizing error is 0.001 mb/sr.  
+       
+Version: R33
+Source: S.Gorodetzky et al. Nuclear Physics  v.43 (1963) 92
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1046002 
+Reaction: 14N(3He,p0)16O 
+Distribution: Energy
+Composition: 
+Masses:    3.000,   14.000,    1.000,   16.000
+Zeds: 2, 7, 1, 8
+Qvalue:      15242.80,      0.00,      0.00,      0.00,      0.00
+Theta:  90.00
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+     2.5026         0.   4.03E-02         0.
+     2.6089         0.   4.37E-02         0.
+     2.8088         0.   4.87E-02         0.
+     3.0044         0.   5.87E-02         0.
+     3.2084         0.   6.03E-02         0.
+     3.4083         0.   7.37E-02         0.
+     3.5061         0.   7.87E-02         0.
+     3.6082         0.   8.37E-02         0.
+      3.706         0.   9.88E-02         0.
+     3.8123         0.     0.1391         0.
+     3.9102         0.     0.1895         0.
+      4.008         0.     0.1643         0.
+     4.1057         0.     0.1474         0.
+     4.2078         0.     0.1575         0.
+     4.3056         0.     0.1726         0.
+     4.4076         0.     0.1726         0.
+     4.5097         0.     0.2028         0.
+     4.7011         0.     0.2246         0.
+     4.9052         0.     0.2128         0.
+     5.1049         0.     0.1606         0.
+     5.3048         0.     0.1807         0.
+     5.5089         0.     0.2109         0.
+EndData:
