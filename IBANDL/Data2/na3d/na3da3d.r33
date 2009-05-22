@@ -1,0 +1,60 @@
+Comment: Data were digitized. Energy digitizing error is 1.99 keV,
+         data digitizing error is 0.007 mb/sr. 
+         
+Version: R33
+Source: G.L. Vysotskij et al. Izvestiya Academii Nauk v.34 (1970) 1761
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0984003 
+Reaction: 23Na(d,a3+4)21Ne       
+Distribution: Energy
+Composition: 
+Masses:    2.000,   23.000,    4.000,   21.000
+Zeds: 1, 11, 2, 10
+Qvalue:    4126.07,      4120.76,      0.00,      0.00,      0.00
+Theta:     170.0
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:                   
+      2.335         0.     0.7326   9.52E-02
+     2.3865         0.     0.6537   9.53E-02
+      2.426         0.     0.7016     0.1111
+     2.4735         0.     0.7813      0.111
+     2.5247         0.     1.2579      0.127
+     2.5763         0.     1.1471   9.52E-02
+     2.6197         0.     1.3062      0.112
+     2.6672         0.     1.3224     0.1112
+     2.7186         0.     1.4339   7.94E-02
+     2.7701         0.     1.4184      0.126
+     2.8256         0.     1.3871     0.1113
+     2.8692         0.      1.197      0.127
+     2.9244         0.     1.6736     0.1101
+     2.9717         0.     2.1025   9.52E-02
+     3.0194         0.     1.7378   9.51E-02
+      3.071         0.     1.3413   9.53E-02
+     3.1225         0.     1.3258     0.1269
+     3.1701         0.     1.0405     0.1117
+     3.2176         0.     1.1678     0.1122
+     3.2689         0.     1.4222      0.127
+     3.3163         0.     1.6765     0.1113
+     3.3677         0.     1.8832      0.126
+     3.4115         0.     1.3756   7.94E-02
+      3.467         0.     1.1856      0.111
+     3.5106         0.     1.0271      0.128
+     3.5618         0.     1.4879     0.1112
+     3.6133         0.     1.5993      0.114
+     3.6687         0.     1.6474     0.1113
+     3.7201         0.     1.6478   9.52E-02
+     3.8191         0.     1.7279     0.1099
+     3.8704         0.     1.9981   9.51E-02
+     3.9179         0.     2.0619   9.54E-02
+     3.9693         0.     2.1576      0.112
+     4.0207         0.     2.2214     0.1116
+EndData:
+
