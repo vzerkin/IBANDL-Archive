@@ -1,0 +1,35 @@
+Comment: Data were digitized. Energy digitizing error is 0.47 keV
+         data digitizing error is 0.007 (relative units).
+         Differetial data are given in relative units.
+        
+
+Version: R33
+Source: P.R Chagnon. Nuclear Physics v.59 (1964) 257
+Name: Taova Sophiya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1052003
+Reaction: 19F(d,a0)17O
+Distribution: Energy
+Composition: 
+Masses:    2.000,   19.000,    4.000,   17.000
+Zeds: 1,  9,  2,  8
+Qvalue:        10032.8,      0.00,      0.00,      0.00,      0.00
+Theta:      90.
+Sigfactors: 1.00, 0.00 
+Enfactors:  1.00, 0.00, 0.00, 0.00
+Units: ru
+Data:
+     277.63         0.    0.31519         0.
+     317.66         0.    0.97363         0.
+     350.01         0.     3.0904         0.
+     378.23         0.     6.4771         0.
+     404.04         0.     11.684         0.
+     423.73         0.     22.236         0.
+     450.96         0.     33.313         0.
+     469.62         0.     42.599         0.
+EndData:
