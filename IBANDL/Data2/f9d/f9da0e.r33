@@ -1,0 +1,38 @@
+Comment: Data were digitized. Energy digitizing error is 0.0007 MeV
+         data digitizing error is 0.0005 mb/sr.
+        
+
+Version: R33
+Source: M.F. Jahns, et al. Nuclear Physics, v.59 (1964) 314
+Name: Taova Sophiya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1054002
+Reaction: 19F(d,a0)17O
+Distribution: Energy
+Composition: 
+Masses:    2.000,   19.000,    4.000,   17.000
+Zeds: 1,  9,  2,  8
+Qvalue:        10032.8,      0.00,      0.00,      0.00,      0.00
+Theta:      70.
+Sigfactors: 1.00, 0.00 
+Enfactors:  1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+     2.2161         0.    0.18278         0.
+     2.2607         0.    0.19098         0.
+     2.2998         0.     0.2117         0.
+     2.3459         0.    0.25218         0.
+     2.3888         0.    0.23123         0.
+     2.4301         0.    0.17279         0.
+     2.4707         0.    0.18204         0.
+     2.5159         0.    0.12255         0.
+      2.562         0.    0.11304         0.
+     2.6027         0.    0.15146         0.
+     2.6502         0. 8.9875E-02         0.
+     2.6924         0.    0.11163         0.
+EndData:
