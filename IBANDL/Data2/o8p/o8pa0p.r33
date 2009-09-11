@@ -1,0 +1,46 @@
+Comment: Data were digitized. Energy digitizing error is 0.002 MeV
+         data digitizing error is 11.186 rel.units (relative units). 
+         Differential cross-sections are given in relative units.  
+         
+Version: R33
+Source: S.N.Wosu et al. Nuclear Instruments and Methods in Physics Research B v.237 (2005) 631
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1094002
+Reaction: 18O(p,a0)15N 
+Distribution: Energy
+Composition: 
+Masses:    1.000,   18.000,    4.000,   15.000
+Zeds: 1, 8, 2, 7
+Qvalue:      3980.40,      0.00,      0.00,      0.00,      0.00
+Theta:   150.0
+Sigfactors: 1.00, 0.00 
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: ru
+Data:
+     637.95         0.  3.518E+03         0.
+     645.18         0. 5.2715E+03         0.
+     648.96         0. 6.1271E+03         0.
+     650.21         0.  6.618E+03         0.
+     651.15         0. 6.9126E+03         0.
+     652.73         0. 7.0389E+03         0.
+     654.68         0. 6.2539E+03         0.
+     664.34         0.  3.857E+03         0.
+     675.77         0. 4.2647E+03         0.
+     682.45         0. 4.3214E+03         0.
+      686.9         0. 4.5462E+03         0.
+     689.12         0. 4.6586E+03         0.
+      690.7         0.  4.841E+03         0.
+     760.01         0. 5.9552E+03         0.
+     764.77         0. 6.1379E+03         0.
+     776.21         0. 6.4615E+03         0.
+     797.77         0. 8.1882E+03         0.
+     801.23         0. 8.8756E+03         0.
+     811.33         0. 1.0587E+04         0.
+     814.46         0. 1.1625E+04         0.
+EndData:
