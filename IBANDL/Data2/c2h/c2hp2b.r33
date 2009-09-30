@@ -1,0 +1,107 @@
+Comment: D.A. Bromley et al. Phys.Rev. 105 (1957) 957;
+     3He-induced  reactions  in  carbon  have  been  studied   for 
+bombarding  energies  in  the  range  1.0  to  3.0  MeV.  Absolute 
+excitation curves have been obtained for the proton groups leading 
+to the first three states in 14N. 
+     The protons were detected by a CsI  crystal  covered  with  a 
+0.0004-inch aluminum foil. The  targets  used  in  the  work  were 
+prepared by maintaining an arc  discharge  in  vacuo  between  two 
+high-purity graphite electrodes and supporting the target backings 
+above the discharge. Aluminum of  0.0004-in  thickness  have  been 
+used as backings.
+     Angular  distributions  have  been  measured  at   bombarding 
+energies of 1.30, 1.62, 1.89, 2.16, 2.41, 2.51, and 2.66  MeV  for 
+each of the three proton  groups.  Coefficients  of  the  Legendre 
+polynomial expansion least squares fitted  to  the  center-of-mass 
+proton angular distributions are presented. Excitation  curves  at 
+90 deg lab for protons  corresponding  to  formation  14N  in  its 
+ground and first two excited states are presented as graphs.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: D.A. Bromley et al. Phys.Rev. 105 (1957) 957
+Name: 
+Serial Number: 
+SubFile: c2hep2b.r33
+X4Number: 
+Reaction: 12C(3He,p2)14N
+Distribution: Energy
+Composition: 
+Masses:    3.000,   12.000,    1.000,   14.000
+Zeds: 2, 6, 1, 7
+Qvalue:    834.00,      0.00,      0.00,      0.00,      0.00
+Theta:     90.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+    2.877,  0.000,   1.350, 0.000
+    2.850,  0.000,   1.180, 0.000
+    2.821,  0.000,   1.110, 0.000
+    2.791,  0.000,   1.040, 0.000
+    2.765,  0.000,   1.050, 0.000
+    2.737,  0.000,   1.060, 0.000
+    2.710,  0.000,   1.080, 0.000
+    2.684,  0.000,   0.960, 0.000
+    2.660,  0.000,   0.920, 0.000
+    2.641,  0.000,   0.930, 0.000
+    2.617,  0.000,   0.920, 0.000
+    2.589,  0.000,   0.940, 0.000
+    2.562,  0.000,   0.940, 0.000
+    2.534,  0.000,   1.030, 0.000
+    2.507,  0.000,   1.040, 0.000
+    2.477,  0.000,   1.100, 0.000
+    2.457,  0.000,   1.110, 0.000
+    2.430,  0.000,   1.100, 0.000
+    2.407,  0.000,   1.030, 0.000
+    2.379,  0.000,   0.930, 0.000
+    2.356,  0.000,   0.830, 0.000
+    2.332,  0.000,   0.730, 0.000
+    2.308,  0.000,   0.650, 0.000
+    2.281,  0.000,   0.580, 0.000
+    2.256,  0.000,   0.550, 0.000
+    2.230,  0.000,   0.500, 0.000
+    2.207,  0.000,   0.450, 0.000
+    2.181,  0.000,   0.430, 0.000
+    2.159,  0.000,   0.390, 0.000
+    2.132,  0.000,   0.380, 0.000
+    2.107,  0.000,   0.360, 0.000
+    2.082,  0.000,   0.330, 0.000
+    2.051,  0.000,   0.300, 0.000
+    2.029,  0.000,   0.290, 0.000
+    2.002,  0.000,   0.270, 0.000
+    1.982,  0.000,   0.260, 0.000
+    1.958,  0.000,   0.240, 0.000
+    1.939,  0.000,   0.230, 0.000
+    1.916,  0.000,   0.220, 0.000
+    1.893,  0.000,   0.200, 0.000
+    1.872,  0.000,   0.200, 0.000
+    1.848,  0.000,   0.190, 0.000
+    1.825,  0.000,   0.190, 0.000
+    1.803,  0.000,   0.180, 0.000
+    1.776,  0.000,   0.180, 0.000
+    1.755,  0.000,   0.170, 0.000
+    1.736,  0.000,   0.160, 0.000
+    1.711,  0.000,   0.150, 0.000
+    1.687,  0.000,   0.140, 0.000
+    1.666,  0.000,   0.140, 0.000
+    1.644,  0.000,   0.130, 0.000
+    1.619,  0.000,   0.120, 0.000
+    1.599,  0.000,   0.120, 0.000
+    1.579,  0.000,   0.100, 0.000
+    1.557,  0.000,   0.090, 0.000
+    1.533,  0.000,   0.080, 0.000
+    1.511,  0.000,   0.070, 0.000
+    1.492,  0.000,   0.060, 0.000
+    1.471,  0.000,   0.050, 0.000
+    1.451,  0.000,   0.050, 0.000
+    1.431,  0.000,   0.040, 0.000
+    1.407,  0.000,   0.030, 0.000
+    1.386,  0.000,   0.040, 0.000
+    1.366,  0.000,   0.040, 0.000
+    1.343,  0.000,   0.040, 0.000
+    1.322,  0.000,   0.040, 0.000
+    1.282,  0.000,   0.030, 0.000
+    1.237,  0.000,   0.020, 0.000
+    1.199,  0.000,   0.000, 0.000
+EndData:
