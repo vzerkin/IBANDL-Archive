@@ -1,0 +1,41 @@
+Comment: Data were digitized. Energy digitizing error is 2.493 keV,
+         data digitizing error is 0.001 mb/sr.
+         
+Version: R33
+Source: J.A. Lonergan et al. Nuclear Physics, v. 88 (1966) 465
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1043002 
+Reaction: 11B(3He,a3)10B 
+Distribution: Energy
+Composition: 
+Masses:    3.000,   11.000,    4.000,   10.000
+Zeds: 2, 5, 2, 5
+Qvalue:   6969.30,      0.00,      0.00,      0.00,      0.00
+Theta:     90.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+    0.91444         0. 2.0634E-03         0.
+     1.0128         0. 2.5711E-03         0.
+     1.0975         0. 3.5777E-03         0.
+     1.1822         0. 4.5842E-03         0.
+     1.2833         0. 1.3592E-02         0.
+     1.3762         0. 1.8599E-02         0.
+     1.4636         0. 2.7606E-02         0.
+      1.551         0. 3.6113E-02         0.
+     1.6438         0.  4.912E-02         0.
+     1.7285         0. 6.0627E-02         0.
+     1.8214         0. 7.0134E-02         0.
+     1.9143         0. 8.1641E-02         0.
+     1.9634         0. 7.8645E-02         0.
+     2.0044         0.    0.10765         0.
+     2.0536         0. 9.9652E-02         0.
+EndData:
+
