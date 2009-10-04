@@ -1,0 +1,59 @@
+Comment: F.B.Hagedorn and J.B.Marion Phys.Rev. 108 (1957) 1015;
+     Excitation functions at nine angles (15, 25, 40, 60, 75,  90, 
+105, 120, 140 deg lab) for the reaction 15N(p,a0)12C are  reported 
+for incident proton energies from 0.9 to 1.3 MeV. At a  laboratory 
+angle of 140 deg the excitation function has been extended to  2.9 
+MeV. 
+     Electrostatic  accelerator  was  used.  The  15N  target  was 
+prepared in an electromagnetic isotope separator by  bombarding  a 
+beryllium foil with 20-keV 15N ions. This foil had  an  equivalent 
+thickness of 25 keV for 1 MeV  protons,  and  ~3*10^17  atoms/cm^2 
+were deposited in its  surface.  A  180-degree  double-focussing 
+magnetic spectrometer was used to detect particles.
+     Graphical data are only presented.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: F.B.Hagedorn and J.B.Marion Phys.Rev.108 (1957) 1015
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: 
+Reaction: 15N(p,a0)12C
+Distribution: Energy
+Composition: 
+Masses:    1.000,   15.000,    4.000,   12.000
+Zeds: 1, 7, 2, 6
+Qvalue:   4964.00,      0.00,      0.00,      0.00,      0.00
+Theta:     90.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+    0.910,  0.000,  12.500, 0.000
+    0.930,  0.000,  16.100, 0.000
+    0.950,  0.000,  20.500, 0.000
+    0.980,  0.000,  25.800, 0.000
+    1.000,  0.000,  31.900, 0.000
+    1.010,  0.000,  32.800, 0.000
+    1.020,  0.000,  31.900, 0.000
+    1.040,  0.000,  29.200, 0.000
+    1.070,  0.000,  24.600, 0.000
+    1.090,  0.000,  18.000, 0.000
+    1.110,  0.000,  13.900, 0.000
+    1.140,  0.000,  11.500, 0.000
+    1.160,  0.000,   9.100, 0.000
+    1.180,  0.000,  11.200, 0.000
+    1.190,  0.000,  15.600, 0.000
+    1.200,  0.000,  17.500, 0.000
+    1.200,  0.000,  20.500, 0.000
+    1.210,  0.000,  20.700, 0.000
+    1.210,  0.000,  19.300, 0.000
+    1.210,  0.000,  17.200, 0.000
+    1.220,  0.000,  11.900, 0.000
+    1.220,  0.000,   6.600, 0.000
+    1.230,  0.000,   3.500, 0.000
+    1.230,  0.000,   2.300, 0.000
+    1.240,  0.000,   0.800, 0.000
+    1.250,  0.000,   0.400, 0.000
+EndData:
