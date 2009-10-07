@@ -1,0 +1,41 @@
+Comment: Data were digitized. Energy digitizing error is 3.412 keV
+         data digitizing error is 0.004 mb/sr. 
+         Energy values and data values were averaged. Error is given as
+         a mean square error. 
+         
+Version: R33
+Source: N.A.Mansour et al. Nuclear Physics  v.65 (1965) 433
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0949002 
+Reaction: 15N(d,a0)13C 
+Distribution: Energy
+Composition: 
+Masses:    2.000,   15.000,    4.000,   13.000
+Zeds: 1, 7, 2, 6
+Qvalue:      7687.40,      0.00,      0.00,      0.00,      0.00
+Theta:  90.00
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+    1.20397  0.   1.44617    0.1814 
+    1.3102   0.   2.6803     0.17766
+    1.40687  0.   2.77533    0.16816
+    1.512    0.   4.44173    8.9129E-02
+    1.612    0.   4.6576     0.19783
+    1.70693  0.   3.9101     0.24101
+    1.80805  0.   4.53625    0.24179
+    1.90855  0.   3.45905    0.12087
+    2.00235  0.   2.0632     6.591E-02
+    2.09447  0.   0.71133    7.9497E-02
+    2.19415  0.   0.70559    0.13738
+    2.2973   0.   0.98556    6.595E-02
+    2.4012   0.   1.45785    6.596E-02
+    2.5018   0.   2.4686     0.12092
+EndData:
