@@ -13,6 +13,7 @@ Address6:
 Address7: 
 Serial Number: 0
 SubFile: natK150.r33
+X4Number: D0611002
 Reaction: natK(p,p0)natK
 Distribution: Energy
 Composition: 
