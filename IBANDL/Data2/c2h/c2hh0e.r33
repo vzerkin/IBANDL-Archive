@@ -1,0 +1,68 @@
+Comment: Data were digitized. Energy digitizing error is 0.577 keV,
+         data digitizing error is 0.02 (per cent).
+         
+Version: R33
+Source: J.P. Schapira et al. Nuclear Physics v.80 (1966) 565
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1092002
+Reaction: 12C(3He,3He0)12C
+Distribution: Energy
+Composition: 
+Masses:    3.000,   12.000,    3.000,   12.000
+Zeds: 2, 6, 2, 6
+Qvalue:       0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    55.0
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+     2.0221         0. 1.0283E+03         0.
+     2.1318         0.     912.07         0.
+     2.5703         0.     583.27         0.
+      2.954         0.     429.84         0.
+     3.0167         0.     393.92         0.
+     3.0949         0.     425.22         0.
+     4.1051         0.     173.92         0.
+     4.1598         0.     181.68         0.
+     4.1912         0.     164.69         0.
+     4.2382         0.      164.7         0.
+     4.2852         0.     155.96         0.
+     4.3321         0.     155.96         0.
+     4.3556         0.     149.31         0.
+     4.4183         0.     147.69         0.
+     4.4574         0.     144.51         0.
+     4.5044         0.     138.34         0.
+     4.5357         0.     128.17         0.
+     4.5749         0.       131.         0.
+      4.614         0.     121.37         0.
+      4.661         0.     114.93         0.
+     4.7158         0.     108.83         0.
+     4.7785         0.     107.66         0.
+     4.8333         0.     103.06         0.
+     4.9977         0.     100.85         0.
+     5.0524         0.     106.51         0.
+     5.1151         0.     104.22         0.
+      5.209         0.     101.98         0.
+     5.3108         0.     98.699         0.
+     5.4048         0.     86.591         0.
+     5.5066         0.     77.646         0.
+     5.5614         0.     76.806         0.
+     5.6084         0.     75.151         0.
+     5.6396         0.     81.119         0.
+     5.6944         0.     86.611         0.
+     5.7335         0.     86.614         0.
+      5.804         0.     82.019         0.
+      5.851         0.     78.519         0.
+     5.9058         0.     73.546         0.
+     5.9763         0.     71.181         0.
+     6.0233         0.     67.404         0.
+     6.0859         0.     64.528         0.
+     6.1486         0.     61.105         0.
+EndData:
+
