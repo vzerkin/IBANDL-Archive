@@ -1,0 +1,44 @@
+Comment: Data were digitized. Energy digitizing error is 0.0014 MeV
+         data digitizing error is 0.0018 mb/sr.
+
+Version: R33
+Source: D. Cline et al. Nuclear Physics v.73 (1965) 33
+Name: Taova Sophiya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1088007
+Reaction: 40Ca(3He,3He0)40Ca
+Distribution: Energy
+Composition: 
+Masses:     3.000,   40.000,    3.000,   40.000
+Zeds: 2,   20,   2,   20
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:     90.
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+     8.0271         0.     90.905         0.
+     8.1437         0.     65.884         0.
+     8.2801         0.     76.619         0.
+     8.4007         0.     70.583         0.
+     8.5131         0.     72.556         0.
+     8.6378         0.     51.164         0.
+     8.7784         0.     45.235         0.
+     8.8788         0.     44.932         0.
+     9.0234         0.     39.455         0.
+     9.1479         0.     42.551         0.
+     9.2564         0.     38.401         0.
+      9.393         0.     33.489         0.
+     9.5216         0.     28.221         0.
+     9.6381         0.     27.462         0.
+     9.7787         0.     25.299         0.
+     9.8911         0.     26.913         0.
+     10.012         0.     22.371         0.
+      10.12         0.     22.839         0.
+     10.285         0.     21.625         0.
+EndData:
