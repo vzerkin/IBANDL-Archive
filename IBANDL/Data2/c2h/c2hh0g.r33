@@ -1,0 +1,57 @@
+Comment: Data were digitized. Energy digitizing error is 0.002 MeV
+         data digitizing error is 0.002 mb/sr.
+
+Version: R33
+Source: J.J.Schwartz et al. Nuclear Physics v.88 (1966) 539
+Name: Taova Sophiya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: 
+Reaction: 12C(3He,3He0)12C
+Distribution: Energy
+Composition: 
+Masses:     3.000,   12.000,    3.000,   12.000
+Zeds: 2,   6,   2,   6
+Qvalue:        0.00,      0.00,      0.00,      0.00,      0.00
+Theta:     75.0
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+     8.0015         0.     3.0732         0.
+     7.9974         0.     2.7003         0.
+     8.0981         0.     2.6506         0.
+     8.1986         0.     1.7245         0.
+     8.2791         0.     1.5434         0.
+     8.3556         0.     1.3877         0.
+     8.3999         0.     1.2305         0.
+     8.4038         0.     1.0963         0.
+     8.4764         0.     1.0962         0.
+     8.5609         0.    0.95865         0.
+     8.6415         0.    0.92807         0.
+     8.7262         0.    0.99461         0.
+     8.7988         0.     1.1424         0.
+     8.8028         0.     1.0908         0.
+     8.8995         0.    0.99447         0.
+     9.0082         0.    0.88999         0.
+     9.2016         0.    0.73627         0.
+     9.2015         0.     0.6775         0.
+     9.3989         0.    0.58428         0.
+     9.3949         0.    0.56307         0.
+     9.3948         0.    0.55276         0.
+     9.4432         0.     0.5553         0.
+     9.4472         0.      0.497         0.
+     9.5076         0.    0.44894         0.
+     9.5639         0.     0.4208         0.
+     9.6083         0.    0.45728         0.
+     9.6648         0.    0.51802         0.
+     9.7092         0.     0.5301         0.
+     9.7051         0.    0.51561         0.
+     9.8057         0.    0.37829         0.
+     9.8864         0.    0.46785         0.
+     9.9991         0.    0.38707         0.
+EndData:
