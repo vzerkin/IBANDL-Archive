@@ -1,0 +1,64 @@
+Comment: Data were digitized. Energy digitizing error is 0.498 keV
+         data digitizing error is 0.006 (relative units). 
+         Differential cross-sections are given in relative units
+         Energy values and data values were averaged. Error is given as
+         a mean square error. 
+         
+Version: R33
+Source: J.H.Williamson  Nuclear Physics  v.69 (1965) 481
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1074004
+Reaction: 27Al(d,a1)25Mg 
+Distribution: Energy
+Composition: 
+Masses:    2.000,   27.000,    4.000,   25.000
+Zeds: 1, 13, 2, 12
+Qvalue:      6121.51,      0.00,      0.00,      0.00,      0.00
+Theta:  165.00
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: ru
+Data:
+     1.1967         0.    0.13559         0.
+    1.24855         0.    0.22103 8.4739E-02
+     1.2987         0.    0.45899         0.
+     1.3485         0.    0.32405  5.085E-02
+     1.3983         0.    0.20607         0.
+      1.449         0.    0.31691  5.932E-02
+     1.4996         0.     0.4108
+     1.5402         0.     0.2927         0.
+     1.5494         0.    0.25044 4.2375E-02
+     1.5602         0.    0.24211         0.
+     1.5792         0.    0.49661         0.
+     1.5983         0.    0.53641 5.9794E-02
+     1.6191         0.    0.63273         0.
+     1.6381         0.     1.1923         0.
+     1.6493         0.    1.36195 3.3849E-02
+      1.658         0.      1.396         0.
+     1.6796         0.     1.5318         0.
+    1.69915         0.    1.04057 5.0829E-02
+     1.7187         0.    0.41371         0.
+     1.7377         0.    0.46481         0.
+    1.74895         0.    0.42259  4.237E-02
+     1.7593         0.    0.70239         0.
+      1.778         0.    1.05009  5.931E-02
+    1.79803         0.    1.31307 7.3868E-02
+      1.819         0.     1.2286         0.
+      1.839         0.     1.4323         0.
+     1.8485         0.    1.44085    0.19495
+     1.8572         0.      1.263         0.
+     1.8796         0.     1.4837         0.
+     1.8991         0.     1.6195   3.39E-02
+     1.9178         0.     1.2469         0.
+     1.9394         0.     1.4167         0.
+    1.94765         0.      1.493   5.93E-02
+     1.9585         0.     1.1966         0.
+     1.9792         0.    0.75616         0.
+     1.9996         0.    0.59541  4.237E-02
+EndData:
