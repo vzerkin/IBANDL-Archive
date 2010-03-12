@@ -1,0 +1,43 @@
+Comment: Data were digitized. Energy digitizing error is 0.604 keV,
+         data digitizing error is 0.0012.
+         Data are given as Rutherford ratio.    
+         
+Version: R33
+Source: H.Ropke et al. Nuclear Physics A97 (1967) 609
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1075002
+Reaction: 16O(3He,3He0)16O  
+Distribution: Energy
+Composition: 
+Masses:    3.000,   16.000,    3.000,   16.000
+Zeds: 2, 8, 2, 8
+Qvalue:       0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    90.0
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+     4.5027         0.    0.58696  2.581E-02
+     4.6044         0.    0.59327  2.366E-02
+     4.7013         0.    0.60605  2.368E-02
+     4.7983         0.    0.70914  2.151E-02
+     4.9001         0.    0.77783  2.581E-02
+     4.9994         0.    0.79705  2.153E-02
+     5.0503         0.    0.78623  2.154E-02
+     5.0986         0.    0.75391  2.152E-02
+     5.2025         0.    0.61828  3.011E-02
+     5.2968         0.    0.55579  2.581E-02
+     5.3476         0.    0.49121  2.796E-02
+     5.3984         0.     0.5062  2.368E-02
+     5.4494         0.       0.59  2.366E-02
+     5.4978         0.    0.57273  2.151E-02
+     5.5463         0.    0.58127  2.797E-02
+     5.5971         0.    0.57045  3.441E-02
+EndData:
+
