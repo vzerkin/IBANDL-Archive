@@ -1,0 +1,47 @@
+Comment: Data were digitized. Energy digitizing error is 0.0008 MeV
+         data digitizing error is 0.013 mb/sr.
+
+Version: R33
+Source: R.L.A. Cottrell et al. Nuclear Physics A 109 (1968) 288
+Name: Taova Sophiya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1077002
+Reaction: 13C(d,d0)13C
+Distribution: Energy
+Composition: 
+Masses:     2.000,   13.000,    2.000,   13.000
+Zeds: 1,  6,  1,  6
+Qvalue:        0.00,      0.00,      0.00,      0.00,      0.00
+Theta:     70.0
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+     4.4762         0.     28.317     1.5966
+     4.5345         0.     33.441     1.8487
+     4.5978         0.     40.246     1.9328
+     4.6595         0.     33.438     2.0168
+     4.7177         0.     34.025     1.9326
+     4.7776         0.     36.292     1.8487
+     4.8393         0.     35.114     1.6804
+     4.8889         0.     36.205     1.5966
+     4.9506         0.     35.111     1.6807
+     5.0071         0.     33.849     1.9328
+      5.067         0.     32.334     1.9328
+     5.1235         0.     32.165     1.7641
+     5.1783         0.     29.642     1.7647
+     5.2382         0.     30.481     1.7637
+     5.2879         0.      27.37     1.8487
+     5.3392         0.     28.545     1.8482
+     5.3957         0.     28.292     1.7652
+     5.4437         0.     31.484     1.7647
+     5.5207         0.     31.566     2.1849
+     5.5807         0.     34.253     2.0168
+     5.6338         0.     34.672     2.2689
+     5.7006         0.     36.687      2.437
+EndData:
