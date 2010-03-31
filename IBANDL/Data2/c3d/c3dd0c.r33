@@ -1,0 +1,37 @@
+Comment: Data were digitized. Energy digitizing error is 0.001 MeV
+         data digitizing error is 0.0002 (relative units).
+         Data are given as Rutherford ratio.
+
+Version: R33
+Source: G.D.Putt et al. Nuclear Physics A 161 (1971) 547
+Name: Taova Sophiya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1079003 
+Reaction: 13C(d,d0)13C
+Distribution: Energy
+Composition: 
+Masses:     2.000,   13.000,    2.000,   13.000
+Zeds: 1,  6,  1,  6
+Qvalue:        0.00,      0.00,      0.00,      0.00,      0.00
+Theta:     90.0
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+    0.39636         0.     1.0375 1.6567E-02
+    0.44705         0.     1.0167  1.875E-02
+    0.49563         0.    0.99377  1.869E-02
+     0.5442         0.    0.99794 1.4583E-02
+    0.59489         0.     1.0042 1.6658E-02
+    0.64769         0.    0.99586  1.875E-02
+    0.69626         0.     1.0063 1.6674E-02
+    0.74695         0.    0.97504 1.6682E-02
+    0.79763         0.    0.97296 1.6667E-02
+    0.84833         0.    0.91047 2.0833E-02
+    0.89902         0.    0.78755  1.861E-02
+EndData:
