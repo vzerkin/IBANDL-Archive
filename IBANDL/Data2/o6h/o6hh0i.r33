@@ -1,0 +1,50 @@
+Comment: Data were digitized. Energy digitizing error is 2.354 keV,
+         data digitizing error is 0.002 (relative units).
+         Differential cross-sections are given in relative units.
+         Angle and data were converted from the center-of-mass to the laboratory system.
+          
+
+Version: R33
+Source: W.P. Alford et al. Nuclear Physics v.61 (1965) 368
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1066005
+Reaction: 16O(3He,3He0)16O 
+Distribution: Energy
+Composition: 
+Masses:    3.000,   16.000,    3.000,   16.000
+Zeds: 2, 8, 2, 8
+Qvalue:   0.00,      0.00,      0.00,      0.00,      0.00
+Theta:     61.51
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: ru
+Data:
+     8.0958         0.    0.33598         0.
+     8.1947         0.    0.30647         0.
+     8.2828         0.    0.27081         0.
+       8.32         0.    0.22947         0.
+     8.3734         0.    0.20995         0.
+     8.4992         0.    0.18956         0.
+     8.5954         0.    0.16952         0.
+     8.6972         0.    0.15886         0.
+     8.7989         0.    0.15134         0.
+     8.9008         0.    0.15955         0.
+     9.0026         0.    0.15203         0.
+     9.0965         0.    0.16032         0.
+     9.1981         0.    0.14337         0.
+     9.2998         0.    0.12956         0.
+     9.4017         0.    0.12834         0.
+     9.5009         0.    0.13972         0.
+     9.6001         0.     0.1511         0.
+     9.6993         0.     0.1499         0.
+     9.7985         0.    0.15814         0.
+     9.8951         0.     0.1727         0.
+     9.9974         0.    0.22494         0.
+EndData:
+
