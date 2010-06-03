@@ -1,0 +1,71 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Scattering of Protons from C-12."
+            C.W.Reich, G.C.Phillips, J.L.Russell
+            EXFOR: O0226002    Created: 1996-07-09  Updated: 1996-11-10
+            X4Reaction:6-C-12(P,EL)6-C-12,,DA,,,EXP; X4Points:37
+            Data converted from C.M. to Lab. 
+
+Version:      R33
+X4Number:     O0226002
+Source:       C.W.Reich+(1956), Jour. Physical Review, Vol.104, p.143
+Reaction:     12C(p,p0)12C
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Scattering of Protons from C-12."
+            C.W.Reich, G.C.Phillips, J.L.Russell
+            EXFOR: O0226003    Created: 1996-07-09  Updated: 1996-11-10
+            X4Reaction:6-C-12(P,EL)6-C-12,,DA,,,EXP; X4Points:33
+            Data converted from C.M. to Lab. 
+
+Version:      R33
+X4Number:     O0226003
+Source:       C.W.Reich+(1956), Jour. Physical Review, Vol.104, p.143
+Reaction:     12C(p,p0)12C
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 12.0, 1.0, 12.0
+Zeds:         1, 6, 1, 6
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        137.5
+Data:
+ 4113.00,     2.00,  92.1527,   0.8793
+ 4248.00,     2.00,  94.0872,   0.8793
+ 4390.00,     2.00,  96.1975,   0.8793
+ 4416.00,     2.00,  96.5493,   0.8793
+ 4438.00,     2.00,   96.901,   0.8793
+ 4473.00,     2.00,  97.3407,   0.8793
+ 4497.00,     2.00,  97.6924,   0.8793
+ 4527.00,     2.00,   98.132,   0.8793
+ 4552.00,     2.00, 102.6166,   0.8793
+ 4581.00,     2.00,  98.9234,   0.8793
+ 4609.00,     2.00, 103.4959,   0.8793
+ 4639.00,     2.00, 106.6614,   0.8793
+ 4669.00,     2.00, 104.3752,   0.8793
+ 4702.00,     2.00, 104.8149,   0.8793
+ 4732.00,     2.00, 114.8391,   0.8793
+ 4762.00,     2.00, 115.2788,   0.8793
+ 4770.00,     2.00, 115.4546,   0.8793
+ 4779.00,     2.00, 121.0823,   0.8793
+ 4785.00,     2.00, 122.4892,   0.8793
+ 4798.00,     2.00,   167.95,   0.8793
+ 4798.10,     2.00, 216.6643,   0.8793
+ 4799.00,     2.00, 270.9183,   0.8793
+ 4800.00,     2.00, 266.9614,   0.8793
+ 4801.00,     2.00, 208.1349,   0.8793
+ 4815.00,     2.00, 142.1859,   0.8793
+ 4820.00,     2.00, 124.4237,   0.8793
+ 4830.00,     2.00, 113.5201,   0.8793
+ 4843.00,     2.00, 109.6511,   0.8793
+ 4859.00,     2.00, 113.2563,   0.8793
+ 4875.00,     2.00, 110.0908,   0.8793
+ 4897.00,     2.00, 111.4098,   0.8793
+ 4922.00,     2.00, 113.2563,   0.8793
+ 4963.00,     2.00, 114.0477,   0.8793
+EndData:
