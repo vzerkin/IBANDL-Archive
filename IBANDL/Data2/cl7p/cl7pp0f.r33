@@ -1,0 +1,45 @@
+Comment: Data were digitized. Energy digitizing error is 0.041 keV
+         data digitizing error is 0.0003. 
+         Data are given as Rutherford ratio.  
+         Angle was converted from the center-of mass to the laboratory system.       
+         
+Version: R33
+Source: B.Bosnjakovic et al. Nuclear Physics A v.110 (1968) 233
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1098003
+Reaction: 37Cl(p,p0)37Cl 
+Distribution: Energy
+Composition: 
+Masses:    1.000,   37.000,    1.000,   37.000
+Zeds: 1, 17, 1, 17
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:  140.00
+Sigfactors: 1.00, 0.00 
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+ 1.7298E+03         0.     1.0026 4.3626E-03
+ 1.7302E+03         0.    0.99789 4.6728E-03
+ 1.7305E+03         0.      1.003 4.5472E-03
+ 1.7309E+03         0.     1.0001 4.6963E-03
+ 1.7312E+03         0.    0.99465  4.473E-03
+ 1.7316E+03         0.    0.99466 4.9102E-03
+ 1.7319E+03         0.    0.99576 4.3656E-03
+ 1.7323E+03         0.     1.0096 5.0899E-03
+ 1.7326E+03         0.     1.0154 5.0929E-03
+  1.733E+03         0.     1.0049 4.7293E-03
+ 1.7333E+03         0.    0.98781 5.0929E-03
+ 1.7336E+03         0.     1.0027 4.2641E-03
+  1.734E+03         0.     1.0006 4.3993E-03
+ 1.7343E+03         0.     1.0031 4.3681E-03
+ 1.7347E+03         0.    0.99876 4.6172E-03
+ 1.7351E+03         0.      1.001 4.5937E-03
+ 1.7354E+03         0.    0.99987 5.2081E-03
+ 1.7358E+03         0.    0.99916 5.0918E-03
+EndData:
