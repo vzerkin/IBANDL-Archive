@@ -2,13 +2,14 @@ Comment: Results for the 11B(p,p0)11B reaction
 File created by R33 Manager version 0.1
 
 Version: R33
-Source: M. Kokkoris et al. submitted to NIM B
+Source: M. Kokkoris+(2010), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.268, p.3539
 Name: Michael Kokkoris
 Address1: Department of Physics,
 Address2: National Technical University of Athens,
 Address3: Zografou Campus 157 80,
 Address4: Athens, Greece.
 Serial Number: 0
+X4Number: O1876002 
 Reaction: 11B(p,p0)11B
 Distribution: Energy
 Composition: 
