@@ -1,5 +1,5 @@
 Comment: SUBMITTED TO: NIMB
-Cross section measurements of the 6Li(d,á0)4He reaction
+Cross section measurements of the 6Li(d,?0)4He reaction
 V. Foteinou 1, A. Lagoyannis 1, M. Kokkoris 2, G. Provatas 1, T. Konstantinopoulos 1, P. Misaelides 3, S. Harissopulos 1
 1 Tandem Accelerator Laboratory, Institute of Nuclear Physics, NCSR ``Demokritos'', Aghia Paraskevi, 153.10 Athens, Greece.
 2 National Technical University of Athens, Zografou Campus, 157.80 Athens, Greece.
@@ -17,6 +17,7 @@ Address5: 153.10 Athens, Greece.
 Address6: foteinou@inp.demokritos.gr
 Serial Number: 0
 SubFile: 6LiDA0_150.r33
+X4Number: O1968002
 Reaction: 6Li(d,a0)4He
 Distribution: Energy
 Composition: 
