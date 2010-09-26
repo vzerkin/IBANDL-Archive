@@ -1,0 +1,35 @@
+Comment: File created by R33 Manager version 0.21
+File corrected on the 27th, Sep 2010 (Gurbich)
+
+Version: R33
+Source: S. Pellegrino et al., Nucl. Instr. and Meth. B 266 (2008) 2268
+Name: 
+Address1: 
+Address2: 
+Address3: 
+Address4: 
+Address5: 
+Address6: 
+Serial Number: 
+SubFile: 27Al(d,a0)stef
+X4Number: 
+Reaction: 27Al(d,a0)25Mg
+Distribution: Energy
+Composition: 
+Masses:    2.000,   27.000,    4.000,   25.000
+Zeds: 1, 13, 2, 12
+Qvalue:   6706.00,      0.00,      0.00,      0.00,      0.00
+Theta:    150.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 1000.000,  0.000,   0.009, 0.0017
+ 1250.000,  0.000,   0.019, 0.0034
+ 1350.000,  0.000,   0.036, 0.0061
+ 1500.000,  0.000,   0.034, 0.0059
+ 1650.000,  0.000,   0.118, 0.0191
+ 1750.000,  0.000,   0.104, 0.0169
+ 1850.000,  0.000,   0.168, 0.0270
+ 2000.000,  0.000,   0.168, 0.0270
+EndData:
