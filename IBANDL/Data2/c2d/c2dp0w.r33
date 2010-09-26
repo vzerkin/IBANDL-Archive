@@ -4,6 +4,7 @@ Source: Jose A. R. Pacheco de Carvalho, Nucl. Instr. and Meth. B266 (2008) 2263
 Name: 
 Address1: pacheco@ubi.pt
 Serial Number:
+X4Number: D0199002
 Reaction: 12C(d,p0)13C
 Distribution: Energy
 Masses: 2.0, 12.0, 1.0, 13.0
