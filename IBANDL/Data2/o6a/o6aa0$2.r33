@@ -1,0 +1,41 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Parameterization of nuclear reactions cross section
+             using R-matrix theory."
+            E.Berthoumieux,  B.Berthier,  C.Moreau,  J.P.Gallien, 
+            A.C.Raoux
+            EXFOR: F0587002    Created: 2003-10-23  Updated: 2004-05-19
+            X4Reaction:8-O-16(A,EL)8-O-16,,DA; X4Points:156
+
+Version:      R33
+X4Number:     F0587002
+Source:       E.Berthoumieux+(1998), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.136-138, p.55
+Reaction:     16O(a,a0)16O
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       4.0, 16.0, 4.0, 16.0
+Zeds:         2, 8, 2, 8
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        166
+Data:
+ 3321.90,     0.00,   42.808,   2.1404
+ 3325.70,     0.00,   42.233,   2.1117
+ 3330.90,     0.00,   44.805,   2.2403
+ 3335.80,     0.00,   57.394,   2.8697
+ 3340.80,     0.00,   53.955,   2.6978
+ 3344.60,     0.00,   59.963,   2.9982
+ 3350.80,     0.00,   81.137,   4.0569
+ 3355.60,     0.00,   110.04,    5.502
+ 3361.20,     0.00,   185.31,   9.2655
+ 3365.40,     0.00,   158.11,   7.9055
+ 3370.50,     0.00,   58.512,   2.9256
+ 3375.80,     0.00,   28.743,   1.4372
+ 3380.40,     0.00,   23.301,   1.1651
+ 3385.40,     0.00,   20.435,   1.0218
+ 3390.80,     0.00,   22.148,   1.1074
+ 3395.40,     0.00,    27.01,   1.3505
+EndData:
+
