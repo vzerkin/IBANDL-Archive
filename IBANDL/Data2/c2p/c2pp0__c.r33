@@ -2,12 +2,13 @@ Comment: IBA 2011, Brazil
 File created by R33 Manager version 0.1
 
 Version: R33
-Source: V. Paneta, M. Kokkoris,  A. Lagoyannis, A. Gurbich, D. Abriola
+Source: D.Abriola+(2011), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.269, p.2011
 Name: V. Paneta
 Address1: National Technical University of Athens, Athens, Greece
 Address2: National Center for Scientific Research ''Demokritos'', Athens, Greec
 Serial Number: 0
 SubFile: 12Cpp12C_1501.r33
+X4Number: O1909002
 Reaction: 12C(p,p0)12C
 Distribution: Energy
 Composition: 
