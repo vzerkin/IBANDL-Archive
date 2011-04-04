@@ -1,0 +1,81 @@
+Comment: IBA 2011, Brazil
+File created by R33 Manager version 0.1
+
+Version: R33
+Source: V. Paneta, M. Kokkoris,  A. Lagoyannis, A. Gurbich, D. Abriola
+Name: V. Paneta
+Address1: National Technical University of Athens, Athens, Greece
+Address2: National Center for Scientific Research ''Demokritos'', Athens, Greec
+Address3: 
+Serial Number: 0
+SubFile: 12Cpp12C_1601.r33
+Reaction: 12C(p,p0)12C
+Distribution: Energy
+Composition: 
+Masses:    1.000,   12.000,    1.000,   12.000
+Zeds: 1, 6, 1, 6
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    160.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb 
+Data:
+2693	4	73	4
+3294	5	66	3
+3794	6	69	4
+4094	7	75	4
+4495	7	81	4
+4695	8	93	5
+4720	8	97	5
+4745	8	98	5
+4770	8	114	6
+4775	8	113	6
+4779	8	119	6
+4783	8	128	7
+4787	8	139	7
+4791	8	146	7
+4795	8	163	8
+4797	8	209	11
+4799	8	192	10
+4803	8	242	12
+4805	8	365	18
+4807	8	373	19
+4811	8	386	20
+4815	8	315	16
+4819	8	187	10
+4821	8	161	8
+4823	8	138	7
+4845	8	84	4
+4895	8	90	5
+5103	8	121	6
+5195	8	127	7
+5203	8	132	7
+5220	8	132	7
+5245	8	140	7
+5270	8	143	7
+5295	8	150	8
+5320	9	146	8
+5345	9	130	7
+5370	9	88	5
+5385	9	73	4
+5388	9	70	4
+5395	9	63	3
+5420	9	59	3
+5445	9	63	3
+5495	9	79	4
+5695	9	119	6
+5795	9	128	7
+5825	9	131	7
+5855	9	129	7
+5895	9	130	7
+5910	9	150	8
+5925	9	155	8
+5955	10	177	9
+5995	10	167	9
+6045	10	183	9
+6095	10	177	9
+6145	10	192	10
+6275	10	169	9
+EndData:
+
+
