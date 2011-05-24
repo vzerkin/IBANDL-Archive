@@ -5,6 +5,7 @@ Version: R33
 Source:  C.Boni et al. Nucl. Instr. & Meth. B35 (1988) 80
 Name:
 Serial Number: 0
+X4Number: F0065006
 Reaction: 19F(p,pg1-0)19F
 Egamma:110
 Distribution: Energy
