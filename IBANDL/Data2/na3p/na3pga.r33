@@ -5,6 +5,7 @@ Version: R33
 Source:  F.Bodart, G.Deconninck, G.Demortier, J. Radioanal. Chem. 35 (1977) 95
 Name:
 Serial Number: 0
+X4Number: D0129002
 Reaction: 23Na(p,g)24Mg
 Egamma: 1368
 Distribution: Energy
