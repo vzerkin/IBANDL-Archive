@@ -5,6 +5,7 @@ Version: R33
 Source:  G.Deconninck, G.Demortier, J. Radioanal. Chem. 12 (1972) 189
 Name:
 Serial Number: 0
+X4Number: D0139003
 Reaction: 27Al(p,pg2-0)27Al
 Egamma: 1013
 Distribution: Energy
