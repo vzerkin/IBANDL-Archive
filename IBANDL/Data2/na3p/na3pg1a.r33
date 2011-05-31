@@ -12,6 +12,7 @@ Serial Number:
 SubFile: 
 X4Number: F1152002 
 Reaction: 23Na(p,g1)24Mg 
+Egamma: 14157-22514
 Distribution: Energy
 Composition: 
 Masses:    1.000,   23.000,    0.000,   24.000
