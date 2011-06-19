@@ -5,6 +5,7 @@ Version: R33
 Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
 Name:
 Serial Number: 0
+X4Number: O0875004
 Reaction: 12C(d,pg3-0)13C
 Egamma:3853
 Distribution: Energy
