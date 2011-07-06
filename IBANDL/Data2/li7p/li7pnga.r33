@@ -5,6 +5,7 @@ Version: R33
 Source:  C.Boni et al. Nucl. Instr. & Meth. B35 (1988) 80
 Name:
 Serial Number: 0
+X4Number: F0065002
 Reaction: 7Li(p,ng1-0)7Be
 Egamma: 429
 Distribution: Energy
