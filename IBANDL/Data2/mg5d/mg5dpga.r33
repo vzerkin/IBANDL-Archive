@@ -5,6 +5,7 @@ Version: R33
 Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
 Name:
 Serial Number: 0
+X4Number: O0875022
 Reaction: 25Mg(d,pg1-0)26Mg
 Egamma: 1809
 Distribution: Energy
