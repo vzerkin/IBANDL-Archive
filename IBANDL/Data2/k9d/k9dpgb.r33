@@ -5,6 +5,7 @@ Version: R33
 Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
 Name:
 Serial Number: 0
+X4Number: O0875014
 Reaction: 39K(d,pg7-1)40K
 Egamma: 2070+2074
 Distribution: Energy
