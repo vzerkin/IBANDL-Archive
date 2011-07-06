@@ -5,6 +5,7 @@ Version: R33
 Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
 Name:
 Serial Number: 0
+X4Number: O0875015
 Reaction: 40Ca(d,pg1-0)41Ca
 Egamma: 1943
 Distribution: Energy
