@@ -5,6 +5,7 @@ Version: R33
 Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
 Name:
 Serial Number: 0
+X4Number: O0875026
 Reaction: 27Al(d,ag2-0)25Mg
 Egamma: 974.7+983.0
 Distribution: Energy
