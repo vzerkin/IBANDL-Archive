@@ -5,6 +5,7 @@ Version: R33
 Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
 Name:
 Serial Number: 0
+X4Number: O0875012
 Reaction: 32S(d,pg1-0)33S
 Egamma: 841
 Distribution: Energy
