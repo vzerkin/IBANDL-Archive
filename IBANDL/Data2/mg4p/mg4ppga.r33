@@ -5,6 +5,7 @@ Version: R33
 Source:  C.Boni et al. Nucl. Instr. & Meth. B35 (1988) 80
 Name:
 Serial Number: 0
+X4Number: F0065010
 Reaction: 24Mg(p,pg1-0)24Mg
 Egamma: 1369
 Distribution: Energy
