@@ -5,6 +5,7 @@ Version: R33
 Source:  C.Boni et al. Nucl. Instr. & Meth. B35 (1988) 80
 Name:
 Serial Number: 0
+X4Number: F0065008
 Reaction: 25Mg(p,pg2-0)25Mg
 Egamma: 975
 Distribution: Energy
