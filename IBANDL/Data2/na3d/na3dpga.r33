@@ -5,6 +5,7 @@ Version: R33
 Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
 Name:
 Serial Number: 0
+X4Number: O0875020
 Reaction: 23Na(d,pg1-0)24Na
 Egamma: 472.2
 Distribution: Energy
