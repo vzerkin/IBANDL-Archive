@@ -5,6 +5,7 @@ Version: R33
 Source:  C.Boni et al. Nucl. Instr. & Meth. B35 (1988) 80
 Name:
 Serial Number: 0
+X4Number: F0065004
 Reaction: 11B(p,pg1-0)11B
 Egamma: 2125
 Distribution: Energy
