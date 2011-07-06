@@ -5,6 +5,7 @@ Version: R33
 Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
 Name:
 Serial Number: 0
+X4Number: O0875019
 Reaction: 19F(d,ag1-0)17O
 Egamma: 870.7
 Distribution: Energy
