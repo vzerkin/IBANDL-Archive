@@ -5,6 +5,7 @@ Version: R33
 Source:  C.Boni et al. Nucl. Instr. & Meth. B35 (1988) 80
 Name:
 Serial Number: 0
+X4Number: F0065015
 Reaction: 31P(p,pg1-0)31P
 Egamma: 1266
 Distribution: Energy
