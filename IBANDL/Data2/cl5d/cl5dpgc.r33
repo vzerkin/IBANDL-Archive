@@ -5,6 +5,7 @@ Thick target gamma-ray yield. Gamma energy 1951.1+1959.1+1970 keV
 Version: R33
 Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
 Name:
+X4Number: O0875031
 Serial Number: 0
 Reaction: 35Cl(d,pg4-0)36Cl
 Egamma: 1951.1+1959.1+1970.0
