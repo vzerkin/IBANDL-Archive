@@ -5,6 +5,7 @@ Version: R33
 Source:  G.Demortier, F.Bodart, J. Radioanal. Chem. 12 (1972) 209
 Name:
 Serial Number: 0
+X4Number: D0133003
 Reaction: 31P(p,pg1-0)31P
 Egamma: 1266
 Distribution: Energy
