@@ -5,6 +5,7 @@ Version: R33
 Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
 Name:
 Serial Number: 0
+X4Number: O0875007
 Reaction: 19F(d,pg2-0)20F
 Egamma: 822.7
 Distribution: Energy
