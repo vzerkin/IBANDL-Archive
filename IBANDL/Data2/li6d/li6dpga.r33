@@ -5,6 +5,7 @@ Version: R33
 Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
 Name:
 Serial Number: 0
+X4Number: O0875016
 Reaction: 6Li(d,pg1-0)7Li
 Egamma: 478
 Distribution: Energy
