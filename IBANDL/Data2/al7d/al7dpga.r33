@@ -1,0 +1,39 @@
+Comment:
+Thick target gamma-ray yield. Gamma energy 1014 keV.
+
+Version: R33
+Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
+Name:
+Serial Number: 0
+X4Number: O0875025
+Reaction: 27Al(d,pg3-0)28Al
+Egamma: 1014
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,13,1,13
+Qvalue: 0, 0, 0, 0, 0
+Theta: 135
+Sigfactors: 1, 0
+Enfactors: 1000, 0, 0, 0
+Units: yield
+Data:
+1.4 0.0 14000 0.0 
+1.6 0.0 36500 0.0 
+1.7 0.0 67100 0.0 
+1.8 0.0 99400 0.0 
+1.9 0.0 105000 0.0 
+2 0.0 160000 0.0 
+2.1 0.0 184000 0.0 
+2.2 0.0 264000 0.0 
+2.3 0.0 333000 0.0 
+2.4 0.0 423000 0.0 
+2.5 0.0 474000 0.0 
+2.6 0.0 599000 0.0 
+2.7 0.0 737000 0.0 
+2.8 0.0 922000 0.0 
+2.9 0.0 1.01E+06 0.0 
+3 0.0 1.11E+06 0.0 
+3.2 0.0 1.71E+06 0.0 
+3.4 0.0 2.12E+06 0.0 
+EndData:
