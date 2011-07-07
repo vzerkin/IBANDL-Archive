@@ -1,0 +1,39 @@
+Comment:
+Thick target gamma-ray yield. Gamma energy 974.7+983 keV (d,ag)+(d,pg).
+
+Version: R33
+Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
+Name:
+Serial Number: 0
+X4Number: O0875026
+Reaction: 27Al(d,ag2-0)25Mg
+Egamma: 974.7+983.0
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,13,2,12 
+Qvalue: 0, 0, 0, 0, 0
+Theta: 135
+Sigfactors: 1, 0
+Enfactors: 1000, 0, 0, 0
+Units: yield
+Data:
+1.4 0.0 33200 0.0 
+1.6 0.0 76800 0.0 
+1.7 0.0 117000 0.0 
+1.8 0.0 196000 0.0 
+1.9 0.0 244000 0.0 
+2 0.0 340000 0.0 
+2.1 0.0 443000 0.0 
+2.2 0.0 516000 0.0 
+2.3 0.0 772000 0.0 
+2.4 0.0 964000 0.0 
+2.5 0.0 1.32E+06 0.0 
+2.6 0.0 1.51E+06 0.0 
+2.7 0.0 1.76E+06 0.0 
+2.8 0.0 2.07E+06 0.0 
+2.9 0.0 2.37E+06 0.0 
+3 0.0 2.77E+06 0.0 
+3.2 0.0 4.08E+06 0.0 
+3.4 0.0 4.93E+06 0.0 
+EndData:
