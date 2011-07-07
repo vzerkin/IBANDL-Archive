@@ -2,9 +2,10 @@ Comment:
 Gamma energy 478 keV. Total cross sections were calculated assuming isotropic angular distribution.
 
 Version: R33
-Source:  R.Mateus et al. Nucl. Instr. & Meth. B190 (2002) 117
+Source:  R.Mateus+(2002),Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.190, p.117
 Name:
 Serial Number: 0
+X4Number: D0328002   20060626
 Reaction: 7Li(p,pg1-0)7Li
 Egamma: 478
 Distribution: Energy
