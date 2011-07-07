@@ -1,0 +1,34 @@
+Comment:
+Thick target gamma-ray yield. Gamma energy 478 keV.
+
+Version: R33
+Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
+Name:
+Serial Number: 0
+X4Number: O0875016
+Reaction: 6Li(d,pg1-0)7Li
+Egamma: 478
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,3,1,3
+Qvalue: 0, 0, 0, 0, 0
+Theta: 135
+Sigfactors: 1, 0
+Enfactors: 1000, 0, 0, 0
+Units: yield
+Data:
+0.8 0.0 1.54E+05 0.0
+0.9 0.0 4.15E+05 0.0
+1.0 0.0 1.11E+06 0.0
+1.1 0.0 2.57E+06 0.0
+1.2 0.0 4.40E+06 0.0
+1.3 0.0 6.44E+06 0.0
+1.4 0.0 8.95E+06 0.0
+1.5 0.0 1.21E+07 0.0
+1.6 0.0 1.58E+07 0.0
+1.7 0.0 1.95E+07 0.0
+1.8 0.0 2.11E+07 0.0
+1.9 0.0 2.72E+07 0.0
+2.0 0.0 3.51E+07 0.0
+EndData:
