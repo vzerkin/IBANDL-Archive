@@ -1,0 +1,35 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Differential absolute cross-section for the nuclear
+             reactions 27Al(d,p)28Al and 27Al(d,alpha)25Mg
+             at Theta(lab.) = 90 degr."
+            G.Corleo, S.Sambataro
+            EXFOR: D0389004    Created: 2006-03-07  Updated: 2006-07-20
+            X4Reaction:13-AL-27(D,A)12-MG-25,PAR,DA; X4Points:54
+            LevelEnergy: 980.00
+
+Version:      R33
+X4Number:     D0389004
+Source:       G.Corleo+(1968), Jour. Nuovo Cimento B, Vol.56, p.83
+Reaction:     27Al(d,a2)25Mg
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 27.0, 4.0, 25.0
+Zeds:         1, 13, 2, 12
+Qvalue:       5726.97, 0.00, 0.00, 0.00, 0.00
+Theta:        90
+Data:
+ 1597.90,    40.00,   0.0806,   0.0204
+ 1650.10,    40.00,   0.1208,   0.0185
+ 1698.40,    40.00,   0.1389,   0.0167
+ 1750.20,    40.00,   0.1403,   0.0167
+ 1800.40,    40.00,   0.1602,   0.0148
+ 1848.50,    40.00,   0.1634,   0.0185
+ 1900.00,    40.00,   0.1296,    0.013
+ 1949.80,    40.00,   0.1107,   0.0185
+ 2001.80,    40.00,   0.1306,   0.0185
+EndData:
+
