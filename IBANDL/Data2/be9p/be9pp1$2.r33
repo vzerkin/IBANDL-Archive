@@ -1,0 +1,43 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Energy dependence of the reaction 9Be(p,p1)9Be*(1.67)"
+            M.Yasue
+            EXFOR: F0135002    Created: 1984-06-01  Updated: 1999-04-27
+            X4Reaction:4-BE-9(P,INL)4-BE-9,PAR,DA,,,EXP; X4Points:74
+            LevelEnergy: 1670.00
+
+Version:      R33
+X4Number:     F0135002
+Source:       M.Yasue(1974), Jour. Journal of the Physical Society of Japan, Vol.36, p.1254
+Reaction:     9Be(p,p1)9Be
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 9.0, 1.0, 9.0
+Zeds:         1, 4, 1, 4
+Qvalue:       -1670.0, 0.00, 0.00, 0.00, 0.00
+Theta:        125
+Data:
+ 4158.00,    20.00,   0.2939,   0.0326
+ 4266.00,    20.00,   0.3159,   0.0435
+ 4373.00,    20.00,    0.327,   0.0326
+ 4454.00,    20.00,   0.3816,   0.0435
+ 4562.00,    20.00,   0.3818,   0.0326
+ 4644.00,    20.00,   0.3277,   0.0544
+ 4752.00,    20.00,   0.3388,   0.0435
+ 4831.00,    20.00,   0.4694,   0.0544
+ 4938.00,    20.00,   0.4588,   0.0327
+ 4939.00,    20.00,   0.5131,   0.0326
+ 4992.00,    20.00,   0.5567,   0.0543
+ 5044.00,    20.00,   0.6438,   0.0435
+ 5100.00,    20.00,   0.5679,   0.0327
+ 5153.00,    20.00,   0.5897,   0.0435
+ 5208.00,    20.00,   0.5246,   0.0326
+ 5262.00,    20.00,   0.5465,   0.0435
+ 5344.00,    20.00,   0.4815,   0.0326
+ 5452.00,    20.00,   0.4818,   0.0327
+ 5967.00,    20.00,   0.3961,   0.0217
+EndData:
+
