@@ -1,0 +1,33 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "The elastic scattering of deuterons by 9Be from 1.00
+             to 2.20 MeV"
+            J.M.Lombaard, E.Friedland
+            EXFOR: F0152002    Created: 1984-08-02  Updated: 1999-04-27
+            X4Reaction:4-BE-9(D,EL)4-BE-9,,DA,,RTH,EXP; X4Points:162
+            Data converted from C.M. to Lab. 
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     F0152002
+Source:       J.M.Lombaard+(1972), Jour. Zeitschrift fuer Physik, Vol.249, p.349
+Reaction:     9Be(d,d0)9Be
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        rr
+Composition:
+Masses:       2.0, 9.0, 2.0, 9.0
+Zeds:         1, 4, 1, 4
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        114.3
+Data:
+ 1000.00,     0.00,   0.7558,   0.0109
+ 1200.00,     0.00,   0.8727,   0.0118
+ 1400.00,     0.00,   0.7268,   0.0121
+ 1600.00,     0.00,   0.9489,   0.0101
+ 1800.00,     0.00,    1.002,    0.011
+ 2000.00,     0.00,     1.05,   0.0122
+ 2200.00,     0.00,   0.9726,   0.0116
+EndData:
+
