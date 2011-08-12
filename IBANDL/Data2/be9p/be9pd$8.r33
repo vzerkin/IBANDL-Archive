@@ -1,0 +1,33 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Study of the reactions 9Be(p,a)6Li,9Be(p,d)8Be from
+             300 keV to 900 keV"
+            F.Bertrand, G.Grenier, J.Pornet
+            EXFOR: F0107003    Created: 1986-01-28  Updated: 1999-04-29
+            X4Reaction:4-BE-9(P,D)4-BE-8,,DA,,,EXP; X4Points:89
+            Data converted from C.M. to Lab. 
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     F0107003
+Source:       F.Bertrand+(1968), Rept. Centre d`Etudes Nucleaires, Saclay Reports, No.3575
+Reaction:     9Be(p,d0)8Be
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 9.0, 2.0, 8.0
+Zeds:         1, 4, 1, 4
+Qvalue:       559.23, 0.00, 0.00, 0.00, 0.00
+Theta:        90.2
+Data:
+  300.00,     0.00,  34.2015,   2.3941
+  400.00,     0.00,  29.7352,   2.0815
+  500.00,     0.00,  23.6239,   1.6537
+  600.00,     0.00,  19.7576,    1.383
+  700.00,     0.00,  18.2685,   1.2788
+  800.00,     0.00,  17.0105,   1.1907
+  900.00,     0.00,  19.3614,   1.3553
+EndData:
+
