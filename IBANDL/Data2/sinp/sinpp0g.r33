@@ -4,6 +4,7 @@ Source: J.Vorona et al. Phys. Rev. 116 (1959) 1563
 Name: D.Abriola
 Address1: d.abriola@iaea.org
 Serial Number:
+X4Number: C0856003
 Reaction: natSi(p,p0)natSi 
 Distribution: Energy
 Masses: 1,28,1,28
