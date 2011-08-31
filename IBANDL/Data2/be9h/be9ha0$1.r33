@@ -1,0 +1,46 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Mechanism of the 9Be(3He,a)8Be(0) reactions and
+             isoscalar giant resonance in 12C"
+            B.Bilwes, R.Bilwes, J.L.Ferrero, A.Garcia
+            EXFOR: F0210002    Created: 1985-01-11  Updated: 2000-11-15
+            X4Reaction:4-BE-9(HE3,A)4-BE-8,PAR,DA,,,EXP; X4Points:98
+            LevelEnergy: 0.00
+
+Version:      R33
+X4Number:     F0210002
+Source:       B.Bilwes+(1978), Jour. Journal de Physique, Vol.39, p.805
+Reaction:     9Be(3He,a0)8Be
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 9.0, 4.0, 8.0
+Zeds:         2, 4, 2, 4
+Qvalue:       18912.27, 0.00, 0.00, 0.00, 0.00
+Theta:        150
+Data:
+ 2383.60,    50.00,   0.2163,   0.0433
+ 2901.90,    50.00,   0.3571,   0.0714
+ 3148.10,    50.00,   0.5001,     0.10
+ 3398.70,    50.00,   0.5453,   0.1091
+ 3652.00,    50.00,   0.5325,   0.1065
+ 3921.00,    50.00,   0.5989,   0.1198
+ 4172.40,    50.00,   0.6283,   0.1257
+ 4418.40,    50.00,     0.56,    0.112
+ 4503.00,    50.00,   0.6235,   0.1247
+ 4653.70,    50.00,   0.5128,   0.1026
+ 4908.40,    50.00,   0.4682,   0.0936
+ 4910.00,    50.00,   0.4312,   0.0862
+ 5163.20,    50.00,   0.4184,   0.0837
+ 5404.20,    50.00,    0.461,   0.0922
+ 5895.70,    50.00,   0.5515,   0.1103
+ 5927.30,    50.00,   0.4987,   0.0997
+ 6399.20,    50.00,   0.5919,   0.1184
+ 8396.30,    50.00,   0.4784,   0.0957
+ 8913.40,    50.00,   0.6482,   0.1296
+ 9390.80,    50.00,   0.6199,    0.124
+ 9900.70,    50.00,   0.5176,   0.1035
+EndData:
+
