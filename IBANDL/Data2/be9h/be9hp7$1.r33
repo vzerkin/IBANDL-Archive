@@ -1,0 +1,44 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "An investigation of the Be-9(He3,p)B-11 reaction in the
+             energy from 3 to 6-MeV."
+            C.S.Lin,  W.S.Hou,  M.Wen
+            EXFOR: O1032002    Created: 2003-02-13  Updated: 2003-04-07
+            X4Reaction:4-BE-9(HE3,P)5-B-11,PAR,DA; X4Points:137
+            Data converted from C.M. to Lab. (Angle: not converted)
+            LevelEnergy: 7978.00
+
+Version:      R33
+X4Number:     O1032002
+Source:       C.S.Lin+(1981), Jour. Chinese Journal of Physics (Taiwan), Vol.19, p.99
+Reaction:     9Be(3He,p7)11B
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 9.0, 1.0, 11.0
+Zeds:         2, 4, 1, 5
+Qvalue:       2343.96, 0.00, 0.00, 0.00, 0.00
+Theta:        90
+Data:
+ 2370.00,   100.00,   0.5158,     0.00
+ 2580.00,   100.00,   0.6884,     0.00
+ 2820.00,   100.00,   0.7451,     0.00
+ 2990.00,   100.00,    0.725,     0.00
+ 3170.00,   100.00,   0.6761,     0.00
+ 3360.00,   100.00,   0.6182,     0.00
+ 3470.00,   100.00,   0.5503,     0.00
+ 3570.00,   100.00,   0.5682,     0.00
+ 3790.00,   100.00,   0.5681,     0.00
+ 4020.00,   100.00,    0.596,     0.00
+ 4260.00,   100.00,    0.547,     0.00
+ 4400.00,   100.00,   0.6127,     0.00
+ 4500.00,   100.00,   0.6516,     0.00
+ 4610.00,   100.00,   0.5449,     0.00
+ 4830.00,   100.00,   0.5927,     0.00
+ 5010.00,   100.00,   0.5727,     0.00
+ 5510.00,   100.00,   0.4929,     0.00
+ 5960.00,   100.00,   0.6162,     0.00
+EndData:
+
