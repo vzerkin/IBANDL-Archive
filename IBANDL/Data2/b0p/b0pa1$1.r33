@@ -10,7 +10,7 @@ Comment:    Automatically converted from EXFOR
 
 Version:      R33
 X4Number:     F0217004
-Source:       J.W.Cronin(1956), Jour. Physical Review, Vol.101, p.298
+Source:       J.W.Cronin(1956), Jour. Physical Review, Vol.101, p.298 
 Reaction:     10B(p,a1)7Be
 Distribution: Energy
 Sigfactors:   1.00, 0.00
