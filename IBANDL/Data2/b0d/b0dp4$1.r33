@@ -1,0 +1,35 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Spectroscopic factors for the 11B 6.76 MeV level using
+             realistic optical model potentials"
+            M.N.H.Comsan
+            EXFOR: F0400002    Created: 1989-02-24  Updated: 2000-11-15
+            X4Reaction:5-B-10(D,P)5-B-11,PAR,DA; X4Points:148
+            Data converted from C.M. to Lab. 
+            LevelEnergy: 6760.00
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     F0400002
+Source:       M.N.H.Comsan(1973), Jour. Atomkernenergie, Vol.21, p.41
+Reaction:     10B(d,p4)11B
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 10.0, 1.0, 11.0
+Zeds:         1, 5, 1, 5
+Qvalue:       2469.55, 0.00, 0.00, 0.00, 0.00
+Theta:        160.3
+Data:
+  670.00,     0.00,    0.375,   0.0412
+  800.00,     0.00,   0.6883,   0.0757
+  880.00,     0.00,    0.853,   0.0938
+ 1090.00,     0.00,   1.4924,   0.1642
+ 1300.00,     0.00,   2.5687,   0.2826
+ 1500.00,     0.00,   2.7529,   0.3028
+ 1710.00,     0.00,   2.9582,   0.3254
+ 2320.00,     0.00,   2.8626,   0.3149
+EndData:
+
