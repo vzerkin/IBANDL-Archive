@@ -1,0 +1,39 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "The 11B(3He,a)10B reaction between 2.2 and 5.5 MeV."
+            P.D.Forsyth, I.J.Taylor, R.R.Perry
+            EXFOR: F0467002    Created: 1992-09-11  Updated: 2003-04-30
+            X4Reaction:5-B-11(HE3,A)5-B-10,PAR,DA; X4Points:456
+            LevelEnergy: 2150.00
+
+Version:      R33
+X4Number:     F0467002
+Source:       P.D.Forsyth+(1965), Jour. Nuclear Physics, Vol.66, p.376
+Reaction:     11B(3He,a3)10B
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 11.0, 4.0, 10.0
+Zeds:         2, 5, 2, 5
+Qvalue:       6973.5, 0.00, 0.00, 0.00, 0.00
+Theta:        165
+Data:
+ 2323.00,     2.00,    0.086,   0.0129
+ 2401.00,     2.00,   0.1099,   0.0165
+ 2461.00,     2.00,   0.1273,   0.0191
+ 2500.00,     2.00,   0.1026,   0.0154
+ 2564.00,     2.00,   0.1182,   0.0177
+ 2612.00,     2.00,   0.1205,   0.0181
+ 2672.00,     2.00,   0.1309,   0.0196
+ 2750.00,     2.00,   0.1617,   0.0243
+ 2810.00,     2.00,   0.1499,   0.0225
+ 2896.00,     2.00,   0.1813,   0.0272
+ 2969.00,     2.00,   0.1764,   0.0265
+ 3040.00,     2.00,   0.1891,   0.0284
+ 3118.00,     2.00,   0.2428,   0.0364
+ 3185.00,     2.00,   0.2562,   0.0384
+ 3258.00,     2.00,   0.2736,    0.041
+EndData:
+
