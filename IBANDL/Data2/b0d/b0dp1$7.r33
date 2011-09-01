@@ -1,0 +1,31 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "The mechanism of the reaction 10B(d,p)11B at low
+             deuteron energies"
+            M.N.H.Comsan, A.A.El Kamhawy, M.A.Farouk, A.H.Oraby
+            EXFOR: F0287003    Created: 1985-07-15  Updated: 1999-04-29
+            X4Reaction:5-B-10(D,P)5-B-11,PAR,DA,,,EXP; X4Points:278
+            Data converted from C.M. to Lab. 
+            LevelEnergy: 2124.00
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     F0287003
+Source:       M.N.H.Comsan+(1978), Jour. Atomkernenergie, Vol.32, p.189
+Reaction:     10B(d,p1)11B
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 10.0, 1.0, 11.0
+Zeds:         1, 5, 1, 5
+Qvalue:       7105.55, 0.00, 0.00, 0.00, 0.00
+Theta:        90
+Data:
+  800.00,     0.00,   0.2484,    0.003
+ 1200.00,     0.00,   0.1911,    0.003
+ 1600.00,     0.00,   0.3041,    0.003
+ 2400.00,     0.00,   0.2754,    0.003
+EndData:
+
