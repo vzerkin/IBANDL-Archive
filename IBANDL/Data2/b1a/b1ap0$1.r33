@@ -1,0 +1,28 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "14C production by the reaction 11B (alpha,p)14C"
+            R.A.Dayras, Z.E.Switkowski, T.A.Tombrello
+            EXFOR: F0380002    Created: 1986-01-29  Updated: 1999-04-29
+            X4Reaction:5-B-11(A,P)6-C-14,PAR,DA,,,EXP; X4Points:51
+            Data converted from C.M. to Lab. 
+            LevelEnergy: 0.00
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     F0380002
+Source:       R.A.Dayras+(1976), Jour. Nuclear Physics, Section A, Vol.261, Issue.3, p.365
+Reaction:     11B(a,p0)14C
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       4.0, 11.0, 1.0, 14.0
+Zeds:         2, 5, 1, 6
+Qvalue:       783.98, 0.00, 0.00, 0.00, 0.00
+Theta:        165.4
+Data:
+ 1572.00,     0.00,   0.4745,   0.0475
+ 2032.00,     0.00,   0.0217,   0.0022
+EndData:
+
