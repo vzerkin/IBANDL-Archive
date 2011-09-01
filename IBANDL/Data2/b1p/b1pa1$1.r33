@@ -1,11 +1,13 @@
 Comment:    Automatically converted from EXFOR
-            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
-            "Cross-sections of 11B(p,alpha)8Be reaction for boron
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2018-09-10, by V.Zerkin.
+            X4Title: "Cross-sections of 11B(p,alpha)8Be reaction for boron
              analysis"
-            J.Liu, X.Lu, X.Wang, W.Chu
-            EXFOR: C1238002    Created: 2005-05-31  Updated: 2005-08-01
+            X4Author: J.Liu, X.Lu, X.Wang, W.Chu
+            EXFOR: C1238002    Created: 2005-05-31  Updated: 2005-09-26
             X4Reaction:5-B-11(P,A)4-BE-8,PAR,DA; X4Points:33
-            LevelEnergy: 5650.00
+            X4:QVAL=5650.0  AME2016:Q0=8590.0905  Q0-QVAL=2940.0905
+            ENSDF:LevelEnergy=3030.00
 
 Version:      R33
 X4Number:     C1238002
@@ -18,7 +20,7 @@ Units:        mb
 Composition:
 Masses:       1.0, 11.0, 4.0, 8.0
 Zeds:         1, 5, 2, 4
-Qvalue:       2940.31, 0.00, 0.00, 0.00, 0.00
+Qvalue:       5560.09, 0.00, 0.00, 0.00, 0.00
 Theta:        150
 Data:
   462.00,     0.00,    21.20,   0.6996
@@ -55,4 +57,3 @@ Data:
  1450.00,     0.00,    11.90,   0.3927
  1530.00,     0.00,    11.40,   0.3762
 EndData:
-
