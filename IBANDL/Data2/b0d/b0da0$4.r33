@@ -1,0 +1,42 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Observation of the isoscalar giant resonance in the
+             reaction 10B(d,a)8Be(g.s.)"
+            W.Buck, T.Rohwer, G.Staudt, A.Ziemke, 
+            F.Vogler
+            EXFOR: F0203003    Created: 1985-01-14  Updated: 1999-04-27
+            X4Reaction:5-B-10(D,A)4-BE-8,PAR,DA,,,EXP; X4Points:248
+            Data converted from C.M. to Lab. 
+            LevelEnergy: 0.00
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     F0203003
+Source:       W.Buck+(1978), Jour. Nuclear Physics, Section A, Vol.297, p.231
+Reaction:     10B(d,a0)8Be
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 10.0, 4.0, 8.0
+Zeds:         1, 5, 2, 4
+Qvalue:       17819.86, 0.00, 0.00, 0.00, 0.00
+Theta:        126
+Data:
+  559.90,    60.00,   0.0813,   0.0282
+  677.30,    60.00,   0.2983,    0.028
+ 1035.00,    60.00,   0.4224,   0.0276
+ 1153.00,    60.00,   0.5058,   0.0275
+ 1391.00,    60.00,   0.5863,   0.0272
+ 1510.00,    60.00,   0.6683,   0.0271
+ 1746.00,    60.00,   0.7889,   0.0269
+ 1747.00,    60.00,   0.9555,   0.0269
+ 1863.00,    60.00,   1.2028,   0.0268
+ 2102.00,    60.00,   1.1539,   0.0267
+ 2460.00,    60.00,   1.1838,   0.0264
+ 2701.00,    60.00,   0.9738,   0.0263
+ 2823.00,    60.00,   0.7278,   0.0262
+ 3063.00,    60.00,   0.5626,   0.0261
+EndData:
+
