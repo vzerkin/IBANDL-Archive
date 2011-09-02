@@ -1,0 +1,40 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Energy levels of O-16 in the vicinity of 13 MeV."
+            J.M.Morris, G.W.Kerr, T.R.Ophel
+            EXFOR: F1041002    Created: 2010-01-29  Updated: 2010-05-18
+            X4Reaction:6-C-12(A,EL)6-C-12,,DA; X4Points:639
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     F1041002
+Source:       J.M.Morris+(1968), Jour. Nuclear Physics, Section A, Vol.112, p.97
+Reaction:     12C(a,a0)12C
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       4.0, 12.0, 4.0, 12.0
+Zeds:         2, 6, 2, 6
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        131.1
+Data:
+ 6600.00,     0.00,  1415.70,     0.00
+ 6885.00,     0.00,   450.47,     0.00
+ 6990.00,     0.00,   46.942,     0.00
+ 7064.00,     0.00,   2.5463,     0.00
+ 7093.00,     0.00,   0.1247,     0.00
+ 7167.00,     0.00,   0.0168,     0.00
+ 7400.00,     0.00,   0.0065,     0.00
+ 7500.00,     0.00, 7.342e-4,     0.00
+ 7700.00,     0.00,   230.63,     0.00
+ 7960.00,     0.00,    0.037,     0.00
+ 8015.00,     0.00,   0.0026,     0.00
+ 8113.00,     0.00,   633.07,     0.00
+ 8147.00,     0.00,   27.256,     0.00
+ 8196.00,     0.00,   5.4974,     0.00
+ 8247.00,     0.00,   1.0301,     0.00
+ 8500.00,     0.00,   0.0027,     0.00
+EndData:
+
