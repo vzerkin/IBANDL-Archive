@@ -1,0 +1,43 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "The Scattering of Alpha-Particles by Carbon and Oxygen"
+            A.J.Ferguson, L.R.Walter
+            EXFOR: C0916002    Created: 2003-05-15  Updated: 2003-09-18
+            X4Reaction:6-C-12(A,EL)6-C-12,,DA,,RTH; X4Points:20
+
+Version:      R33
+X4Number:     C0916002
+Source:       A.J.Ferguson+(1940), Jour. Physical Review, Vol.58, p.666
+Reaction:     12C(a,a0)12C
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        rr
+Composition:
+Masses:       4.0, 12.0, 4.0, 12.0
+Zeds:         2, 6, 2, 6
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        157
+Data:
+ 3850.00,   150.00,     3.00,     0.50
+ 3950.00,   150.00,     3.50,     0.50
+ 4150.00,   150.00,     4.00,     1.00
+ 4350.00,   150.00,    10.50,     1.50
+ 4400.00,   150.00,    12.00,     0.50
+ 4450.00,   150.00,    11.00,     1.50
+ 4600.00,   150.00,     9.50,     1.00
+ 4800.00,   200.00,    10.00,     1.00
+ 4850.00,   200.00,    12.00,     1.00
+ 4950.00,   200.00,    18.00,     2.00
+ 5050.00,   200.00,    15.50,     2.00
+ 5250.00,   100.00,     7.00,     1.00
+ 5400.00,   200.00,    29.50,     1.50
+ 5700.00,   100.00,    35.50,     3.00
+ 5900.00,   200.00,    30.50,     1.00
+ 6100.00,   200.00,    32.00,     4.00
+ 6500.00,   250.00,    25.50,     1.50
+ 6700.00,   200.00,    26.00,     4.00
+ 6850.00,   200.00,    27.50,     1.50
+ 6900.00,   150.00,    32.00,     7.50
+EndData:
+
