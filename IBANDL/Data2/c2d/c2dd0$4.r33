@@ -10,7 +10,7 @@ Comment:    Automatically converted from EXFOR
 
 Version:      R33
 X4Number:     C0993002
-Source:       M.T.Mcellistrem+(1956), Jour. Physical Review, Vol.104, p.1008
+Source:       M.T.Mcellistrem+(1956), Physical Review, Vol.104, p.1008
 Reaction:     12C(d,d0)12C
 Distribution: Energy
 Sigfactors:   1.00, 0.00
