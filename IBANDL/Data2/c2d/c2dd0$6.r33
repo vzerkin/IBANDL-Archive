@@ -1,0 +1,36 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Differential Cross Sections for C12(d,d)C12 and
+             C12(d,p)C13"
+            M.T.Mcellistrem, K.W.Jones, R.Chiba, R.A.Douglas, 
+            D.F.Herring, E.A.Silverstein
+            EXFOR: C0993002    Created: 2004-02-21  Updated: 2004-07-20
+            X4Reaction:6-C-12(D,EL)6-C-12,,DA; X4Points:474
+            Data converted from C.M. to Lab. 
+
+Version:      R33
+X4Number:     C0993002
+Source:       M.T.Mcellistrem+(1956), Jour. Physical Review, Vol.104, p.1008
+Reaction:     12C(d,d0)12C
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 12.0, 2.0, 12.0
+Zeds:         1, 6, 1, 6
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        100.6
+Data:
+ 2990.00,     0.00,  15.7443,     0.00
+ 3018.00,     0.00,  11.1136,     0.00
+ 3037.00,     0.00,  18.5227,     0.00
+ 3049.00,     0.00,  22.2272,     0.00
+ 3078.00,     0.00,  23.1534,     0.00
+ 3107.00,     0.00,  19.4488,     0.00
+ 3136.00,     0.00,  18.0596,   0.4631
+ 3166.00,     0.00,  14.8182,     0.00
+ 3194.00,     0.00,  14.8182,     0.00
+ 3223.00,     0.00,  12.0398,     0.00
+EndData:
+
