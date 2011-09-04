@@ -10,7 +10,7 @@ Comment:    Automatically converted from EXFOR
 
 Version:      R33
 X4Number:     F0896002
-Source:       V.B.Gybin+(1974), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.38, p.863
+Source:       V.B.Gubin+(1974), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.38, p.863
 Reaction:     40Ca(p,p0)40Ca
 Distribution: Energy
 Sigfactors:   1.00, 0.00
