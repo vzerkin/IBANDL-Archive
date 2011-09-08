@@ -1,0 +1,33 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Elastic Scattering of Protons by Vanadium, Chromium,
+             Iron, and Cobalt"
+            C.A.Preskitt, W.P.Alford
+            EXFOR: C1017004    Created: 2004-04-12  Updated: 2004-05-13
+            X4Reaction:26-FE-0(P,EL)26-FE-0,,DA,,RTH; X4Points:202
+
+Version:      R33
+X4Number:     C1017004
+Source:       C.A.Preskitt+(1959), Jour. Physical Review, Vol.115, p.389
+Reaction:     natFe(p,p0)natFe
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        rr
+Composition:
+Masses:       1.0, 55.845, 1.0, 55.845
+Zeds:         1, 26, 1, 26
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        155
+Data:
+ 3920.00,     0.00,    1.175,   0.0235
+ 4410.00,     0.00,     1.36,   0.0272
+ 4740.00,     0.00,    1.635,   0.0327
+ 5170.00,     0.00,     1.74,   0.0348
+ 5550.00,     0.00,    2.025,   0.0405
+ 5850.00,     0.00,     1.65,    0.033
+ 5990.00,     0.00,    1.635,   0.0327
+ 6140.00,     0.00,     1.37,   0.0274
+ 6420.00,     0.00,     1.47,   0.0294
+EndData:
+
