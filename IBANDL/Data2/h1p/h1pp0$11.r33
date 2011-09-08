@@ -1,32 +1,38 @@
-Comment:    Automatically converted from EXFOR
-            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
-            "Proton-Proton Scattering from 1.8 MeV to 4.2 MeV"
-            H.R.Worthington,  J.N.Mcgruer, D.E.Findley
-            EXFOR: C0935003    Created: 2003-09-29  Updated: 2004-01-23
+
+Comment:    Automatically converted from EXFOR on 2020-04-03,17:30:08
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-12-10 (V.Zerkin).
+            X4Title: "Proton-Proton Scattering from 1.8 MeV to 4.2 MeV"
+            X4Author: H.R.Worthington,  J.N.Mcgruer, D.E.Findley
+            EXFOR: C0935003    Created: 2003-09-29  Updated: 2005-09-26
             X4Reaction:1-H-1(P,EL)1-H-1,,DA; X4Points:99
-            Data converted from C.M. to Lab. 
+            Converted from C.M. to Lab.: Sigma, Theta
+            SigmaLab=SigmaCM/0.2557765
+            ThetaLab=12.2 ThetaCM:24.4 [24, 25]
+            ENSDF:LevelEnergy=0.00
             Theta groupping interval=3.0 deg.
+            Systematic uncertainty: ErrSys=0.31%  Min=0.15%  Max=1.11%
+            AME2016: M1=1.007825032 M2=1.007825032 M3=1.007825032 M4=1.007825032
 
 Version:      R33
-X4Number:     C0935003
+X4Number:     C0935003 20050926
 Source:       H.R.Worthington+(1953), Jour. Physical Review, Vol.90, p.899
 Reaction:     1H(p,p0)1H
 Distribution: Energy
-Sigfactors:   1.00, 0.00
+Sigfactors:   1.00, 0.0031
 Enfactors:    1.00, 0.00, 0.00, 0.00
 Units:        mb
 Composition:
 Masses:       1.0, 1.0, 1.0, 1.0
 Zeds:         1, 1, 1, 1
 Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
-Theta:        11.2
+Theta:        12.2
 Data:
- 1855.00,     0.00, 3630.2623, 1314.7005
- 1858.00,     0.00, 3630.2623, 1314.7005
- 2425.00,     0.00, 2218.8828, 742.6887
- 3037.00,     0.00, 1494.957, 453.9102
- 3527.00,     0.00, 1127.4125, 369.9792
- 3899.00,     0.00, 966.3788, 300.0183
- 4023.00,     0.00, 604.8573,   2.7219
+  1855.00,      0.00, 2317.5313,      0.00
+  1858.00,      0.00, 2317.5313,      0.00
+  2425.00,      0.00, 1477.3446,      0.00
+  3037.00,      0.00, 1043.0982,      0.00
+  3527.00,      0.00,  758.8657,      0.00
+  3899.00,      0.00,   668.357,      0.00
+  4023.00,      0.00,  602.6746,      0.00
 EndData:
-
