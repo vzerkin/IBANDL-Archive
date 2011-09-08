@@ -1,0 +1,39 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Absolute cross section for recoil detection of
+             deuterium"
+            F.Besenbacher, I.Stensgaard, P.Vase
+            EXFOR: A1213002    Created: 1987-06-02  Updated: 1999-05-05
+            X4Reaction:1-H-2(A,D)2-HE-4,,DA,,,EXP; X4Points:93
+
+Version:      R33
+X4Number:     A1213002
+Source:       F.Besenbacher+(1986), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.15, p.459
+Reaction:     2H(a,d)4He
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       4.0, 2.0, 2.0, 4.0
+Zeds:         2, 1, 1, 2
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        0
+Data:
+  804.00,     4.00,   593.60,    29.68
+  905.80,     4.00,   535.20,    26.76
+ 1003.00,     4.00,   507.80,    25.39
+ 1108.00,     4.00,   492.90,   24.645
+ 1209.00,     4.00,   502.70,   25.135
+ 1306.00,     4.00,   478.40,    23.92
+ 1407.00,     4.00,   482.00,    24.10
+ 1508.00,     4.00,   467.00,    23.35
+ 1609.00,     4.00,   495.50,   24.775
+ 1710.00,     4.00,   486.70,   24.335
+ 1811.00,     4.00,   502.70,   25.135
+ 1862.00,     4.00,   518.50,   25.925
+ 1916.00,     4.00,   568.40,    28.42
+ 1961.00,     4.00,   677.10,   33.855
+ 2018.00,     4.00,   888.30,   44.415
+EndData:
+
