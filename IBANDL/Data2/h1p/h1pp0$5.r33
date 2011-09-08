@@ -1,0 +1,32 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Proton-Proton Scattering from 1.8 MeV to 4.2 MeV"
+            H.R.Worthington,  J.N.Mcgruer, D.E.Findley
+            EXFOR: C0935003    Created: 2003-09-29  Updated: 2004-01-23
+            X4Reaction:1-H-1(P,EL)1-H-1,,DA; X4Points:99
+            Data converted from C.M. to Lab. 
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     C0935003
+Source:       H.R.Worthington+(1953), Jour. Physical Review, Vol.90, p.899
+Reaction:     1H(p,p0)1H
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 1.0, 1.0, 1.0
+Zeds:         1, 1, 1, 1
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        40
+Data:
+ 1855.00,     0.00, 513.3467,    1.232
+ 1858.00,     0.00, 513.3467,    1.232
+ 2425.00,     0.00, 481.3258,   0.9627
+ 3037.00,     0.00, 431.0421,   0.9914
+ 3527.00,     0.00, 396.0489,   0.9505
+ 3899.00,     0.00, 368.5323,   1.0687
+ 4023.00,     0.00, 349.4116,   1.0133
+EndData:
+
