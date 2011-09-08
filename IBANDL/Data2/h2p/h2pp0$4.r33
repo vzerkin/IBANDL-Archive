@@ -1,0 +1,36 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Measurement of the D(p,p)D cross section at
+             laboratory backward angles of 151deg and 167deg"
+            D.J.Desimone, C.Haertling, J.R.Tesmer, Y.Q.Wang
+            EXFOR: C1574003    Created: 2007-11-17  Updated: 2008-03-05
+            X4Reaction:1-H-2(P,EL)1-H-2,,DA; X4Points:12
+
+Version:      R33
+X4Number:     C1574003
+Source:       D.J.Desimone+(2007), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.261, p.405
+Reaction:     2H(p,p0)2H
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 2.0, 1.0, 2.0
+Zeds:         1, 1, 1, 1
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        167
+Data:
+ 1900.00,     0.00,   115.00,     6.10
+ 2000.00,     0.00,   107.00,     5.70
+ 2100.00,     0.00,   111.00,     5.90
+ 2200.00,     0.00,   110.00,     5.80
+ 2300.00,     0.00,    97.10,     5.10
+ 2400.00,     0.00,   106.00,     2.30
+ 2500.00,     0.00,   102.00,     2.10
+ 2600.00,     0.00,   104.00,     2.10
+ 2700.00,     0.00,    98.20,     2.00
+ 2800.00,     0.00,    97.40,     2.00
+ 2900.00,     0.00,   101.00,     2.10
+ 3000.00,     0.00,    99.10,     2.00
+EndData:
+
