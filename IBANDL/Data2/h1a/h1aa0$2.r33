@@ -1,0 +1,35 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Recoil cross-sections of proton and deuteron by 4He at
+             a recoil angle of 0 deg in an energy range of 5-14 MeV"
+            R.Ishigami,  Y.Ito,  K.Yasuda,  M.Sasase, 
+             S.Nishio, S.Hatori
+            EXFOR: E1908002    Created: 2004-12-13  Updated: 2005-11-09
+            X4Reaction:1-H-1(A,EL)1-H-1,,DA,P; X4Points:11
+
+Version:      R33
+X4Number:     E1908002
+Source:       R.Ishigami+(2004), Jour. J. of Nuclear Science and Technology, Tokyo, Vol.41, Issue.10, p.953
+Reaction:     1H(a,p)4He
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       4.0, 1.0, 1.0, 4.0
+Zeds:         2, 1, 1, 2
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        0
+Data:
+ 5430.00,   380.00,   860.00,    60.00
+ 6420.00,   340.00,  1230.00,    80.00
+ 6970.00,   320.00,  1410.00,    80.00
+ 8970.00,   280.00,  2000.00,    80.00
+ 9020.00,   270.00,  1920.00,   100.00
+ 9750.00,   260.00,  1870.00,    90.00
+10170.00,   250.00,  1710.00,    80.00
+11700.00,   230.00,  1380.00,    70.00
+13320.00,   120.00,   960.00,    60.00
+13660.00,   110.00,   855.00,    55.00
+EndData:
+
