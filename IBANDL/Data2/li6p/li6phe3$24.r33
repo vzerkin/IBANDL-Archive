@@ -12,7 +12,7 @@ Comment:    Automatically converted from EXFOR
 Version:      R33
 X4Number:     A1513005
 Source:       F.Bertrand+(1968), Rept. Centre d`Etudes Nucleaires, Saclay Reports, No.3428
-Reaction:     6Li(p,3He)4He
+Reaction:     6Li(p,3He0)4He
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
