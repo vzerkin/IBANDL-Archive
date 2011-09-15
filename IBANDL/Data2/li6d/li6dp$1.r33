@@ -1,0 +1,35 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "6Li(p,alpha)3He, 6Li(d,alpha)4He, 6Li(d,p0)7Li,
+             6Li(d,p1)7Li* reaction investigation in the energy
+             interval from 300 keV to 1000 keV"
+            F.Bertrand, G.Grenier, J.Pornet
+            EXFOR: A1513003    Created: 1980-08-14  Updated: 1999-05-05
+            X4Reaction:3-LI-6(D,P)3-LI-7,,DA; X4Points:127
+            Data converted from C.M. to Lab. 
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     A1513003
+Source:       F.Bertrand+(1968), Rept. Centre d`Etudes Nucleaires, Saclay Reports, No.3428
+Reaction:     6Li(d,p0)7Li
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 6.0, 1.0, 7.0
+Zeds:         1, 3, 1, 3
+Qvalue:       5025.4, 0.00, 0.00, 0.00, 0.00
+Theta:        158.3
+Data:
+  300.00,     0.00,   0.7525,   0.0229
+  400.00,     0.00,   1.6125,    0.048
+  500.00,     0.00,   2.2394,   0.0672
+  600.00,     0.00,   3.0331,   0.0913
+  700.00,     0.00,   3.5682,   0.1072
+  800.00,     0.00,   3.5387,   0.1063
+  900.00,     0.00,   3.7712,   0.1133
+ 1000.00,     0.00,   3.7959,   0.1142
+EndData:
+
