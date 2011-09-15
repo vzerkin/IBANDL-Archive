@@ -8,7 +8,7 @@ Comment:    Automatically converted from EXFOR
 Version:      R33
 X4Number:     A1454003
 Source:       S.Bashkin+(1951), Jour. Physical Review, Vol.84, Issue.6, p.1124
-Reaction:     6Li(p,3He)4He
+Reaction:     6Li(p,3He0)4He
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
