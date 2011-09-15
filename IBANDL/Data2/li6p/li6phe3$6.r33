@@ -1,0 +1,32 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Cross section measurements for the 6Li(p,alpha)3He
+             reaction in the proton energy range 1.0 - 2.6 MeV"
+            Chia-Shou Lin, Wan-Shou Hou, Min Wen, Jen-Chang Chou
+            EXFOR: A1539002    Created: 1980-08-20  Updated: 1999-05-05
+            X4Reaction:3-LI-6(P,HE3)2-HE-4,,DA; X4Points:260
+            Data converted from C.M. to Lab. 
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     A1539002
+Source:       Chia-Shou Lin+(1977), Jour. Nuclear Physics, Section A, Vol.275, p.93
+Reaction:     6Li(p,3He)4He
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 6.0, 3.0, 4.0
+Zeds:         1, 3, 2, 2
+Qvalue:       4019.63, 0.00, 0.00, 0.00, 0.00
+Theta:        136.5
+Data:
+ 1400.00,     0.00,   9.3173,   0.9317
+ 1500.00,     0.00,  10.0898,    1.009
+ 1600.00,     0.00,  12.9329,   1.2933
+ 1700.00,     0.00,  14.8959,   1.4896
+ 1750.00,     0.00,  14.4057,   1.4406
+ 2000.00,     0.00,  13.0102,    1.301
+EndData:
+
