@@ -1,0 +1,40 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Absolute cross sections for deuteron-induced reactions
+             on 6Li at energies below 1 MeV."
+            A.J.Elwyn, R.E.Holland, C.N.Davids, L.Meyer-Schuetzmeister, 
+            J.E.Monahan, F.P.Mooring, W.Ray Jr
+            EXFOR: T0134004    Created: 2000-11-21  Updated: 2001-03-30
+            X4Reaction:3-LI-6(D,P)3-LI-7,PAR,DA; X4Points:370
+            LevelEnergy: 478.00
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     T0134004
+Source:       A.J.Elwyn+(1977), Jour. Physical Review, Part C, Nuclear Physics, Vol.16, p.1744
+Reaction:     6Li(d,p1)7Li
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 6.0, 1.0, 7.0
+Zeds:         1, 3, 1, 3
+Qvalue:       4547.4, 0.00, 0.00, 0.00, 0.00
+Theta:        90
+Data:
+  118.00,     0.00,    0.016,     0.00
+  145.00,     0.00,    0.045,     0.00
+  179.00,     0.00,    0.092,     0.00
+  182.00,     0.00,    0.098,     0.00
+  263.00,     0.00,     0.34,     0.00
+  266.00,     0.00,     0.35,     0.00
+  366.00,     0.00,     0.71,     0.00
+  369.00,     0.00,     0.73,     0.00
+  570.00,     0.00,     1.53,     0.00
+  673.00,     0.00,     1.81,     0.00
+  773.00,     0.00,     1.93,     0.00
+  875.00,     0.00,     2.14,     0.00
+  975.00,     0.00,     2.24,     0.00
+EndData:
+
