@@ -1,0 +1,46 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Excited states in 10B from the reaction 6Li(a,a)6Li."
+            V.Meyer, R.E.Pixley, P.Truol
+            EXFOR: F0788003    Created: 2006-10-18  Updated: 2007-03-20
+            X4Reaction:3-LI-6(A,EL)3-LI-6,,DA; X4Points:300
+            Data converted from C.M. to Lab. 
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     F0788003
+Source:       V.Meyer+(1967), Jour. Nuclear Physics, Section A, Vol.101, p.321
+Reaction:     6Li(a,a0)6Li
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       4.0, 6.0, 4.0, 6.0
+Zeds:         2, 3, 2, 3
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        120.1
+Data:
+ 3294.90,     0.00,  69.5314,     0.00
+ 3324.90,     0.00,  71.2676,     0.00
+ 3351.50,     0.00,  74.0471,     0.00
+ 3384.40,     0.00,  71.4358,     0.00
+ 3412.00,     0.00,  70.2185,     0.00
+ 3439.50,     0.00,   64.132,     0.00
+ 3459.90,     0.00,  70.9112,     0.00
+ 3470.50,     0.00,  75.7776,     0.00
+ 3480.20,     0.00,  94.2024,     0.00
+ 3489.40,     0.00, 131.7505,     0.00
+ 3500.00,     0.00,   154.52,     0.00
+ 3510.70,     0.00, 151.3898,     0.00
+ 3520.40,     0.00, 144.0888,     0.00
+ 3531.00,     0.00, 126.5307,     0.00
+ 3550.80,     0.00, 100.4571,     0.00
+ 3579.80,     0.00,  88.9825,     0.00
+ 3611.30,     0.00,  81.5049,     0.00
+ 3640.80,     0.00,  78.5486,     0.00
+ 3671.70,     0.00,   74.375,     0.00
+ 3701.70,     0.00,  76.1111,     0.00
+ 3730.70,     0.00,  72.1114,     0.00
+EndData:
+
