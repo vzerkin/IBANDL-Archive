@@ -1,0 +1,51 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "The measurements of the excitation function for the
+             Li-6(He3,He3)Li-6 and Li-6(He3,d)Be-7 reactions"
+            S.Buzhin'ski, P.Zhupran'ski, K.Rusec, I.M.Turkevich, 
+            Ja.Turkevich
+            EXFOR: F0028003    Created: 1982-06-21  Updated: 1999-04-27
+            X4Reaction:3-LI-6(HE3,D)4-BE-7,,DA,,,EXP; X4Points:26
+
+Version:      R33
+X4Number:     F0028003
+Source:       S.Buzhin`ski+(1979), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.43, p.158
+Reaction:     6Li(3He,d)7Be
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 6.0, 2.0, 7.0
+Zeds:         2, 3, 1, 4
+Qvalue:       112.25, 0.00, 0.00, 0.00, 0.00
+Theta:        90
+Data:
+ 1006.00,     5.00,    28.43,   0.9288
+ 1099.00,     5.00,    31.86,   0.9288
+ 1156.00,     5.00,    43.72,    2.263
+ 1208.00,     5.00,    48.81,    3.031
+ 1254.00,     5.00,    59.21,     2.25
+ 1310.00,     5.00,    61.27,    2.277
+ 1358.00,     5.00,    64.11,     2.25
+ 1411.00,     5.00,    73.73,    1.509
+ 1433.00,     5.00,    64.60,    3.758
+ 1461.00,     5.00,    90.15,    2.263
+ 1486.00,     5.00,    77.23,    3.031
+ 1509.00,     5.00,    91.48,    3.017
+ 1525.00,     5.00,    94.44,    3.758
+ 1532.00,     5.00,    95.17,   0.7544
+ 1548.00,     5.00,   107.20,    3.772
+ 1562.00,     5.00,   103.40,    3.758
+ 1572.00,     5.00,    90.49,    3.017
+ 1583.00,     5.00,    88.19,    3.017
+ 1609.00,     5.00,    84.32,    2.263
+ 1630.00,     5.00,    75.19,    2.236
+ 1657.00,     5.00,    78.11,    3.004
+ 1709.00,     5.00,    76.41,    2.263
+ 1754.00,     5.00,    83.04,    3.004
+ 1798.00,     5.00,    77.60,     2.99
+ 1907.00,     5.00,    90.03,    2.263
+ 2003.00,     5.00,    79.11,    3.758
+EndData:
+
