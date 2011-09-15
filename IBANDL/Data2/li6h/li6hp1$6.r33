@@ -1,0 +1,34 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "The 6Li(3He,p) and 8Li(3He,p+2alpha) reactions at
+             the energy less than 2 MeV"
+            B.Vignon, E.Ligeon, J.P.Longequeue
+            EXFOR: D0601004    Created: 2010-03-24  Updated: 2011-03-23
+            X4Reaction:3-LI-6(HE3,P)4-BE-8,PAR,DA; X4Points:192
+            Data converted from C.M. to Lab. 
+            LevelEnergy: 2900.00
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     D0601004
+Source:       B.Vignon+(1969), Jour. Journal de Physique, Vol.30, p.913
+Reaction:     6Li(3He,p1)8Be
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 6.0, 1.0, 8.0
+Zeds:         2, 3, 1, 4
+Qvalue:       13887.36, 0.00, 0.00, 0.00, 0.00
+Theta:        99.1
+Data:
+ 1400.00,     0.00,   2.8834,     0.00
+ 1500.00,     0.00,   2.6215,     0.00
+ 1560.00,     0.00,   3.4049,     0.00
+ 1580.00,     0.00,   3.6798,     0.00
+ 1600.00,     0.00,   3.4477,     0.00
+ 1680.00,     0.00,   3.7979,     0.00
+ 1800.00,     0.00,   3.6826,     0.00
+EndData:
+
