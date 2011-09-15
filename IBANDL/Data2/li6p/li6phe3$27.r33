@@ -1,0 +1,33 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Cross sections for the Li-6(p,He-3)He-4 reaction at
+             energies between 0.1 and 3.0 mev"
+            A.J.Elwyn, R.E.Holland, C.N.Davids, L.Meyer-Schutzmeister, 
+            F.P.Mooring, W.Ray
+            EXFOR: F0012002    Created: 1982-03-02  Updated: 1999-04-27
+            X4Reaction:3-LI-6(P,HE3)2-HE-4,,DA,,,EXP; X4Points:110
+            Data converted from C.M. to Lab. 
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     F0012002
+Source:       A.J.Elwyn+(1979), Jour. Physical Review, Part C, Nuclear Physics, Vol.20, p.1984
+Reaction:     6Li(p,3He)4He
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 6.0, 3.0, 4.0
+Zeds:         1, 3, 2, 2
+Qvalue:       4019.63, 0.00, 0.00, 0.00, 0.00
+Theta:        125.3
+Data:
+  136.00,     0.00,    0.839,   0.2094
+  186.00,     0.00,    0.922,   0.5541
+  252.00,     0.00,   2.3057,   0.1011
+  324.00,     0.00,   2.9573,   0.1179
+  490.00,     0.00,   3.8148,    0.105
+  589.00,     0.00,   4.2054,   0.0869
+EndData:
+
