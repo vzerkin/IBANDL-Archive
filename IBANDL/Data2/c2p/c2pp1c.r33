@@ -1,7 +1,7 @@
 Comment: File created by R33 Manager version 0.1
 
 Version: R33
-Source: V. Paneta, M. Kokkoris,  A. Lagoyannis, A. Gurbich
+Source: D.Abriola+(2011), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.269, p.2011
 Name: Valentina Paneta
 Address1: National Technical University of Athens,
 Address2: Athens, Greece
@@ -11,6 +11,7 @@ Address5: Greece
 Address6: 
 Serial Number: 0
 SubFile: val12Cpp1_110.r33
+X4Number: O1909003
 Reaction: 12C(p,p1)12C
 Distribution: Energy
 Composition: 
