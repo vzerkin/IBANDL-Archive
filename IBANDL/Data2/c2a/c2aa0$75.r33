@@ -1,0 +1,35 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Cross sections for 165 degree backscattering of
+             8.0-11.7 MeV a from carbon"
+            J.C.Banks, W.R.Wampler, J.F.Browning, B.L.Doyle
+            EXFOR: C1444002    Created: 2006-06-26  Updated: 2007-01-04
+            X4Reaction:6-C-12(A,EL)6-C-12,,DA,,RTH; X4Points:11
+
+Version:      R33
+X4Number:     C1444002
+Source:       J.C.Banks+(2006), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.249, p.101
+Reaction:     12C(a,a0)12C
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        rr
+Composition:
+Masses:       4.0, 12.0, 4.0, 12.0
+Zeds:         2, 6, 2, 6
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        165
+Data:
+ 8964.20,     0.00,  46.9967,   5.3576
+ 9465.50,     0.00,   94.693,   10.795
+ 9966.80,     0.00,  37.4035,    4.264
+10468.00,     0.00,   4.6231,    0.527
+10969.00,     0.00,   18.915,   2.1563
+11069.00,     0.00,  69.9092,   7.9696
+11169.00,     0.00,  77.2908,   8.8112
+11270.00,     0.00,  80.6643,   9.1957
+11370.00,     0.00,  81.5091,    9.292
+11470.00,     0.00,  82.8379,   9.4435
+11670.00,     0.00,  58.2092,   6.6358
+EndData:
+
