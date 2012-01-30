@@ -1,0 +1,47 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "The Mg-26(d,a)Na-24 reaction at low energies."
+            E.K.Lin,  W.N.Wang,  C.C.Kiang,  C.C.Hsu, 
+             P.S.Song, L.P.Liang
+            EXFOR: O1029002    Created: 2003-02-12  Updated: 2003-03-20
+            X4Reaction:12-MG-26(D,A)11-NA-24,PAR,DA; X4Points:97
+            LevelEnergy: 1846.00
+
+Version:      R33
+X4Number:     O1029002
+Source:       E.K.Lin+(1970), Jour. Chinese Journal of Physics (Taiwan), Vol.8, p.36
+Reaction:     26Mg(d,a7)24Na
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 26.0, 4.0, 24.0
+Zeds:         1, 12, 2, 11
+Qvalue:       1068.34, 0.00, 0.00, 0.00, 0.00
+Theta:        140
+Data:
+ 2576.00,     0.00,    0.282,     0.00
+ 2602.00,     0.00,    0.135,     0.00
+ 2626.00,     0.00,    0.059,     0.00
+ 2651.00,     0.00,    0.024,     0.00
+ 2675.00,     0.00,    0.194,     0.00
+ 2703.00,     0.00,    0.112,     0.00
+ 2730.00,     0.00,    0.159,     0.00
+ 2754.00,     0.00,    0.229,     0.00
+ 2777.00,     0.00,    0.165,     0.00
+ 2800.00,     0.00,    0.076,     0.00
+ 2827.00,     0.00,    0.106,     0.00
+ 2849.00,     0.00,    0.118,     0.00
+ 2877.00,     0.00,     0.10,     0.00
+ 2904.00,     0.00,    0.053,     0.00
+ 2928.00,     0.00,    0.041,     0.00
+ 2950.00,     0.00,    0.088,     0.00
+ 2976.00,     0.00,    0.153,     0.00
+ 3002.00,     0.00,    0.229,     0.00
+ 3026.00,     0.00,    0.312,     0.00
+ 3052.00,     0.00,    0.271,     0.00
+ 3077.00,     0.00,    0.265,     0.00
+ 3101.00,     0.00,    0.265,     0.00
+EndData:
+
