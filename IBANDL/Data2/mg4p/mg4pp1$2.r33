@@ -1,0 +1,46 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Angle and energy distributions of the probability  of
+             2+ level sub-states population in the reactions
+             28Si(pp`) and 24Mg(pp`)."
+            V.V.Lazarev, O.V.Chubinsky, L.I.Vinogradov
+            EXFOR: F0762003    Created: 2006-02-26  Updated: 2006-08-14
+            X4Reaction:12-MG-24(P,INL)12-MG-24,PAR,DA; X4Points:41
+            LevelEnergy: 1368.00
+
+Version:      R33
+X4Number:     F0762003
+Source:       V.V.Lazarev+(1992), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.56, p.197
+Reaction:     24Mg(p,p1)24Mg
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 24.0, 1.0, 24.0
+Zeds:         1, 12, 1, 12
+Qvalue:       -1368.0, 0.00, 0.00, 0.00, 0.00
+Theta:        90
+Data:
+ 5787.10,     0.00,   53.715,     0.00
+ 5818.80,     0.00,   55.933,     0.00
+ 5830.70,     0.00,   51.909,     0.00
+ 5847.10,     0.00,   44.189,     0.00
+ 5869.30,     0.00,   49.282,     0.00
+ 5881.20,     0.00,   44.601,     0.00
+ 5898.30,     0.00,   42.383,     0.00
+ 5912.20,     0.00,   35.403,     0.00
+ 5921.40,     0.00,   45.422,     0.00
+ 5933.60,     0.00,    41.07,     0.00
+ 5949.10,     0.00,   39.263,     0.00
+ 5964.60,     0.00,   37.292,     0.00
+ 5982.10,     0.00,   36.143,     0.00
+ 5997.30,     0.00,   37.293,     0.00
+ 6029.60,     0.00,   36.143,     0.00
+ 6058.30,     0.00,   47.395,     0.00
+ 6092.30,     0.00,   38.115,     0.00
+ 6127.90,     0.00,   35.816,     0.00
+ 6161.90,     0.00,    42.14,     0.00
+ 6194.90,     0.00,   36.967,     0.00
+EndData:
+
