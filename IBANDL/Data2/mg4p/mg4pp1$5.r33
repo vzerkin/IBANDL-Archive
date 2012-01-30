@@ -1,0 +1,39 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Data Analysis according to Scattering of Protons on
+             Nuclei 24Mg under Energy about 6 MeV"
+            O.B.Chubinskiy, Yu.V.Kangropol, L.I.Vinogradov, Yu.F.Andropov, 
+            L.V.Gustova
+            EXFOR: F0245002    Created: 2003-08-06  Updated: 2004-03-22
+            X4Reaction:12-MG-24(P,INL)12-MG-24,PAR,DA; X4Points:57
+            LevelEnergy: 1369.00
+
+Version:      R33
+X4Number:     F0245002
+Source:       O.B.Chubinskiy+(1984), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.48, Issue.5, p.972
+Reaction:     24Mg(p,p1)24Mg
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 24.0, 1.0, 24.0
+Zeds:         1, 12, 1, 12
+Qvalue:       -1369.0, 0.00, 0.00, 0.00, 0.00
+Theta:        133
+Data:
+ 5715.60,     0.00,    49.52,     0.00
+ 5756.80,     0.00,    46.43,     0.00
+ 5795.30,     0.00,   46.764,     0.00
+ 5806.40,     0.00,   46.434,     0.00
+ 5826.30,     0.00,   44.446,     0.00
+ 5855.20,     0.00,   45.253,     0.00
+ 5875.10,     0.00,    43.71,     0.00
+ 5897.00,     0.00,    40.23,     0.00
+ 5937.40,     0.00,   24.962,     0.00
+ 5958.10,     0.00,   25.348,     0.00
+ 5976.50,     0.00,   24.106,     0.00
+ 5997.30,     0.00,   24.194,     0.00
+ 6061.70,     0.00,   34.999,     0.00
+EndData:
+
