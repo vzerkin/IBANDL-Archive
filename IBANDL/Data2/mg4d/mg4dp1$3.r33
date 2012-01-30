@@ -1,0 +1,29 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
+            "Investigation of the (d,p) reaction on magnesium
+             isotopes at low deuteron energies."
+            Omar, I.I.Zaloubovsky, M.H.S.Bakr, R.Zaghloul, 
+            V.J.Gontchar
+            EXFOR: F0922009    Created: 2008-04-28  Updated: 2008-07-10
+            X4Reaction:12-MG-24(D,P)12-MG-25,PAR,DA; X4Points:40
+            Data converted from C.M. to Lab. 
+            LevelEnergy: 584.00
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     F0922009
+Source:       Omar+(1964), Jour. Nuclear Physics, Vol.56, p.97
+Reaction:     24Mg(d,p1)25Mg
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 24.0, 1.0, 25.0
+Zeds:         1, 12, 1, 12
+Qvalue:       4522.01, 0.00, 0.00, 0.00, 0.00
+Theta:        118.3
+Data:
+ 2100.00,     0.00,    0.918,   0.0772
+EndData:
+
