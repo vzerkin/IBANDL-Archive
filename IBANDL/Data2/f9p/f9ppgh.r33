@@ -1,0 +1,24 @@
+Comment: Angle was not reported in the paper
+
+Version: R33
+Source:  M.J. Kenny, Aust. J. Phys. 34 (1981) 35
+Name: Gurbich
+Serial Number: 0
+Reaction: 19F(p,pg1-0)19F
+Egamma: 110
+Distribution: Energy
+Composition:
+Masses: 1,19,1,19
+Zeds: 1,9,1,9
+Qvalue: 0, 0, 0, 0, 0
+Theta: 90
+Sigfactors: 1000000, 1000000
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+1750	0.0	0.85	0.09
+2000	0.0	2.2	0.2
+2250	0.0	2.7	0.3
+2500	0.0	5.1	0.6
+2750	0.0	7.5	0.7
+EndData:
