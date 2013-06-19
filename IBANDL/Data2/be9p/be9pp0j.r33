@@ -1,0 +1,47 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2012/10/18, by V.Zerkin.
+            "A study of the 9Be(p,a)6Li reaction from 3.5 to
+             12.5 MeV"
+            H.R.Blieden, G.M.Temmer, K.L.Warsh
+            EXFOR: F0167003    Created: 1980-11-15  Updated: 2011-12-15
+            X4Reaction:4-BE-9(P,EL)4-BE-9,,DA; X4Points:21
+            LevelEnergy: 0.00
+
+Version:      R33
+X4Number:     F0167003
+Source:       H.R.Blieden+(1963), Jour. Nuclear Physics, Vol.49, p.209
+Reaction:     9Be(p,p0)9Be
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 9.0, 1.0, 9.0
+Zeds:         1, 4, 1, 4
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        90
+Data:
+ 5724.00,     0.00,    17.57,   2.6355
+ 5758.00,     0.00,    16.32,    2.448
+ 5803.00,     0.00,    17.57,   2.6355
+ 5870.00,     0.00,    18.33,   2.7495
+ 5903.00,     0.00,    17.21,   2.5815
+ 5948.00,     0.00,    16.50,    2.475
+ 6004.00,     0.00,    15.65,   2.3475
+ 6094.00,     0.00,    15.82,    2.373
+ 6195.00,     0.00,    15.01,   2.2515
+ 6284.00,     0.00,    14.70,    2.205
+ 6396.00,     0.00,    14.86,    2.229
+ 6497.00,     0.00,    13.38,    2.007
+ 6598.00,     0.00,    13.52,    2.028
+ 7011.00,     0.00,    14.13,   2.1195
+ 7492.00,     0.00,    13.85,   2.0775
+ 7683.00,     0.00,    13.86,    2.079
+ 7750.00,     0.00,    14.16,    2.124
+ 7783.00,     0.00,    14.01,   2.1015
+ 7850.00,     0.00,    13.86,    2.079
+ 7895.00,     0.00,    13.87,   2.0805
+ 7951.00,     0.00,    14.02,    2.103
+EndData:
+
