@@ -5,6 +5,7 @@ Version: R33
 Source:  H.Van Bebber et al. Nucl. Instr. & Meth. B136-138 (1998) 72
 Name:
 Serial Number: 0
+X4Number: O0856002
 Reaction: 14N(d,pg5-0)15N
 Egamma: 7300
 Distribution: Energy
