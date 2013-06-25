@@ -4,6 +4,7 @@ Version: R33
 Source:  G.Deconninck, G.Demortier, J. Rad. Chem. 24 (1975) 437
 Name: Gurbich
 Serial Number: 0
+X4Number: O2208012
 Reaction: 197Au(p,pg2-1)197Au
 Egamma: 191
 Distribution: Energy
