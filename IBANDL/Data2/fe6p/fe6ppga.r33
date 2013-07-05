@@ -1,3 +1,4 @@
+
 Comment:    Automatically converted from EXFOR
             by the IAEA-NDS EXFOR Web-Retrieval System
             program version-2012/10/18, by V.Zerkin.
@@ -12,6 +13,7 @@ Version:      R33
 X4Number:     F0920010
 Source:       G.A.Krivonosov+(1976), Jour. Yadernaya Fizika, Vol.24, p.461
 Reaction:     56Fe(p,pg1-0)56Fe
+Egamma: 847
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
@@ -19,7 +21,7 @@ Units:        mb
 Composition:
 Masses:       1.0, 56.0, 1.0, 56.0
 Zeds:         1, 26, 1, 26
-Qvalue:       -847.0, 0.00, 0.00, 0.00, 0.00
+Qvalue:       0.00, 0.00, 0.00, 0.00, 0.00
 Theta:        56
 Data:
  1341.40,     0.00, 1.475e-5, 4.503e-6
