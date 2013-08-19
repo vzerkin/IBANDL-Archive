@@ -1,0 +1,46 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2012/10/18, by V.Zerkin.
+            "The dependence of the partial channel decay attributes
+             from the structure of the excitation function for
+             Li-6,7(H-(1,2,3),xg) reactions"
+            B.Ja.Guzhovskij, S.N.Abramovich, V.H.Protopopov
+            EXFOR: F0024002    Created: 1985-10-26  Updated: 1999-04-27
+            X4Reaction:3-LI-7(P,INL)3-LI-7,PAR,DA,G,,EXP; X4Points:18
+            Transaction: 480.00 -&gt; 0.00
+
+Version:      R33
+X4Number:     F0024002
+Source:       B.Ja.Guzhovskij+(1984), Jour. Izv.Kaz.Akad.Nauk,Ser.Fiz.-Mat., Vol.4, p.24
+Reaction:     7Li(p,pg1-0)7Li
+Egamma:       480.0
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 7.0, 1.0, 7.0
+Zeds:         1, 3, 1, 3
+Qvalue:       0.0, 0.0, 0.0, 0.0, 0.0
+Theta:        55
+Data:
+ 2950.00,     0.00,    8.905,    0.554
+ 3960.00,     0.00,    10.68,    0.393
+ 4210.00,     0.00,    10.88,    0.422
+ 4460.00,     0.00,    11.44,     0.43
+ 4720.00,     0.00,    11.85,    0.386
+ 4970.00,     0.00,    12.85,    0.506
+ 5220.00,     0.00,    13.14,    0.796
+ 5470.00,     0.00,    14.55,    0.327
+ 5720.00,     0.00,    15.31,    0.712
+ 5970.00,     0.00,    14.04,    0.904
+ 6220.00,     0.00,    13.94,    0.272
+ 6470.00,     0.00,    13.58,    0.297
+ 6720.00,     0.00,    12.84,    0.285
+ 6970.00,     0.00,    12.24,    0.321
+ 7230.00,     0.00,    12.36,    0.405
+ 7480.00,     0.00,    11.01,    0.457
+ 7730.00,     0.00,    10.68,     0.41
+ 7980.00,     0.00,    10.72,     0.50
+EndData:
+
