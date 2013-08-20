@@ -1,0 +1,32 @@
+Comment:    
+            "Thin target 7Li(p,p'gamma)7Li inelastic gamma-ray
+             yield measurements"
+            Aslam,W.V.Prestwich,F.E.McNeill
+            EXFOR: C0901003    Created: 2003-01-29  
+            X4Reaction:3-LI-7(P,INL)3-LI-7,,SIG; 
+            
+
+Version:      R33
+X4Number:     C0901003
+Source:       Aslam+(2003), Jour. of Radioanal. and Nuclear Chemistry, Vol.254, p.533 
+Reaction:     7Li(p,pg1-0)7Li
+Egamma:       480.0
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1000.00, 0.00, 0.00, 0.00
+Units:        tot
+Composition:
+Masses:       1.0, 7.0, 1.0, 7.0
+Zeds:         1, 3, 1, 3
+Qvalue:       0.0, 0.0, 0.0, 0.0, 0.0
+Theta:        360
+Data:
+ 0.98,     0.00,    20.68,    0.00
+ 1.03,     0.00,    38.22,    0.00
+ 1.10,     0.00,    42.53,    0.00
+ 1.13,     0.00,    40.96,    0.00
+ 1.28,     0.00,    33.42,    0.00
+ 1.38,     0.00,    34.27,    0.00
+ 1.58,     0.00,    45.41,    0.00
+ 1.78,     0.00,    62.64,    0.00
+EndData:
