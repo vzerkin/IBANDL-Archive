@@ -1,0 +1,57 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2012/10/18, by V.Zerkin.
+            "Gamma ray production cross-sections of deuteron
+             induced nuclear reactions for light element analysis"
+            G.A.Sziki, A.Simon, Z.Szikszai, Zs.Kertesz, 
+            E.Dobos
+            EXFOR: D4155006    Created: 2006-11-10
+            X4Reaction:9-F-19(D,P)9-F-20,PAR,DA,G; X4Points:29
+            Transaction: 656.00 -&gt; 0.00
+
+Version:      R33
+X4Number:     D4155006
+Source:       G.A.Sziki+(2006), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.251, p.343
+Reaction:     19F(d,pg1-0)20F
+Egamma:       656.0
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 19.0, 1.0, 20.0
+Zeds:         1, 9, 1, 9
+Qvalue:       0.0, 0.0, 0.0, 0.0, 0.0
+Theta:        60
+Data:
+  750.00,     1.50,    0.062,    0.005
+  800.00,     1.50,     0.16,     0.01
+  850.00,     1.50,     0.29,     0.02
+  900.00,     1.50,     0.36,     0.03
+  950.00,     1.50,     0.44,     0.03
+ 1000.00,     1.50,     0.58,     0.03
+ 1050.00,     1.50,     0.73,     0.03
+ 1100.00,     1.50,     0.84,     0.04
+ 1150.00,     1.50,     1.14,     0.04
+ 1200.00,     1.50,     1.55,     0.04
+ 1250.00,     1.50,     1.76,     0.05
+ 1300.00,     1.50,     1.89,     0.05
+ 1350.00,     1.50,     2.03,     0.05
+ 1400.00,     1.50,     2.34,     0.06
+ 1450.00,     1.50,     2.54,     0.06
+ 1500.00,     1.50,     3.01,     0.06
+ 1550.00,     1.50,     3.12,     0.06
+ 1600.00,     1.50,     3.16,     0.07
+ 1650.00,     1.50,     3.37,     0.06
+ 1675.00,     1.50,     3.48,     0.07
+ 1700.00,     1.50,     3.63,     0.07
+ 1725.00,     1.50,     4.00,     0.08
+ 1750.00,     1.50,     3.95,     0.08
+ 1775.00,     1.50,     4.05,     0.08
+ 1800.00,     1.50,     4.31,     0.08
+ 1850.00,     1.50,     4.59,     0.09
+ 1900.00,     1.50,     5.06,     0.10
+ 1950.00,     1.50,     5.32,     0.10
+ 2000.00,     1.50,     5.82,     0.12
+EndData:
+
