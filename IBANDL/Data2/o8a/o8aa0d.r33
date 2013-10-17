@@ -1,0 +1,73 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2012/10/18, by V.Zerkin.
+            "Investigation of the a-cluster structure of
+             22Ne and 22Mg"
+            V.Z.Goldberg, G.V.Rogachev, W.H.Trzaska, J.J.Kolata, 
+            A.Andreyev, C.Angulo, M.J.G.Borge, S.Cherubini, 
+            G.Chubarian, G.Crowley, P.Van Duppen, M.Gorska, 
+            M.Gulino, M.Huyse, P.Jesinger, K.-M.Kallman, 
+            M.Lattuada, T.Lonnroth, M.Mutterer, R.Raabe, 
+            S.Romano, M.V.Rozhkov, B.B.Skorodumov, C.Spitaleri, 
+            O.Tengblad, A.Tumino
+            EXFOR: D0352003    Created: 2005-05-19  Updated: 2005-05-22
+            X4Reaction:8-O-18(A,EL)8-O-18,,DA; X4Points:1183
+            Data converted from C.M. to Lab. 
+            LevelEnergy: 0.00
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     D0352003
+Source:       V.Z.Goldberg+(2004), Jour. Physical Review, Part C, Nuclear Physics, Vol.69, p.024602
+Reaction:     18O(a,a0)18O
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       4.0, 18.0, 4.0, 18.0
+Zeds:         2, 8, 2, 8
+Qvalue:       -0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        136.1
+Data:
+ 4693.00,     0.00,   52.338,   2.2894
+ 4707.00,     0.00,  51.9842,   2.2756
+ 4722.00,     0.00,  52.7821,   2.2964
+ 4736.00,     0.00,  57.1944,   2.3935
+ 4751.00,     0.00,  55.4878,   2.3588
+ 4765.00,     0.00,  64.3541,   2.5323
+ 4780.00,     0.00,  63.5841,   2.5184
+ 4794.00,     0.00,   64.708,   2.5392
+ 4809.00,     0.00,  69.0579,   2.6225
+ 4823.00,     0.00,   69.155,   2.6294
+ 4838.00,     0.00,  72.7071,   2.6918
+ 4853.00,     0.00,  72.2909,   2.6849
+ 4867.00,     0.00,  69.5158,   2.6294
+ 4882.00,     0.00,  72.5684,   2.6918
+ 4896.00,     0.00,  76.3147,   2.7543
+ 4911.00,     0.00,  72.7765,   2.6918
+ 4926.00,     0.00,  68.8567,   2.6155
+ 4940.00,     0.00,  72.4296,    2.678
+ 4955.00,     0.00,  68.6763,   2.6086
+ 4970.00,     0.00,  69.8627,   2.6363
+ 4985.00,     0.00,  62.3977,   2.4906
+ 4999.00,     0.00,  63.4939,   2.5114
+ 5014.00,     0.00,  62.3283,   2.4906
+ 5029.00,     0.00,  62.2451,   2.4837
+ 5044.00,     0.00,  63.2649,   2.5045
+ 5058.00,     0.00,  59.0399,   2.4213
+ 5073.00,     0.00,  56.7643,   2.3727
+ 5088.00,     0.00,  58.9497,   2.4213
+ 5103.00,     0.00,  54.7524,   2.3311
+ 5118.00,     0.00,  56.5007,   2.3658
+ 5133.00,     0.00,  63.9518,   2.5114
+ 5148.00,     0.00,  57.5621,   2.3866
+ 5162.00,     0.00,   60.691,    2.449
+ 5177.00,     0.00,   60.469,   2.4421
+ 5192.00,     0.00,  63.8061,   2.5114
+ 5207.00,     0.00,   60.698,    2.449
+ 5222.00,     0.00,   62.592,   2.4906
+ 5237.00,     0.00,  63.9864,   2.5184
+ 5252.00,     0.00,  64.1876,   2.5184
+EndData:
+
