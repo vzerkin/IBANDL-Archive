@@ -1,0 +1,28 @@
+Comment: Excitation function of the 7Li(p,g)8Be reaction between 1 and 3 MeV
+	 V. Riech "Die Anregungsfunktion der Reaktion Li7(p,g)Be8 zwischen 1 und 3 MeV "							
+	 Phys. Lett. 6 (1963) 267.
+	  
+Version: R33
+Source: V. Riech, Phys. Lett. 6 (1963) 267. NACRE Compilation.
+Name: Sent by Tassos Lagoyannis (NCSR "Demokritos") for the PIGE CRP
+Serial Number: 0
+Reaction: 7Li(p,g)8Be
+Masses: 1,7.000,0.000,8.000
+Zeds: 1,3,0,4
+Qvalue:  17254.4, 0.00, 0.00, 0.00, 0.00
+Distribution: Energy
+Theta: 360.
+Sigfactors: 1000.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: tot
+Data:
+	1.70	0.0	5.55E-05	0.0		
+	1.79	0.0	5.92E-05	0.0			
+	1.90	0.0	7.83E-05	0.0				
+	2.00	0.0	1.03E-04	0.0			
+	2.10	0.0	9.82E-05	0.0			
+	2.19	0.0	8.23E-05	0.0			
+	2.30	0.0	6.55E-05	0.0			
+	2.40	0.0	6.31E-05	0.0	
+	2.59	0.0	6.49E-05	0.0	
+EndData:
