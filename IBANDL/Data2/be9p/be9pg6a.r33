@@ -12,6 +12,7 @@ Version:      R33
 X4Number:     F0760004
 Source:       L.N.Generalov+(2005), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.69, p.1629
 Reaction:     9Be(p,g6)10B
+Egamma: 2971-3385
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
