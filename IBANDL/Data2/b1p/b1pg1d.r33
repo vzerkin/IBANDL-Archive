@@ -14,6 +14,7 @@ Version:      R33
 X4Number:     F0716002
 Source:       L.N.Generalov+(2005), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.69, p.85
 Reaction:     11B(p,g1)12C
+Egamma: 12809-14120
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
