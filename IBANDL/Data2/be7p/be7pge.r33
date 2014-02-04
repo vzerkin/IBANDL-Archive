@@ -1,0 +1,45 @@
+Comment:	Proton capture cross section of 7Be and the flux of high energy solar neutrinos							
+		B.W. Filippone, A.J. Elwyn, C.N. Davids and D.D. Koetke 	
+		Phys. Rev. C28 (1983) 2222 and private communication.						
+	  
+Version: R33
+X4Number:     C0502002
+Source: B.W. Filippone, et al, Phys. Rev. C28 (1983) 2222. NACRE Compilation.
+Name: Sent by Tassos Lagoyannis (NCSR "Demokritos") for the PIGE CRP
+Serial Number: 0
+Reaction: 7Be(p,g)8B
+Masses: 1.000,7.000,0.000,8.000
+Zeds: 1,4,0,5
+Qvalue:  136.39, 0.00, 0.00, 0.00, 0.00
+Distribution: Energy
+Theta: 360.
+Sigfactors: 1000.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: tot
+Data:
+0.134	0.0	3.10E-09	4.30E-10				
+0.213	0.0	1.70E-08	1.90E-09				
+0.294	0.0	4.70E-08	5.10E-09				
+0.345	0.0	6.40E-08	5.70E-09				
+0.395	0.0	1.00E-07	8.40E-09				
+0.446	0.0	1.40E-07	9.30E-09				
+0.497	0.0	1.60E-07	1.20E-08				
+0.549	0.0	1.70E-07	9.80E-09				
+0.599	0.0	2.30E-07	1.20E-08				
+0.649	0.0	3.20E-07	1.80E-08				
+0.674	0.0	4.50E-07	2.30E-08				
+0.689	0.0	6.00E-07	3.20E-08				
+0.699	0.0	8.40E-07	4.00E-08				
+0.714	0.0	1.30E-06	6.40E-08				
+0.722	0.0	1.50E-06	4.10E-08				
+0.729	0.0	1.40E-06	6.10E-08				
+0.741	0.0	1.00E-06	5.00E-08				
+0.750	0.0	8.20E-07	3.90E-08				
+0.775	0.0	4.90E-07	2.60E-08				
+0.801	0.0	4.70E-07	2.40E-08				
+0.851	0.0	4.10E-07	2.00E-08				
+0.902	0.0	4.80E-07	3.10E-08				
+1.002	0.0	4.60E-07	3.00E-08				
+1.203	0.0	5.20E-07	2.80E-08				
+1.406	0.0	6.80E-07	4.00E-08	
+EndData:
