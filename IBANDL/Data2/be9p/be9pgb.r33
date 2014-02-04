@@ -1,0 +1,59 @@
+Comment: Data were digitized. Energy digitizing error is 0.237 keV
+         data digitizing error is 0.003 (relative units). 
+         Differential cross-sections are given in relative units.
+         Data are given for the yield of the cascade through the first
+         excited state of B10. 
+         
+Version: R33
+Source: R.J.Ellison et al. Nuclear Physics v.35 (1962) 606
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1015003
+Reaction: 9Be(p,g1-0)10B 
+Egamma: 718
+Distribution: Energy
+Composition: 
+Masses:    1.000,   9.000,    0.000,   10.000
+Zeds: 1, 4, 0, 5
+Qvalue:      6585.90,      0.00,      0.00,      0.00,      0.00
+Theta:   90.0
+Sigfactors: 1.00, 0.00 
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: ru
+Data:
+     853.71         0.     1.9422    0.35809
+     863.03         0.     1.9291    0.38462
+     874.21         0.     2.5659     0.3183
+     885.39         0.     2.7916    0.38462
+     895.77         0.       3.76    0.33156
+     905.88         0.     4.3967    0.35809
+     917.06         0.     4.8346     0.4244
+     927.44         0.     5.4581    0.25199
+     937.55         0.     5.7633    0.29178
+     947.67         0.     6.0553    0.26525
+     958.05         0.      5.525    0.23873
+     967.91         0.     5.1671    0.23763
+     978.03         0.     4.8092    0.27851
+     987.62         0.     3.7748    0.34483
+ 9.9906E+02         0.     4.5973    0.26525
+ 1.0100E+03         0.     3.8813    0.29178
+ 1.0201E+03         0.     2.6614     0.3183
+ 1.0318E+03         0.      2.635     0.3173
+ 1.0411E+03         0.     2.6087    0.33156
+ 1.0518E+03         0.      2.967    0.29178
+ 1.0635E+03         0.      3.617    0.41214
+ 1.0523E+03         0.     2.0213     1.4628
+ 1.0627E+03         0.     3.0851     1.5957
+ 1.0731E+03         0.     5.0798     2.1277
+ 1.0806E+03         0.     19.574     2.7926
+ 1.0870E+03         0.     54.548     1.9947
+ 1.0915E+03         0.     21.037     1.9847
+ 1.0955E+03         0.     10.399     1.9937
+ 1.1016E+03         0.     4.9468     1.7287
+ 1.1075E+03         0.     2.8191     1.4628
+EndData:
