@@ -1,0 +1,22 @@
+Comment:	R. W. Kavanagh 							
+		Proton Capture in 7Be 							
+		Nucl. Phys. 15 (1960) 411.					
+	  
+Version: R33
+X4Number:     P0080003
+Source: Kavanagh, Nucl. Phys. 15 (1960) 411. NACRE Compilation.
+Name: Sent by Tassos Lagoyannis (NCSR "Demokritos") for the PIGE CRP
+Serial Number: 0
+Reaction: 7Be(p,g)8B
+Masses: 1.000,7.000,0.000,8.000
+Zeds: 1,4,0,5
+Qvalue:  136.39, 0.00, 0.00, 0.00, 0.00
+Distribution: Energy
+Theta: 360.
+Sigfactors: 1000.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: tot
+Data:
+0.80	0.0	5.00E-07	2.00E-07				
+1.40	0.0	4.80E-07	1.80E-07
+EndData:
