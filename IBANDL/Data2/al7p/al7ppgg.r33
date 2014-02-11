@@ -3,7 +3,7 @@ The proton energy is known to better than 0.1%.
 The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is +/- 7% (see "Sigma scale factor" fields).
 
 Version: R33
-Source: M. Chiari et al., accepted for publication in NIMB
+Source: M. Chiari Nucl. Instr. and Meth. B332 (2014) 355–358
 Name: M. Chiari
 Address1: Istituto Nazionale Fisica Nucleare
 Address2: via G. Sansone 1
@@ -11,6 +11,7 @@ Address3: I-50019 Sesto Fiorentino (Firenze)
 Address4: ITALY
 Address5: chiari@fi.infn.it
 Address6: 
+X4Number: O2226002
 SubFile: 27Alppg_844_90.R33
 Egamma:844
 Serial Number: 0
