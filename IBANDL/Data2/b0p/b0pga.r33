@@ -6,8 +6,8 @@ Comment:  	The 10B(p(pol),gamma)11C reaction at astrophysically relevant energie
   
 
 Version:      R33
-X4Number:    C1036001
-Source:      Phys. Rev C 68, 045803, 2003, NACRE Compilation.
+X4Number:    C1036003
+Source:      A.P.Tonchev et al., Phys. Rev C68 (2003) 045803 
 Reaction:     10B(p,g)11C
 Distribution: Energy
 Sigfactors:   1000., 0.00
