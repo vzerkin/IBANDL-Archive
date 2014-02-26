@@ -1,0 +1,20 @@
+Comment:	"F. Hammache, Ph.D. thesis"
+	  
+Version: R33
+Source:	 F. Hammache, Ph.D. thesis. NACRE Compilation, NPA 656 (1999) 3-183.
+Name: Sent by Tassos Lagoyannis (NCSR "Demokritos") for the PIGE CRP
+Serial Number: 0
+Reaction: 7Be(p,g)8B
+Masses: 1.000,7.000,0.000,8.000
+Zeds: 1,4,0,5
+Qvalue:  136.39, 0.00, 0.00, 0.00, 0.00
+Distribution: Energy
+Theta: 360.
+Sigfactors: 1000.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: tot
+Data:
+0.213	0.0	1.70E-08	2.11E-09				
+0.154	0.0	5.90E-09	9.60E-10				
+0.128	0.0	2.20E-09	3.75E-10
+EndData:
