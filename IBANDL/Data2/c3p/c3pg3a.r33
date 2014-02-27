@@ -5,7 +5,7 @@ Comment:     "Cross section and astrophysical S-factor for the
             Cross Section to LevelEnergy: 4920.00 (from S factor)
 
 Version:      R33
-X4Number:     C0872006
+X4Number:     C0872004
 Source:       J.D.King+(1994), Jour. Nuclear Physics, Section A, Vol.567, p.354
 Reaction:     13C(p,g3)14N
 Distribution: Energy
