@@ -1,0 +1,28 @@
+Comment:
+
+Version: R33
+Source:  A. Fessler et al., NIM A450 (2000) 353
+Name: Gurbich
+Serial Number: 0
+Reaction: 19F(p,ag2-0+3-0+4-0)16O
+Egamma: 6129+6917+7115
+Distribution: Energy
+Composition:
+Masses: 1,19,4,16
+Zeds: 1,9,2,8
+Qvalue: 0, 0, 0, 0, 0
+Theta: 90
+Sigfactors: 1, 1
+Enfactors: 1000, 0, 0, 0
+Units: yield
+Data:
+1.500	0.0	3.184E+5	1.97E+4
+1.750	0.0	3.883E+5	2.04E+4
+2.000	0.0	6.345E+5	3.07E+4
+2.250	0.0	2.242E+6	1.03E+5
+2.500	0.0	5.438E+6	2.42E+5
+2.750	0.0	7.741E+6	3.42E+5
+3.000	0.0	9.191E+6	4.05E+5
+3.500	0.0	1.244E+7	5.34E+5
+4.000	0.0	1.316E+7	5.69E+5
+EndData:
