@@ -1,12 +1,14 @@
 Comment:	Total cross sections of the 12C(d,p?1)13C.
 		Gamma energy is 3089 keV.
+                Total cross section = differential gamma-ray cross-section 
+                 measured at angle multiplied by 4Pi
 
 		
 Version: R33											
-Source:	 L. Csedreki et al., Nucl. Instr. & Meth., accepted for publication.
+Source:	 L. Csedreki et al., Nucl. Instr. & Meth., B328 (2014)59-64.
 Address: csedreki@atomki.hu
 Name:																						
-X4Number:											
+X4Number: D4300002											
 Reaction: 12C(d,pg1-0)13C											
 Egamma:	3089											
 Distribution: Energy											
@@ -17,7 +19,7 @@ Qvalue:	0, 0, 0, 0, 0
 Theta: 55											
 Sigfactors: 1, 0										
 Enfactors: 1, 0, 0, 0								
-Units: mb											
+Units: tot											
 Data:												
 740	0	8.3	0.5									
 780	0	17.7	0.9									
