@@ -5,7 +5,8 @@ Version: R33
 Source:  F.Bodart, G.Deconninck, G.Demortier, J. Radioanal. Chem. 35 (1977) 95
 Name:
 Serial Number: 0
-Reaction: 23Na(p,ag)20Ne
+X4Number: D0129004
+Reaction: 23Na(p,ag1-0)20Ne
 Egamma: 1634
 Distribution: Energy
 Composition:
