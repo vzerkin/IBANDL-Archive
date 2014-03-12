@@ -5,6 +5,7 @@ Version: R33
 Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
 Name:
 Serial Number: 0
+X4Number: O0875011
 Reaction: 28Si(d,pg2-1)29Si
 Egamma: 755
 Distribution: Energy
