@@ -4,7 +4,7 @@ Version: R33
 Source:  P.Trocellier, Ch.Engelmann. J. Radioanal. Chem. 67 (1981) 135
 Name:
 Serial Number: 0
-Reaction: 23Na(p,ag)20Ne
+Reaction: 23Na(p,ag1-0)20Ne
 Egamma: 1634
 Distribution: Energy
 Composition:
