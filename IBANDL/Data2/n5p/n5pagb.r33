@@ -11,7 +11,7 @@ SubFile:
 X4Number: 
 Reaction: 15N(p,ag1-0)12C
 Egamma: 4439
-Distribution: Total
+Distribution: Energy
 Composition: 
 Masses:    1.000,   15.000,    4.000,   12.000
 Zeds: 1, 7, 2, 6
