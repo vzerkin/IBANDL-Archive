@@ -1,12 +1,16 @@
 Comment:	Total cross sections of the 28Si(d,p?10-0)29Si. 
 		Gamma energy is 4934 keV.
+                Total cross section = differential gamma-ray cross-section 
+                 measured at angle multiplied by 4Pi.However the angular 
+                distribution is anisotropic A2 = -0.174 ± 0.026 and the result 
+                could deviate up to 23% for angles different from 55 degree.
 
 
 Version: R33
-Source:   L. Csedreki et al., Nucl. Instr. & Meth., accepted for publication.
+Source:   L. Csedreki et al., Nucl. Instrum. Methods B328 (2014) 20
 Name:
 Serial Number: 0
-X4Number: 
+X4Number: D4299009
 Reaction: 28Si(d,pg10-0)29Si
 Egamma: 4934
 Distribution: Energy
@@ -17,7 +21,7 @@ Qvalue: 0., 0., 0., 0., 0.
 Theta: 55.
 Sigfactors: 1., 0.
 Enfactors: 1000., 0., 0., 0.
-Units: mb
+Units: tot
 Data:
 0.65	0	0.3	0.1
 0.75	0	0.5	0.2
