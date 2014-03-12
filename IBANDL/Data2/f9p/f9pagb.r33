@@ -1,8 +1,7 @@
 Comment:
 
 Version: R33
-Source:  A. Fessler et al., NIM A450 (2000) 353
-Name: Gurbich
+Source:  A.Fessler +(2000), Nucl. Instrum. Methods in Physics Res., Sect.A, Vol.450, p.353
 Serial Number: 0
 Reaction: 19F(p,ag4-0)16O
 Egamma: 7115
