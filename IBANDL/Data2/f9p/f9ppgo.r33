@@ -1,28 +1,23 @@
 Comment:
+Thick target gamma-ray yield.  
 
 Version: R33
-Source:  A. Fessler et al., NIM A450 (2000) 353
-Name: Gurbich
+Source: A.Z. Kiss+, J. Radioanal. Nucl. Chem. 89 (1985) 123
+Name:
 Serial Number: 0
-Reaction: 19F(p,ag2-0)16O
-Egamma: 6129
+X4Number:  
+Reaction: 19F(p,pg4-0)19F
+Egamma: 1459
 Distribution: Energy
 Composition:
-Masses: 1,19,1,19
+Masses: 
 Zeds: 1,9,1,9
 Qvalue: 0, 0, 0, 0, 0
-Theta: 90
-Sigfactors: 1, 1
-Enfactors: 1000, 0, 0, 0
+Theta: 55
+Sigfactors: 1, 0
+Enfactors: 1, 0, 0, 0
 Units: yield
 Data:
-1.500	0.0	2.427E+5	1.502E+4
-1.750	0.0	2.680E+5	1.408E+4
-2.000	0.0	3.051E+5	1.476E+4
-2.250	0.0	0.668E+6	0.307E+5
-2.500	0.0	1.431E+6	0.637E+5
-2.750	0.0	2.251E+6	0.995E+5
-3.000	0.0	2.778E+6	1.224E+5
-3.500	0.0	0.393E+7	1.685E+5
-4.000	0.0	0.441E+7	1.907E+5
+3100.0		0.0		9.4E+05		0.0
+3800.0		0.0		3.9E+06		0.0
 EndData:
