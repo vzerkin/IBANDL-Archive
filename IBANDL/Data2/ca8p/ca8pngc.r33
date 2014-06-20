@@ -6,7 +6,7 @@ Source: A.Z. Kiss+, J. Radioanal. Nucl. Chem. 89 (1985) 123
 Name:
 Serial Number: 0
 X4Number:  
-Reaction: 48Ca(p,ng5-3)48Sc
+Reaction: 48Ca(p,ng6-4)48Sc
 Egamma: 779
 Distribution: Energy
 Composition:
@@ -14,10 +14,10 @@ Masses:
 Zeds: 1,20,0,21
 Qvalue: 0, 0, 0, 0, 0
 Theta: 55
-Sigfactors: 1, 0
+Sigfactors: 534.76, 0
 Enfactors: 1, 0, 0, 0
 Units: yield
 Data:
 3100.0		0.0		1.2E+03		0.0
-3800.0		0.0		6.5E+02		0.0
+3800.0		0.0		6.5E+03		0.0
 EndData:
