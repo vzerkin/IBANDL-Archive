@@ -4,7 +4,7 @@ Comment: Measurements of nuclear gamma-ray line emission in
 
 Version:      R33
 X4Number:    O1902002
-Source:      H.Benhabiles-Mezhoud et al, PRC 83, 024603, 2011
+Source:      H.Benhabiles-Mezhoud et al, PRC 83, 024603 (2011).
 Name:       
 Reaction:     14N(p,pg4-1)14N
 Egamma:	      2793
