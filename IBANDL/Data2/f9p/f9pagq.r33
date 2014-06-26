@@ -4,7 +4,7 @@ Comment:   Fluorine Determination in the near Surface Region of Solids using
 
 Version:     R33
 X4Number:    D0320003
-Source:      Grambole et al, Journ. Radioan. Nucl. Chemistry, 83, 107 (1984)
+Source:      D.Grambole et al, Journ. Radioan. Nucl. Chemistry 83, 107 (1984)
 Name:       
 Reaction:     19F(p,ag2-0+3-0+4-0)16O
 Egamma:	      6129+6916+7115
@@ -15,7 +15,7 @@ Units:        ru
 Masses:       1.0, 19.0, 4.0, 16.0
 Zeds:         1, 9, 2, 8
 Qvalue:       0.00, 0.00, 0.00, 0.00, 0.00
-Theta:        360
+Theta:        90
 Data:
 0.69771	0	0.25252
 0.71045	0	0.15127
