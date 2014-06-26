@@ -1,0 +1,20 @@
+Comment:   Experimental study of the 19-F(p,a+g)16-O reaction                   
+
+Version:     R33
+X4Number:    A0397003
+Source:      J.P.Ribeiro, A.P.Jesus, et al, NPA,688,468 (2001)
+Name:       
+Reaction:     19F(p,ag2-0)16O
+Egamma:	      6125
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        tot
+Masses:       1.0, 19.0, 4.0, 16.0
+Zeds:         1, 9, 2, 8
+Qvalue:       0.00, 0.00, 0.00, 0.00, 0.00
+Theta:        360
+Data:
+872	0	404	32
+1370	0	346	25
+EndData:
