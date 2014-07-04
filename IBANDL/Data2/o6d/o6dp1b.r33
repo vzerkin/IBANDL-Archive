@@ -1,4 +1,4 @@
-Comment:      G.Amsel Nucl.Instrum.Methods 92 (1971) 484;
+Comment:      G.Amsel Nucl.Instrum.Methods 92 (1971) 481;
      Differential cross sections of the reactions used to  analyze 
 16O, 18O at 165 deg (from ref[1-3]) and 14N at 150 deg (from  [4]) 
 are presented in graphical form and discussed.
@@ -10,8 +10,9 @@ are presented in graphical form and discussed.
 The data are given in lab system.
 
 Version: R33
-Source:  G.Amsel Nucl.Instrum. Methods 92 (1971) 484
+Source:  G.Amsel Nucl.Instrum. Methods 92 (1971) 481
 Name:
+X4Number: D0104003
 Serial Number: 0
 Reaction: 16O(d,p1)17O
 Distribution: Energy 
