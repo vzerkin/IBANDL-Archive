@@ -1,0 +1,40 @@
+Comment:  	Cross sections and thermonuclear reaction raates of 
+		proton-induced reactions on Cl-37.
+		R.O.Weber, C.I.W.Tingwell, L.W.Mitchel, M.E.Sevior, D.G.Sargood
+
+
+Version:      R33
+X4Number:     A0309003
+Source:       Nucl. Phys. A 439 (1985) 176
+Name:         Adelaide Pedro de Jesus for PIGE CRP
+Reaction:     37Cl(p,ag1-0)34S
+Egamma:	      2127.
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1000.00, 0.00, 0.00, 0.00
+Units:        tot
+Masses:       1.0, 37.0, 4.0, 34.0
+Zeds:         1, 17, 2, 16
+Qvalue:       0.00, 0.00, 0.00, 0.00, 0.00
+Theta:        360
+Data:
+1.2286	0.0000	0.0016
+1.2779	0.0000	0.0016
+1.3170	0.0000	0.0044
+1.3704	0.0000	0.0061
+1.4166	0.0000	0.004
+1.4577	0.0000	0.0085
+1.5070	0.0000	0.0183
+1.5491	0.0000	0.0179
+1.5964	0.0000	0.0216
+1.6477	0.0000	0.0168
+1.6929	0.0000	0.05
+1.7453	0.0000	0.0189
+1.7813	0.0000	0.066
+1.8326	0.0000	0.055
+1.8830	0.0000	0.05
+1.9374	0.0000	0.061
+1.9754	0.0000	0.092
+2.0217	0.0000	0.128
+2.0925	0.0000	0.17
+EndData:
