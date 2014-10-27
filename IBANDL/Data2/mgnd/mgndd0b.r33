@@ -4,7 +4,7 @@ Version: R33
 Source: N. Patronis et al., Nucl. Instr. Meth B 337 (2014) 97-101
 Name: 
 Serial Number: 0
-Reaction: natMg(d,d0)2natMg
+Reaction: natMg(d,d0)natMg
 Distribution: Energy
 Composition: 
 Masses:    2.010,   24.300,    2.010,   24.300
