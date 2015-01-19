@@ -4,10 +4,11 @@ Comment: The experiment was carried out at a Van de Graaff accelerator and the t
 	  As the gamma-ray line is isotropic the cross section values correspond to total cross section.			
 			
 Version: R33			
-Source: A. P. Jesus et al, Nucl. Instrum. Meth. B 161-163 (2000) 186		
+Source: A.P.Jesus+(2000), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.161-163, p.229		
 Address: Departamento de Física, Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa, maj@fct.unl.pt			
 Name: A. P. Jesus			
-Serial Number: 0			
+Serial Number: 0	
+X4Number: O0859002		
 Reaction: 19F(p,pg1-0)19F			
 Egamma: 110			
 Distribution: Energy			
