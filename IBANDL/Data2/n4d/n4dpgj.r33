@@ -1,11 +1,14 @@
 Comment:	Total cross sections of the 14N(d,p?7-0)15N.
 		Gamma energy is 8310 keV.
+                Total cross section = differential gamma-ray cross-section 
+                 measured at angle multiplied by 4Pi
+
 
 Version: R33
-Source:  L. Csedreki et al., Nucl. Instr. & Meth., accepted for publication.
+Source:  L. Csedreki et al., Nucl. Instr. & Meth. B328 (2014)20-26.
 Name:
 Serial Number: 0
-X4Number: 
+X4Number: D4299005
 Reaction: 14N(d,pg7-0)15N
 Egamma: 8310.
 Distribution: Energy
@@ -16,7 +19,7 @@ Qvalue: 299., 0, 0, 0, 0
 Theta: 55.
 Sigfactors: 1., 0.
 Enfactors: 1000., 0., 0., 0.
-Units: mb 
+Units: tot 
 Data:
 0.65	0	5.0	0.3
 0.7	0	8.0	0.4
