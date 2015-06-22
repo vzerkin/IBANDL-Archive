@@ -1,0 +1,48 @@
+Comment:    Automatically converted from EXFOR
+            by IAEA-NDS EXFOR Web-Retrieval System  
+            "Determination of the 9Be(3He,p(i))11B (i=0,1,2,3) cross
+             section at 135 degree in the energy range 1-2.5 MeV."
+            N.P.Barradas at all.
+            EXFOR: O2259002     
+            X4Reaction:4-BE-9(HE3,P)5-B-11,PAR,DA;  
+            Data converted from C.M. to Lab. (Angle: not converted 
+            LevelEnergy: 0.00
+
+Version:      R33
+X4Number:     O2259002
+Source:       N.P.Barradas+(2015), Nucl. Instrum. Methods B346 (2015) 21
+Reaction:     9Be(3He,p0)11B
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 9.0, 1.0, 11.0
+Zeds:         2, 4, 1, 5
+Qvalue:       10321.96, 0.00, 0.00, 0.00, 0.00
+Theta:        135
+Data:
+977.7      22.3       0.050      0.007      
+990.2      9.8        0.061      0.009     
+1195.7     20.3       0.306      0.040     
+1206.      10.        0.291      0.040     
+1481.2     18.8       0.459      0.059   
+1491.      9.         0.471      0.061     
+1684.7     17.3       0.928      0.116     
+1693.5     8.5        0.981      0.124     
+1985.7     14.3       1.043      0.131     
+1992.2     7.8        1.124      0.142     
+2005.9     14.1       1.251      0.158     
+2027.9     14.1       1.206      0.152        
+2034.3     7.7        1.384      0.179      
+2222.1     14.9       1.270      0.160           
+2229.6     7.4        1.287      0.166    
+2294.7     14.5       1.424      0.179    
+2385.3     14.7       1.163      0.146     
+2392.2     7.8        1.247      0.157     
+2416.8     14.2       1.263      0.158     
+2424.      7.         1.249      0.160      
+2485.8     14.2       1.169      0.147             
+2493.      7.         1.197      0.151             
+EndData:
+
