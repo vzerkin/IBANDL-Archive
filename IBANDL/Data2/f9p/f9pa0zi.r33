@@ -1,0 +1,33 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2015/03/13, by V.Zerkin.
+            "Analysis of the F-19(p,a0)O-16 reaction at low
+             energies and the spectroscopy of Ne-20."
+            I.Lombardo,  D.Dell'aquila,  L.Campajola,  E.Rosato, 
+            G.Spadaccini,  M.Vigilante
+            EXFOR: O2174003    Created: 2014-04-13  Updated: 2015-06-04
+            X4Reaction:9-F-19(P,A)8-O-16,PAR,DA; X4Points:25
+            Converted from C.M. to Lab.: Data, Theta
+            DataLab= DataCM/{1.0221745...1.0236436}
+            ThetaCM: 111.8
+            LevelEnergy: 0.00
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     O2174003
+Source:       I.Lombardo+(2013), Jour. Jour. of Physics, Part G (Nucl.and Part.Phys.), Vol.40, p.125102
+Reaction:     19F(p,a0)16O
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 19.0, 4.0, 16.0
+Zeds:         1, 9, 2, 8
+Qvalue:       8113.67, 0.00, 0.00, 0.00, 0.00
+Theta:        110.6
+Data:
+  648.00,     0.00,   0.0313, 9.783e-4
+  749.00,     0.00,   0.0254,     0.00
+EndData:
+
