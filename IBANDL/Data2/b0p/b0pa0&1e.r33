@@ -1,0 +1,65 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2015/03/13, by V.Zerkin.
+            "Study of the 10B(p,alpha) reaction between 2.1 and
+             6.0 MeV"
+            A.Kafkarkou, M.W.Ahmed, P.H.Chu, R.H.France, 
+            H.J.Karwowski, D.P.Kendellen, G.Laskaris, I.Mazumdar, 
+            J.M.Mueller, L.S.Myers, R.M.Prior, M.H.Sikora, 
+            M.C.Spraker, H.R.Weller, W.R.Zimmerman
+            EXFOR: C2072002    Created: 2013-12-03  Updated: 2015-06-03
+            X4Reaction:5-B-10(P,A)4-BE-7,PAR,DA; X4Points:246
+            Converted from C.M. to Lab.: Energy Data (Theta: not converted) 
+            DataLab= DataCM/{1.1272199...1.1441216}
+            EneLab= EneCM*(1+1/10)
+            LevelEnergy: 0.00
+
+Version:      R33
+X4Number:     C2072002
+Source:       A.Kafkarkou+(2013), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.316, p.48
+Reaction:     10B(p,a0+1)7Be
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 10.0, 4.0, 7.0
+Zeds:         1, 5, 2, 4
+Qvalue:       1144.75, 0.00, 0.00, 0.00, 0.00
+Theta:        104
+Data:
+ 2860.00,    11.00,   5.2785,   0.0444
+ 2970.00,    11.00,    5.992,   0.0443
+ 3080.00,    11.00,   4.6233,   0.0354
+ 3190.00,    11.00,   6.3014,   0.0443
+ 3300.00,    11.00,   6.4031,   0.0442
+ 3410.00,    11.00,   6.6993,    0.053
+ 3520.00,    11.00,   6.0855,   0.0442
+ 3630.00,    11.00,   5.6581,   0.0441
+ 3740.00,    11.00,   5.4695,   0.0441
+ 3850.00,    11.00,   5.3254,   0.0441
+ 3960.00,    11.00,   5.5869,   0.0441
+ 4070.00,    11.00,   6.0773,    0.044
+ 4180.00,    11.00,   6.7698,   0.0528
+ 4400.00,    11.00,   9.1648,   0.0704
+ 4510.00,    11.00,  11.2708,   0.0791
+ 4620.00,    11.00,  14.4385,   0.1055
+ 4730.00,    11.00,  17.1296,    0.123
+ 4840.00,    11.00,  16.5961,   0.1229
+ 4950.00,    11.00,  14.2639,   0.0966
+ 5060.00,    11.00,  11.9862,   0.0877
+ 5170.00,    11.00,  10.4645,   0.0702
+ 5280.00,    11.00,   9.6543,   0.0701
+ 5390.00,    11.00,   9.1604,   0.0614
+ 5500.00,    11.00,   8.8771,   0.0613
+ 5610.00,    11.00,   8.3576,   0.0613
+ 5720.00,    11.00,   7.7158,   0.0525
+ 5940.00,    11.00,   6.4161,   0.0438
+ 6050.00,    11.00,   6.0293,   0.0438
+ 6160.00,    11.00,   5.7216,   0.0437
+ 6270.00,    11.00,   5.4315,   0.0437
+ 6380.00,    11.00,   5.2903,   0.0437
+ 6490.00,    11.00,   5.2366,   0.0437
+ 6600.00,    11.00,   6.2319,   0.0524
+EndData:
+
