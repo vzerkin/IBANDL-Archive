@@ -1,0 +1,32 @@
+
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2015/03/13, by V.Zerkin.
+            "Angular distribution of 1 to 3.5 MeV protons scattered
+             by 4He"
+            G.Freier, E.Lampi, W.Sleator, J.H.Williams
+            EXFOR: A1106002    Created: 1981-10-26  Updated: 2015-06-03
+            X4Reaction:2-HE-4(P,EL)2-HE-4,,DA,,,EXP; X4Points:105
+            Converted from C.M. to Lab.: Data, Theta
+            DataLab= DataCM/1.4460543
+            ThetaCM: 140.2
+            LevelEnergy: 0.00
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     A1106002
+Source:       G.Freier+(1949), Jour. Physical Review, Vol.75, Issue.9, p.1345
+Reaction:     4He(p,p0)4He
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 4.0, 1.0, 4.0
+Zeds:         1, 2, 1, 2
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        129
+Data:
+ 3040.00,    20.00, 134.8497,   4.0455
+ 3580.00,    20.00,  98.7515,   2.9625
+EndData:
