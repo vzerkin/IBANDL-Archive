@@ -1,0 +1,41 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2015/03/13, by V.Zerkin.
+            "Study of P3/2 and P1/2 states for nuclei 5He and 5Li
+             by measurement of n + 4He and p + 4He differential
+             cross section"
+            L.Kraus, I.Linck
+            EXFOR: A1080002    Created: 1981-04-02  Updated: 2015-06-03
+            X4Reaction:2-HE-4(P,EL)2-HE-4,,DA,,,EXP; X4Points:12
+            Converted from C.M. to Lab.: Data, Theta
+            DataLab= DataCM/1.7347096
+            ThetaCM: 167.2
+            LevelEnergy: 0.00
+
+Version:      R33
+X4Number:     A1080002
+Source:       L.Kraus+(1974), Jour. Nuclear Physics, Section A, Vol.224, Issue.1, p.45
+Reaction:     4He(p,p0)4He
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 4.0, 1.0, 4.0
+Zeds:         1, 2, 1, 2
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        163
+Data:
+  529.30,   100.00,  46.1749,    1.176
+  834.00,   100.00,  51.0748,    1.176
+  982.70,   100.00,   58.223,    1.176
+ 1269.00,   100.00,  86.6427,    1.176
+ 1536.00,   100.00, 140.8881,    1.176
+ 1792.00,   100.00, 210.4675,    1.176
+ 2065.00,   100.00, 256.5271,    1.176
+ 2316.00,   100.00, 263.7329,    1.176
+ 2482.00,   100.00, 248.5719,    1.176
+ 2776.00,   100.00, 200.4947,    1.176
+ 2963.00,   100.00, 158.2974,    1.176
+ 3289.00,   100.00, 134.9505,    1.176
+EndData:
