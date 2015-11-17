@@ -7,6 +7,7 @@ Source: R. R. Perry, B. Mainsbridge and J. Rickards, Nucl. Phys. 45 (1963) 586. 
 Name: Sent by Tassos Lagoyannis (NCSR "Demokritos") for the PIGE CRP
 Serial Number: 0
 Reaction: 7Li(p,g)8Be
+Egamma: 16624-23636+19704-26862
 Masses: 1,7.000,0.000,8.000
 Zeds: 1,3,0,4
 Qvalue:  17254.4, 0.00, 0.00, 0.00, 0.00
