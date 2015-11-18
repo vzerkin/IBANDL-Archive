@@ -1,0 +1,29 @@
+Comment:	"New measurement and analysis of the 7Be(p,g)8B cross section"							
+		Cross sections derived from published S factors.				
+	  
+Version: R33
+X4Number: F0691001
+Source: F. Hammache, et al, Phys. Rev. Lett. 80 (1998) 928.
+Name: Sent by Tassos Lagoyannis (NCSR "Demokritos") for the PIGE CRP
+Serial Number: 0
+Reaction: 7Be(p,g)8B
+Masses: 1.000,7.000,0.000,8.000
+Zeds: 1,4,0,5
+Qvalue:  136.39, 0.00, 0.00, 0.00, 0.00
+Distribution: Energy
+Theta: 360.
+Sigfactors: 1000.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: tot
+Data:
+401.4843	0		9.14421E-08		8.97227E-09
+413.1838	0		1.04133E-07		9.82819E-09
+458.0983	0		1.43213E-07		1.31801E-08
+511.9776	0		1.55372E-07		1.43821E-08
+562.827		0		1.85181E-07		1.90079E-08
+999.9092	0		4.47193E-07		3.77354E-08
+1020.426	0		4.71380E-07		4.58425E-08
+1020.449	0		4.62326E-07		4.35798E-08
+1244.511	0		5.04041E-07		4.50233E-08
+1585.625	0		7.14159E-07		6.24519E-08	
+EndData:
