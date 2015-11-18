@@ -1,0 +1,25 @@
+Comment:	"Reanalysis of the 7Be(p,g)8B Cross-Section Data"		
+				
+	  
+Version: R33
+X4Number:     C0087002
+Source:	P. D. Parker, Astrophysical Journal, 153 (1968) L85
+Name: Sent by Tassos Lagoyannis (NCSR "Demokritos") for the PIGE CRP
+Serial Number: 0
+Reaction: 7Be(p,g)8B
+Masses: 1.000,7.000,0.000,8.000
+Zeds: 1,4,0,5
+Qvalue:  136.39, 0.00, 0.00, 0.00, 0.00
+Distribution: Energy
+Theta: 360.
+Sigfactors: 0.001, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: tot
+Data:
+483     0.    .26         
+614     0.    .50                
+826     0.    .85         
+956     0.    .90         
+1182    0.    .94         
+1468    0.   1.19                
+EndData:
