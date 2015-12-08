@@ -1,0 +1,43 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2015/03/13, by V.Zerkin.
+            "Study of the 12C(d,d), 12C(d,p0) and 12C(d,p1)
+             reactions at 1.4 < Ed < 2.3 MeV  (In French)"
+            M.Allab, M.Amiel, A.Amokrane, H.Beaumevieille, 
+            A.Henni, M.Lambert
+            EXFOR: D0717002    Created: 2013-09-16  Updated: 2015-06-03
+            X4Reaction:6-C-12(D,P)6-C-13,PAR,DA; X4Points:254
+            Converted from C.M. to Lab.: Data, Theta
+            DataLab= DataCM/{1.0928458...1.1094555}
+            ThetaCM: 136.5
+            LevelEnergy: 0.00
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     D0717002
+Source:       M.Allab+(1970), Jour. Journal de Physique, Vol.31, p.919
+Reaction:     12C(d,p0)13C
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 12.0, 1.0, 13.0
+Zeds:         1, 6, 1, 6
+Qvalue:       2721.74, 0.00, 0.00, 0.00, 0.00
+Theta:        133.4
+Data:
+ 1386.00,     0.00,  40.4998,     2.43
+ 1465.00,     0.00,  45.6931,   2.7416
+ 1487.00,     0.00,  34.1995,   2.6278
+ 1587.00,     0.00,  24.8047,   2.1065
+ 1702.00,     0.00,  21.7147,   1.3029
+ 1752.00,     0.00,  27.5647,   1.6539
+ 1863.00,     0.00,  19.4153,   1.1649
+ 1921.00,     0.00,  25.4175,   1.7123
+ 1979.00,     0.00,  26.4673,    1.588
+ 2159.00,     0.00,  21.7487,   1.3049
+ 2280.00,     0.00,  18.6217,   1.1173
+EndData:
+
+
