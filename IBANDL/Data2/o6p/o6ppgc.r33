@@ -5,7 +5,7 @@ Version: R33
 Source: J. Raisanen+, Nucl. Instr. and Meth. 28 (1987) 199
 Name:
 Serial Number: 0
-X4Number:  
+X4Number: O0901007 
 Reaction: 16O(p,pg3-0)16O
 Egamma: 6919
 Distribution: Energy
@@ -18,6 +18,6 @@ Sigfactors: 1, 0
 Enfactors: 1, 0, 0, 0
 Units: yield
 Data:
-9000.0		0.0		8.29		0.07
+9000.0		0.0		8.29e+07
 EndData:
 
