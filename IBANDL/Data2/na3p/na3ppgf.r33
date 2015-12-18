@@ -1,7 +1,7 @@
 Comment: Yield in relative units
 
 Version: R33
-Source:  P.Trocellier, Ch.Engelmann. J. Radioanal. Chem. 67 (1981) 135
+Source:  P.Trocellier+, J. Radioanal. Chem. 67 (1981) 135
 Name:
 Serial Number: 0
 Reaction: 23Na(p,pg1-0)23Na
@@ -11,7 +11,7 @@ Composition:
 Masses: 
 Zeds:
 Qvalue: 0, 0, 0, 0, 0
-Theta: 130
+Theta: 90
 Sigfactors: 1, 0
 Enfactors: 1, 0, 0, 0
 Units: ru
