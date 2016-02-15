@@ -7,6 +7,7 @@ X4Number:
 Source:       T.Huus and R. Day, Phys. Rev. 91, 599 (1953).
 Name:       
 Reaction:     11B(p,g1)12C
+Egamma: 11664-12791
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1000.00, 0.00, 0.00, 0.00
@@ -16,7 +17,7 @@ Zeds:         1, 5, 0, 6
 Qvalue:       15956.85, 0.00, 0.00, 0.00, 0.00
 Theta:        360
 Data:
-.163        4.44        .152        .165        
-.675        4.44        .048        .088        
-1.388       4.44        .018        .055        
+.163        0.        .152                
+.675        0.        .048                
+1.388       0.        .018                
 EndData:
