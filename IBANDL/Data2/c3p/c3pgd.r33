@@ -4,10 +4,10 @@ Measurements assuming elemental composition.
 	To convert to isotopic yields multiply by Sigfactor 
 
 Version: R33
-Source: A.Anttila+, J. Radioanal. Chem. 62 (1981) 293
+Source: A.Anttila+(1981),Jour. of Radioanal. and Nuclear Chemistry, Vol.62, p.293
 Name:
 Serial Number: 0
-X4Number:  
+X4Number: O2487007   20231017
 Reaction: 13C(p,g2-1)14N 
 Egamma: 1635
 Distribution: Energy
