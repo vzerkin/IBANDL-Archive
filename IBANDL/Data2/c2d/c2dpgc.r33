@@ -1,0 +1,38 @@
+Comment:
+Thick target gamma-ray yield. Gamma energy 3853.2 keV.
+Measurements assuming elemental composition. 
+	To convert to isotopic yields multiply by Sigfactor 
+
+Version: R33
+Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
+Name:
+Serial Number: 0
+X4Number: O0875004
+Reaction: 12C(d,pg3-0)13C
+Egamma:3853
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,6,1,6
+Qvalue: 0, 0, 0, 0, 0
+Theta: 135
+Sigfactors: 1.01, 0
+Enfactors: 1000, 0, 0, 0
+Units: yield
+Data:
+1.8 0.0 69200 0.0 
+1.9 0.0 137000 0.0 
+2.0 0.0 286000 0.0 
+2.1 0.0 600000 0.0 
+2.2 0.0 1.00E+06 0.0 
+2.3 0.0 1.67E+06 0.0 
+2.4 0.0 2.33E+06 0.0 
+2.5 0.0 4.76E+06 0.0 
+2.6 0.0 5.71E+06 0.0 
+2.7 0.0 7.03E+06 0.0 
+2.8 0.0 7.87E+06 0.0 
+2.9 0.0 8.85E+06 0.0 
+3.0 0.0 1.02E+07 0.0 
+3.2 0.0 1.65E+07 0.0 
+3.4 0.0 2.10E+07 0.0 
+EndData:
