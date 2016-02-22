@@ -1,8 +1,10 @@
 Comment:
 Thick target gamma-ray yield. Gamma-ray energy 718 keV. The proton energy is known with an accuracy of 0.1%. The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is +/- 8.5% (see "Sigma scale factor" fields).
+SAMPLE: thick target of boron nitride
+
 
 Version: R33
-Source:  M. Chiari et al., NIMB 366 (2016) 77-82.
+Source:  M. Chiari et al., NIM B 366 (2016) 77–82
 Name: M. Chiari
 Address1: Istituto Nazionale Fisica Nucleare
 Address2: via G. Sansone 1
@@ -11,7 +13,7 @@ Address4: ITALY
 Address5: chiari@fi.infn.it
 Address6: 
 Serial Number: 0
-X4Number:
+X4Number: O2306010 00000000  
 Reaction: 10B(p,pg1-0)10B
 Egamma: 718
 Distribution: Energy
