@@ -1,0 +1,32 @@
+Comment:    "Cross section and astrophysical S-factor for the
+             13C(p,gamma)14N reaction"
+            J.D.King, R.E.Azuma, J.B.Vise, J.Goerres, 
+            C.Rolfs, H.P.Trautvetter, A.E.Vlieks
+
+           
+
+Version:      R33
+X4Number:     C0872005
+Source:       J.D.King+(1994), Jour. Nuclear Physics, Section A, Vol.567, p.354
+Egamma:       720.
+Reaction:     13C(p,g6-4)14N
+Distribution: Energy
+Sigfactors:   1000.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        tot
+Composition:
+Masses:       1.0, 13.0, 0.0, 14.0
+Zeds:         1, 6, 0, 7
+Qvalue:       7550.56, 0.00, 0.00, 0.00, 0.00
+Theta:        360
+Data:
+691.9	0	1.05162E-07	2.35068E-08
+698.6	0	1.40759E-07	3.29707E-08
+748.7	0	9.49323E-08	2.86304E-08
+784	0	1.49731E-07	1.85061E-08
+798.7	0	1.86243E-07	2.63552E-08
+848.8	0	2.29984E-07	3.0261E-08
+893.1	0	2.68247E-07	2.25418E-08
+898.8	0	2.60493E-07	3.88454E-08
+943.3	0	2.67999E-07	1.76981E-08
+EndData:
