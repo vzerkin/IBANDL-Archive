@@ -16,6 +16,7 @@ Version:      R33
 X4Number:     A0819002
 Source:       N.Burtebaev+(2008), Jour. Physical Review, Part C, Nuclear Physics, Vol.78, p.035802
 Reaction:     12C(p,g0)13N
+Egamma: 2239-2848
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
