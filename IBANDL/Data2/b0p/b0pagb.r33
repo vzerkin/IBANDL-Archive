@@ -3,7 +3,7 @@ Comment: Data were digitized. Energy digitizing error is 0.008 MeV
          Gamma energy was 431 keV.
 
 Version: R33
-Source: T.R.Ophel et al. Nuclear Physics v.33 (1962) 198
+Source: T.R.Ophel+(1962), Jour. Nuclear Physics, Vol.33, p.198 
 Name: Taova Sophiya 
 Address1: All-Russia Scientific Research Institute of Experimental Physics
 Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
@@ -11,9 +11,9 @@ Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
 Address4: e-mail: taova@expd.vniief.ru
 Serial Number: 
 SubFile: 
-X4Number: 
+X4Number: F1194002
 Reaction:   10B(p,ag1-0)7Be
-Egamma: 429
+Egamma: 430
 Distribution: Energy
 Composition: 
 Masses:    1.000,    10.000,    4.000,    7.000
