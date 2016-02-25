@@ -5,7 +5,7 @@ Comment:   Proton induced thick target g-ray yields of light nuclei at the
 
 Version:      R33
 X4Number:     O0861002
-Source:       Savidou et al, NIMB, 152, 12 (1999)
+Source:       Savidou et al., NIMB 152 (1999)12.
 Name:       
 Reaction:     10B(p,pg1-0)10B
 Egamma:	      718
