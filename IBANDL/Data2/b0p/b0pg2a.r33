@@ -10,6 +10,7 @@ X4Number:    C1274002
 Source:      M. Wiescher et al., Phys. Rev C28 (1983) 1431.
 Name:	Tassos Lagoyannis for PIGE CRP
 Reaction:     10B(p,g2)11C
+Egamma: 4453-6289
 Distribution: Energy
 Sigfactors:   0.001, 0.00
 Enfactors:    1000.00, 0.00, 0.00, 0.00
