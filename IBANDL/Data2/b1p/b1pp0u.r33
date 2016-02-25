@@ -8,8 +8,8 @@ Converted from CM to lab system by CM2Lab 1.1, Software by M. Mayer (IPP Garchin
 
 Version:      R33?
 Subfile: H11B89_Segel.r33
-X4Number:     F0332008 19990403
-Source:       R.E.Segel+(1965), Jour. Physical Review, Part B, Condensed Matter, Vol.139, p.818
+X4Number:     F0332008  
+Source:       R.E.Segel+(1965), Jour. Physical Review, Vol.139, p.B818
 Reaction:     11B(p,p0)11B
 Distribution: Energy
 Units:        mb
