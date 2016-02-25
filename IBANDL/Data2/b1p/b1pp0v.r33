@@ -9,7 +9,7 @@ Comment:    Automatically converted from EXFOR via C4
 
 Version:      R33?
 Subfile: H11B120_Mashkarov.r33
-X4Number:     F0349003 19990404
+X4Number:     F0349003  
 Source:       Ju.G.Mashkarov+(1975), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.39, p.1736
 Reaction:     11B(p,p0)11B
 Distribution: Energy
