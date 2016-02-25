@@ -3,10 +3,10 @@ Thick target gamma-ray yield.
 The data at 1.52, 1.72, 1.91 and 1.292 MeV are actual cross section measurements. The remaining points are relative measurements normalized to the absolute cross section at 2.3 MeV.
 
 Version: R33
-Source: R.B. Day et al., J. Phys. Rev. 95, p.1003 (1957). 
+Source: R.B. Day+(1954), Jour. Physical Review, Vol.95, p.1003.
 Name:
 Serial Number: 0
-X4Number: 
+X4Number: C2525005
 Reaction: 10B(p,pg1-0)10B
 Egamma: 718
 Distribution: Energy
