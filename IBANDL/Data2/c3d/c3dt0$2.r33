@@ -9,7 +9,7 @@ Comment:    Automatically converted from EXFOR
 
 Version:      R33
 X4Number:     D0428004
-Source:       +(2007), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.254, p.25
+Source:       J.L.Colaux+(2007), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.254, p.25
 Reaction:     13C(d,t0)12C
 Distribution: Energy
 Sigfactors:   1.00, 0.00
