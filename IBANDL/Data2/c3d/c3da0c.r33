@@ -1,0 +1,65 @@
+Comment: These cross sections have been measured at LARN (Namur-Belgium). No error of either the energy is given.
+If you use this data please refer to the paper below.
+Special comment:
+File created by R33 Manager version 0.1
+
+Version: R33
+Source: J.L.Colaux+(2007), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.254, p.25
+Name: Julien L. Colaux
+Address1: Laboratoire d'Analyses par R?actions Nucl?aires
+Address2: Facult?s Universitaires N-D de la Paix
+Address3: rue de Bruxellles, 61
+Address4: B-5000 Namur, BELGIUM
+Address5: tel: +32 (0)81 725479		fax: +32 (0)81 725474
+Address6: julien.colaux@fundp.ac.be
+Serial Number: 0
+SubFile:  13CDA0_150
+X4Number: D0428003
+Reaction: 13C(d,a0)11B
+Distribution: Energy
+Composition: 
+Masses:    2.000,   13.000,    4.000,   11.000
+Zeds: 1, 6, 2, 5
+Qvalue:   5168.08,      0.00,      0.00,      0.00,      0.00
+Theta:    150.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  494.400,  0.000,   0.943, 0.055
+  544.700,  0.000,   1.514, 0.076
+  595.000,  0.000,   2.214, 0.100
+  645.300,  0.000,   2.741, 0.127
+  695.600,  0.000,   3.078, 0.124
+  745.800,  0.000,   3.476, 0.137
+  795.500,  0.000,   4.062, 0.144
+  845.800,  0.000,   5.041, 0.175
+  896.000,  0.000,   6.598, 0.225
+  946.200,  0.000,   7.815, 0.265
+  971.300,  0.000,   8.425, 0.284
+  996.800,  0.000,   8.895, 0.299
+ 1021.800,  0.000,   9.242, 0.311
+ 1046.900,  0.000,   9.757, 0.327
+ 1072.000,  0.000,   9.840, 0.330
+ 1097.000,  0.000,   9.797, 0.329
+ 1122.100,  0.000,   9.994, 0.335
+ 1147.200,  0.000,   9.624, 0.323
+ 1172.200,  0.000,   9.729, 0.326
+ 1197.300,  0.000,   9.662, 0.324
+ 1222.400,  0.000,   9.293, 0.312
+ 1247.400,  0.000,   7.958, 0.270
+ 1272.500,  0.000,   7.641, 0.259
+ 1297.600,  0.000,   7.403, 0.252
+ 1322.600,  0.000,   7.228, 0.246
+ 1347.700,  0.000,   7.112, 0.242
+ 1372.700,  0.000,   7.123, 0.243
+ 1397.800,  0.000,   7.063, 0.241
+ 1422.800,  0.000,   7.025, 0.240
+ 1447.900,  0.000,   6.855, 0.234
+ 1473.000,  0.000,   6.607, 0.226
+ 1498.000,  0.000,   6.207, 0.213
+ 1548.100,  0.000,   5.899, 0.203
+ 1598.200,  0.000,   6.418, 0.220
+ 1648.300,  0.000,   6.918, 0.236
+ 1698.500,  0.000,   6.922, 0.277
+EndData:
