@@ -1,0 +1,36 @@
+Comment:
+Thick target gamma-ray yield.  
+
+Version: R33
+Source: S.E. Hunt et al., J. Phys. Rev. 106 (1957) 1012. 
+Name:
+Serial Number: 0
+X4Number: 
+Reaction: 10B(p,pg1-0)10B
+Egamma: 710
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,5,1,5
+Qvalue: 0, 0, 0, 0, 0
+Theta: 0
+Sigfactors: 1, 0
+Enfactors: 1000, 0, 0, 0
+Units: tot
+Data:
+1.479    0.00         0.0622    0.00    
+1.527    0.00         0.5673    0.00    
+1.586    0.00         0.3803    0.00    
+1.638    0.00         0.4764    0.00    
+1.690    0.00         0.9343    0.00    
+1.749    0.00         0.9047    0.00    
+1.793    0.00         1.6458    0.00    
+1.913    0.00         2.2161    0.00    
+2.020    0.00         2.8647    0.00    
+2.127    0.00         3.5133    0.00    
+2.237    0.00         3.8315    0.00    
+2.348    0.00         6.0854    0.00    
+2.465    0.00         7.1906    0.00    
+2.575    0.00        10.1212    0.00    
+2.688    0.00        10.8487    0.00    
+EndData:
