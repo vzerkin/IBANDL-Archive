@@ -2,7 +2,7 @@ Comment:
 Thick target gamma-ray yield.  
 
 Version: R33
-Source: R.B. Day+, J. Phys. Rev. 95, p.10032 (1954), 
+Source: R.B. Day et al., J. Phys. Rev. 95 (1954) 1003.
 Name:
 Serial Number: 0
 X4Number:  
@@ -16,7 +16,7 @@ Qvalue: 0, 0, 0, 0, 0
 Theta: 90
 Sigfactors: 1000, 0
 Enfactors: 1000, 0, 0, 0
-Units: yield
+Units: tot
 Data:
 0.757     0.00     0.0018     0.00
 0.806     0.00     0.0023     0.00
