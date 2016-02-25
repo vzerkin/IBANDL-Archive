@@ -6,8 +6,8 @@ Comment:  	11C level structure via the 10B(p,g)11C reaction
   
 
 Version:      R33
-X4Number:    C1274001
-Source:      Phys. Rev C28 (1983) 1431.
+X4Number:    C1274002
+Source:      M. Wiescher et al., Phys. Rev C28 (1983) 1431.
 Name:	Tassos Lagoyannis for PIGE CRP
 Reaction:     10B(p,g2)11C
 Distribution: Energy
