@@ -2,11 +2,11 @@ Comment:
 Thick target gamma-ray yield.  
 
 Version: R33
-Source: S.E. Hunt+, J. Phys. Rev., Vol.106, p.1012 (1957), 
+Source: S.E. Hunt et al., J. Phys. Rev. 106 (1957) 1012  
 Name:
 Serial Number: 0
 X4Number: F0342003  
-Reaction: 10B(p,g14-0)11C
+Reaction: 10B(p,g14-0+15-0)11C
 Egamma: 9700
 Distribution: Energy
 Composition:
