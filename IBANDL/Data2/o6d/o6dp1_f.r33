@@ -1,10 +1,11 @@
 Comment: File created by R33 Manager version 0.1
 
 Version: R33
-Source: H.Rafi-kheiri, O. Kakuee, M. Lamehi-Rachti, Nucl. Instr. and Meth. B(2015), doi: 10.1016/j.nimb.2015.08.082.
+Source: H.Rafi-kheiri et al., Nucl. Instr. Metho. B 371 (2016) 46
 Name: H.Rafi-kheiri, O. Kakuee, M. Lamehi-Rachti.
 Address1: Physics& Accelerators Research School, NSTRI, PO Box 14395-836, Tehran, IRAN.
 Serial Number: 0
+X4Number: D0795003
 Reaction: 16O(d,p1)17O
 Distribution: Energy
 Composition: 
