@@ -2,7 +2,7 @@ COMMENT: Gamma energy 1349 and 1357 keV (from 19F(p,pg4-1)19F and 19F(p,pg5-2)19
 The proton energy is known to better than 0.06%.
 
 Version: R33
-X4Number:   D0754
+X4Number:   D0754005
 Source: I. Zamboni et al., Nucl. Instr. and Meth. B 342 (2015) 266-270
 Name: Ivana Zamboni
 Address1: Laboratory for Ion Beam Interactions
