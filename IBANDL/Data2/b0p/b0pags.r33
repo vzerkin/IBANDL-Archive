@@ -2,10 +2,10 @@ Comment: Data sent by Jyrki Raisanen for PIGE CRP
 
 
 Version: R33
-Source:Benoit Marchand et al, Nucl. Instr. Meth. B 378 (2016) 25
+Source: B. Marchand et al, Nucl. Instr. Meth. B 378 (2016) 25
 Serial Number: 
 SubFile: 
-X4Number:  
+X4Number: O2303009 00000000 
 Reaction:   10B(p,ag1-0)7Be
 Egamma: 429
 Distribution: Energy
@@ -16,7 +16,7 @@ Qvalue:       0.00,      0.00,      0.00,      0.00,      0.00
 Theta:     55.0
 Sigfactors: 1.00, 0.00 
 Enfactors: 1.00, 0.00, 0.00, 0.00
-Units: mb
+Units: yield
 Data:
 4000    0.0   1.13E+07 
 4500    0.0   1.48E+07 
