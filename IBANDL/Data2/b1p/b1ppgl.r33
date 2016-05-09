@@ -3,9 +3,9 @@ Comment:Data sent by Jyrki Raisanen for PIGE CRP
 
 
 Version: R33
-Source:  Benoit Marchand et al, Nucl. Instr. Meth. B 378 (2016) 25
+Source:  B.Marchand+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.378, p.25
 Serial Number: 0
-X4Number:
+X4Number: O2303011   20160730
 Reaction: 11B(p,pg1-0)11B
 Egamma: 2125
 Distribution: Energy
