@@ -2,8 +2,8 @@ Comment:
                    
 
 Version:     R33
-X4Number:     
-Source:      P. Cabanelas et al, Nucl. Instr. Meth. B Nucl. Instr. Meth. B 381(2016) 110
+X4Number:    O2301002 20170609 
+Source:      P.Cabanelas+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.381, p.110
 Name:       
 Reaction:     19F(p,ag2-0+3-0+4-0)16O
 Egamma:	      6129+6916+7115
