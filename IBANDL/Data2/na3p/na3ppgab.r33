@@ -2,7 +2,7 @@ Comment:
 Thick target gamma-ray yield. Data refer to yield measured for two overlapping gamma-ray lines: 1636 keV (from the 23Na(p,pg2-1)23Na reaction) and 1634 keV (from the 23Na(p,ag1-0)20Ne reaction, not indicated in the "Reaction" section). The proton energy is known with an accuracy of 0.1%. The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is +/- 8.5% (see "Sigma scale factor" fields).
 
 Version: R33
-Source:  M. Chiari et al., submitted to NIM B
+Source:   M. Chiari et al., NIM B 366 (2016) 77 
 Name: M. Chiari
 Address1: Istituto Nazionale Fisica Nucleare
 Address2: via G. Sansone 1
@@ -24,5 +24,16 @@ Sigfactors: 1.00, 0.085
 Enfactors: 1.00, 0.00, 0.00, 0.00
 Units: yield
 Data:
-2498	0	2.63E+06	0.05E+062647	0	4.13E+06	0.07E+062795	0	6.32E+06	0,10E+062943	0	8.47E+06	0.16E+063092	0	9.67E+06	0.16E+063240	0	1.177E+07	0.021E+073388	0	1.287E+07	0.023E+073537	0	1.431E+07	0.024E+073685	0	1.80E+07	0.03E+073834	0	2.04E+07	0.04E+073982	0	2.48E+07	0.05E+074130	0	2.86E+07	0.06E+07
+2498	0	2.63E+06	0.05E+06
+2647	0	4.13E+06	0.07E+06
+2795	0	6.32E+06	0,10E+06
+2943	0	8.47E+06	0.16E+06
+3092	0	9.67E+06	0.16E+06
+3240	0	1.177E+07	0.021E+07
+3388	0	1.287E+07	0.023E+07
+3537	0	1.431E+07	0.024E+07
+3685	0	1.80E+07	0.03E+07
+3834	0	2.04E+07	0.04E+07
+3982	0	2.48E+07	0.05E+07
+4130	0	2.86E+07	0.06E+07
 EndData:
