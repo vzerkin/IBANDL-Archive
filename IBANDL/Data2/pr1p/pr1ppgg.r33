@@ -3,7 +3,7 @@ Thick target gamma-ray yield. Gamma-ray energy 1266 keV.  The employed target wa
 There is a systematic uncertainty of +/- 9% (see "Sigma scale factor" fields).
 
 Version: R33
-Source: A. Jokar et al.,to be published
+Source: A. Jokar et al.,Nucl.Instr.and Meth.B 383(2016)152.
 Name:Alireza Jokar 
 Address1: Van de Graaff Laboratory
 Address2: Nuclear Science and Technology Research Institute
@@ -11,6 +11,7 @@ Address3: PO Box 14395-836
 Address4: End of North Karegar Ave,Tehran
 Address5: Iran
 Address6: arezajokar@gmail.com  
+X4Number: D0817003
 Serial Number: 0
 Reaction: 31P(p,pg1-0)31P
 Egamma: 1266
