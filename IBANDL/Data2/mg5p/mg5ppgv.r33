@@ -1,8 +1,7 @@
 Comment: Cross sections for gamma line 975 keV.
 
 Version: R33
-Source: K. Preketes-Sigalas et al, Unpublished Data.
-Name: K. Preketes-Sigalas
+Source: K. Preketes-Sigalas et al, Nucl. Instr. Meth. Phys. Res., Sect. B 386 (2016) 4
 Serial Number: 0
 Reaction: 25Mg(p,pg2-0)25Mg
 Egamma: 975
