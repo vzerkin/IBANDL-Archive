@@ -1,7 +1,8 @@
 Comment: Cross sections for gamma line 975.
 
 Version: R33
-Source: K. Preketes-Sigalas et al, Nucl. Instr. Meth. Phys. Res., Sect. B 386 (2016) 4
+X4Number:     O2316006 20170609
+Source: K.Preketes-Sigalas+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.386, p.4
 Serial Number: 0
 Reaction: 25Mg(p,pg2-0)25Mg
 Egamma: 975
@@ -11,7 +12,7 @@ Masses:    1.000,   25.000,    1.000,   25.000
 Zeds: 1, 12, 1, 12
 Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
 Theta:     55.00
-Sigfactors: 1.00, 0.00
+Sigfactors: 1.00, 0.086
 Enfactors: 1.00, 0.00, 0.00, 0.00
 Units: mb
 Data:
