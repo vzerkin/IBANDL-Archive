@@ -1,0 +1,25 @@
+Comment:
+Thick target gamma-ray yield.  
+
+Version: R33
+Source: A.Z. Kiss+, J. Radioanal. Nucl. Chem. 89 (1985) 123
+Name:
+Serial Number: 0
+X4Number:  
+Reaction: 25Mg(p,pg2-1)25Mg
+Egamma: 390
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,12,1,12
+Qvalue: 0, 0, 0, 0, 0
+Theta: 55
+Sigfactors: 10, 0
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+2400.0		0.0		2.4E+04		0.0
+3100.0		0.0		6.2E+04		0.0
+3800.0		0.0		2.5E+05		0.0
+4200.0		0.0		2.8E+05		0.0
+EndData:
