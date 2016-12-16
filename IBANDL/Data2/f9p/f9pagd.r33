@@ -11,7 +11,7 @@ Composition:
 Masses: 1,19,4,16
 Zeds: 1,9,2,8
 Qvalue: 0, 0, 0, 0, 0
-Theta: 90
+Theta: 135
 Sigfactors: 1000000, 1000000
 Enfactors: 1, 0, 0, 0
 Units: yield
