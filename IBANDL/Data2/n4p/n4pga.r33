@@ -1,0 +1,31 @@
+Comment:  	W. A. S. Lamb and R. E. Hester 	
+		Transmutation of nitrogen by protons from 100 keV to 135 keV	
+		Phys. Rev. 108 (1957) 1304	
+
+
+				
+  
+
+Version:      R33
+X4Number:    C0176002
+Source:      W. A. S. Lamb and R. E. Hester, King et al, Phys. Rev. 108 (1957) 1304.
+Name:        Tassos Lagoyannis for PIGE CRP
+Reaction:     14N(p,g)15O
+Distribution: Energy
+Sigfactors:   1000.00, 0.00
+Enfactors:    1000.00, 0.00, 0.00, 0.00
+Units:        tot
+Masses:       1.0, 14.0, 0.0, 15.0
+Zeds:         1, 7, 0, 8
+Qvalue:       7296.78, 0.00, 0.00, 0.00, 0.00
+Theta:        360
+Data:
+0.10	0.00	8.60E-12	3.60E-12
+0.11	0.00	1.10E-11	3.70E-12
+0.11	0.00	2.20E-11	5.80E-12
+0.11	0.00	4.30E-11	1.10E-11
+0.12	0.00	6.80E-11	1.30E-11
+0.13	0.00	7.00E-11	1.50E-11
+0.13	0.00	9.10E-11	1.80E-11
+0.14	0.00	1.40E-10	2.20E-11
+EndData:
