@@ -13,7 +13,7 @@ Version:      R33
 X4Number:     C1223002
 Source:       W.J.O`connell+(1978), Jour. Physical Review, Part C, Nuclear Physics, Vol.17, Issue.3, p.892
 Reaction:     15N(p,g0)16O
-Egamma:       0.0
+Egamma: 20181-29012
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
