@@ -1,0 +1,42 @@
+Comment: In the cases were different cross-sections are given for sample 1 and sample 2 average values were determined. 
+
+Version: R33
+Source:  H.Van Bebber et al. Nucl. Instr. & Meth. B136-138 (1998) 72
+Name:
+Serial Number: 0
+X4Number: O0856002
+
+Reaction: 14N(d,pg7-0)15N
+Egamma: 8300
+Distribution: Energy
+Composition: natural
+Masses: 
+Zeds: 1,7,1,7
+Qvalue: 0, 0, 0, 0, 0
+Theta: 130
+Sigfactors: 1, 0
+Enfactors: 1, 0, 0, 0
+Units: tot
+Data:
+500   0.0  0.9	   0.018
+550   0.0  1.753   0.039
+600   0.0  2.944   0.074
+650   0.0  4.142   0.12
+700   0.0  6.125   0.18
+750   0.0  8.4575  0.27
+800   0.0  11.375  0.39
+850   0.0  14.885  0.56
+900   0.0  19.03   0.74
+950   0.0  23.71   0.97
+1000  0.0  28.875  1.3
+1050  0.0  33.42   1.6
+1100  0.0  37.495  1.8
+1150  0.0  42.045  2.2
+1200  0.0  45.865  2.5
+1250  0.0  47.885  2.7
+1250  0.0  48.14   2.8
+1350  0.0  54.93   3.3
+1400  0.0  54.69   3.4
+1450  0.0  56.62   3.6
+1500  0.0  56.7    3.8
+EndData:
