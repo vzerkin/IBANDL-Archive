@@ -7,8 +7,8 @@ Comment:  	W. A. S. Lamb and R. E. Hester
   
 
 Version:      R33
-X4Number:    
-Source:      W. A. S. Lamb and R. E. Hester, King et al, Phys. Rev. 108 (1957) 1304. NACRE Compilation Nucl. Phys. A 656 (1999) 3-183.
+X4Number:    C0176002
+Source:      W. A. S. Lamb and R. E. Hester, King et al, Phys. Rev. 108 (1957) 1304.
 Name:        Tassos Lagoyannis for PIGE CRP
 Reaction:     14N(p,g)15O
 Distribution: Energy
