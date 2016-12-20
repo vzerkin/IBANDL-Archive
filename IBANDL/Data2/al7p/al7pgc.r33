@@ -12,6 +12,7 @@ Evaluated Data: n
 SubFile: 
 X4Number: A0126
 Reaction: 27Al(p,g)28Si
+Egamma: 11778-12665
 Distribution: Total
 Composition: 
 Masses:    1.000,   27.000,    0.000,    28.000
