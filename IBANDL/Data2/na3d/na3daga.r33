@@ -1,0 +1,44 @@
+Comment:
+Thick target gamma-ray yield. Gamma energy 350.7 keV.
+
+Version: R33
+Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
+Name:
+Serial Number: 0
+X4Number: O0875008
+Reaction: 23Na(d,ag1-0)21Ne
+Egamma: 350.7
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,11,2,10
+Qvalue: 0, 0, 0, 0, 0
+Theta: 135
+Sigfactors: 1, 0
+Enfactors: 1000, 0, 0, 0
+Units: yield
+Data:
+1.0 0.0 10000 0.0 
+1.1 0.0 21700 0.0 
+1.2 0.0 44400 0.0 
+1.3 0.0 74100 0.0 
+1.4 0.0 127000 0.0 
+1.5 0.0 227000 0.0 
+1.6 0.0 281000 0.0 
+1.7 0.0 490000 0.0 
+1.8 0.0 661000 0.0 
+1.9 0.0 835000 0.0 
+2.0 0.0 1.15E+06 0.0 
+2.1 0.0 1.57E+06 0.0 
+2.2 0.0 1.72E+06 0.0 
+2.3 0.0 2.01E+06 0.0 
+2.4 0.0 2.70E+06 0.0 
+2.5 0.0 2.99E+06 0.0 
+2.6 0.0 3.48E+06 0.0 
+2.7 0.0 3.87E+06 0.0 
+2.8 0.0 4.58E+06 0.0 
+2.9 0.0 5.75E+06 0.0 
+3.0 0.0 5.80E+06 0.0 
+3.2 0.0 8.38E+06 0.0 
+3.4 0.0 1.09E+07 0.0 
+EndData:
