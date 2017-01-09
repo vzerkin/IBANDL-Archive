@@ -1,0 +1,23 @@
+Comment:
+Thick target gamma-ray yield.  
+
+Version: R33
+Source: A.Z. Kiss+, J. Radioanal. Nucl. Chem. 89 (1985) 123
+Name:
+Serial Number: 0
+X4Number:  
+Reaction: 29Si(p,pg2-1)29Si
+Egamma: 755
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,14,1,14
+Qvalue: 0, 0, 0, 0, 0
+Theta: 55
+Sigfactors: 21.35, 0
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+3100.0		0.0		1.0E+05		0.0
+3800.0		0.0		6.3E+05		0.0
+EndData:
