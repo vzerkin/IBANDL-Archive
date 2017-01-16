@@ -1,0 +1,28 @@
+Comment:
+ Data sent by Jyrki Raisanen for PIGE CRP
+
+
+Version: R33
+Source: B. Marchand et al, Nucl. Instr. Meth. B 378 (2016) 25
+Name:
+Serial Number: 0
+X4Number:  
+Reaction: 29Si(p,pg1-0)29Si
+Egamma: 1273
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,14,1,14
+Qvalue: 0, 0, 0, 0, 0
+Theta: 55
+Sigfactors: 21.35, 0
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+4000   0.0    	 7.9E+05
+4500   0.0  	1.40E+06
+5000   0.0  	2.01E+06
+5500   0.0  	2.93E+06
+6000   0.0       4.3E+06
+6500   0.0       6.1E+06
+EndData:
