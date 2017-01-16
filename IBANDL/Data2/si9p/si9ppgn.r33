@@ -1,0 +1,22 @@
+Comment:   Proton induced thick target g-ray yields of light nuclei at the 
+	   energy region E/P=1.0 - 4.1 MeV.
+
+
+
+Version:      R33
+X4Number:     O0861009
+Source:       A. Savidou et al, NIMB, 152, 12 (1999)
+Name:       
+Reaction:     29Si(p,pg2-0)29Si
+Egamma:	      2028
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1000.00, 0.00, 0.00, 0.00
+Units:        yield
+Masses:       1.0, 29.0, 1.0, 29.0
+Zeds:         1, 14, 1, 14
+Qvalue:       0.00, 0.00, 0.00, 0.00, 0.00
+Theta:        90
+Data: 
+4.       0.    88000.             
+EndData:
