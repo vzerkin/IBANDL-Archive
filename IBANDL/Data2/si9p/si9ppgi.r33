@@ -1,7 +1,7 @@
 Comment: Data sent by Jyrki Raisanen for PIGE CRP
 
 Version: R33
-Source: Benoit Marchand et al, Nucl. Instr. Meth. B 378 (2016) 25
+Source: B. Marchand et al, Nucl. Instr. Meth. B 378 (2016) 25
 Name:
 Serial Number: 0
 Reaction: 29Si(p,pg1-0)29Si
@@ -13,7 +13,7 @@ Qvalue: 0.00, 0.00, 0.00, 0.00, 0.00
 Theta: 55.
 Sigfactors: 1.00, 0.0
 Enfactors: 1.00, 0.00, 0.00, 0.00
-Units: mb
+Units: tot
 Data:
 3586.   0.0   95.61883
 3686.   0.0   280.801
