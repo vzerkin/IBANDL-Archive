@@ -4,6 +4,7 @@ Version: R33
 Source: B. Marchand et al, Nucl. Instr. Meth. B 378 (2016) 25
 Name:
 Serial Number: 0
+X4Number: O2303004 00000000
 Reaction: 29Si(p,pg1-0)29Si
 Egamma: 1273
 Distribution: Energy
