@@ -4,14 +4,14 @@ Comment:  Data sent by Jyrki Raisanen for PIGE CRP
 
 Version:      R33
 X4Number:      
-Source:  Benoit Marchand et al, Nucl. Instr. Meth. B 378 (2016) 25
+Source:  B. Marchand et al, Nucl. Instr. Meth. B 378 (2016) 25
 Name:       
 Reaction:     14N(p,pg1-0)14N
 Egamma:	      2313
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
-Units:        mb
+Units:        tot
 Masses:       1.0, 14.0, 1.0, 14.0
 Zeds:         1, 7, 1, 7
 Qvalue:       0.00, 0.00, 0.00, 0.00, 0.00
