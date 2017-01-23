@@ -2,7 +2,7 @@ Comment: Data sent by Jyrki Raisanen for PIGE CRP
 
 
 Version: R33
-Source: Benoit Marchand et al, Nucl. Instr. Meth. B 378 (2016) 25
+Source: B. Marchand et al, Nucl. Instr. Meth. B 378 (2016) 25
 Serial Number: 0
 Reaction: 28Si(p,pg1-0)28Si
 Egamma: 1779
@@ -11,9 +11,9 @@ Masses:
 Zeds: 1,14,1,14
 Qvalue: 0.00, 0.00, 0.00, 0.00, 0.00
 Theta: 55.
-Sigfactors: 1.00, 0.0
+Sigfactors: 1.084, 0.0
 Enfactors: 1.00, 0.00, 0.00, 0.00
-Units: mb
+Units: tot
 Data:
 3586.   0.0   49.02066
 3686.   0.0   196.1747
