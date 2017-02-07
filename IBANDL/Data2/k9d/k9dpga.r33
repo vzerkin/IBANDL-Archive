@@ -1,0 +1,36 @@
+Comment:
+Thick target gamma-ray yield. Gamma energy 770 keV.
+
+Version: R33
+Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
+Name:
+Serial Number: 0
+X4Number: O0875014
+Reaction: 39K(d,pg2-1)40K
+Egamma: 770
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,19,1,19
+Qvalue: 0, 0, 0, 0, 0
+Theta: 135
+Sigfactors: 1.072, 0
+Enfactors: 1000, 0, 0, 0
+Units: yield
+Data:
+1.8 0.0 42900 0.0 
+1.9 0.0 72000 0.0 
+2.0 0.0 105000 0.0 
+2.1 0.0 166000 0.0 
+2.2 0.0 224000 0.0 
+2.3 0.0 341000 0.0 
+2.4 0.0 472000 0.0 
+2.5 0.0 629000 0.0 
+2.6 0.0 789000 0.0 
+2.7 0.0 1.01E+06 0.0 
+2.8 0.0 1.38E+06 0.0 
+2.9 0.0 1.73E+06 0.0 
+3.0 0.0 1.90E+06 0.0 
+3.2 0.0 3.60E+06 0.0 
+3.4 0.0 5.01E+06 0.0 
+EndData:
