@@ -1,0 +1,35 @@
+Comment:
+Thick target gamma-ray yield. Gamma energy 671.4 keV.
+
+Version: R33
+Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
+Name:
+Serial Number: 0
+X4Number: O0875028
+Reaction: 37Cl(d,pg1-0)38Cl
+Egamma: 671.4
+Distribution: Energy
+Composition: natural
+Masses: 
+Zeds: 1,17,1,17
+Qvalue: 0, 0, 0, 0, 0
+Theta: 135
+Sigfactors: 4.125, 0
+Enfactors: 1000, 0, 0, 0
+Units: yield
+Data:
+1.8 0.0 21100 0.0 
+1.9 0.0 30200 0.0 
+2.0 0.0 51400 0.0 
+2.1 0.0 68700 0.0 
+2.3 0.0 116000 0.0 
+2.4 0.0 143000 0.0 
+2.5 0.0 256000 0.0 
+2.6 0.0 342000 0.0 
+2.7 0.0 347000 0.0 
+2.8 0.0 508000 0.0 
+2.9 0.0 673000 0.0 
+3.0 0.0 665000 0.0 
+3.2 0.0 1.74E+06 0.0 
+3.4 0.0 3.50E+06 0.0 
+EndData:
