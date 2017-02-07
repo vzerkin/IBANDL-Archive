@@ -13,7 +13,7 @@ Masses: 2.0, 16.0, 1.0, 17.0
 Zeds: 1,8,1,8
 Qvalue: 0, 0, 0, 0, 0
 Theta: 90
-Sigfactors: 1, 0
+Sigfactors: 1.0024, 0
 Enfactors: 1, 0, 0, 0
 Units: yield
 Data:
