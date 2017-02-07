@@ -1,0 +1,36 @@
+Comment:
+Thick target gamma-ray yield. Gamma energy 841 keV.
+
+Version: R33
+Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
+Name:
+Serial Number: 0
+X4Number: O0875012
+Reaction: 32S(d,pg1-0)33S
+Egamma: 841
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,16,1,16
+Qvalue: 0, 0, 0, 0, 0
+Theta: 135
+Sigfactors: 1.053, 0
+Enfactors: 1000, 0, 0, 0
+Units: yield
+Data:
+3.4 0.0 1.02E+07 0.0 
+3.2 0.0 7.76E+06 0.0 
+3.0 0.0 4.93E+06 0.0 
+2.9 0.0 4.63E+06 0.0 
+2.8 0.0 3.98E+06 0.0 
+2.7 0.0 3.15E+06 0.0 
+2.6 0.0 2.66E+06 0.0 
+2.5 0.0 2.08E+06 0.0 
+2.4 0.0 1.55E+06 0.0 
+2.3 0.0 1.10E+06 0.0 
+2.2 0.0 951000 0.0 
+2.1 0.0 715000 0.0 
+2.0 0.0 507000 0.0 
+1.9 0.0 384000 0.0 
+1.8 0.0 218000 0.0 
+EndData:
