@@ -1,0 +1,36 @@
+Comment:
+Thick target gamma-ray yield. Gamma energy 3737 keV.
+
+Version: R33
+Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
+Name:
+Serial Number: 0
+X4Number: O0875030
+Reaction: 39K(d,ng2-1)40Ca
+Egamma: 3737
+Distribution: Energy
+Composition: natural
+Masses: 
+Zeds: 1,19,0,20
+Qvalue: 0, 0, 0, 0, 0
+Theta: 135
+Sigfactors: 1.072, 0
+Enfactors: 1000, 0, 0, 0
+Units: yield
+Data:
+1.8 0.0 22900 0.0 
+1.9 0.0 33300 0.0 
+2.0 0.0 62100 0.0 
+2.1 0.0 112000 0.0 
+2.2 0.0 195000 0.0 
+2.3 0.0 239000 0.0 
+2.4 0.0 365000 0.0 
+2.5 0.0 367000 0.0 
+2.6 0.0 543000 0.0 
+2.7 0.0 653000 0.0 
+2.8 0.0 807000 0.0 
+2.9 0.0 1.16E+06 0.0 
+3.0 0.0 1.08E+06 0.0 
+3.2 0.0 3.05E+06 0.0 
+3.4 0.0 3.70E+06 0.0 
+EndData:
