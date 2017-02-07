@@ -1,0 +1,36 @@
+Comment:
+Thick target gamma-ray yield. Gamma energy 1951.1+1959.1+1970 keV 
+(dpg4-0)+(dpg5-0)+(dny1-0).
+
+Version: R33
+Source:  Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
+Name:
+X4Number: O0875031
+Serial Number: 0
+Reaction: 35Cl(d,pg4-0)36Cl
+Egamma: 1951.1+1959.1+1970.0
+Distribution: Energy
+Composition: natural
+Masses: 
+Zeds: 1,17,1,17
+Qvalue: 0, 0, 0, 0, 0
+Theta: 135
+Sigfactors: 1.32, 0
+Enfactors: 1000, 0, 0, 0
+Units: yield
+Data:
+1.8 0.0 145000 0.0 
+1.9 0.0 197000 0.0 
+2.0 0.0 339000 0.0 
+2.1 0.0 316000 0.0 
+2.3 0.0 742000 0.0 
+2.4 0.0 1.13E+06 0.0 
+2.5 0.0 1.52E+06 0.0 
+2.6 0.0 2.18E+06 0.0 
+2.7 0.0 2.53E+06 0.0 
+2.8 0.0 3.36E+06 0.0 
+2.9 0.0 4.17E+06 0.0 
+3.0 0.0 4.26E+06 0.0 
+3.2 0.0 1.04E+07 0.0 
+3.4 0.0 2.64E+07 0.0 
+EndData:
