@@ -4,12 +4,12 @@ Comment:   Absolute thick-target gamma ray yields for elemental analysis by 7
 
 Version:      R33
 X4Number:     O0901002
-Source:       J.Raisanen, T.Witting, J.Keinonen, NIMB, 28, 199 (1987)
+Source:       J. Raisanen+, Nucl. Instr. and Meth. 28 (1987) 199
 Name:       
 Reaction:     7Li(p,pg1-0)7Li
 Egamma:	      478
 Distribution: Energy
-Sigfactors:   1.00, 0.00
+Sigfactors:   1.08, 0.00
 Enfactors:    1000.00, 0.00, 0.00, 0.00
 Units:        yield
 Masses:       1.0, 7.0, 1.0, 7.0
