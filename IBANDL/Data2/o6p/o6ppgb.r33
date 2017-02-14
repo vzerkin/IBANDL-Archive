@@ -1,0 +1,23 @@
+Comment:
+Thick target gamma-ray yield.  
+
+Version: R33
+Source: J. Raisanen+, Nucl. Instr. and Meth. 28 (1987) 199
+Name:
+Serial Number: 0
+X4Number: O0901007 
+Reaction: 16O(p,pg2-0)16O
+Egamma: 6129
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,8,1,8
+Qvalue: 0, 0, 0, 0, 0
+Theta: 55
+Sigfactors: 1, 0
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+7000.0		0.0		1.15e+07
+9000.0		0.0		1.80e+09
+EndData:
