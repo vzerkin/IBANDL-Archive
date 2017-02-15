@@ -1,0 +1,23 @@
+Comment:
+Thick target gamma-ray yield.  
+
+Version: R33
+Source: J. Raisanen+, Nucl. Instr. and Meth. 28 (1987) 199
+Name:
+Serial Number: 0
+X4Number: O0901004
+Reaction: 9Be(p,ag2-0)6Li
+Egamma: 3562
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,4,2,3
+Qvalue: 0, 0, 0, 0, 0
+Theta: 55
+Sigfactors: 1, 0.1
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+7000.0     0	1.95E+08	 
+9000.0     0	1.86E+08	 
+EndData:
