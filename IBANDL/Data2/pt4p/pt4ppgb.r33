@@ -1,0 +1,23 @@
+Comment:
+Thick target gamma-ray yield. Corrected for the isotopic abundance.  
+
+Version: R33
+Source: J. Raisanen+, Nucl. Instr. and Meth. 28 (1987) 199
+Name:
+Serial Number: 0
+X4Number: O0901045
+Reaction: 194Pt(p,pg1-0)194Pt
+Egamma: 328
+Distribution: Energy
+Composition:
+Masses: 1,194,1,194
+Zeds: 1,78,1,78
+Qvalue: 0, 0, 0, 0, 0
+Theta: 55
+Sigfactors: 3.04, 0.1
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+7000.0     0	1.88E+07	 
+9000.0     0	3.44E+07	 
+EndData:
