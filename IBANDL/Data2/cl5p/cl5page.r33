@@ -1,0 +1,23 @@
+Comment:
+Thick target gamma-ray yield. Corrected for the isotopic abundance.   
+
+Version: R33
+Source: J. Raisanen+, Nucl. Instr. and Meth. 28 (1987) 199
+Name:
+Serial Number: 0
+X4Number: O0901015
+Reaction: 35Cl(p,ag1-0)32S
+Egamma: 2230
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,17,2,16
+Qvalue: 0, 0, 0, 0, 0
+Theta: 55
+Sigfactors: 1.32, 0.1
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+7000.0     0	5.13E+07	 
+9000.0     0	1.06E+08	 
+EndData:
