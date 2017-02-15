@@ -1,0 +1,23 @@
+Comment:
+Thick target gamma-ray yield.  
+
+Version: R33
+Source: J. Raisanen+, Nucl. Instr. and Meth. 28 (1987) 199
+Name:
+Serial Number: 0
+X4Number: O0901046
+Reaction: 197Au(p,pg6-0)197Au
+Egamma: 548
+Distribution: Energy
+Composition:
+Masses: 1,197,1,197
+Zeds: 1,79,1,79
+Qvalue: 0, 0, 0, 0, 0
+Theta: 55
+Sigfactors: 1, 0.1
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+7000.0     0	1.64E+06	 
+9000.0     0    4.03E+06	 
+EndData:
