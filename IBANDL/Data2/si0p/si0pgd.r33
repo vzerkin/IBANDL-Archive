@@ -1,0 +1,22 @@
+Comment:
+Thick target gamma-ray yield. Corrected for the isotopic abundance.  
+
+Version: R33
+Source: J. Raisanen+, Nucl. Instr. and Meth. 28 (1987) 199
+Name:
+Serial Number: 0
+X4Number: O0901012
+Reaction:     30Si(p,pg2-0)30Si+30Si(p,g2-0)31P
+Egamma:	      2233+2235
+Distribution: Energy
+Sigfactors:   32.34, 0.10
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        yield
+Masses:       1.0, 30.0, 1.0, 30.0
+Zeds:         1, 14, 1, 14
+Qvalue:       0.00, 0.00, 0.00, 0.00, 0.00
+Theta:        55
+Data: 
+7000.0     0	4.30E+06	 
+9000.0     0	1.15E+07	 
+EndData:
