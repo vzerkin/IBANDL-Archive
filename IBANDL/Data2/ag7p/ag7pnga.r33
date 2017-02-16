@@ -1,0 +1,23 @@
+Comment:
+Thick target gamma-ray yield. Corrected for the isotopic abundance.  
+
+Version: R33
+Source: J. Raisanen+, Nucl. Instr. and Meth. 28 (1987) 199
+Name:
+Serial Number: 0
+X4Number: O0901034
+Reaction: 107Ag(p,ng3-0)107Cd
+Egamma: 365
+Distribution: Energy
+Composition:
+Masses: 1,107,1,107
+Zeds: 1,47,0,48
+Qvalue: 0, 0, 0, 0, 0
+Theta: 55
+Sigfactors: 1.93, 0.1
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+7000.0     0	2.13E+07	 
+9000.0     0	9.00E+07	 
+EndData:
