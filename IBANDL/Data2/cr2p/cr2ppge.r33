@@ -1,0 +1,23 @@
+Comment:
+Thick target gamma-ray yield. Corrected for the isotopic abundance.  
+
+Version: R33
+Source: J. Raisanen+, Nucl. Instr. and Meth. 28 (1987) 199
+Name:
+Serial Number: 0
+X4Number: O0901020
+Reaction: 52Cr(p,pg7-1)52Cr
+Egamma: 1728
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,24,1,24
+Qvalue: 0, 0, 0, 0, 0
+Theta: 55
+Sigfactors: 1.19, 0.1
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+7000.0     0	2.66E+06	 
+9000.0     0	2.39E+07	 
+EndData:
