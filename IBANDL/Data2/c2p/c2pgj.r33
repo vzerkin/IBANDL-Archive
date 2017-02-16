@@ -1,0 +1,23 @@
+Comment:
+Thick target gamma-ray yield. Corrected for the isotopic abundance. 
+
+Version: R33
+Source: J. Raisanen+, Nucl. Instr. and Meth. 28 (1987) 199
+Name:
+Serial Number: 0
+X4Number: O0901005
+Reaction: 12C(p,pg1-0)12C 
+Egamma: 4439
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,6,1,6
+Qvalue: 0, 0, 0, 0, 0
+Theta: 55
+Sigfactors: 1.01, 0.1
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+1700.0		0.0		7.53E+08		0.0
+2400.0		0.0		2.89E+09		0.0
+EndData:
