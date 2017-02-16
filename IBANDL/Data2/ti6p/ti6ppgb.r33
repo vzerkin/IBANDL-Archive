@@ -1,0 +1,23 @@
+Comment:
+Thick target gamma-ray yield. Corrected for the isotopic abundance.  
+
+Version: R33
+Source: J. Raisanen+, Nucl. Instr. and Meth. 28 (1987) 199
+Name:
+Serial Number: 0
+X4Number: O0901018
+Reaction: 46Ti(p,pg1-0)46Ti
+Egamma: 889
+Distribution: Energy
+Composition: 
+Masses:    1.000,   46.000,    1.000,   46.000
+Zeds: 1, 22, 1, 22
+Qvalue:      -889.00,      0.00,      0.00,      0.00,      0.00
+Theta:  55.00
+Sigfactors: 12.12, 0.10 
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: yield
+Data:
+7000.0     0	9.57E+06	 
+9000.0     0	2.57E+07	 
+EndData:
