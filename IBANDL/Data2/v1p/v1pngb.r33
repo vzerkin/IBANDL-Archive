@@ -1,0 +1,23 @@
+Comment:
+Thick target gamma-ray yield.  
+
+Version: R33
+Source: J. Raisanen+, Nucl. Instr. and Meth. 28 (1987) 199
+Name:
+Serial Number: 0
+X4Number: O0901019
+Reaction: 51V(p,ng6-1)51Cr 
+Egamma: 808
+Distribution: Energy
+Composition: 
+Masses:    1.000,   51.000,    1.000,   51.000
+Zeds: 1, 23, 0, 24
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:  55
+Sigfactors: 1.00, 0.10 
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: yield
+Data:
+7000.0     0	1.47E+08	 
+9000.0     0	2.20E+08	 
+EndData:
