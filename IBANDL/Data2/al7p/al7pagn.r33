@@ -1,0 +1,23 @@
+Comment:
+Thick target gamma-ray yield.  
+
+Version: R33
+Source: J. Raisanen+, Nucl. Instr. and Meth. 28 (1987) 199
+Name:
+Serial Number: 0
+X4Number: O0901011
+Reaction: 27Al(p,ag1-0)24Mg
+Egamma: 1369
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,13,2,12
+Qvalue: 0, 0, 0, 0, 0
+Theta: 55
+Sigfactors: 1, 0.1
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+7000.0     0	3.92E+08	 
+9000.0     0	7.62E+08	 
+EndData:
