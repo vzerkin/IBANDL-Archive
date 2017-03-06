@@ -1,0 +1,24 @@
+Comment:
+Thick target gamma-ray yield. 
+Measurements assuming elemental composition. 
+Sigfactor applied to convert to isotopic yield.
+
+Version: R33
+Source:  A.Z. Kiss et al., Nucl. Instr. & Meth. B85 (1994) 118
+Name:
+Serial Number: 0
+X4Number:  
+Reaction: 35Cl(d,pg1-0)36Cl
+Egamma: 788.4
+Distribution: Energy
+Composition: natural
+Masses: 
+Zeds: 1,17,1,17
+Qvalue: 0, 0, 0, 0, 0
+Theta: 135
+Sigfactors: 1.32, 0
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+1800 0.0 4.11E+04 0.0 
+EndData:
