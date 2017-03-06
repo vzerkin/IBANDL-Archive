@@ -1,0 +1,25 @@
+Comment:
+Thick target gamma-ray yield. 
+Measurements assuming elemental composition. 
+Sigfactor applied to convert to isotopic yield.
+
+
+Version: R33
+Source:  A.Z. Kiss et al. Nucl. Instr. & Meth. B85 (1994) 118
+Name:
+Serial Number: 0
+X4Number:   
+Reaction: 6Li(d,ng1-0)7Be
+Egamma: 429
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,3,0,4
+Qvalue: 0, 0, 0, 0, 0
+Theta: 135
+Sigfactors: 13.18, 0
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+1800 0.0 1.56E+06 0.0
+EndData:
