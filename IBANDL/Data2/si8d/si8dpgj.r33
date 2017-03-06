@@ -1,0 +1,46 @@
+Comment:
+Thick target gamma-ray yield. 
+Measurements assuming elemental composition. 
+Sigfactor applied to convert to isotopic yield.
+
+Version: R33
+Source:  A.Z. Kiss et al., Nucl. Instr. & Meth. B85 (1994) 118
+Name:
+Serial Number: 0
+X4Number:  
+Reaction: 28Si(d,pg10-0)29Si
+Egamma: 4935
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,14,1,14
+Qvalue: 0, 0, 0, 0, 0
+Theta: 135
+Sigfactors: 1.08, 0
+Enfactors: 1000, 0, 0, 0
+Units: yield
+Data:
+0.99  0.0  4.39E+03   0.0
+1.09  0.0  1.44E+04   0.0
+1.20  0.0  2.79E+04   0.0
+1.30  0.0  5.18E+04   0.0
+1.40  0.0  8.43E+04   0.0
+1.50  0.0  1.56E+05   0.0
+1.60  0.0  2.59E+05   0.0
+1.70  0.0  4.64E+05   0.0
+1.80  0.0  5.70E+05   0.0
+1.89  0.0  8.47E+05   0.0
+2.00  0.0  1.10E+06   0.0
+2.10  0.0  1.42E+06   0.0
+2.20  0.0  1.79E+06   0.0
+2.30  0.0  2.32E+06   0.0
+2.40  0.0  2.77E+06   0.0
+2.50  0.0  3.26E+06   0.0
+2.60  0.0  3.96E+06   0.0
+2.70  0.0  4.66E+06   0.0
+2.81  0.0  4.89E+06   0.0
+2.91  0.0  6.04E+06   0.0
+3.01  0.0  5.95E+06   0.0
+3.22  0.0  7.00E+06   0.0
+3.41  0.0  8.23E+06   0.0
+EndData:
