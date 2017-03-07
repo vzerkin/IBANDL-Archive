@@ -1,0 +1,35 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2016/11/07, by V.Zerkin.
+            "Inelastic scattering of protons by middle atomic
+             weight nuclei at low energies."
+            G.A.Krivonosov, B.A.Nemashkalo, V.E.Storizhko, A.P.Klyucharev, 
+            O.I.Ekhichev, V.K.Chirt
+            EXFOR: F0920014    Created: 2008-08-28  Updated: 2014-06-26
+            X4Reaction:29-CU-65(P,INL)29-CU-65,PAR,DA; X4Points:6
+            Converted from C.M. to Lab.: Data (assumed DATA-CM) (Theta: not converted) 
+            LevelEnergy: 771.00
+            Correct reaction coding: 65Cu(p,pg1-0)65Cu
+
+Version:      R33
+X4Number:     F0920014
+Source:       G.A.Krivonosov+, Sov. J. Nucl. Phys. 24 (1976) 461
+Reaction:     65Cu(p,pg1-0)65Cu
+Egamma:	      771
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 65.0, 1.0, 65.0
+Zeds:         1, 29, 1, 29
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        56
+Data:
+ 1965.00,     0.00,  4.10e-5,  1.90e-5
+ 2175.00,     0.00,  2.52e-4,  9.00e-5
+ 2381.00,     0.00,  8.12e-4,  2.25e-4
+ 2587.00,     0.00,   0.0024,  5.67e-4
+ 2778.00,     0.00,   0.0041,  9.54e-4
+ 2976.00,     0.00,   0.0199,   0.0049
+EndData:
