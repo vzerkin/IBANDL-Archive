@@ -1,0 +1,58 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2016/11/07, by V.Zerkin.
+            "Inelastic scattering of protons by middle atomic
+             weight nuclei at low energies."
+            G.A.Krivonosov, B.A.Nemashkalo, V.E.Storizhko, A.P.Klyucharev, 
+            O.I.Ekhichev, V.K.Chirt
+            EXFOR: F0920004    Created: 2008-08-28  Updated: 2009-03-18
+            X4Reaction:23-V-51(P,INL)23-V-51,PAR,DA; X4Points:29
+            Converted from C.M. to Lab.: Data (assumed DATA-CM) (Theta: not converted) 
+            LevelEnergy: 320.00
+            NOTE: the correct coding of this reaction is 51V(p,pgamma)51V as indicated below
+
+Version:      R33
+X4Number:     F0920004
+Source:       G.A.Krivonosov+, Sov. J. Nucl. Phys. 24 (1976) 461
+Reaction:     51V(p,pg1-0)51V
+Distribution: Energy
+Egamma:	      320
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 51.0, 1.0, 51.0
+Zeds:         1, 23, 1, 23
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        56
+Data:
+ 1109.30,     0.00,   0.0018, 4.757e-4
+ 1202.50,     0.00,   0.0037,     0.00
+ 1313.80,     0.00,   0.0053,     0.00
+ 1397.20,     0.00,   0.0074,     0.00
+ 1452.60,     0.00,   0.0097,     0.00
+ 1545.50,     0.00,   0.0213,     0.00
+ 1612.30,     0.00,   0.0268,   0.0057
+ 1719.20,     0.00,   0.0279,     0.00
+ 1759.50,     0.00,   0.0222,     0.00
+ 1815.70,     0.00,   0.0226,     0.00
+ 1860.50,     0.00,   0.0246,     0.00
+ 1927.50,     0.00,   0.0294,     0.00
+ 2039.40,     0.00,    0.036,     0.00
+ 2138.20,     0.00,   0.0747,     0.00
+ 2243.70,     0.00,   0.1176,     0.00
+ 2292.00,     0.00,   0.2317,   0.0324
+ 2342.50,     0.00,   0.2439,     0.00
+ 2388.10,     0.00,   0.2074,     0.00
+ 2439.20,     0.00,   0.1854,     0.00
+ 2499.30,     0.00,   0.3143,     0.00
+ 2549.00,     0.00,   0.4199,     0.00
+ 2594.40,     0.00,   0.3849,     0.00
+ 2656.90,     0.00,   0.3314,     0.00
+ 2686.50,     0.00,   0.2192,     0.00
+ 2760.10,     0.00,   0.1985,     0.00
+ 2803.10,     0.00,   0.3538,     0.00
+ 2859.40,     0.00,   0.3632,     0.00
+ 2898.60,     0.00,   0.3821,     0.00
+ 2959.90,     0.00,   0.4676,   0.0703
+EndData:
