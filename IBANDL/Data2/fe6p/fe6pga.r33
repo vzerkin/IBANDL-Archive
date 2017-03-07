@@ -1,0 +1,25 @@
+
+Comment:
+Thick target gamma-ray yield. Corrected for the isotopic abundance.  
+
+Version: R33
+Source: M.J.Kenny+, Nucl. Instr. and Meth. 168 (1980) 115
+Name:
+Serial Number: 0
+X4Number: D0384011
+Reaction:     56Fe(p,g1-0)5Co
+Egamma: 1379
+Distribution: Energy
+Sigfactors:   1.09, 0.10
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        yield
+Composition:
+Masses:       1.0, 56.0, 0.0, 57.0
+Zeds:         1, 26, 0, 27
+Qvalue:       0.00, 0.00, 0.00, 0.00, 0.00
+Theta:        135
+Data:
+2000.0     0    1.4E+03	 
+2514.0     0	3.3E+03	 
+EndData:
+
