@@ -1,0 +1,20 @@
+Comment:	Proton Induced gamma-Ray Yields
+
+
+Version: R33
+X4Number:     D0384006
+Source: M.J.Kenny+, Nucl. Instr. and Meth. 168 (1980) 115
+Serial Number: 0
+Reaction: 28Si(p,pg1-0)28Si
+Egamma: 1778
+Distribution: Energy
+Masses: 
+Zeds: 1,14,1,14
+Qvalue: 0.00, 0.00, 0.00, 0.00, 0.00
+Theta: 135.00
+Sigfactors: 1.084, 0.0
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: yield
+Data:
+2514.	0.	400.
+EndData:
