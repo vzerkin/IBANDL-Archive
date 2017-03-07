@@ -1,0 +1,40 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2016/11/07, by V.Zerkin.
+            "Inelastic scattering of protons by middle atomic
+             weight nuclei at low energies."
+            G.A.Krivonosov, B.A.Nemashkalo, V.E.Storizhko, A.P.Klyucharev, 
+            O.I.Ekhichev, V.K.Chirt
+            EXFOR: F0920026    Created: 2008-08-28  Updated: 2009-03-18
+            X4Reaction:34-SE-80(P,INL)34-SE-80,PAR,DA; X4Points:11
+            Converted from C.M. to Lab.: Data (assumed DATA-CM) (Theta: not converted) 
+            LevelEnergy: 666.00
+            Correct reaction coding: 80Se(p,pg1-0)80Se
+
+Version:      R33
+X4Number:     F0920026
+Source:       G.A.Krivonosov+, Sov. J. Nucl. Phys. 24 (1976) 461
+Reaction:     80Se(p,pg1-0)80Se
+Egamma:	      666
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 80.0, 1.0, 80.0
+Zeds:         1, 34, 1, 34
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        56
+Data:
+ 1574.70,     0.00, 7.676e-4, 3.937e-4
+ 1761.90,     0.00,    0.004,   0.0021
+ 1964.30,     0.00,   0.0149,   0.0051
+ 2165.10,     0.00,   0.0294,   0.0097
+ 2373.70,     0.00,   0.0528,   0.0138
+ 2469.90,     0.00,   0.0661,   0.0173
+ 2573.80,     0.00,   0.0769,   0.0212
+ 2685.80,     0.00,   0.0927,   0.0216
+ 2774.10,     0.00,   0.1185,   0.0259
+ 2878.10,     0.00,    0.143,   0.0353
+ 2973.60,     0.00,   0.1375,     0.03
+EndData:
