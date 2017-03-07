@@ -1,0 +1,25 @@
+Comment:
+Thick target gamma-ray yield. 
+Sigfactor applied to convert to isotopic yield.
+ 
+
+Version: R33
+Source: M.J.Kenny+, Nucl. Instr. and Meth. 168 (1980) 115
+Name:
+Serial Number: 0
+X4Number: D0384009
+Reaction: 52Cr(p,g1-0)53Mn
+Egamma: 379
+Distribution: Energy
+Composition: 
+Masses:    1.000,   52.000,    0.000,   53.000
+Zeds: 1, 23, 0, 24
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:  135
+Sigfactors: 1.193, 0.00 
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: yield
+Data:
+2000.0     0	3.8E+03	 
+2514.0     0	2.8E+04	 
+EndData:
