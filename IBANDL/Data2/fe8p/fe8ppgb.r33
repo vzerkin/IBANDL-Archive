@@ -1,0 +1,23 @@
+Comment:
+Thick target gamma-ray yield.
+  
+
+Version: R33
+Source:  M.J.Kenny+, Nucl. Instr. and Meth. 168 (1980) 115
+Name:
+Serial Number: 0
+X4Number:  D0384011
+Reaction: 58Fe(p,pg3-1)58Fe
+Egamma: 1266
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,26,1,26
+Qvalue: 0, 0, 0, 0, 0
+Theta: 135
+Sigfactors: 354.61, 0
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+2514.0		0.0		1.2E+02		0.0
+EndData:
