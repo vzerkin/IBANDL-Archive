@@ -1,0 +1,24 @@
+Comment:
+Thick target gamma-ray yield. 
+Sigfactors applied to convert natural to isotopic yield. 
+
+Version: R33
+Source:  M.J.Kenny+, Nucl. Instr. and Meth. 168 (1980) 115
+Name:
+Serial Number: 0
+X4Number:  D0384014
+Reaction: 68Zn(p,g2-0)69Ga
+Egamma: 574
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,37,0,38
+Qvalue: 0, 0, 0, 0, 0
+Theta: 135
+Sigfactors: 5.33, 0
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+2000.0		0.0		4.7E+02		0.0
+2514.0		0.0		1.0E+03		0.0
+EndData:
