@@ -1,0 +1,32 @@
+Comment:
+
+Version: R33
+Source:  G.Deconninck, G.Demortier, J. Rad. Chem. 24 (1975) 437
+Name: Gurbich
+Serial Number: 0
+X4Number: O02208006
+Reaction: 107Ag(p,pg4-0)107Ag
+Egamma: 423
+Distribution: Energy
+Composition:
+Masses: 1,107,1,107
+Zeds: 1,47,1,47
+Qvalue: 0, 0, 0, 0, 0
+Theta: 90
+Sigfactors: 1.93, 1
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+1400	0	2	0
+1500	0	16	0
+1600	0	32	0
+1700	0	119	0
+1800	0	200	0
+1900	0	348	0
+2000	0	503	0
+2100	0	865	0
+2200	0	1172	0
+2300	0	1860	0
+2400	0	2365	0
+2500	0	3260	0
+EndData:
