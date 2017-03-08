@@ -4,6 +4,7 @@ Version: R33
 Source:  G.Deconninck, G.Demortier, J. Rad. Chem. 24 (1975) 437
 Name: Gurbich
 Serial Number: 0
+X4Number: O2208002
 Reaction: 103Rh(p,pg3-0)103Rh
 Egamma: 295
 Distribution: Energy
