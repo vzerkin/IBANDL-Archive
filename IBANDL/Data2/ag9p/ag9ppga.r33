@@ -4,6 +4,7 @@ Version: R33
 Source:  G.Deconninck, G.Demortier, J. Rad. Chem. 24 (1975) 437
 Name: Gurbich
 Serial Number: 0
+X4Number: O02208007
 Reaction: 109Ag(p,pg3-0)109Ag
 Egamma: 311
 Distribution: Energy
@@ -12,7 +13,7 @@ Masses: 1,109,1,109
 Zeds: 1,47,1,47
 Qvalue: 0, 0, 0, 0, 0
 Theta: 90
-Sigfactors: 1, 1
+Sigfactors: 2.076, 1
 Enfactors: 1, 0, 0, 0
 Units: yield
 Data:
