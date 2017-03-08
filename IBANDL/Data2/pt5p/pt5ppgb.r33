@@ -1,0 +1,31 @@
+Comment:
+
+Version: R33
+Source:  G.Deconninck, G.Demortier, J. Rad. Chem. 24 (1975) 437
+Name: Gurbich
+Serial Number: 0
+X4Number:  O2208009
+Reaction: 195Pt(p,pg4-0)195Pt
+Egamma: 211
+Distribution: Energy
+Composition:
+Masses: 1,195,1,195
+Zeds: 1,78,1,78
+Qvalue: 0, 0, 0, 0, 0
+Theta: 90
+Sigfactors: 2.956, 1
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+1400	0	14	0
+1500	0	29	0
+1600	0	54	0
+1700	0	88	0
+1800	0	144	0
+1900	0	211	0
+2000	0	318	0
+2100	0	434	0
+2200	0	557	0
+2300	0	736	0
+2400	0	919	0
+EndData:
