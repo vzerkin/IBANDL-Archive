@@ -1,0 +1,21 @@
+Comment: M.J.Kenny,J.R.Bird,E.Clayton, Nucl. Instr. Meth. 168(1980)11 			
+			
+Version: R33	
+X4Number:    D0384002		
+Source:   M.J.Kenny+, Nucl. Instr. and Meth. 168 (1980) 115	
+Serial Number: 0			
+Reaction: 19F(p,ag2-0)16O			
+Egamma: 6131			
+Distribution: Energy			
+Composition: Natural
+Masses: 1, 19, 4, 16		
+Zeds: 1, 9, 2, 8			
+Qvalue: 0, 0, 0, 0, 0			
+Theta: 135			
+Sigfactors: 1, 0.			
+Units: yield		
+Enfactors: 			
+Data:
+2000.	0.000	1900000.
+2514.	0.000	4300000.
+EndData:
