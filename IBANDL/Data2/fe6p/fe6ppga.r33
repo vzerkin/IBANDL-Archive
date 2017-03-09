@@ -11,7 +11,7 @@ Comment:    Automatically converted from EXFOR
 
 Version:      R33
 X4Number:     F0920010
-Source:       G.A.Krivonosov+(1976), Jour. Yadernaya Fizika, Vol.24, p.461
+Source:       G.A.Krivonosov+, Sov. J. Nucl. Phys. 24 (1976) 461
 Reaction:     56Fe(p,pg1-0)56Fe
 Egamma: 847
 Distribution: Energy
