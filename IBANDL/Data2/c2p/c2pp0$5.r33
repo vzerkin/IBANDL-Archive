@@ -11,7 +11,7 @@ Comment:    Automatically converted from EXFOR
 
 Version:      R33
 X4Number:     F0565002
-Source:       S.M.Duvanov+, JINR-P15-96-69, 1996 
+Source:       S.M.Duvanov+, JINR-P15-96-69, (1996). 
 Reaction:     12C(p,p0)12C
 Distribution: Energy
 Sigfactors:   1.00, 0.00
