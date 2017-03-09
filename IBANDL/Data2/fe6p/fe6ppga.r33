@@ -1,0 +1,36 @@
+
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2012/10/18, by V.Zerkin.
+            "Inelastic scattering of protons by middle atomic weight nuclei at low energies."
+            G.A.Krivonosov, B.A.Nemashkalo, V.E.Storizhko, A.P.Klyucharev, 
+            O.I.Ekhichev, V.K.Chirt
+            EXFOR: F0920010    Created: 2008-08-28  Updated: 2009-03-23
+            X4Reaction:26-FE-56(P,INL)26-FE-56,PAR,DA; X4Points:8
+            LevelEnergy: 847.00
+
+Version:      R33
+X4Number:     F0920010
+Source:       G.A.Krivonosov+, Sov. J. Nucl. Phys. 24 (1976) 461
+Reaction:     56Fe(p,pg1-0)56Fe
+Egamma: 847
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 56.0, 1.0, 56.0
+Zeds:         1, 26, 1, 26
+Qvalue:       0.00, 0.00, 0.00, 0.00, 0.00
+Theta:        56
+Data:
+ 1341.40,     0.00, 1.475e-5, 4.503e-6
+ 1491.80,     0.00, 2.612e-4, 9.361e-5
+ 1736.20,     0.00,  7.77e-4, 2.948e-4
+ 2073.70,     0.00,   0.0077,   0.0022
+ 2277.30,     0.00,   0.0316,   0.0079
+ 2518.30,     0.00,   0.0855,   0.0126
+ 2703.70,     0.00,   0.1245,   0.0248
+ 2880.20,     0.00,   0.3832,   0.1044
+EndData:
+
