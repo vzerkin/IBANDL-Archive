@@ -13,7 +13,7 @@ Distribution: Energy
 Theta:    135.00
 Egamma: 1013
 Sigfactors: 1.00, 0.00
-Units: mb
+Units: yield
 Enfactors: 1.00, 0.00, 0.00, 0.00
 Data:
 2000.0	0.0	630.00
