@@ -2,7 +2,8 @@ Comment:
  
 
 Version: R33
-Source:  D. Bachiller Perea+, Nucl. Instr. and Meth. B 406 (2017) 161
+X4Number: O2339004 20190207  
+Source:   D.Bachiller Perea+(2017), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.406, p.161
 Name:
 Serial Number: 0
 X4Number:  
@@ -13,7 +14,7 @@ Composition:
 Masses: 
 Zeds: 1,9,1,9 
 Qvalue: 0, 0, 0, 0, 0
-Theta: 90
+Theta: 135
 Sigfactors: 1, 0
 Enfactors: 1, 0, 0, 0
 Units: mb
