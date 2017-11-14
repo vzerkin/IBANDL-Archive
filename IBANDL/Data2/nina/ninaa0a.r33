@@ -1,0 +1,21 @@
+Comment:    Ratio-to-Rutherford cross sections are the F deviation factors derived by Tang et al.
+	    Energy converted from CM to Lab.
+
+Version:      R33
+X4Number:     
+Source:       J. Tang et al, Jour. Nucl. Instrum. Methods B74 (1993) 491-495
+Reaction:     natNi(a,a0)natNi
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1000.00, 0.00, 0.00, 0.00
+Units:        rr
+Composition:
+Masses:       4.0026, 58.69, 4.0026, 58.69
+Zeds:         2, 28, 2, 28
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        165
+Data:
+6.997 	0	0.98	0
+7.296 	0	0.96	0
+7.499 	0	0.94	0
+EndData:
