@@ -1,0 +1,21 @@
+Comment:    Ratio-to-Rutherford cross sections are the F deviation factors derived by Tang et al.
+	    Energy converted from CM to Lab.
+
+Version:      R33
+X4Number:     
+Source:       J. Tang et al, Jour. Nucl. Instrum. Methods B74 (1993) 491-495
+Reaction:     27Al(a,a0)27Al
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1000.00, 0.00, 0.00, 0.00
+Units:        rr
+Composition:
+Masses:       4.0026, 26.98, 4.0026, 26.98
+Zeds:         2, 13, 2, 13
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        165
+Data:
+3.525 	0	0.98	0
+3.606 	0	0.96	0
+3.652 	0	0.94	0
+EndData:
