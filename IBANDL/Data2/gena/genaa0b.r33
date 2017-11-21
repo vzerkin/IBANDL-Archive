@@ -4,7 +4,7 @@ Comment:    Ratio-to-Rutherford cross sections derived from cross sections for n
 
 Version:      R33
 X4Number:     
-Source:       M. Bozoian et al, Jour. Nucl. Instrum. Methods B51 (1990) 311-319
+Source:       M.Bozoian+(1990), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.51, p.311 
 Reaction:     natGe(a,a0)natGe
 Distribution: Energy
 Sigfactors:   1.00, 0.00
