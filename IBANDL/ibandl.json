@@ -1,7 +1,7 @@
 {"format":"r33json-0.2"
- ,"now":"2026-11-15T19:20:58.000Z" 
+ ,"now":"2026-11-15T19:21:39.000Z" 
  ,"program":"zvR33json2all, by V.Zerkin, Vienna, ver.2026-11-07" 
- ,"lastUpdated": "2018-03-02T16:35:07.000Z"
+ ,"lastUpdated": "2018-09-10T12:01:45.000Z"
  ,"nPoints": 340578
  ,"r33files":[
     {
@@ -70817,27 +70817,29 @@
 	 ,"dir":	"b1p"
 	 ,"dir1":	"b11-p"
 	 ,"file":	"b1pa1$1"
-	 ,"fileDate":	"2011-09-01,16:09:00"
+	 ,"fileDate":	"2018-09-10,12:01:45"
 	 ,"year":	2002
 	 ,"author1":	"J.Liu"
 	 ,"dataType":	"NRA"
 	 ,"nData":	33
         },
 	  "Comment":	["Automatically converted from EXFOR"
-			,"            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)"
-			,"            \"Cross-sections of 11B(p,alpha)8Be reaction for boron"
+			,"            by the IAEA-NDS EXFOR Web-Retrieval System"
+			,"            program version-2018-09-10, by V.Zerkin."
+			,"            X4Title: \"Cross-sections of 11B(p,alpha)8Be reaction for boron"
 			,"             analysis\""
-			,"            J.Liu, X.Lu, X.Wang, W.Chu"
-			,"            EXFOR: C1238002    Created: 2005-05-31  Updated: 2005-08-01"
+			,"            X4Author: J.Liu, X.Lu, X.Wang, W.Chu"
+			,"            EXFOR: C1238002    Created: 2005-05-31  Updated: 2005-09-26"
 			,"            X4Reaction:5-B-11(P,A)4-BE-8,PAR,DA; X4Points:33"
-			,"            LevelEnergy: 5650.00"]
+			,"            X4:QVAL=5650.0  AME2016:Q0=8590.0905  Q0-QVAL=2940.0905"
+			,"            ENSDF:LevelEnergy=3030.00"]
 	 ,"Version":	"R33"
 	 ,"Source":	"J.Liu+(2002), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.190, p.107"
 	 ,"X4Number":	"C1238002"
 	 ,"Reaction":	"11B(p,a1)8Be"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
-	 ,"Qvalue":	[ 2940.31, 0.0, 0.0, 0.0 ]
+	 ,"Qvalue":	[ 5560.09, 0.0, 0.0, 0.0 ]
 	 ,"Masses":	[ 1.0, 11.0, 4.0, 8.0 ]
 	 ,"Zeds":	[ 1.0, 5.0, 2.0, 4.0 ]
 	 ,"Sigfactors":	[ 1.0, 0.0 ]
