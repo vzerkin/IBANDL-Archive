@@ -3,12 +3,12 @@
  | Program zvR33test, v.2026-11-12 |
  | by V.Zerkin, Vienna, 2015-2026. |
  +---------------------------------+
- Running:  2026-11-15,19:21:02
+ Running:  2026-11-15,19:21:44
  Computer: zerkin-VirtualBox
  Platform: Linux/6.8.0-149-generic/amd64
 
-...Reading IBANDL archive: iba-2018-03-02.zip
-...IBANDL: [iba-2018-03-02.zip] Files:3690
+...Reading IBANDL archive: iba-2018-09-10.zip
+...IBANDL: [iba-2018-09-10.zip] Files:3690
 
 
  +---------------------------------+
@@ -20,7 +20,7 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Corrected Lines [iba-2018-03-02.zip]
+...Corrected Lines [iba-2018-09-10.zip]
  1)---programmatically corrected line---  ti8p/ti8ppga.r33 2011-07-08  Reaction:48Ti(p,pg1-0)48Ti /mb/
 	from:[value:      -983.00,      0.00,      0.00,      0.00,      0.00]
 	to: [Qvalue:      -983.00,      0.00,      0.00,      0.00,      0.00]
@@ -47,7 +47,7 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Wrong File Location [iba-2018-03-02.zip]
+...Wrong File Location [iba-2018-09-10.zip]
  1)---wrong file location---[ar0a/ar0pp0a.r33] must be:[ar0p/ar0pp0a.r33] 2006-11-20  Reaction:40Ar(p,p0)40Ar /rr/
  2)---wrong file location---[c3p/ca3ppgb.r33] must be:[ca3p/ca3ppgb.r33] 2014-05-24  Reaction:43Ca(p,pg1-0)43Ca /yield/
  3)---wrong file location---[h2p/h2ad$9.r33] must be:[h2a/h2ad$9.r33] 2017-02-01  Reaction:2H(a,d)4He /mb/
@@ -65,7 +65,7 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Wrong Dir Name [iba-2018-03-02.zip]
+...Wrong Dir Name [iba-2018-09-10.zip]
  1)---wrong dir name--- now: ar0a/   must-be: ar0p/   first-file: ar0a/ar0pp0a.r33   2006-11-20  Reaction:40Ar(p,p0)40Ar /rr/
  2)---wrong dir name--- now: c3p/    must-be: ca3p/   first-file: c3p/ca3ppgb.r33    2014-05-24  Reaction:43Ca(p,pg1-0)43Ca /yield/
  3)---wrong dir name--- now: h2p/    must-be: h2a/    first-file: h2p/h2ad$9.r33     2017-02-01  Reaction:2H(a,d)4He /mb/
@@ -85,7 +85,7 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Wrong File Prefix [iba-2018-03-02.zip]
+...Wrong File Prefix [iba-2018-09-10.zip]
   1)---wrong file name--- now: na3p/pr1ppge.r33   must-be: p1p/p1ppge.r33     2016-12-20  Reaction:31P(p,pg1-0)31P /yield/
   2)---wrong file name--- now: pr1a/pr1ap0a.r33   must-be: p1a/p1ap0a.r33     2009-01-11  Reaction:31P(a,p0)34S /mb/
   3)---wrong file name--- now: pr1a/pr1ap0b.r33   must-be: p1a/p1ap0b.r33     2009-01-11  Reaction:31P(a,p0)34S /mb/
@@ -160,7 +160,7 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Warning: Year=0 [iba-2018-03-02.zip]
+...Warning: Year=0 [iba-2018-09-10.zip]
   1) 2015-12-09 al7p/al7page.r33   0,Csedreki                 27Al(p,ag1-0)24Mg,pts:77(mb)            L. Csedreki et al.
   2) 2015-01-23 al7p/al7pagf.r33   0,Zamboni                  27Al(p,ag1-0)24Mg,pts:78(mb)            I. Zamboni et al., to be published
   3) 2016-02-25 al7p/al7pgi.R33    0,Chiari                   27Al(p,g1-0)28Si,pts:15(yield)          M. Chiari, unpublished data
@@ -285,7 +285,7 @@
 122) 2014-03-11 ti8p/ti8pga.r33    0,Goncharov                48Ti(p,g1-0)49V,pts:78(mb)              A. Goncharov
 123) 2014-03-11 tinp/tinpga.r33    0,Goncharov                natTi(p,g1-0),pts:66(mb)                A. Goncharov
 
-...Error: line [EndData:] file:[iba-2018-03-02.zip]
+...Error: line [EndData:] file:[iba-2018-09-10.zip]
    1) -err-line-[EndData:] 0  2008-10-20        na3d/na3da0a.r33   1970,Vysotskij             23Na(d,a0)21Ne,pts:24(mb)      F0984 G.L. Vysotskij et al. Izvestiya Academii Nauk v.34 (1970) 1761
    2) -err-line-[EndData:] 0  2017-03-06        si8d/si8dpgk.r33   1994,Kiss                  28Si(d,pg1-0)29Si,pts:23(yield)       A.Z. Kiss et al., Nucl. Instr. & Meth. B85 (1994) 118
 
@@ -19189,7 +19189,7 @@ E<=0	1/18:	X=0.0	Y=0.0	dY=0.0
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...IBANDL archive iba-2018-03-02.zip
+...IBANDL archive iba-2018-09-10.zip
    Summary of R33 files:
     OK-files:          3690   100.%
     Bad-files:         0
