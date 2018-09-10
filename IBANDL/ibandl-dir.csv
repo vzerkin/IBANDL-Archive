@@ -539,7 +539,7 @@ iR33,targ,zaTarg,proj,dir,file,fileDate,year,author1,Reaction,dataType,Units,The
 537,11B,5011,p,b1p,b1pa0f,2016-02-25,2010,M.Kokkoris,"11B(p,a0)8Be",NRA,mb,145,41,2177,4185,,O1876003,"Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.268, p.3539"
 538,11B,5011,p,b1p,b1pa0g,2016-02-25,2010,M.Kokkoris,"11B(p,a0)8Be",NRA,mb,140,41,2177,4185,,O1876003,"Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.268, p.3539"
 539,11B,5011,p,b1p,b1pa0h,2016-02-25,2010,M.Kokkoris,"11B(p,a0)8Be",NRA,mb,135,41,2177,4185,,O1876003,"Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.268, p.3539"
-540,11B,5011,p,b1p,b1pa1$1,2011-09-01,2002,J.Liu,"11B(p,a1)8Be",NRA,mb,150,33,462,1530,,C1238002,"Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.190, p.107"
+540,11B,5011,p,b1p,b1pa1$1,2018-09-10,2002,J.Liu,"11B(p,a1)8Be",NRA,mb,150,33,462,1530,,C1238002,"Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.190, p.107"
 541,11B,5011,p,b1p,b1pg0a,2014-01-29,1982,M.C.Wright,"11B(p,g0)12C","PIGE,NRA",mb,60,19,2900,4630,,C1254002,"Jour. Physical Review, Part C, Nuclear Physics, Vol.25, p.2823"
 542,11B,5011,p,b1p,b1pg0b,2014-01-29,1982,M.C.Wright,"11B(p,g0)12C","PIGE,NRA",mb,90,19,2900,4620,,C1254002,"Jour. Physical Review, Part C, Nuclear Physics, Vol.25, p.2823"
 543,11B,5011,p,b1p,b1pg0c,2016-02-23,1982,M.T.Collins,"11B(p,g0)12C","PIGE,NRA",mb,90,7,4990,14000,,T0038002,"Jour. Physical Review, Part C, Nuclear Physics, Vol.26, p.332"
