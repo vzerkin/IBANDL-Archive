@@ -1,0 +1,33 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2012/10/18, by V.Zerkin.
+            "Total cross section of the Be-9(p,a)Li-6* (3.5618 MeV)
+             reaction at Ep<2.4 MeV."
+            L.N.Generalov, S.N.Abramovich
+            EXFOR: F0760004    Created: 2006-05-02  Updated: 2010-02-05
+            X4Reaction:4-BE-9(P,G)5-B-10,PAR,DA; X4Points:21
+            LevelEnergy: 718.00
+
+Version:      R33
+X4Number:     F0760004
+Source:       L.N.Generalov+(2005), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.69, p.1629
+Reaction:     9Be(p,g1)10B
+Egamma: 7363-7777
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 9.0, 0.0, 10.0
+Zeds:         1, 4, 0, 5
+Qvalue:       5867.89, 0.00, 0.00, 0.00, 0.00
+Theta:        90
+Data:
+ 1663.20,     0.00, 1.249e-4,  9.94e-6
+ 1711.40,     0.00, 1.146e-4,  9.12e-6
+ 1761.90,     0.00, 1.138e-4,  9.06e-6
+ 1863.80,     0.00, 1.408e-4, 1.121e-5
+ 1962.50,     0.00, 1.512e-4, 1.203e-5
+ 2043.80,     0.00, 1.679e-4, 1.336e-5
+ 2119.80,     0.00, 1.886e-4, 1.501e-5
+EndData:
