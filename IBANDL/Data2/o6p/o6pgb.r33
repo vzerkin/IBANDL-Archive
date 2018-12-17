@@ -1,0 +1,26 @@
+Comment:  	N. Tanner 	
+		Direct radiative capture of protons by 16O and 20Ne 	
+		Phys. Rev. 114 (1959) 1060	
+					
+  
+
+Version:      R33
+X4Number:   
+Source:      N. Tanner, Phys. Rev. 114 (1959) 1060. NACRE Compilation Nucl. Phys. A 656 (1999) 3-183.
+Name:        Tassos Lagoyannis for PIGE CRP
+Reaction:     16O(p,g)17F
+Egamma: 836-1146
+Distribution: Energy
+Sigfactors:   1000.00, 0.00
+Enfactors:    1000.00, 0.00, 0.00, 0.00
+Units:        tot
+Masses:       1.0, 16.0, 0.0, 17.0
+Zeds:         1, 8, 0, 9
+Qvalue:       600.27, 0.00, 0.00, 0.00, 0.00
+Theta:        360
+Data:
+0.265	0.000	3.90E-09	9.30E-10
+0.335	0.000	2.90E-08	5.00E-09
+0.520	0.000	1.40E-07	2.30E-08
+0.580	0.000	2.40E-07	2.50E-08
+EndData:
