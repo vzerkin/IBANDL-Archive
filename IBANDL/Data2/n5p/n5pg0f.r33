@@ -10,6 +10,7 @@ X4Number:    C0646002
 Source:      D.F. Hebbard, Nucl. Phys. 15 (1960) 289. 
 Name:        Tassos Lagoyannis for PIGE CRP
 Reaction:     15N(p,g0)16O
+Egamma: 12287-12718
 Distribution: Energy
 Sigfactors:   1000.00, 0.00
 Enfactors:    1000.00, 0.00, 0.00, 0.00
