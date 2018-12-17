@@ -13,6 +13,7 @@ Version:      R33
 X4Number:     F0763002
 Source:       N.T.Burtebaev+(2004), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.68, p.1554
 Reaction:     14N(p,g0)15O
+Egamma: 8090-8305
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
