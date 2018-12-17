@@ -1,0 +1,26 @@
+Comment:  	The 10B(p(pol),gamma)11C reaction at astrophysically relevant energies
+           	A.P.Tonchev, S.O.Nelson, K.Sabourov, B.T.Crowley, K.Joshi, H.R.Weller, J.H.Kelley, 
+		R.M.Prior, M.Spraker, N.Kalantar-Nayestanaki
+		Phys. Rev C 68, 045803, 2003.
+		Converted from S factors
+  
+
+Version:      R33
+X4Number:    C1036003
+Source:      A.P.Tonchev et al., Phys. Rev C68 (2003) 045803 
+Reaction:     10B(p,g)11C
+Egamma: 8772-8826
+Distribution: Energy
+Sigfactors:   1000., 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        tot
+Masses:       1.0, 10.0, 0.0, 11.0
+Zeds:         1, 5, 0, 6
+Qvalue:       8689.37, 0.00, 0.00, 0.00, 0.00
+Theta:        360
+Data:
+	92.39999076	0	5.782E-09	0
+	109.999989	0	1.247E-08	0
+	118.7999881	0	1.211E-08	0
+	146.2999854	0	1.905E-08	0
+EndData:
