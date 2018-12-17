@@ -12,6 +12,7 @@ Version:      R33
 X4Number:     A0191002
 Source:       C.Rolfs+(1974), Jour. Nuclear Physics, Section A, Vol.227, p.291
 Reaction:     12C(p,g0)13N
+Egamma: 2082-4251
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
