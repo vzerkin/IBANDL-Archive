@@ -11,6 +11,7 @@ Version:      R33
 X4Number:     C0175002
 Source:       C.Rolfs(1973), Jour. Nuclear Physics, Section A, Vol.217, p.29
 Reaction:     16O(p,g1)17F
+Egamma: 670-3023
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
