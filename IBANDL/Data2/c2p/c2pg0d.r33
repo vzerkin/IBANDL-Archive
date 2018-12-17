@@ -1,0 +1,34 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2012/10/18, by V.Zerkin.
+            "New measurement of the astrophysical S factor for
+             C-12(p,g)N-13 reaction at low energies and the
+             asymptotic normalization coefficient(nuclear vertex
+             constant) for the p+C-12--N-13 reaction."
+            N.Burtebaev, S.B.Igamov,  R.J.Peterson,  R.Yarmukhamedov, 
+            D.M.Zazulin
+            EXFOR: A0819002    Created: 2009-02-20
+            X4Reaction:6-C-12(P,G)7-N-13,PAR,DA; X4Points:25
+            LevelEnergy: 0.00
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     A0819002
+Source:       N.Burtebaev+(2008), Jour. Physical Review, Part C, Nuclear Physics, Vol.78, p.035802
+Reaction:     12C(p,g0)13N
+Egamma: 2239-2848
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 12.0, 0.0, 13.0
+Zeds:         1, 6, 0, 7
+Qvalue:       1943.49, 0.00, 0.00, 0.00, 0.00
+Theta:        45
+Data:
+  326.80,     0.00,  1.93e-4,  1.50e-5
+  360.00,     0.00,  5.20e-4,  5.00e-5
+  692.30,     0.00,  8.10e-5,     0.00
+  979.40,     0.00,  2.10e-5,     0.00
+EndData:
