@@ -1,0 +1,34 @@
+Comment:  	W.A.S. Lamb and R.E. Hester 			
+		Radiative capture of protons in carbon from 80 keV to 126 keV 			
+		Phys. Rev. 107 (1957) 550.			
+		
+			
+  
+
+Version:      R33
+X4Number:    P0050002
+Source:      W.A.S. Lamb and R.E. Hester, Phys. Rev. 107 (1957) 550. 
+Name:        Tassos Lagoyannis for PIGE CRP
+Reaction:     12C(p,g)13N
+Egamma: 2017-2063
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1000.00, 0.00, 0.00, 0.00
+Units:        tot
+Masses:       1.0, 12.0, 0.0, 13.0
+Zeds:         1, 6, 0, 7
+Qvalue:       1943.49, 0.00, 0.00, 0.00, 0.00
+Theta:        360
+Data:
+0.085	0	3.50E-08	9.90E-09
+0.09	0	5.20E-08	9.00E-09
+0.092	0	6.90E-08	1.20E-08
+0.095	0	6.90E-08	1.20E-08
+0.096	0	7.20E-08	7.20E-09
+0.1	0	1.10E-07	2.60E-08
+0.11	0	2.30E-07	4.70E-08
+0.11	0	2.60E-07	5.00E-08
+0.12	0	4.20E-07	4.40E-08
+0.12	0	6.30E-07	7.20E-08
+0.13	0	7.90E-07	9.50E-08
+EndData:
