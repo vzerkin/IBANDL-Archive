@@ -1,0 +1,45 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2012/10/18, by V.Zerkin.
+            "Radiative capture of protons by 9Be."
+            W.E.Meyerhof, N.W.Tanner, C.M.Hudson
+            EXFOR: F0122002    Created: 1984-05-24  Updated: 2011-08-10
+            X4Reaction:4-BE-9(P,G)5-B-10,PAR,DA; X4Points:123
+            LevelEnergy: 2150.00
+
+Version:      R33
+X4Number:     F0122002
+Source:       W.E.Meyerhof+(1959), Jour. Physical Review, Vol.115, p.1227
+Reaction:     9Be(p,g3)10B
+Egamma: 4676-5522
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 9.0, 0.0, 10.0
+Zeds:         1, 4, 0, 5
+Qvalue:       4435.89, 0.00, 0.00, 0.00, 0.00
+Theta:        90
+Data:
+  275.40,     0.00,   0.0024, 7.054e-4
+  332.30,     0.00,   0.0041,   0.0019
+  387.90,     0.00,   0.0028,   0.0016
+  411.90,     0.00,   0.0026, 6.599e-4
+  459.10,     0.00,   0.0013, 3.871e-4
+  514.60,     0.00, 8.034e-4, 4.985e-4
+  570.20,     0.00, 5.533e-4, 8.998e-4
+  593.80,     0.00, 3.958e-4,  1.78e-4
+  642.00,     0.00, 4.103e-4, 1.627e-4
+  699.60,     0.00,   0.0014,   0.0011
+  714.80,     0.00, 7.147e-4, 3.604e-4
+  738.90,     0.00, 7.413e-4,  4.16e-4
+  796.40,     0.00,   0.0022,   0.0013
+  869.80,     0.00,   0.0057,   0.0023
+  950.50,     0.00,   0.0086,   0.0088
+  991.50,     0.00,   0.0173,   0.0177
+  999.30,     0.00,   0.0149,   0.0153
+ 1071.00,     0.00,   0.0154,   0.0147
+ 1111.00,     0.00,   0.0138,   0.0131
+ 1205.00,     0.00,   0.0018,   0.0012
+EndData:
