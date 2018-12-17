@@ -12,6 +12,7 @@ Version:      R33
 X4Number:     F0344002
 Source:       R.G.Allas+(1964), Jour. Nuclear Physics, Vol.58, p.122
 Reaction:     11B(p,g0)12C
+Egamma: 19303-28469
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
