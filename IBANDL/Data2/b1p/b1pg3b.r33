@@ -12,6 +12,7 @@ Version:      R33
 X4Number:     C1254002
 Source:       M.C.Wright+(1982), Jour. Physical Review, Part C, Nuclear Physics, Vol.25, p.2823
 Reaction:     11B(p,g3)12C
+Egamma: 8965-10523
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
