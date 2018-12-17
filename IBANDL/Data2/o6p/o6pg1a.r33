@@ -14,7 +14,7 @@ Version:      R33
 X4Number:     F1059005
 Source:       R.Morlock+(1997), Jour. Physical Review Letters, Vol.79, p.3837
 Reaction:     16O(p,g1)17F
-Egamma:       0.0
+Egamma: 321-3634
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
