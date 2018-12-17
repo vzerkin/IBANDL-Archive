@@ -11,6 +11,7 @@ Version:      R33
 X4Number:     F0122002
 Source:       W.E.Meyerhof+(1959), Jour. Physical Review, Vol.115, p.1227
 Reaction:     9Be(p,g3)10B
+Egamma: 4676-5522
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
