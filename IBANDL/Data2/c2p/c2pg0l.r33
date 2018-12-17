@@ -1,0 +1,30 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2012/10/18, by V.Zerkin.
+            "Interference effects in the 12C(p,g)13N reaction"
+            F.C.Young, J.C.Armstrong, J.B.Marion
+            EXFOR: F0232002    Created: 1999-02-05  Updated: 1999-04-10
+            X4Reaction:6-C-12(P,G)7-N-13,PAR,DA,,,EXP; X4Points:35
+            LevelEnergy: 0.00
+            Theta groupping interval=3.0 deg.
+
+Version:      R33
+X4Number:     F0232002
+Source:       F.C.Young+(1963), Jour. Nuclear Physics, Vol.44, p.486
+Reaction:     12C(p,g0)13N
+Egamma: 3356-3651
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 12.0, 0.0, 13.0
+Zeds:         1, 6, 0, 7
+Qvalue:       1943.49, 0.00, 0.00, 0.00, 0.00
+Theta:        110
+Data:
+ 1535.00,     0.00,  6.49e-5,  5.00e-7
+ 1626.00,     0.00, 4.069e-4,  5.00e-7
+ 1796.00,     0.00, 4.013e-4,  5.00e-7
+EndData:
+
