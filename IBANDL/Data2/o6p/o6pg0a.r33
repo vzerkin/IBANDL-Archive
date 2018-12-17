@@ -13,6 +13,7 @@ Serial Number:
 SubFile: 
 X4Number: 
 Reaction: 16O(p,g0)17F 
+Egamma: 901-4120
 Distribution: Energy
 Composition: 
 Masses:    1.000,   16.000,    0.000,   17.000
