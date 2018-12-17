@@ -8,6 +8,7 @@ Version:      R33
 X4Number:     C0872004
 Source:       J.D.King+(1994), Jour. Nuclear Physics, Section A, Vol.567, p.354
 Reaction:     13C(p,g1)14N
+Egamma: 5377-6027
 Distribution: Energy
 Sigfactors:   1000.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
