@@ -1,0 +1,45 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2012/10/18, by V.Zerkin.
+            "Proton capture in the 19 MeV region of 12C"
+            M.C.Wright, N.R.Roberson, H.R.Weller, D.R.Tilley, 
+            D.Halderson
+            EXFOR: C1254002    Created: 2005-06-09
+            X4Reaction:5-B-11(P,G)6-C-12,PAR,DA; X4Points:113
+            LevelEnergy: 0.00
+
+Version:      R33
+X4Number:     C1254002
+Source:       M.C.Wright+(1982), Jour. Physical Review, Part C, Nuclear Physics, Vol.25, p.2823
+Reaction:     11B(p,g0)12C
+Egamma: 18615-20192
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 11.0, 0.0, 12.0
+Zeds:         1, 5, 0, 6
+Qvalue:       15956.9, 0.00, 0.00, 0.00, 0.00
+Theta:        90
+Data:
+ 2900.00,     0.00,   0.0012,  4.06e-5
+ 3010.00,     0.00,   0.0012,  2.95e-5
+ 3110.00,     0.00,   0.0012,  2.58e-5
+ 3210.00,     0.00,   0.0014,  2.95e-5
+ 3310.00,     0.00,   0.0015,  2.95e-5
+ 3410.00,     0.00,   0.0016,  3.32e-5
+ 3510.00,     0.00,   0.0015,  2.95e-5
+ 3610.00,     0.00,   0.0015,  2.59e-5
+ 3710.00,     0.00,   0.0013,  2.95e-5
+ 3810.00,     0.00,   0.0013,  2.58e-5
+ 3900.00,     0.00,   0.0014,  2.95e-5
+ 3960.00,     0.00,   0.0015,  2.95e-5
+ 4010.00,     0.00,   0.0016,  3.32e-5
+ 4070.00,     0.00,   0.0017,  2.58e-5
+ 4120.00,     0.00,   0.0018,  3.32e-5
+ 4210.00,     0.00,    0.002,  2.58e-5
+ 4320.00,     0.00,   0.0023,  2.96e-5
+ 4420.00,     0.00,   0.0026,  4.43e-5
+ 4620.00,     0.00,   0.0032,  3.32e-5
+EndData:
