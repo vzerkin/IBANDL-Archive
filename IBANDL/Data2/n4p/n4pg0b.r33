@@ -1,0 +1,34 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2012/10/18, by V.Zerkin.
+            "New low-energy measurement of radiation capture cross
+             section of the 14N(p,g)15O reaction and calculation of
+             astrophysical S-factor."
+            N.T.Burtebaev, D.Zazulin, E.T.Ibraeva, Sh.Sh.Sagindykov
+            EXFOR: F0763002    Created: 2006-05-02  Updated: 2006-08-02
+            X4Reaction:7-N-14(P,G)8-O-15,PAR,DA; X4Points:29
+            LevelEnergy: 0.00
+
+Version:      R33
+X4Number:     F0763002
+Source:       N.T.Burtebaev+(2004), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.68, p.1554
+Reaction:     14N(p,g0)15O
+Egamma: 8090-8305
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 14.0, 0.0, 15.0
+Zeds:         1, 7, 0, 8
+Qvalue:       7296.78, 0.00, 0.00, 0.00, 0.00
+Theta:        45
+Data:
+  850.00,     0.00,   0.0155,   0.0023
+ 1056.40,     0.00,    2.346,   0.2346
+ 1057.40,     0.00,    6.358,   0.6358
+ 1058.40,     0.00,    9.084,   0.9084
+ 1059.40,     0.00,    9.138,   0.9138
+ 1060.40,     0.00,    7.754,   0.7754
+ 1062.40,     0.00,    3.067,   0.3067
+EndData:
