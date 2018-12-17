@@ -10,6 +10,7 @@ X4Number:    C0647004
 Source:      C.Rolfs et al., Nucl. Phys. A235 (1974) 450.
 Name:        
 Reaction:     15N(p,g0)16O
+Egamma: 12259-14471
 Distribution: Energy
 Sigfactors:   1000.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
