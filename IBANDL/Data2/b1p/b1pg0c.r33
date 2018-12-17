@@ -1,0 +1,35 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2012/10/18, by V.Zerkin.
+            "Corrections to the 11B(p,gamma0)12C cross section and
+             its implications"
+            M.T.Collins, S.Manglos, N.R.Roberson, A.M.Sandorfi, 
+            H.R.Weller
+            EXFOR: T0038002    Created: 1999-04-09  Updated: 1999-06-04
+            X4Reaction:5-B-11(P,G)6-C-12,PAR,DA; X4Points:7
+            LevelEnergy: 0.00
+
+Version:      R33
+X4Number:     T0038002
+Source:       M.T.Collins+(1982), Jour. Physical Review, Part C, Nuclear Physics, Vol.26, p.332
+Reaction:     11B(p,g0)12C
+Egamma: 20531-28790
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 11.0, 0.0, 12.0
+Zeds:         1, 5, 0, 6
+Qvalue:       15956.9, 0.00, 0.00, 0.00, 0.00
+Theta:        90
+Data:
+ 4990.00,    40.00,   0.0042, 4.292e-4
+ 5980.00,    40.00,   0.0077, 7.743e-4
+ 6960.00,    40.00,   0.0115, 6.109e-3
+ 8020.00,    40.00,   0.0095, 9.509e-4
+ 9980.00,    40.00,   0.0039, 3.926e-4
+12000.00,    40.00,   0.0019, 2.012e-4
+14000.00,    40.00,    0.001, 1.192e-4
+EndData:
+
