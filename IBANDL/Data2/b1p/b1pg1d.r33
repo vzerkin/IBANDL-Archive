@@ -1,0 +1,47 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2012/10/18, by V.Zerkin.
+            "Experimental-calculated research of gamma quanta
+             registration absolute efficiency by coaxial HPGe
+             detector GC 5019 at Egamma = 0.24 - 18.565 MeV."
+            L.N.Generalov, B.L.Lebedev, A.V.Livke, A.B.Modenov, 
+            V.A.Chirkin
+            EXFOR: F0716002    Created: 2005-06-27  Updated: 2005-12-08
+            X4Reaction:5-B-11(P,G)6-C-12,PAR,DA; X4Points:36
+            LevelEnergy: 4439.00
+
+Version:      R33
+X4Number:     F0716002
+Source:       L.N.Generalov+(2005), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.69, p.85
+Reaction:     11B(p,g1)12C
+Egamma: 12809-14120
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 11.0, 0.0, 12.0
+Zeds:         1, 5, 0, 6
+Qvalue:       11517.9, 0.00, 0.00, 0.00, 0.00
+Theta:        90
+Data:
+ 1413.00,     0.00,  7.34e-4,  3.65e-5
+ 1516.00,     0.00,  7.50e-4,  3.75e-5
+ 1619.00,     0.00,  7.00e-4,  3.45e-5
+ 1722.00,     0.00,  5.20e-4,  2.60e-5
+ 1825.00,     0.00,  4.68e-4,  2.35e-5
+ 1861.00,     0.00,  4.30e-4,  2.15e-5
+ 1927.00,     0.00,  4.26e-4,  2.15e-5
+ 1994.00,     0.00,  4.37e-4,  2.20e-5
+ 2000.00,     0.00,  4.17e-4,  2.10e-5
+ 2030.00,     0.00,  3.45e-4,  1.75e-5
+ 2091.00,     0.00,  3.15e-4,  1.65e-5
+ 2200.00,     0.00,  3.30e-4,  1.65e-5
+ 2428.00,     0.00,  4.30e-4,  2.05e-5
+ 2474.00,     0.00,  4.61e-4,  2.10e-5
+ 2576.00,     0.00,  4.46e-4,  2.40e-5
+ 2582.00,     0.00,  5.00e-4,  2.50e-5
+ 2646.00,     0.00,  6.05e-4,  2.75e-5
+ 2842.00,     0.00,  5.06e-4,  2.70e-5
+EndData:
+
