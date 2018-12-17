@@ -13,6 +13,7 @@ Version:      R33
 X4Number:     T0038002
 Source:       M.T.Collins+(1982), Jour. Physical Review, Part C, Nuclear Physics, Vol.26, p.332
 Reaction:     11B(p,g0)12C
+Egamma: 20531-28790
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
