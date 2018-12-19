@@ -11,6 +11,7 @@ Version:      R33
 X4Number:     A1392002
 Source:       R.R.Perry+(1963), Jour. Nuclear Physics, Vol.45, Issue.4, p.586
 Reaction:     7Li(p,g)8Be
+Egamma: 18584-26792+15527-23567
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
