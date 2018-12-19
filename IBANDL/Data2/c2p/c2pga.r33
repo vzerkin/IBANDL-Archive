@@ -1,0 +1,30 @@
+Comment:  	C.L. Bailey and W.R. Stratton 			
+		The cross section of the 12C(p,g)13N at low energies Phys. Rev. 77 (1950) 194	
+ 
+Version:      R33
+X4Number:     F0443002
+Source:       C.L. Bailey and W.R. Stratton, Phys. Rev. 77 (1950) 194. 	
+Name:        Tassos Lagoyannis for PIGE CRP
+Reaction:     12C(p,g)13N
+Distribution: Energy
+Sigfactors:   1000.00, 0.00
+Enfactors:    1000.00, 0.00, 0.00, 0.00
+Units:        tot
+Masses:       1.0, 12.0, 0.0, 13.0
+Zeds:         1, 6, 0, 7
+Qvalue:       1943.49, 0.00, 0.00, 0.00, 0.00
+Theta:        360
+Data:
+0.128   0.00     1e-9        2e-10                
+0.133   0.00     1.7e-9      2e-10               
+0.141   0.00     1.8e-9      2e-10                
+0.147   0.00     2.5e-9      2e-10                 
+0.155   0.00     3.8e-9      3e-10                 
+0.161   0.00     5e-9        3e-10                  
+0.168   0.00     7.2e-9      5e-10                  
+0.175   0.00     9.6e-9      6e-10                  
+0.181   0.00     1.6e-8      1e-9                
+0.189   0.00     1.42e-8     9e-10                 
+0.194   0.00     2.3e-8      2e-9                   
+0.202   0.00     2e-8        1e-9                  
+EndData:
