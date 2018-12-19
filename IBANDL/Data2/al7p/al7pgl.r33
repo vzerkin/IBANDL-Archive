@@ -5,6 +5,7 @@ Version: R33
 Source: C. Chronidou et al., Eur. Phys. J. A 6 (1999) 303
 X4Number: O1057002
 Reaction: 27Al(p,g)28Si
+Egamma: 12433-13513
 Distribution: Total
 Composition: 
 Masses:    1.000,   27.000,    0.000,    28.000
