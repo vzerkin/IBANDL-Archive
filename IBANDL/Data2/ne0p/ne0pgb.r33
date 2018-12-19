@@ -1,0 +1,42 @@
+Comment:  	C. Rolfs, W.S. Rodney, M.H. Shapiro, and H. Winkler	
+		Hydrogen burning of 20Ne and 22Ne in stars 	
+		Nucl. Phys. A241 (1975) 460.	
+	
+  
+
+Version:      R33
+X4Number:    C0626005
+Source:      Rolfs and Rodney, Nucl. Phys. A241 (1975) 460. NACRE Compilation Nucl. Phys. A 656 (1999) 3-183.
+Name:        Tassos Lagoyannis for PIGE CRP
+Reaction:     20Ne(p,g)21Na
+Egamma: 332+1716+2425+2798+2829
+Distribution: Energy
+Sigfactors:   1000.00, 0.00
+Enfactors:    1000.00, 0.00, 0.00, 0.00
+Units:        tot
+Masses:       1.0, 20.0, 0.0, 21.0
+Zeds:         1, 10, 0, 11
+Qvalue:       2431.68, 0.00, 0.00, 0.00, 0.00
+Theta:        360
+Data:
+0.37	0.00	3.96E-09	2.07E-09
+0.46	0.00	1.56E-08	4.45E-09
+0.53	0.00	3.07E-08	8.69E-09
+0.56	0.00	5.32E-08	8.31E-09
+0.61	0.00	8.38E-08	1.12E-08
+0.69	0.00	1.48E-07	1.97E-08
+0.77	0.00	2.21E-07	2.81E-08
+0.80	0.00	2.92E-07	3.30E-08
+0.83	0.00	3.00E-07	2.54E-08
+0.89	0.00	4.13E-07	4.62E-08
+1.00	0.00	5.56E-07	6.64E-08
+1.05	0.00	7.36E-07	8.58E-08
+1.11	0.00	9.57E-07	6.54E-08
+1.12	0.00	9.78E-07	8.69E-08
+1.14	0.00	1.05E-06	1.01E-07
+1.19	0.00	1.15E-06	1.18E-07
+1.23	0.00	1.40E-06	1.15E-07
+1.26	0.00	1.40E-06	1.11E-07
+1.43	0.00	1.87E-06	1.91E-07
+1.50	0.00	2.24E-06	3.45E-07
+EndData:
