@@ -9,6 +9,7 @@ X4Number:    C0626005
 Source:      Rolfs and Rodney, Nucl. Phys. A241 (1975) 460. NACRE Compilation Nucl. Phys. A 656 (1999) 3-183.
 Name:        Tassos Lagoyannis for PIGE CRP
 Reaction:     20Ne(p,g)21Na
+Egamma: 332+1716+2425+2798+2829
 Distribution: Energy
 Sigfactors:   1000.00, 0.00
 Enfactors:    1000.00, 0.00, 0.00, 0.00
