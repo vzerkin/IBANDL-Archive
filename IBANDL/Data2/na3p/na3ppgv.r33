@@ -3,6 +3,7 @@ The uncertainty of proton energy is 1.5 keV.
 The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is +/- 7% .
 
 Version: R33
+X4Number: O2476004   20200825
 Source: M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118
 Name: L. Csedreki
 Address1: Institute for Nuclear Research, Hungarian Academy of Science
@@ -12,7 +13,7 @@ Address4: csedreki@atomki.hu
 Address5: 
 Address6: 
 SubFile: 23Nappg_440_55.R33
-Egamma:440 
+Egamma:441 
 Serial Number: 0
 Reaction: 23Na(p,pg1-0)23Na
 Distribution: Energy
