@@ -3,7 +3,7 @@ Comment: 	Measurements of 27Al(p,p'gamma) cross section for gamma energy 844 KeV
 
 
 Version:      R33
-Source:       J. Raisanen, unpublished data.
+Source:       J. Raisanen, IAEA-TECDOC-1822, Vienna 2017
 Name:       
 Reaction:     27Al(p,pg1-0)27Al
 Egamma:	      844
