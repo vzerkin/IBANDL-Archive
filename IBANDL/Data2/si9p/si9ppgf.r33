@@ -20,7 +20,7 @@ Masses:
 Zeds: 1,14,1,14
 Qvalue: 0.00, 0.00, 0.00, 0.00, 0.00
 Theta: 45.00
-Sigfactors: 1.00, 0.85
+Sigfactors: 1.00, 0.085
 Enfactors: 1.00, 0.00, 0.00, 0.00
 Units: yield
 Data:
