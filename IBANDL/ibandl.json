@@ -1,8 +1,8 @@
 {"format":"r33json-0.2"
- ,"now":"2026-11-15T19:21:39.000Z" 
+ ,"now":"2026-11-15T19:22:14.000Z" 
  ,"program":"zvR33json2all, by V.Zerkin, Vienna, ver.2026-11-07" 
- ,"lastUpdated": "2018-09-10T12:01:45.000Z"
- ,"nPoints": 340578
+ ,"lastUpdated": "2019-02-05T18:14:59.000Z"
+ ,"nPoints": 341197
  ,"r33files":[
     {
         "fileInfo": {
@@ -21329,7 +21329,7 @@
 	 ,"dir":	"li6p"
 	 ,"dir1":	"li6-p"
 	 ,"file":	"li6pga"
-	 ,"fileDate":	"2015-11-17,16:22:24"
+	 ,"fileDate":	"2018-12-19,14:34:14"
 	 ,"year":	1979
 	 ,"author1":	"Z. E.Switkowski"
 	 ,"dataType":	"PIGE,NRA"
@@ -21340,6 +21340,7 @@
 	 ,"Source":	"Z. E. Switkowski et al, Nucl. Phys. A331 (1979) 50."
 	 ,"X4Number":	"F0032002"
 	 ,"Reaction":	"6Li(p,g)7Be"
+	 ,"Egamma":	"429+5734-6610"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 5606.85, 0.0, 0.0, 0.0 ]
@@ -21387,7 +21388,7 @@
 	 ,"dir":	"li6p"
 	 ,"dir1":	"li6-p"
 	 ,"file":	"li6pgd"
-	 ,"fileDate":	"2014-01-08,11:25:54"
+	 ,"fileDate":	"2018-12-19,14:42:36"
 	 ,"year":	1992
 	 ,"author1":	"F.E.Cecil"
 	 ,"dataType":	"PIGE,NRA"
@@ -21401,6 +21402,7 @@
 	 ,"Name":	"Tassos Lagoyannis (NCSR \"Demokritos\")for IAEA PIGE CRP"
 	 ,"X4Number":	""
 	 ,"Reaction":	"6Li(p,g)7Be"
+	 ,"Egamma":	"429+5615-5734"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 5606.85, 0.0, 0.0, 0.0 ]
@@ -21433,7 +21435,7 @@
 	 ,"dir":	"li6p"
 	 ,"dir1":	"li6-p"
 	 ,"file":	"li6pg0b"
-	 ,"fileDate":	"2015-11-27,16:05:48"
+	 ,"fileDate":	"2018-12-17,11:24:52"
 	 ,"year":	1969
 	 ,"author1":	"W.E.Sweeney"
 	 ,"dataType":	"PIGE,NRA"
@@ -21445,6 +21447,7 @@
 	 ,"Name":	"Sent by Tassos Lagoyannis (NCSR \"Demokritos\") for the PIGE CRP"
 	 ,"X4Number":	""
 	 ,"Reaction":	"6Li(p,g0)7Be"
+	 ,"Egamma":	"6266"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
@@ -21465,7 +21468,7 @@
 	 ,"dir":	"li6p"
 	 ,"dir1":	"li6-p"
 	 ,"file":	"li6pg1a"
-	 ,"fileDate":	"2015-12-07,15:53:10"
+	 ,"fileDate":	"2018-12-17,11:26:24"
 	 ,"year":	1969
 	 ,"author1":	"W.E.Sweeney"
 	 ,"dataType":	"PIGE,NRA"
@@ -21477,6 +21480,7 @@
 	 ,"Name":	"Sent by Tassos Lagoyannis (NCSR \"Demokritos\") for the PIGE CRP"
 	 ,"X4Number":	""
 	 ,"Reaction":	"6Li(p,g1)7Be"
+	 ,"Egamma":	"5837"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
@@ -28870,7 +28874,7 @@
 	 ,"dir":	"li7p"
 	 ,"dir1":	"li7-p"
 	 ,"file":	"li7pgc"
-	 ,"fileDate":	"2015-11-17,18:36:12"
+	 ,"fileDate":	"2018-12-19,14:50:04"
 	 ,"year":	1963
 	 ,"author1":	"R. R.Perry"
 	 ,"dataType":	"PIGE,NRA"
@@ -28883,6 +28887,7 @@
 	 ,"Name":	"Sent by Tassos Lagoyannis (NCSR \"Demokritos\") for the PIGE CRP"
 	 ,"X4Number":	""
 	 ,"Reaction":	"7Li(p,g)8Be"
+	 ,"Egamma":	"16624-23636+19704-26862"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 17254.4, 0.0, 0.0, 0.0 ]
@@ -28912,7 +28917,7 @@
 	 ,"dir":	"li7p"
 	 ,"dir1":	"li7-p"
 	 ,"file":	"li7pgb"
-	 ,"fileDate":	"2015-11-17,18:24:56"
+	 ,"fileDate":	"2018-12-19,14:52:30"
 	 ,"year":	1963
 	 ,"author1":	"R.R.Perry"
 	 ,"dataType":	"PIGE,NRA"
@@ -28929,6 +28934,7 @@
 	 ,"Source":	"R.R.Perry+(1963), Jour. Nuclear Physics, Vol.45, Issue.4, p.586"
 	 ,"X4Number":	"A1392002"
 	 ,"Reaction":	"7Li(p,g)8Be"
+	 ,"Egamma":	"18584-26792+15527-23567"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"ru"
 	 ,"Qvalue":	[ 17255.44, 0.0, 0.0, 0.0 ]
@@ -28998,7 +29004,7 @@
 	 ,"dir":	"li7p"
 	 ,"dir1":	"li7-p"
 	 ,"file":	"li7pg0a"
-	 ,"fileDate":	"2015-11-17,18:10:50"
+	 ,"fileDate":	"2018-12-17,11:43:28"
 	 ,"year":	1963
 	 ,"author1":	"V.Riech"
 	 ,"dataType":	"PIGE,NRA"
@@ -29017,7 +29023,7 @@
 	 ,"Source":	"V.Riech(1963), Jour. Physics Letters, Vol.6, Issue.3, p.267"
 	 ,"X4Number":	"A1398002"
 	 ,"Reaction":	"7Li(p,g0)8Be"
-	 ,"Egamma":	"0.0"
+	 ,"Egamma":	"18015-19932"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"ru"
 	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
@@ -29094,7 +29100,7 @@
 	 ,"dir":	"li7p"
 	 ,"dir1":	"li7-p"
 	 ,"file":	"li7pg1a"
-	 ,"fileDate":	"2015-11-17,18:14:08"
+	 ,"fileDate":	"2018-12-17,11:48:04"
 	 ,"year":	1963
 	 ,"author1":	"V.Riech"
 	 ,"dataType":	"PIGE,NRA"
@@ -29112,6 +29118,7 @@
 	 ,"Source":	"V.Riech(1963), Jour. Physics Letters, Vol.6, Issue.3, p.267"
 	 ,"X4Number":	"A1398002"
 	 ,"Reaction":	"7Li(p,g1)8Be"
+	 ,"Egamma":	"14978-16911"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"ru"
 	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
@@ -30358,7 +30365,7 @@
 	 ,"dir":	"li7p"
 	 ,"dir1":	"li7-p"
 	 ,"file":	"li7ppgj"
-	 ,"fileDate":	"2015-01-13,13:38:38"
+	 ,"fileDate":	"2019-02-05,15:51:52"
 	 ,"year":	0
 	 ,"author1":	"M.Fonseca"
 	 ,"dataType":	"PIGE,NRA"
@@ -42208,7 +42215,7 @@
 	 ,"dir":	"be9p"
 	 ,"dir1":	"be9-p"
 	 ,"file":	"be9pgc"
-	 ,"fileDate":	"2015-11-27,16:55:20"
+	 ,"fileDate":	"2018-12-17,12:16:38"
 	 ,"year":	1995
 	 ,"author1":	"D.Zahnow"
 	 ,"dataType":	"PIGE,NRA"
@@ -42222,6 +42229,7 @@
 	 ,"Name":	"Sent by Tassos Lagoyannis (NCSR \"Demokritos\") for the PIGE CRP"
 	 ,"X4Number":	"A0633003"
 	 ,"Reaction":	"9Be(p,g)10B"
+	 ,"Egamma":	"6650-8207"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 6586.73, 0.0, 0.0, 0.0 ]
@@ -42289,7 +42297,7 @@
 	 ,"dir":	"be9p"
 	 ,"dir1":	"be9-p"
 	 ,"file":	"be9pgd"
-	 ,"fileDate":	"2015-11-27,16:55:52"
+	 ,"fileDate":	"2018-12-17,12:19:40"
 	 ,"year":	1953
 	 ,"author1":	"W. F.Hornyak"
 	 ,"dataType":	"PIGE,NRA"
@@ -42302,6 +42310,7 @@
 	 ,"Name":	"Sent by Tassos Lagoyannis (NCSR \"Demokritos\") for the PIGE CRP"
 	 ,"X4Number":	"C0630002"
 	 ,"Reaction":	"9Be(p,g)10B"
+	 ,"Egamma":	"7334-7937"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 6586.73, 0.0, 0.0, 0.0 ]
@@ -42357,7 +42366,7 @@
 	 ,"dir":	"be9p"
 	 ,"dir1":	"be9-p"
 	 ,"file":	"be9pga"
-	 ,"fileDate":	"2015-11-18,17:20:56"
+	 ,"fileDate":	"2018-12-17,12:21:28"
 	 ,"year":	1962
 	 ,"author1":	"R.J.Ellison"
 	 ,"dataType":	"PIGE,NRA"
@@ -42369,7 +42378,7 @@
 	 ,"SubFile":	""
 	 ,"X4Number":	"F1015002"
 	 ,"Reaction":	"9Be(p,g)10B"
-	 ,"Egamma":	"6000-8000"
+	 ,"Egamma":	"7352-7586"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"ru"
 	 ,"Qvalue":	[ 6585.9, 0.0, 0.0, 0.0 ]
@@ -42418,7 +42427,7 @@
 	 ,"dir":	"be9p"
 	 ,"dir1":	"be9-p"
 	 ,"file":	"be9pg0b"
-	 ,"fileDate":	"2014-01-10,10:52:56"
+	 ,"fileDate":	"2018-12-17,12:23:28"
 	 ,"year":	1959
 	 ,"author1":	"W.E.Meyerhof"
 	 ,"dataType":	"PIGE,NRA"
@@ -42436,6 +42445,7 @@
 	 ,"Source":	"W.E.Meyerhof+(1959), Jour. Physical Review, Vol.115, p.1227"
 	 ,"X4Number":	"F0122002"
 	 ,"Reaction":	"9Be(p,g0)10B"
+	 ,"Egamma":	"6821-7658"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 6585.89, 0.0, 0.0, 0.0 ]
@@ -42476,7 +42486,7 @@
 	 ,"dir":	"be9p"
 	 ,"dir1":	"be9-p"
 	 ,"file":	"be9pg0a"
-	 ,"fileDate":	"2014-01-10,11:01:30"
+	 ,"fileDate":	"2018-12-17,12:24:44"
 	 ,"year":	2005
 	 ,"author1":	"L.N.Generalov"
 	 ,"dataType":	"PIGE,NRA"
@@ -42495,6 +42505,7 @@
 	 ,"Source":	"L.N.Generalov+(2005), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.69, p.1629"
 	 ,"X4Number":	"F0760004"
 	 ,"Reaction":	"9Be(p,g0)10B"
+	 ,"Egamma":	"8081-8495"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 6585.89, 0.0, 0.0, 0.0 ]
@@ -42521,7 +42532,7 @@
 	 ,"dir":	"be9p"
 	 ,"dir1":	"be9-p"
 	 ,"file":	"be9pg1b"
-	 ,"fileDate":	"2014-01-10,10:54:08"
+	 ,"fileDate":	"2018-12-17,12:26:26"
 	 ,"year":	1959
 	 ,"author1":	"W.E.Meyerhof"
 	 ,"dataType":	"PIGE,NRA"
@@ -42539,6 +42550,7 @@
 	 ,"Source":	"W.E.Meyerhof+(1959), Jour. Physical Review, Vol.115, p.1227"
 	 ,"X4Number":	"F0122002"
 	 ,"Reaction":	"9Be(p,g1)10B"
+	 ,"Egamma":	"6103-6940"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 5865.89, 0.0, 0.0, 0.0 ]
@@ -42579,7 +42591,7 @@
 	 ,"dir":	"be9p"
 	 ,"dir1":	"be9-p"
 	 ,"file":	"be9pg1a"
-	 ,"fileDate":	"2014-01-10,11:02:02"
+	 ,"fileDate":	"2018-12-17,12:27:36"
 	 ,"year":	2005
 	 ,"author1":	"L.N.Generalov"
 	 ,"dataType":	"PIGE,NRA"
@@ -42598,6 +42610,7 @@
 	 ,"Source":	"L.N.Generalov+(2005), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.69, p.1629"
 	 ,"X4Number":	"F0760004"
 	 ,"Reaction":	"9Be(p,g1)10B"
+	 ,"Egamma":	"7363-7777"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 5867.89, 0.0, 0.0, 0.0 ]
@@ -42823,7 +42836,7 @@
 	 ,"dir":	"be9p"
 	 ,"dir1":	"be9-p"
 	 ,"file":	"be9pg2a"
-	 ,"fileDate":	"2014-01-10,10:54:46"
+	 ,"fileDate":	"2018-12-17,12:29:22"
 	 ,"year":	1959
 	 ,"author1":	"W.E.Meyerhof"
 	 ,"dataType":	"PIGE,NRA"
@@ -42841,6 +42854,7 @@
 	 ,"Source":	"W.E.Meyerhof+(1959), Jour. Physical Review, Vol.115, p.1227"
 	 ,"X4Number":	"F0122002"
 	 ,"Reaction":	"9Be(p,g2)10B"
+	 ,"Egamma":	"5090-5927"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 4845.89, 0.0, 0.0, 0.0 ]
@@ -43009,7 +43023,7 @@
 	 ,"dir":	"be9p"
 	 ,"dir1":	"be9-p"
 	 ,"file":	"be9pg3a"
-	 ,"fileDate":	"2014-01-10,10:55:24"
+	 ,"fileDate":	"2018-12-17,12:31:00"
 	 ,"year":	1959
 	 ,"author1":	"W.E.Meyerhof"
 	 ,"dataType":	"PIGE,NRA"
@@ -43027,6 +43041,7 @@
 	 ,"Source":	"W.E.Meyerhof+(1959), Jour. Physical Review, Vol.115, p.1227"
 	 ,"X4Number":	"F0122002"
 	 ,"Reaction":	"9Be(p,g3)10B"
+	 ,"Egamma":	"4676-5522"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 4435.89, 0.0, 0.0, 0.0 ]
@@ -43193,7 +43208,7 @@
 	 ,"dir":	"be9p"
 	 ,"dir1":	"be9-p"
 	 ,"file":	"be9pg4a"
-	 ,"fileDate":	"2014-01-10,10:56:10"
+	 ,"fileDate":	"2018-12-17,12:32:34"
 	 ,"year":	1959
 	 ,"author1":	"W.E.Meyerhof"
 	 ,"dataType":	"PIGE,NRA"
@@ -43211,6 +43226,7 @@
 	 ,"Source":	"W.E.Meyerhof+(1959), Jour. Physical Review, Vol.115, p.1227"
 	 ,"X4Number":	"F0122002"
 	 ,"Reaction":	"9Be(p,g4)10B"
+	 ,"Egamma":	"3234-4080"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 3005.89, 0.0, 0.0, 0.0 ]
@@ -43251,7 +43267,7 @@
 	 ,"dir":	"be9p"
 	 ,"dir1":	"be9-p"
 	 ,"file":	"be9pg6a"
-	 ,"fileDate":	"2014-01-10,11:03:18"
+	 ,"fileDate":	"2018-12-17,12:35:20"
 	 ,"year":	2005
 	 ,"author1":	"L.N.Generalov"
 	 ,"dataType":	"PIGE,NRA"
@@ -43270,6 +43286,7 @@
 	 ,"Source":	"L.N.Generalov+(2005), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.69, p.1629"
 	 ,"X4Number":	"F0760004"
 	 ,"Reaction":	"9Be(p,g6)10B"
+	 ,"Egamma":	"2971-3385"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 1475.89, 0.0, 0.0, 0.0 ]
@@ -43296,7 +43313,7 @@
 	 ,"dir":	"be9p"
 	 ,"dir1":	"be9-p"
 	 ,"file":	"be9pg7a"
-	 ,"fileDate":	"2014-01-10,10:57:24"
+	 ,"fileDate":	"2018-12-17,12:36:58"
 	 ,"year":	1959
 	 ,"author1":	"W.E.Meyerhof"
 	 ,"dataType":	"PIGE,NRA"
@@ -43314,6 +43331,7 @@
 	 ,"Source":	"W.E.Meyerhof+(1959), Jour. Physical Review, Vol.115, p.1227"
 	 ,"X4Number":	"F0122002"
 	 ,"Reaction":	"9Be(p,g7)10B"
+	 ,"Egamma":	"1657-2503"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 1425.89, 0.0, 0.0, 0.0 ]
@@ -59907,7 +59925,7 @@
 	 ,"dir":	"b0p"
 	 ,"dir1":	"b10-p"
 	 ,"file":	"b0pga"
-	 ,"fileDate":	"2016-02-25,11:35:42"
+	 ,"fileDate":	"2018-12-17,12:58:16"
 	 ,"year":	2003
 	 ,"author1":	"A.P.Tonchev"
 	 ,"dataType":	"PIGE,NRA"
@@ -59922,6 +59940,7 @@
 	 ,"Source":	"A.P.Tonchev et al., Phys. Rev C68 (2003) 045803"
 	 ,"X4Number":	"C1036003"
 	 ,"Reaction":	"10B(p,g)11C"
+	 ,"Egamma":	"8772-8826"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 8689.37, 0.0, 0.0, 0.0 ]
@@ -59945,7 +59964,7 @@
 	 ,"dir":	"b0p"
 	 ,"dir1":	"b10-p"
 	 ,"file":	"b0pg0a"
-	 ,"fileDate":	"2016-02-22,16:45:12"
+	 ,"fileDate":	"2018-12-17,12:59:28"
 	 ,"year":	1983
 	 ,"author1":	"M.Wiescher at"
 	 ,"dataType":	"PIGE,NRA"
@@ -59961,6 +59980,7 @@
 	 ,"Name":	"Tassos Lagoyannis for PIGE CRP"
 	 ,"X4Number":	"C1274002"
 	 ,"Reaction":	"10B(p,g0)11C"
+	 ,"Egamma":	"8790-10599"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 8689.37, 0.0, 0.0, 0.0 ]
@@ -60104,7 +60124,7 @@
 	 ,"dir":	"b0p"
 	 ,"dir1":	"b10-p"
 	 ,"file":	"b0pg2a"
-	 ,"fileDate":	"2016-02-25,11:37:32"
+	 ,"fileDate":	"2018-12-17,13:02:04"
 	 ,"year":	1983
 	 ,"author1":	"M.Wiescher"
 	 ,"dataType":	"PIGE,NRA"
@@ -60120,6 +60140,7 @@
 	 ,"Name":	"Tassos Lagoyannis for PIGE CRP"
 	 ,"X4Number":	"C1274002"
 	 ,"Reaction":	"10B(p,g2)11C"
+	 ,"Egamma":	"4453-6289"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 4370.57, 0.0, 0.0, 0.0 ]
@@ -60383,7 +60404,7 @@
 	 ,"dir":	"b0p"
 	 ,"dir1":	"b10-p"
 	 ,"file":	"b0pg5a"
-	 ,"fileDate":	"2016-02-22,16:55:12"
+	 ,"fileDate":	"2018-12-17,13:03:38"
 	 ,"year":	1983
 	 ,"author1":	"M.Wiescher"
 	 ,"dataType":	"PIGE,NRA"
@@ -60399,6 +60420,7 @@
 	 ,"Name":	"Tassos Lagoyannis for PIGE CRP"
 	 ,"X4Number":	"C1274002"
 	 ,"Reaction":	"10B(p,g5)11C"
+	 ,"Egamma":	"2303-4130"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 2211.17, 0.0, 0.0, 0.0 ]
@@ -70817,7 +70839,7 @@
 	 ,"dir":	"b1p"
 	 ,"dir1":	"b11-p"
 	 ,"file":	"b1pa1$1"
-	 ,"fileDate":	"2018-09-10,12:01:45"
+	 ,"fileDate":	"2018-09-10,12:01:46"
 	 ,"year":	2002
 	 ,"author1":	"J.Liu"
 	 ,"dataType":	"NRA"
@@ -73156,7 +73178,7 @@
 	 ,"dir":	"b1p"
 	 ,"dir1":	"b11-p"
 	 ,"file":	"b1pg0h"
-	 ,"fileDate":	"2016-02-15,12:58:42"
+	 ,"fileDate":	"2019-01-17,18:05:22"
 	 ,"year":	1953
 	 ,"author1":	"T.Huus"
 	 ,"dataType":	"PIGE,NRA"
@@ -73169,6 +73191,7 @@
 	 ,"Name":	""
 	 ,"X4Number":	""
 	 ,"Reaction":	"11B(p,g0)12C"
+	 ,"Egamma":	"16103-17231"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 15956.85, 0.0, 0.0, 0.0 ]
@@ -73178,134 +73201,9 @@
 	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
 	 ,"Theta":	360.0
 	 ,"Data":	[ 
-			 [ 163.0, 0.0, 0.0055, 0.165 ]
-			,[ 675.0, 0.0, 0.0023, 0.088 ]
-			,[ 1388.0, 0.0, 0.035, 0.055 ]
-			]
-    }
-   ,{
-        "fileInfo": {
-	  "targ":	"11B"
-	 ,"zaTarg":	5011 ,"Target":"B-11" ,"Elem":"B"
-	 ,"proj":	"p"
-	 ,"dir":	"b1p"
-	 ,"dir1":	"b11-p"
-	 ,"file":	"b1pg0j"
-	 ,"fileDate":	"2016-02-15,12:58:42"
-	 ,"year":	1953
-	 ,"author1":	"T.Huus"
-	 ,"dataType":	"PIGE,NRA"
-	 ,"nData":	3
-        },
-	  "Comment":	["The Gamma radiation from 11B bombarded by Protons."
-			,"\t\tData measured at angle 90 deg and multiplied x 4pi to give total cross sections."]
-	 ,"Version":	"R33"
-	 ,"Source":	"T.Huus and R. Day, Phys. Rev. 91, 599 (1953)."
-	 ,"Name":	""
-	 ,"X4Number":	""
-	 ,"Reaction":	"11B(p,g0)12C"
-	 ,"Distribution": "Energy"
-	 ,"Units":	"tot"
-	 ,"Qvalue":	[ 15956.85, 0.0, 0.0, 0.0 ]
-	 ,"Masses":	[ 1.0, 11.0, 0.0, 12.0 ]
-	 ,"Zeds":	[ 1.0, 5.0, 0.0, 6.0 ]
-	 ,"Sigfactors":	[ 1.0, 0.0 ]
-	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
-	 ,"Theta":	360.0
-	 ,"Data":	[ 
-			 [ 163.0, 0.0, 0.0055, 0.165 ]
-			,[ 675.0, 0.0, 0.0023, 0.088 ]
-			,[ 1388.0, 0.0, 0.035, 0.055 ]
-			]
-    }
-   ,{
-        "fileInfo": {
-	  "targ":	"11B"
-	 ,"zaTarg":	5011 ,"Target":"B-11" ,"Elem":"B"
-	 ,"proj":	"p"
-	 ,"dir":	"b1p"
-	 ,"dir1":	"b11-p"
-	 ,"file":	"b1pg0i"
-	 ,"fileDate":	"2016-02-25,12:44:06"
-	 ,"year":	1965
-	 ,"author1":	"R.E.Segel"
-	 ,"dataType":	"PIGE,NRA"
-	 ,"nData":	59
-        },
-	  "Comment":	["States in C12 Between 16.4 and 19.6 MeV"]
-	 ,"Version":	"R33"
-	 ,"Source":	"R.E.Segel+(1965), Jour. Physical Review, Vol.139, p.B818"
-	 ,"Name":	""
-	 ,"X4Number":	"F0332002"
-	 ,"Reaction":	"11B(p,g0)12C"
-	 ,"Distribution": "Energy"
-	 ,"Units":	"tot"
-	 ,"Qvalue":	[ 15956.85, 0.0, 0.0, 0.0 ]
-	 ,"Masses":	[ 1.0, 11.0, 0.0, 12.0 ]
-	 ,"Zeds":	[ 1.0, 5.0, 0.0, 6.0 ]
-	 ,"Sigfactors":	[ 1.0, 0.0 ]
-	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
-	 ,"Theta":	360.0
-	 ,"Data":	[ 
-			 [ 525.9, 0.0, 0.006111, 0.0 ]
-			,[ 590.4, 0.0, 0.006838, 0.0 ]
-			,[ 633.2, 0.0, 0.008274, 0.0 ]
-			,[ 697.4, 0.0, 0.0104, 0.0 ]
-			,[ 740.4, 0.0, 0.0104, 0.0 ]
-			,[ 783.2, 0.0, 0.0119, 0.0 ]
-			,[ 826.0, 0.0, 0.0133, 0.0 ]
-			,[ 890.5, 0.0, 0.014, 0.0 ]
-			,[ 954.7, 0.0, 0.0162, 0.0 ]
-			,[ 1019.0, 0.0, 0.0183, 0.0 ]
-			,[ 1062.0, 0.0, 0.0191, 0.0 ]
-			,[ 1126.0, 0.0, 0.0205, 0.0 ]
-			,[ 1169.0, 0.0, 0.0227, 0.0 ]
-			,[ 1233.0, 0.0, 0.0234, 0.0 ]
-			,[ 1298.0, 0.0, 0.0241, 0.0 ]
-			,[ 1340.0, 0.0, 0.0263, 0.0 ]
-			,[ 1383.0, 0.0, 0.027, 0.0 ]
-			,[ 1427.0, 0.0, 0.0256, 0.0 ]
-			,[ 1491.0, 0.0, 0.027, 0.0 ]
-			,[ 1556.0, 0.0, 0.0256, 0.0 ]
-			,[ 1599.0, 0.0, 0.0249, 0.0 ]
-			,[ 1642.0, 0.0, 0.0242, 0.0 ]
-			,[ 1707.0, 0.0, 0.0228, 0.0 ]
-			,[ 1729.0, 0.0, 0.0221, 0.0 ]
-			,[ 1794.0, 0.0, 0.0206, 0.0 ]
-			,[ 1859.0, 0.0, 0.0192, 0.0 ]
-			,[ 1880.0, 0.0, 0.0178, 0.0 ]
-			,[ 1945.0, 0.0, 0.0171, 0.0 ]
-			,[ 2010.0, 0.0, 0.015, 0.0 ]
-			,[ 2054.0, 0.0, 0.0136, 0.0 ]
-			,[ 2118.0, 0.0, 0.0136, 0.0 ]
-			,[ 2205.0, 0.0, 0.0122, 0.0 ]
-			,[ 2270.0, 0.0, 0.0108, 0.0 ]
-			,[ 2313.0, 0.0, 0.0101, 0.0 ]
-			,[ 2356.0, 0.0, 0.0101, 0.0 ]
-			,[ 2420.0, 0.0, 0.0101, 0.0 ]
-			,[ 2485.0, 0.0, 0.009387, 0.0 ]
-			,[ 2571.0, 0.0, 0.009405, 0.0 ]
-			,[ 2636.0, 0.0, 0.0109, 0.0 ]
-			,[ 2679.0, 0.0, 0.0101, 0.0 ]
-			,[ 2743.0, 0.0, 0.0109, 0.0 ]
-			,[ 2787.0, 0.0, 0.009452, 0.0 ]
-			,[ 2829.0, 0.0, 0.0109, 0.0 ]
-			,[ 2873.0, 0.0, 0.0109, 0.0 ]
-			,[ 2938.0, 0.0, 0.009484, 0.0 ]
-			,[ 2959.0, 0.0, 0.008775, 0.0 ]
-			,[ 2980.0, 0.0, 0.0102, 0.0 ]
-			,[ 3023.0, 0.0, 0.0124, 0.0 ]
-			,[ 3088.0, 0.0, 0.0124, 0.0 ]
-			,[ 3152.0, 0.0, 0.0124, 0.0 ]
-			,[ 3217.0, 0.0, 0.0138, 0.0 ]
-			,[ 3217.0, 0.0, 0.0124, 0.0 ]
-			,[ 3345.0, 0.0, 0.0153, 0.0 ]
-			,[ 3431.0, 0.0, 0.0174, 0.0 ]
-			,[ 3539.0, 0.0, 0.0189, 0.0 ]
-			,[ 3647.0, 0.0, 0.0175, 0.0 ]
-			,[ 3733.0, 0.0, 0.0161, 0.0 ]
-			,[ 3862.0, 0.0, 0.0168, 0.0 ]
-			,[ 3927.0, 0.0, 0.0161, 0.0 ]
+			 [ 163.0, 0.0, 0.0055, 0.0 ]
+			,[ 675.0, 0.0, 0.0023, 0.0 ]
+			,[ 1388.0, 0.0, 0.035, 0.0 ]
 			]
     }
    ,{
@@ -73316,7 +73214,7 @@
 	 ,"dir":	"b1p"
 	 ,"dir1":	"b11-p"
 	 ,"file":	"b1pg0g"
-	 ,"fileDate":	"2016-02-25,12:43:48"
+	 ,"fileDate":	"2018-12-17,13:14:10"
 	 ,"year":	1965
 	 ,"author1":	"R.E.Segel"
 	 ,"dataType":	"PIGE,NRA"
@@ -73328,6 +73226,7 @@
 	 ,"Name":	""
 	 ,"X4Number":	"F0332002"
 	 ,"Reaction":	"11B(p,g0)12C"
+	 ,"Egamma":	"16433-19559"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 15956.85, 0.0, 0.0, 0.0 ]
@@ -73406,7 +73305,7 @@
 	 ,"dir":	"b1p"
 	 ,"dir1":	"b11-p"
 	 ,"file":	"b1pg0e"
-	 ,"fileDate":	"2014-01-29,18:05:22"
+	 ,"fileDate":	"2018-12-17,13:15:58"
 	 ,"year":	1964
 	 ,"author1":	"R.G.Allas"
 	 ,"dataType":	"PIGE,NRA"
@@ -73425,6 +73324,7 @@
 	 ,"Source":	"R.G.Allas+(1964), Jour. Nuclear Physics, Vol.58, p.122"
 	 ,"X4Number":	"F0344002"
 	 ,"Reaction":	"11B(p,g0)12C"
+	 ,"Egamma":	"19303-28469"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 15956.9, 0.0, 0.0, 0.0 ]
@@ -73598,7 +73498,7 @@
 	 ,"dir":	"b1p"
 	 ,"dir1":	"b11-p"
 	 ,"file":	"b1pg0c"
-	 ,"fileDate":	"2016-02-23,12:14:30"
+	 ,"fileDate":	"2018-12-17,13:17:14"
 	 ,"year":	1982
 	 ,"author1":	"M.T.Collins"
 	 ,"dataType":	"PIGE,NRA"
@@ -73618,6 +73518,7 @@
 	 ,"Source":	"M.T.Collins+(1982), Jour. Physical Review, Part C, Nuclear Physics, Vol.26, p.332"
 	 ,"X4Number":	"T0038002"
 	 ,"Reaction":	"11B(p,g0)12C"
+	 ,"Egamma":	"20531-28790"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 15956.9, 0.0, 0.0, 0.0 ]
@@ -73644,7 +73545,7 @@
 	 ,"dir":	"b1p"
 	 ,"dir1":	"b11-p"
 	 ,"file":	"b1pg0d"
-	 ,"fileDate":	"2014-01-29,18:00:22"
+	 ,"fileDate":	"2018-12-17,13:18:22"
 	 ,"year":	1982
 	 ,"author1":	"M.T.Collins"
 	 ,"dataType":	"PIGE,NRA"
@@ -73664,6 +73565,7 @@
 	 ,"Source":	"M.T.Collins+(1982), Jour. Physical Review, Part C, Nuclear Physics, Vol.26, p.332"
 	 ,"X4Number":	"T0038003"
 	 ,"Reaction":	"11B(p,g0)12C"
+	 ,"Egamma":	"22538-28790"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 15956.9, 0.0, 0.0, 0.0 ]
@@ -73692,7 +73594,7 @@
 	 ,"dir":	"b1p"
 	 ,"dir1":	"b11-p"
 	 ,"file":	"b1pg0f"
-	 ,"fileDate":	"2014-01-29,18:12:24"
+	 ,"fileDate":	"2018-12-17,13:19:36"
 	 ,"year":	2005
 	 ,"author1":	"L.N.Generalov"
 	 ,"dataType":	"PIGE,NRA"
@@ -73713,6 +73615,7 @@
 	 ,"Source":	"L.N.Generalov+(2005), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.69, p.85"
 	 ,"X4Number":	"F0716002"
 	 ,"Reaction":	"11B(p,g0)12C"
+	 ,"Egamma":	"17249-18560"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 15956.9, 0.0, 0.0, 0.0 ]
@@ -73750,7 +73653,7 @@
 	 ,"dir":	"b1p"
 	 ,"dir1":	"b11-p"
 	 ,"file":	"b1pg0b"
-	 ,"fileDate":	"2014-01-29,17:55:48"
+	 ,"fileDate":	"2018-12-17,13:21:36"
 	 ,"year":	1982
 	 ,"author1":	"M.C.Wright"
 	 ,"dataType":	"PIGE,NRA"
@@ -73769,6 +73672,7 @@
 	 ,"Source":	"M.C.Wright+(1982), Jour. Physical Review, Part C, Nuclear Physics, Vol.25, p.2823"
 	 ,"X4Number":	"C1254002"
 	 ,"Reaction":	"11B(p,g0)12C"
+	 ,"Egamma":	"18615-20192"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 15956.9, 0.0, 0.0, 0.0 ]
@@ -73807,7 +73711,7 @@
 	 ,"dir":	"b1p"
 	 ,"dir1":	"b11-p"
 	 ,"file":	"b1pg0a"
-	 ,"fileDate":	"2014-01-29,17:55:06"
+	 ,"fileDate":	"2018-12-17,13:22:34"
 	 ,"year":	1982
 	 ,"author1":	"M.C.Wright"
 	 ,"dataType":	"PIGE,NRA"
@@ -73826,6 +73730,7 @@
 	 ,"Source":	"M.C.Wright+(1982), Jour. Physical Review, Part C, Nuclear Physics, Vol.25, p.2823"
 	 ,"X4Number":	"C1254002"
 	 ,"Reaction":	"11B(p,g0)12C"
+	 ,"Egamma":	"18615-20201"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 15956.9, 0.0, 0.0, 0.0 ]
@@ -73863,43 +73768,8 @@
 	 ,"proj":	"p"
 	 ,"dir":	"b1p"
 	 ,"dir1":	"b11-p"
-	 ,"file":	"b1pg1f"
-	 ,"fileDate":	"2016-02-15,12:59:42"
-	 ,"year":	1953
-	 ,"author1":	"T.Huus"
-	 ,"dataType":	"PIGE,NRA"
-	 ,"nData":	3
-        },
-	  "Comment":	["The Gamma radiation from 11B bombarded by Protons."
-			,"\t\tData measured at angle 90 deg and multiplied x 4pi to give total cross sections."]
-	 ,"Version":	"R33"
-	 ,"Source":	"T.Huus and R. Day, Phys. Rev. 91, 599 (1953)."
-	 ,"Name":	""
-	 ,"X4Number":	""
-	 ,"Reaction":	"11B(p,g1)12C"
-	 ,"Distribution": "Energy"
-	 ,"Units":	"tot"
-	 ,"Qvalue":	[ 15956.85, 0.0, 0.0, 0.0 ]
-	 ,"Masses":	[ 1.0, 11.0, 0.0, 12.0 ]
-	 ,"Zeds":	[ 1.0, 5.0, 0.0, 6.0 ]
-	 ,"Sigfactors":	[ 1.0, 0.0 ]
-	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
-	 ,"Theta":	360.0
-	 ,"Data":	[ 
-			 [ 163.0, 4440.0, 0.152, 0.165 ]
-			,[ 675.0, 4440.0, 0.048, 0.088 ]
-			,[ 1388.0, 4440.0, 0.018, 0.055 ]
-			]
-    }
-   ,{
-        "fileInfo": {
-	  "targ":	"11B"
-	 ,"zaTarg":	5011 ,"Target":"B-11" ,"Elem":"B"
-	 ,"proj":	"p"
-	 ,"dir":	"b1p"
-	 ,"dir1":	"b11-p"
 	 ,"file":	"b1pg1e"
-	 ,"fileDate":	"2016-02-15,12:59:42"
+	 ,"fileDate":	"2019-01-17,18:16:56"
 	 ,"year":	1953
 	 ,"author1":	"T.Huus"
 	 ,"dataType":	"PIGE,NRA"
@@ -73912,6 +73782,7 @@
 	 ,"Name":	""
 	 ,"X4Number":	""
 	 ,"Reaction":	"11B(p,g1)12C"
+	 ,"Egamma":	"11664-12791"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 15956.85, 0.0, 0.0, 0.0 ]
@@ -73921,124 +73792,9 @@
 	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
 	 ,"Theta":	360.0
 	 ,"Data":	[ 
-			 [ 163.0, 4440.0, 0.152, 0.165 ]
-			,[ 675.0, 4440.0, 0.048, 0.088 ]
-			,[ 1388.0, 4440.0, 0.018, 0.055 ]
-			]
-    }
-   ,{
-        "fileInfo": {
-	  "targ":	"11B"
-	 ,"zaTarg":	5011 ,"Target":"B-11" ,"Elem":"B"
-	 ,"proj":	"p"
-	 ,"dir":	"b1p"
-	 ,"dir1":	"b11-p"
-	 ,"file":	"b1pg1b"
-	 ,"fileDate":	"2014-01-30,14:22:38"
-	 ,"year":	1982
-	 ,"author1":	"M.C.Wright"
-	 ,"dataType":	"PIGE,NRA"
-	 ,"nData":	19
-        },
-	  "Comment":	["Automatically converted from EXFOR"
-			,"            by the IAEA-NDS EXFOR Web-Retrieval System"
-			,"            program version-2012/10/18, by V.Zerkin."
-			,"            \"Proton capture in the 19 MeV region of 12C\""
-			,"            M.C.Wright, N.R.Roberson, H.R.Weller, D.R.Tilley, "
-			,"            D.Halderson"
-			,"            EXFOR: C1254002    Created: 2005-06-09"
-			,"            X4Reaction:5-B-11(P,G)6-C-12,PAR,DA; X4Points:113"
-			,"            LevelEnergy: 4439.00"]
-	 ,"Version":	"R33"
-	 ,"Source":	"M.C.Wright+(1982), Jour. Physical Review, Part C, Nuclear Physics, Vol.25, p.2823"
-	 ,"X4Number":	"C1254002"
-	 ,"Reaction":	"11B(p,g1)12C"
-	 ,"Distribution": "Energy"
-	 ,"Units":	"mb"
-	 ,"Qvalue":	[ 11517.9, 0.0, 0.0, 0.0 ]
-	 ,"Masses":	[ 1.0, 11.0, 0.0, 12.0 ]
-	 ,"Zeds":	[ 1.0, 5.0, 0.0, 6.0 ]
-	 ,"Sigfactors":	[ 1.0, 0.0 ]
-	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
-	 ,"Theta":	90.0
-	 ,"Data":	[ 
-			 [ 2890.0, 0.0, 6.6E-4, 2.5E-5 ]
-			,[ 2990.0, 0.0, 7.04E-4, 2.22E-5 ]
-			,[ 3100.0, 0.0, 0.0012, 2.22E-5 ]
-			,[ 3210.0, 0.0, 0.0018, 2.22E-5 ]
-			,[ 3300.0, 0.0, 9.45E-4, 2.22E-5 ]
-			,[ 3400.0, 0.0, 8.95E-4, 2.22E-5 ]
-			,[ 3500.0, 0.0, 9.37E-4, 2.77E-5 ]
-			,[ 3600.0, 0.0, 8.7E-4, 2.22E-5 ]
-			,[ 3700.0, 0.0, 7.53E-4, 2.22E-5 ]
-			,[ 3800.0, 0.0, 6.03E-4, 2.49E-5 ]
-			,[ 3900.0, 0.0, 5.5E-4, 2.22E-5 ]
-			,[ 3950.0, 0.0, 5.78E-4, 2.5E-5 ]
-			,[ 4000.0, 0.0, 6.11E-4, 2.49E-5 ]
-			,[ 4050.0, 0.0, 6.11E-4, 2.5E-5 ]
-			,[ 4100.0, 0.0, 6.86E-4, 2.22E-5 ]
-			,[ 4210.0, 0.0, 8.11E-4, 2.22E-5 ]
-			,[ 4300.0, 0.0, 9.85E-4, 1.94E-5 ]
-			,[ 4410.0, 0.0, 0.001, 2.49E-5 ]
-			,[ 4610.0, 0.0, 0.0013, 2.5E-5 ]
-			]
-    }
-   ,{
-        "fileInfo": {
-	  "targ":	"11B"
-	 ,"zaTarg":	5011 ,"Target":"B-11" ,"Elem":"B"
-	 ,"proj":	"p"
-	 ,"dir":	"b1p"
-	 ,"dir1":	"b11-p"
-	 ,"file":	"b1pg1d"
-	 ,"fileDate":	"2014-01-29,18:13:10"
-	 ,"year":	2005
-	 ,"author1":	"L.N.Generalov"
-	 ,"dataType":	"PIGE,NRA"
-	 ,"nData":	18
-        },
-	  "Comment":	["Automatically converted from EXFOR"
-			,"            by the IAEA-NDS EXFOR Web-Retrieval System"
-			,"            program version-2012/10/18, by V.Zerkin."
-			,"            \"Experimental-calculated research of gamma quanta"
-			,"             registration absolute efficiency by coaxial HPGe"
-			,"             detector GC 5019 at Egamma = 0.24 - 18.565 MeV.\""
-			,"            L.N.Generalov, B.L.Lebedev, A.V.Livke, A.B.Modenov, "
-			,"            V.A.Chirkin"
-			,"            EXFOR: F0716002    Created: 2005-06-27  Updated: 2005-12-08"
-			,"            X4Reaction:5-B-11(P,G)6-C-12,PAR,DA; X4Points:36"
-			,"            LevelEnergy: 4439.00"]
-	 ,"Version":	"R33"
-	 ,"Source":	"L.N.Generalov+(2005), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.69, p.85"
-	 ,"X4Number":	"F0716002"
-	 ,"Reaction":	"11B(p,g1)12C"
-	 ,"Distribution": "Energy"
-	 ,"Units":	"mb"
-	 ,"Qvalue":	[ 11517.9, 0.0, 0.0, 0.0 ]
-	 ,"Masses":	[ 1.0, 11.0, 0.0, 12.0 ]
-	 ,"Zeds":	[ 1.0, 5.0, 0.0, 6.0 ]
-	 ,"Sigfactors":	[ 1.0, 0.0 ]
-	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
-	 ,"Theta":	90.0
-	 ,"Data":	[ 
-			 [ 1413.0, 0.0, 7.34E-4, 3.65E-5 ]
-			,[ 1516.0, 0.0, 7.5E-4, 3.75E-5 ]
-			,[ 1619.0, 0.0, 7.0E-4, 3.45E-5 ]
-			,[ 1722.0, 0.0, 5.2E-4, 2.6E-5 ]
-			,[ 1825.0, 0.0, 4.68E-4, 2.35E-5 ]
-			,[ 1861.0, 0.0, 4.3E-4, 2.15E-5 ]
-			,[ 1927.0, 0.0, 4.26E-4, 2.15E-5 ]
-			,[ 1994.0, 0.0, 4.37E-4, 2.2E-5 ]
-			,[ 2000.0, 0.0, 4.17E-4, 2.1E-5 ]
-			,[ 2030.0, 0.0, 3.45E-4, 1.75E-5 ]
-			,[ 2091.0, 0.0, 3.15E-4, 1.65E-5 ]
-			,[ 2200.0, 0.0, 3.3E-4, 1.65E-5 ]
-			,[ 2428.0, 0.0, 4.3E-4, 2.05E-5 ]
-			,[ 2474.0, 0.0, 4.61E-4, 2.1E-5 ]
-			,[ 2576.0, 0.0, 4.46E-4, 2.4E-5 ]
-			,[ 2582.0, 0.0, 5.0E-4, 2.5E-5 ]
-			,[ 2646.0, 0.0, 6.05E-4, 2.75E-5 ]
-			,[ 2842.0, 0.0, 5.06E-4, 2.7E-5 ]
+			 [ 163.0, 0.0, 0.152, 0.0 ]
+			,[ 675.0, 0.0, 0.048, 0.0 ]
+			,[ 1388.0, 0.0, 0.018, 0.0 ]
 			]
     }
    ,{
@@ -74049,7 +73805,7 @@
 	 ,"dir":	"b1p"
 	 ,"dir1":	"b11-p"
 	 ,"file":	"b1pg1c"
-	 ,"fileDate":	"2014-01-29,18:06:08"
+	 ,"fileDate":	"2018-12-17,13:28:42"
 	 ,"year":	1964
 	 ,"author1":	"R.G.Allas"
 	 ,"dataType":	"PIGE,NRA"
@@ -74068,6 +73824,7 @@
 	 ,"Source":	"R.G.Allas+(1964), Jour. Nuclear Physics, Vol.58, p.122"
 	 ,"X4Number":	"F0344002"
 	 ,"Reaction":	"11B(p,g1)12C"
+	 ,"Egamma":	"14826-24204"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 11516.9, 0.0, 0.0, 0.0 ]
@@ -74248,8 +74005,67 @@
 	 ,"proj":	"p"
 	 ,"dir":	"b1p"
 	 ,"dir1":	"b11-p"
+	 ,"file":	"b1pg1d"
+	 ,"fileDate":	"2018-12-17,13:27:12"
+	 ,"year":	2005
+	 ,"author1":	"L.N.Generalov"
+	 ,"dataType":	"PIGE,NRA"
+	 ,"nData":	18
+        },
+	  "Comment":	["Automatically converted from EXFOR"
+			,"            by the IAEA-NDS EXFOR Web-Retrieval System"
+			,"            program version-2012/10/18, by V.Zerkin."
+			,"            \"Experimental-calculated research of gamma quanta"
+			,"             registration absolute efficiency by coaxial HPGe"
+			,"             detector GC 5019 at Egamma = 0.24 - 18.565 MeV.\""
+			,"            L.N.Generalov, B.L.Lebedev, A.V.Livke, A.B.Modenov, "
+			,"            V.A.Chirkin"
+			,"            EXFOR: F0716002    Created: 2005-06-27  Updated: 2005-12-08"
+			,"            X4Reaction:5-B-11(P,G)6-C-12,PAR,DA; X4Points:36"
+			,"            LevelEnergy: 4439.00"]
+	 ,"Version":	"R33"
+	 ,"Source":	"L.N.Generalov+(2005), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.69, p.85"
+	 ,"X4Number":	"F0716002"
+	 ,"Reaction":	"11B(p,g1)12C"
+	 ,"Egamma":	"12809-14120"
+	 ,"Distribution": "Energy"
+	 ,"Units":	"mb"
+	 ,"Qvalue":	[ 11517.9, 0.0, 0.0, 0.0 ]
+	 ,"Masses":	[ 1.0, 11.0, 0.0, 12.0 ]
+	 ,"Zeds":	[ 1.0, 5.0, 0.0, 6.0 ]
+	 ,"Sigfactors":	[ 1.0, 0.0 ]
+	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
+	 ,"Theta":	90.0
+	 ,"Data":	[ 
+			 [ 1413.0, 0.0, 7.34E-4, 3.65E-5 ]
+			,[ 1516.0, 0.0, 7.5E-4, 3.75E-5 ]
+			,[ 1619.0, 0.0, 7.0E-4, 3.45E-5 ]
+			,[ 1722.0, 0.0, 5.2E-4, 2.6E-5 ]
+			,[ 1825.0, 0.0, 4.68E-4, 2.35E-5 ]
+			,[ 1861.0, 0.0, 4.3E-4, 2.15E-5 ]
+			,[ 1927.0, 0.0, 4.26E-4, 2.15E-5 ]
+			,[ 1994.0, 0.0, 4.37E-4, 2.2E-5 ]
+			,[ 2000.0, 0.0, 4.17E-4, 2.1E-5 ]
+			,[ 2030.0, 0.0, 3.45E-4, 1.75E-5 ]
+			,[ 2091.0, 0.0, 3.15E-4, 1.65E-5 ]
+			,[ 2200.0, 0.0, 3.3E-4, 1.65E-5 ]
+			,[ 2428.0, 0.0, 4.3E-4, 2.05E-5 ]
+			,[ 2474.0, 0.0, 4.61E-4, 2.1E-5 ]
+			,[ 2576.0, 0.0, 4.46E-4, 2.4E-5 ]
+			,[ 2582.0, 0.0, 5.0E-4, 2.5E-5 ]
+			,[ 2646.0, 0.0, 6.05E-4, 2.75E-5 ]
+			,[ 2842.0, 0.0, 5.06E-4, 2.7E-5 ]
+			]
+    }
+   ,{
+        "fileInfo": {
+	  "targ":	"11B"
+	 ,"zaTarg":	5011 ,"Target":"B-11" ,"Elem":"B"
+	 ,"proj":	"p"
+	 ,"dir":	"b1p"
+	 ,"dir1":	"b11-p"
 	 ,"file":	"b1pg1a"
-	 ,"fileDate":	"2014-01-30,14:21:54"
+	 ,"fileDate":	"2018-12-17,13:29:38"
 	 ,"year":	1982
 	 ,"author1":	"M.C.Wright"
 	 ,"dataType":	"PIGE,NRA"
@@ -74268,6 +74084,7 @@
 	 ,"Source":	"M.C.Wright+(1982), Jour. Physical Review, Part C, Nuclear Physics, Vol.25, p.2823"
 	 ,"X4Number":	"C1254002"
 	 ,"Reaction":	"11B(p,g1)12C"
+	 ,"Egamma":	"14267-15734"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 11517.9, 0.0, 0.0, 0.0 ]
@@ -74305,7 +74122,7 @@
 	 ,"dir":	"b1p"
 	 ,"dir1":	"b11-p"
 	 ,"file":	"b1pg2a"
-	 ,"fileDate":	"2016-02-25,12:44:50"
+	 ,"fileDate":	"2018-12-17,13:31:14"
 	 ,"year":	1965
 	 ,"author1":	"R.E.Segel"
 	 ,"dataType":	"PIGE,NRA"
@@ -74317,6 +74134,7 @@
 	 ,"Name":	""
 	 ,"X4Number":	"F0332002"
 	 ,"Reaction":	"11B(p,g2)12C"
+	 ,"Egamma":	"8788-11933"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 15956.85, 0.0, 0.0, 0.0 ]
@@ -74467,7 +74285,7 @@
 	 ,"dir":	"b1p"
 	 ,"dir1":	"b11-p"
 	 ,"file":	"b1pg3b"
-	 ,"fileDate":	"2014-01-29,17:58:22"
+	 ,"fileDate":	"2018-12-17,13:33:46"
 	 ,"year":	1982
 	 ,"author1":	"M.C.Wright"
 	 ,"dataType":	"PIGE,NRA"
@@ -74486,6 +74304,7 @@
 	 ,"Source":	"M.C.Wright+(1982), Jour. Physical Review, Part C, Nuclear Physics, Vol.25, p.2823"
 	 ,"X4Number":	"C1254002"
 	 ,"Reaction":	"11B(p,g3)12C"
+	 ,"Egamma":	"8965-10523"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 6315.9, 0.0, 0.0, 0.0 ]
@@ -74524,7 +74343,7 @@
 	 ,"dir":	"b1p"
 	 ,"dir1":	"b11-p"
 	 ,"file":	"b1pg3a"
-	 ,"fileDate":	"2014-01-29,17:57:42"
+	 ,"fileDate":	"2018-12-17,13:34:40"
 	 ,"year":	1982
 	 ,"author1":	"M.C.Wright"
 	 ,"dataType":	"PIGE,NRA"
@@ -74543,6 +74362,7 @@
 	 ,"Source":	"M.C.Wright+(1982), Jour. Physical Review, Part C, Nuclear Physics, Vol.25, p.2823"
 	 ,"X4Number":	"C1254002"
 	 ,"Reaction":	"11B(p,g3)12C"
+	 ,"Egamma":	"8983-10532"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 6315.9, 0.0, 0.0, 0.0 ]
@@ -75925,42 +75745,6 @@
 	 ,"proj":	"d"
 	 ,"dir":	"b1d"
 	 ,"dir1":	"b11-d"
-	 ,"file":	"b1dpge"
-	 ,"fileDate":	"2017-03-06,12:17:14"
-	 ,"year":	1994
-	 ,"author1":	"A.Z.Kiss"
-	 ,"dataType":	"PIGE,NRA"
-	 ,"nData":	1
-        },
-	  "Comment":	[""
-			,"Thick target gamma-ray yield.  "
-			,"Measurements assuming elemental composition. "
-			,"Sigfactor applied to convert to isotopic yield."]
-	 ,"Version":	"R33"
-	 ,"Source":	"A.Z. Kiss et al., Nucl. Instr. & Meth. B85 (1994) 118"
-	 ,"Name":	""
-	 ,"X4Number":	""
-	 ,"Reaction":	"11B(d,pg1-0)12B"
-	 ,"Egamma":	"953"
-	 ,"Distribution": "Energy"
-	 ,"Units":	"yield"
-	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
-	 ,"Masses":	[ 0.0, 0.0, 0.0, 0.0 ]
-	 ,"Zeds":	[ 1.0, 5.0, 1.0, 5.0 ]
-	 ,"Sigfactors":	[ 1.0, 0.0 ]
-	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
-	 ,"Theta":	135.0
-	 ,"Data":	[ 
-			 [ 1800.0, 0.0, 1.2625E7, 0.0 ]
-			]
-    }
-   ,{
-        "fileInfo": {
-	  "targ":	"11B"
-	 ,"zaTarg":	5011 ,"Target":"B-11" ,"Elem":"B"
-	 ,"proj":	"d"
-	 ,"dir":	"b1d"
-	 ,"dir1":	"b11-d"
 	 ,"file":	"b1dpga"
 	 ,"fileDate":	"2015-12-01,15:44:24"
 	 ,"year":	2000
@@ -76001,6 +75785,42 @@
 			,[ 1800.0, 0.0, 1.3625E7, 0.0 ]
 			,[ 1900.0, 0.0, 1.4625E7, 0.0 ]
 			,[ 2000.0, 0.0, 1.7E7, 0.0 ]
+			]
+    }
+   ,{
+        "fileInfo": {
+	  "targ":	"11B"
+	 ,"zaTarg":	5011 ,"Target":"B-11" ,"Elem":"B"
+	 ,"proj":	"d"
+	 ,"dir":	"b1d"
+	 ,"dir1":	"b11-d"
+	 ,"file":	"b1dpge"
+	 ,"fileDate":	"2017-03-06,12:17:14"
+	 ,"year":	1994
+	 ,"author1":	"A.Z.Kiss"
+	 ,"dataType":	"PIGE,NRA"
+	 ,"nData":	1
+        },
+	  "Comment":	[""
+			,"Thick target gamma-ray yield.  "
+			,"Measurements assuming elemental composition. "
+			,"Sigfactor applied to convert to isotopic yield."]
+	 ,"Version":	"R33"
+	 ,"Source":	"A.Z. Kiss et al., Nucl. Instr. & Meth. B85 (1994) 118"
+	 ,"Name":	""
+	 ,"X4Number":	""
+	 ,"Reaction":	"11B(d,pg1-0)12B"
+	 ,"Egamma":	"953"
+	 ,"Distribution": "Energy"
+	 ,"Units":	"yield"
+	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
+	 ,"Masses":	[ 0.0, 0.0, 0.0, 0.0 ]
+	 ,"Zeds":	[ 1.0, 5.0, 1.0, 5.0 ]
+	 ,"Sigfactors":	[ 1.0, 0.0 ]
+	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
+	 ,"Theta":	135.0
+	 ,"Data":	[ 
+			 [ 1800.0, 0.0, 1.2625E7, 0.0 ]
 			]
     }
    ,{
@@ -76079,6 +75899,42 @@
 	 ,"proj":	"d"
 	 ,"dir":	"b1d"
 	 ,"dir1":	"b11-d"
+	 ,"file":	"b1dpgf"
+	 ,"fileDate":	"2017-03-06,12:17:24"
+	 ,"year":	1994
+	 ,"author1":	"A.Z.Kiss"
+	 ,"dataType":	"PIGE,NRA"
+	 ,"nData":	1
+        },
+	  "Comment":	[""
+			,"Thick target gamma-ray yield.  "
+			,"Measurements assuming elemental composition. "
+			,"Sigfactor applied to convert to isotopic yield."]
+	 ,"Version":	"R33"
+	 ,"Source":	"A.Z. Kiss et al., Nucl. Instr. & Meth. B85 (1994) 118"
+	 ,"Name":	""
+	 ,"X4Number":	""
+	 ,"Reaction":	"11B(d,pg2-0)12B"
+	 ,"Egamma":	"1674"
+	 ,"Distribution": "Energy"
+	 ,"Units":	"yield"
+	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
+	 ,"Masses":	[ 0.0, 0.0, 0.0, 0.0 ]
+	 ,"Zeds":	[ 1.0, 5.0, 1.0, 5.0 ]
+	 ,"Sigfactors":	[ 1.0, 0.0 ]
+	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
+	 ,"Theta":	135.0
+	 ,"Data":	[ 
+			 [ 1800.0, 0.0, 1.6375E7, 0.0 ]
+			]
+    }
+   ,{
+        "fileInfo": {
+	  "targ":	"11B"
+	 ,"zaTarg":	5011 ,"Target":"B-11" ,"Elem":"B"
+	 ,"proj":	"d"
+	 ,"dir":	"b1d"
+	 ,"dir1":	"b11-d"
 	 ,"file":	"b1dpgb"
 	 ,"fileDate":	"2015-12-01,15:44:24"
 	 ,"year":	2000
@@ -76116,42 +75972,6 @@
 			,[ 1800.0, 0.0, 1.7E7, 0.0 ]
 			,[ 1900.0, 0.0, 2.0125E7, 0.0 ]
 			,[ 2000.0, 0.0, 2.325E7, 0.0 ]
-			]
-    }
-   ,{
-        "fileInfo": {
-	  "targ":	"11B"
-	 ,"zaTarg":	5011 ,"Target":"B-11" ,"Elem":"B"
-	 ,"proj":	"d"
-	 ,"dir":	"b1d"
-	 ,"dir1":	"b11-d"
-	 ,"file":	"b1dpgf"
-	 ,"fileDate":	"2017-03-06,12:17:24"
-	 ,"year":	1994
-	 ,"author1":	"A.Z.Kiss"
-	 ,"dataType":	"PIGE,NRA"
-	 ,"nData":	1
-        },
-	  "Comment":	[""
-			,"Thick target gamma-ray yield.  "
-			,"Measurements assuming elemental composition. "
-			,"Sigfactor applied to convert to isotopic yield."]
-	 ,"Version":	"R33"
-	 ,"Source":	"A.Z. Kiss et al., Nucl. Instr. & Meth. B85 (1994) 118"
-	 ,"Name":	""
-	 ,"X4Number":	""
-	 ,"Reaction":	"11B(d,pg2-0)12B"
-	 ,"Egamma":	"1674"
-	 ,"Distribution": "Energy"
-	 ,"Units":	"yield"
-	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
-	 ,"Masses":	[ 0.0, 0.0, 0.0, 0.0 ]
-	 ,"Zeds":	[ 1.0, 5.0, 1.0, 5.0 ]
-	 ,"Sigfactors":	[ 1.0, 0.0 ]
-	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
-	 ,"Theta":	135.0
-	 ,"Data":	[ 
-			 [ 1800.0, 0.0, 1.6375E7, 0.0 ]
 			]
     }
    ,{
@@ -115496,7 +115316,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pgc"
-	 ,"fileDate":	"2016-02-19,13:33:28"
+	 ,"fileDate":	"2018-12-17,13:37:50"
 	 ,"year":	1957
 	 ,"author1":	"W.A.S.Lamb"
 	 ,"dataType":	"PIGE,NRA"
@@ -115510,6 +115330,7 @@
 	 ,"Name":	"Tassos Lagoyannis for PIGE CRP"
 	 ,"X4Number":	"P0050002"
 	 ,"Reaction":	"12C(p,g)13N"
+	 ,"Egamma":	"2017-2063"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 1943.49, 0.0, 0.0, 0.0 ]
@@ -115540,7 +115361,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pgd"
-	 ,"fileDate":	"2014-02-04,17:00:22"
+	 ,"fileDate":	"2018-12-17,13:38:44"
 	 ,"year":	1999
 	 ,"author1":	"J.L.Vogl"
 	 ,"dataType":	"PIGE,NRA"
@@ -115553,6 +115374,7 @@
 	 ,"Name":	"Tassos Lagoyannis for PIGE CRP"
 	 ,"X4Number":	""
 	 ,"Reaction":	"12C(p,g)13N"
+	 ,"Egamma":	"2017-2488"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 1943.49, 0.0, 0.0, 0.0 ]
@@ -115642,7 +115464,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pgb"
-	 ,"fileDate":	"2016-02-19,12:53:48"
+	 ,"fileDate":	"2018-12-19,15:28:58"
 	 ,"year":	1950
 	 ,"author1":	"R.N.Hall"
 	 ,"dataType":	"PIGE,NRA"
@@ -115676,7 +115498,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pga"
-	 ,"fileDate":	"2016-02-23,16:17:30"
+	 ,"fileDate":	"2018-12-19,15:39:04"
 	 ,"year":	1950
 	 ,"author1":	"C.L.Bailey"
 	 ,"dataType":	"PIGE,NRA"
@@ -115720,7 +115542,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pge"
-	 ,"fileDate":	"2014-02-03,13:49:20"
+	 ,"fileDate":	"2018-12-19,15:40:18"
 	 ,"year":	1977
 	 ,"author1":	"A.I.Vojtov"
 	 ,"dataType":	"PIGE,NRA"
@@ -115760,7 +115582,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pg0c"
-	 ,"fileDate":	"2016-02-23,16:20:22"
+	 ,"fileDate":	"2018-12-17,13:42:14"
 	 ,"year":	2008
 	 ,"author1":	"N.Burtebaev"
 	 ,"dataType":	"PIGE,NRA"
@@ -115783,6 +115605,7 @@
 	 ,"Source":	"N.Burtebaev+(2008), Jour. Physical Review, Part C, Nuclear Physics, Vol.78, p.035802"
 	 ,"X4Number":	"A0819002"
 	 ,"Reaction":	"12C(p,g0)13N"
+	 ,"Egamma":	"2239-2848"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 1943.49, 0.0, 0.0, 0.0 ]
@@ -115809,7 +115632,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pg0m"
-	 ,"fileDate":	"2016-02-23,16:21:12"
+	 ,"fileDate":	"2018-12-17,13:43:24"
 	 ,"year":	1963
 	 ,"author1":	"F.C.Young"
 	 ,"dataType":	"PIGE,NRA"
@@ -115828,6 +115651,7 @@
 	 ,"Source":	"F.C.Young+(1963), Jour. Nuclear Physics, Vol.44, p.486"
 	 ,"X4Number":	"F0232002"
 	 ,"Reaction":	"12C(p,g0)13N"
+	 ,"Egamma":	"3356-3651"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 1943.49, 0.0, 0.0, 0.0 ]
@@ -115852,7 +115676,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pg0l"
-	 ,"fileDate":	"2016-02-23,16:22:12"
+	 ,"fileDate":	"2018-12-17,13:44:28"
 	 ,"year":	1963
 	 ,"author1":	"F.C.Young"
 	 ,"dataType":	"PIGE,NRA"
@@ -115871,6 +115695,7 @@
 	 ,"Source":	"F.C.Young+(1963), Jour. Nuclear Physics, Vol.44, p.486"
 	 ,"X4Number":	"F0232002"
 	 ,"Reaction":	"12C(p,g0)13N"
+	 ,"Egamma":	"3356-3651"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 1943.49, 0.0, 0.0, 0.0 ]
@@ -115893,7 +115718,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pg0k"
-	 ,"fileDate":	"2016-02-23,16:23:22"
+	 ,"fileDate":	"2018-12-17,13:46:06"
 	 ,"year":	1963
 	 ,"author1":	"F.C.Young"
 	 ,"dataType":	"PIGE,NRA"
@@ -115912,6 +115737,7 @@
 	 ,"Source":	"F.C.Young+(1963), Jour. Nuclear Physics, Vol.44, p.486"
 	 ,"X4Number":	"F0232002"
 	 ,"Reaction":	"12C(p,g0)13N"
+	 ,"Egamma":	"3356-3651"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 1943.49, 0.0, 0.0, 0.0 ]
@@ -115936,7 +115762,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pg0a"
-	 ,"fileDate":	"2014-02-03,13:48:38"
+	 ,"fileDate":	"2018-12-17,13:47:40"
 	 ,"year":	1974
 	 ,"author1":	"C.Rolfs"
 	 ,"dataType":	"PIGE,NRA"
@@ -115955,6 +115781,7 @@
 	 ,"Source":	"C.Rolfs+(1974), Jour. Nuclear Physics, Section A, Vol.227, p.291"
 	 ,"X4Number":	"A0191002"
 	 ,"Reaction":	"12C(p,g0)13N"
+	 ,"Egamma":	"2082-4251"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 1943.49, 0.0, 0.0, 0.0 ]
@@ -116055,7 +115882,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pg0b"
-	 ,"fileDate":	"2016-02-23,16:22:48"
+	 ,"fileDate":	"2018-12-17,13:48:44"
 	 ,"year":	2008
 	 ,"author1":	"N.Burtebaev"
 	 ,"dataType":	"PIGE,NRA"
@@ -116078,6 +115905,7 @@
 	 ,"Source":	"N.Burtebaev+(2008), Jour. Physical Review, Part C, Nuclear Physics, Vol.78, p.035802"
 	 ,"X4Number":	"A0819002"
 	 ,"Reaction":	"12C(p,g0)13N"
+	 ,"Egamma":	"2239-2848"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 1943.49, 0.0, 0.0, 0.0 ]
@@ -116104,7 +115932,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pg0j"
-	 ,"fileDate":	"2016-02-23,16:33:40"
+	 ,"fileDate":	"2018-12-17,13:50:02"
 	 ,"year":	1963
 	 ,"author1":	"F.C.Young"
 	 ,"dataType":	"PIGE,NRA"
@@ -116123,6 +115951,7 @@
 	 ,"Source":	"F.C.Young+(1963), Jour. Nuclear Physics, Vol.44, p.486"
 	 ,"X4Number":	"F0232002"
 	 ,"Reaction":	"12C(p,g0)13N"
+	 ,"Egamma":	"3356-3605"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 1943.49, 0.0, 0.0, 0.0 ]
@@ -116145,7 +115974,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pg0d"
-	 ,"fileDate":	"2016-02-23,16:34:28"
+	 ,"fileDate":	"2018-12-17,13:51:08"
 	 ,"year":	2008
 	 ,"author1":	"N.Burtebaev"
 	 ,"dataType":	"PIGE,NRA"
@@ -116168,6 +115997,7 @@
 	 ,"Source":	"N.Burtebaev+(2008), Jour. Physical Review, Part C, Nuclear Physics, Vol.78, p.035802"
 	 ,"X4Number":	"A0819002"
 	 ,"Reaction":	"12C(p,g0)13N"
+	 ,"Egamma":	"2239-2848"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 1943.49, 0.0, 0.0, 0.0 ]
@@ -116191,7 +116021,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pg0i"
-	 ,"fileDate":	"2016-02-23,16:35:16"
+	 ,"fileDate":	"2018-12-17,13:53:34"
 	 ,"year":	1963
 	 ,"author1":	"F.C.Young"
 	 ,"dataType":	"PIGE,NRA"
@@ -116210,6 +116040,7 @@
 	 ,"Source":	"F.C.Young+(1963), Jour. Nuclear Physics, Vol.44, p.486"
 	 ,"X4Number":	"F0232002"
 	 ,"Reaction":	"12C(p,g0)13N"
+	 ,"Egamma":	"3356-3651"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 1943.49, 0.0, 0.0, 0.0 ]
@@ -116234,7 +116065,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pg0h"
-	 ,"fileDate":	"2016-02-23,16:36:00"
+	 ,"fileDate":	"2018-12-17,13:54:50"
 	 ,"year":	1963
 	 ,"author1":	"F.C.Young"
 	 ,"dataType":	"PIGE,NRA"
@@ -116253,6 +116084,7 @@
 	 ,"Source":	"F.C.Young+(1963), Jour. Nuclear Physics, Vol.44, p.486"
 	 ,"X4Number":	"F0232002"
 	 ,"Reaction":	"12C(p,g0)13N"
+	 ,"Egamma":	"3522-3651"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 1943.49, 0.0, 0.0, 0.0 ]
@@ -116274,7 +116106,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pg0g"
-	 ,"fileDate":	"2014-02-03,15:26:44"
+	 ,"fileDate":	"2018-12-17,13:55:26"
 	 ,"year":	1963
 	 ,"author1":	"F.C.Young"
 	 ,"dataType":	"PIGE,NRA"
@@ -116293,6 +116125,7 @@
 	 ,"Source":	"F.C.Young+(1963), Jour. Nuclear Physics, Vol.44, p.486"
 	 ,"X4Number":	"F0232002"
 	 ,"Reaction":	"12C(p,g0)13N"
+	 ,"Egamma":	"3651"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 1943.49, 0.0, 0.0, 0.0 ]
@@ -116313,7 +116146,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pg0f"
-	 ,"fileDate":	"2016-02-23,16:36:46"
+	 ,"fileDate":	"2018-12-17,14:04:24"
 	 ,"year":	1963
 	 ,"author1":	"F.C.Young"
 	 ,"dataType":	"PIGE,NRA"
@@ -116332,6 +116165,7 @@
 	 ,"Source":	"F.C.Young+(1963), Jour. Nuclear Physics, Vol.44, p.486"
 	 ,"X4Number":	"F0232002"
 	 ,"Reaction":	"12C(p,g0)13N"
+	 ,"Egamma":	"3356-3651"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 1943.49, 0.0, 0.0, 0.0 ]
@@ -116356,7 +116190,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pg0e"
-	 ,"fileDate":	"2014-02-03,15:23:32"
+	 ,"fileDate":	"2018-12-17,14:05:36"
 	 ,"year":	2008
 	 ,"author1":	"N.Burtebaev"
 	 ,"dataType":	"PIGE,NRA"
@@ -116379,6 +116213,7 @@
 	 ,"Source":	"N.Burtebaev+(2008), Jour. Physical Review, Part C, Nuclear Physics, Vol.78, p.035802"
 	 ,"X4Number":	"A0819002"
 	 ,"Reaction":	"12C(p,g0)13N"
+	 ,"Egamma":	"2239-2848"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 1943.49, 0.0, 0.0, 0.0 ]
@@ -116405,7 +116240,7 @@
 	 ,"dir":	"c2p"
 	 ,"dir1":	"c12-p"
 	 ,"file":	"c2pg0n"
-	 ,"fileDate":	"2016-02-19,13:16:20"
+	 ,"fileDate":	"2018-12-17,14:06:30"
 	 ,"year":	1974
 	 ,"author1":	"C.Rolfs"
 	 ,"dataType":	"PIGE,NRA"
@@ -116424,7 +116259,7 @@
 	 ,"Source":	"C.Rolfs+(1974), Jour. Nuclear Physics, Section A, Vol.227, p.291"
 	 ,"X4Number":	"A0191003"
 	 ,"Reaction":	"12C(p,g0)13N"
-	 ,"Egamma":	"0.0"
+	 ,"Egamma":	"2073-4260"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
@@ -124067,7 +123902,7 @@
 	 ,"dir":	"c3p"
 	 ,"dir1":	"c13-p"
 	 ,"file":	"c3pg0a"
-	 ,"fileDate":	"2016-02-23,16:45:40"
+	 ,"fileDate":	"2018-12-17,14:58:22"
 	 ,"year":	1994
 	 ,"author1":	"J.D.King"
 	 ,"dataType":	"PIGE,NRA"
@@ -124083,6 +123918,7 @@
 	 ,"Source":	"J.D.King+(1994), Jour. Nuclear Physics, Section A, Vol.567, p.354"
 	 ,"X4Number":	"C0872004"
 	 ,"Reaction":	"13C(p,g0)14N"
+	 ,"Egamma":	"7653-8423"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 7550.56, 0.0, 0.0, 0.0 ]
@@ -124232,7 +124068,7 @@
 	 ,"dir":	"c3p"
 	 ,"dir1":	"c13-p"
 	 ,"file":	"c3pg1a"
-	 ,"fileDate":	"2016-02-23,16:47:50"
+	 ,"fileDate":	"2018-12-17,15:02:18"
 	 ,"year":	1994
 	 ,"author1":	"J.D.King"
 	 ,"dataType":	"PIGE,NRA"
@@ -124247,6 +124083,7 @@
 	 ,"Source":	"J.D.King+(1994), Jour. Nuclear Physics, Section A, Vol.567, p.354"
 	 ,"X4Number":	"C0872004"
 	 ,"Reaction":	"13C(p,g1)14N"
+	 ,"Egamma":	"5377-6027"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 5240.56, 0.0, 0.0, 0.0 ]
@@ -124420,7 +124257,7 @@
 	 ,"dir":	"c3p"
 	 ,"dir1":	"c13-p"
 	 ,"file":	"c3pg2a"
-	 ,"fileDate":	"2016-02-23,16:49:16"
+	 ,"fileDate":	"2018-12-17,15:03:44"
 	 ,"year":	1994
 	 ,"author1":	"J.D.King"
 	 ,"dataType":	"PIGE,NRA"
@@ -124436,6 +124273,7 @@
 	 ,"Source":	"J.D.King+(1994), Jour. Nuclear Physics, Section A, Vol.567, p.354"
 	 ,"X4Number":	"C0872004"
 	 ,"Reaction":	"13C(p,g2)14N"
+	 ,"Egamma":	"3705-4475"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 3600.56, 0.0, 0.0, 0.0 ]
@@ -124653,7 +124491,7 @@
 	 ,"dir":	"c3p"
 	 ,"dir1":	"c13-p"
 	 ,"file":	"c3pg3a"
-	 ,"fileDate":	"2016-02-23,16:49:54"
+	 ,"fileDate":	"2018-12-17,15:10:58"
 	 ,"year":	1994
 	 ,"author1":	"J.D.King"
 	 ,"dataType":	"PIGE,NRA"
@@ -124668,6 +124506,7 @@
 	 ,"Source":	"J.D.King+(1994), Jour. Nuclear Physics, Section A, Vol.567, p.354"
 	 ,"X4Number":	"C0872004"
 	 ,"Reaction":	"13C(p,g3)14N"
+	 ,"Egamma":	"2775-3508"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 2630.56, 0.0, 0.0, 0.0 ]
@@ -124808,7 +124647,7 @@
 	 ,"dir":	"c3p"
 	 ,"dir1":	"c13-p"
 	 ,"file":	"c3pg4a"
-	 ,"fileDate":	"2016-02-23,16:50:36"
+	 ,"fileDate":	"2018-12-17,15:12:36"
 	 ,"year":	1994
 	 ,"author1":	"J.D.King"
 	 ,"dataType":	"PIGE,NRA"
@@ -124823,6 +124662,7 @@
 	 ,"Source":	"J.D.King+(1994), Jour. Nuclear Physics, Section A, Vol.567, p.354"
 	 ,"X4Number":	"C0872004"
 	 ,"Reaction":	"13C(p,g4)14N"
+	 ,"Egamma":	"2584-3318"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 2440.56, 0.0, 0.0, 0.0 ]
@@ -124955,7 +124795,7 @@
 	 ,"dir":	"c3p"
 	 ,"dir1":	"c13-p"
 	 ,"file":	"c3pg5a"
-	 ,"fileDate":	"2016-02-23,16:51:06"
+	 ,"fileDate":	"2018-12-17,15:14:14"
 	 ,"year":	1994
 	 ,"author1":	"J.D.King"
 	 ,"dataType":	"PIGE,NRA"
@@ -124970,6 +124810,7 @@
 	 ,"Source":	"J.D.King+(1994), Jour. Nuclear Physics, Section A, Vol.567, p.354"
 	 ,"X4Number":	"C0872004"
 	 ,"Reaction":	"13C(p,g5)14N"
+	 ,"Egamma":	"1961-2732"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 1860.56, 0.0, 0.0, 0.0 ]
@@ -143839,7 +143680,7 @@
 	 ,"dir":	"n4p"
 	 ,"dir1":	"n14-p"
 	 ,"file":	"n4pgb"
-	 ,"fileDate":	"2014-02-04,17:02:24"
+	 ,"fileDate":	"2018-12-17,16:01:26"
 	 ,"year":	1999
 	 ,"author1":	"R. E.Pixley"
 	 ,"dataType":	"PIGE,NRA"
@@ -143854,6 +143695,7 @@
 	 ,"Name":	"Tassos Lagoyannis for PIGE CRP"
 	 ,"X4Number":	""
 	 ,"Reaction":	"14N(p,g)15O"
+	 ,"Egamma":	"7502-7903"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 7296.78, 0.0, 0.0, 0.0 ]
@@ -143889,7 +143731,7 @@
 	 ,"dir":	"n4p"
 	 ,"dir1":	"n14-p"
 	 ,"file":	"n4pg0d"
-	 ,"fileDate":	"2014-02-03,14:03:16"
+	 ,"fileDate":	"2018-12-17,16:02:26"
 	 ,"year":	2004
 	 ,"author1":	"N.T.Burtebaev"
 	 ,"dataType":	"PIGE,NRA"
@@ -143909,6 +143751,7 @@
 	 ,"Source":	"N.T.Burtebaev+(2004), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.68, p.1554"
 	 ,"X4Number":	"F0763002"
 	 ,"Reaction":	"14N(p,g0)15O"
+	 ,"Egamma":	"8090-8286"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 7296.78, 0.0, 0.0, 0.0 ]
@@ -143935,7 +143778,7 @@
 	 ,"dir":	"n4p"
 	 ,"dir1":	"n14-p"
 	 ,"file":	"n4pg0e"
-	 ,"fileDate":	"2015-07-03,10:28:06"
+	 ,"fileDate":	"2018-12-17,16:03:58"
 	 ,"year":	1972
 	 ,"author1":	"G.W.Phillips"
 	 ,"dataType":	"PIGE,NRA"
@@ -143948,6 +143791,7 @@
 	 ,"Name":	""
 	 ,"X4Number":	"C2029002"
 	 ,"Reaction":	"14N(p,g0)15O"
+	 ,"Egamma":	"10778-12187"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
@@ -144044,7 +143888,7 @@
 	 ,"dir":	"n4p"
 	 ,"dir1":	"n14-p"
 	 ,"file":	"n4pg0c"
-	 ,"fileDate":	"2014-02-03,14:02:42"
+	 ,"fileDate":	"2018-12-17,16:04:56"
 	 ,"year":	2004
 	 ,"author1":	"N.T.Burtebaev"
 	 ,"dataType":	"PIGE,NRA"
@@ -144064,6 +143908,7 @@
 	 ,"Source":	"N.T.Burtebaev+(2004), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.68, p.1554"
 	 ,"X4Number":	"F0763002"
 	 ,"Reaction":	"14N(p,g0)15O"
+	 ,"Egamma":	"8090-8305"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 7296.78, 0.0, 0.0, 0.0 ]
@@ -144091,7 +143936,7 @@
 	 ,"dir":	"n4p"
 	 ,"dir1":	"n14-p"
 	 ,"file":	"n4pg0b"
-	 ,"fileDate":	"2014-02-03,14:02:00"
+	 ,"fileDate":	"2018-12-17,16:08:10"
 	 ,"year":	2004
 	 ,"author1":	"N.T.Burtebaev"
 	 ,"dataType":	"PIGE,NRA"
@@ -144111,6 +143956,7 @@
 	 ,"Source":	"N.T.Burtebaev+(2004), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.68, p.1554"
 	 ,"X4Number":	"F0763002"
 	 ,"Reaction":	"14N(p,g0)15O"
+	 ,"Egamma":	"8090-8305"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 7296.78, 0.0, 0.0, 0.0 ]
@@ -144137,7 +143983,7 @@
 	 ,"dir":	"n4p"
 	 ,"dir1":	"n14-p"
 	 ,"file":	"n4pg0a"
-	 ,"fileDate":	"2014-02-03,14:01:24"
+	 ,"fileDate":	"2018-12-17,16:11:52"
 	 ,"year":	2004
 	 ,"author1":	"N.T.Burtebaev"
 	 ,"dataType":	"PIGE,NRA"
@@ -144157,6 +144003,7 @@
 	 ,"Source":	"N.T.Burtebaev+(2004), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.68, p.1554"
 	 ,"X4Number":	"F0763002"
 	 ,"Reaction":	"14N(p,g0)15O"
+	 ,"Egamma":	"8090-8286"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 7296.78, 0.0, 0.0, 0.0 ]
@@ -144958,6 +144805,128 @@
 	 ,"Data":	[ 
 			 [ 7000.0, 0.0, 1.82728E7, 0.0 ]
 			,[ 9000.0, 0.0, 4.25696E7, 0.0 ]
+			]
+    }
+   ,{
+        "fileInfo": {
+	  "targ":	"14N"
+	 ,"zaTarg":	7014 ,"Target":"N-14" ,"Elem":"N"
+	 ,"proj":	"p"
+	 ,"dir":	"n4p"
+	 ,"dir1":	"n14-p"
+	 ,"file":	"n4ppgw"
+	 ,"fileDate":	"2019-02-05,18:10:49"
+	 ,"year":	2019
+	 ,"author1":	"L.Csedreki"
+	 ,"dataType":	"PIGE,NRA"
+	 ,"nData":	81
+        },
+	  "Comment":	["Particle production cross sections of the 14N(p,p�g)14N (Eg = 2313 keV) reaction were measured in the 3-4 MeV proton energy range using approx. 75 nm thick silicon-nitride foils."
+			,"\t\tThe statistical uncertainties of the cross section data are given. Systematic uncertainties were the following: 5% number of target nuclides and 3% charge determination, "
+			,"\t\t5% uncertainty of the absolute efficiency of the gamma-detector. "]
+	 ,"Version":	"R33"
+	 ,"Source":	"L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56."
+	 ,"Name":	""
+	 ,"Address1":	""
+	 ,"Address2":	""
+	 ,"Address3":	""
+	 ,"Address4":	""
+	 ,"Address5":	""
+	 ,"Address6":	""
+	 ,"SubFile":	""
+	 ,"X4Number":	""
+	 ,"Reaction":	"14N(p,pg1-0)14N"
+	 ,"Egamma":	"2313"
+	 ,"Distribution": "Energy"
+	 ,"Units":	"mb"
+	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
+	 ,"Masses":	[ 1.0, 14.0, 1.0, 14.0 ]
+	 ,"Zeds":	[ 1.0, 7.0, 1.0, 7.0 ]
+	 ,"Sigfactors":	[ 1.0, 0.0 ]
+	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
+	 ,"Theta":	55.0
+	 ,"Data":	[ 
+			 [ 4015.4, 1.5, 1.544, 0.036 ]
+			,[ 4005.5, 1.5, 2.001, 0.047 ]
+			,[ 4000.5, 1.5, 2.996, 0.054 ]
+			,[ 3998.0, 1.5, 3.795, 0.062 ]
+			,[ 3995.6, 1.5, 4.91, 0.066 ]
+			,[ 3993.1, 1.5, 6.251, 0.092 ]
+			,[ 3991.6, 1.5, 6.145, 0.085 ]
+			,[ 3990.6, 1.5, 5.821, 0.081 ]
+			,[ 3988.6, 1.5, 4.473, 0.057 ]
+			,[ 3985.6, 1.5, 3.495, 0.057 ]
+			,[ 3983.6, 1.5, 2.858, 0.055 ]
+			,[ 3980.6, 1.5, 2.533, 0.044 ]
+			,[ 3975.7, 1.5, 2.42, 0.048 ]
+			,[ 3965.7, 1.5, 2.53, 0.046 ]
+			,[ 3955.8, 1.5, 2.707, 0.056 ]
+			,[ 3945.8, 1.5, 3.254, 0.057 ]
+			,[ 3935.9, 1.5, 3.73, 0.064 ]
+			,[ 3926.0, 1.5, 4.124, 0.063 ]
+			,[ 3916.0, 1.5, 4.693, 0.073 ]
+			,[ 3906.1, 1.5, 4.902, 0.05 ]
+			,[ 3896.1, 1.5, 4.976, 0.072 ]
+			,[ 3886.2, 1.5, 4.478, 0.048 ]
+			,[ 3876.3, 1.5, 3.657, 0.048 ]
+			,[ 3866.3, 1.5, 2.96, 0.044 ]
+			,[ 3856.4, 1.5, 2.277, 0.04 ]
+			,[ 3846.4, 1.5, 1.619, 0.04 ]
+			,[ 3836.5, 1.5, 1.252, 0.029 ]
+			,[ 3826.6, 1.5, 0.924, 0.027 ]
+			,[ 3816.6, 1.5, 0.731, 0.023 ]
+			,[ 3806.7, 1.5, 0.547, 0.022 ]
+			,[ 3796.7, 1.5, 0.483, 0.02 ]
+			,[ 3786.8, 1.5, 0.338, 0.017 ]
+			,[ 3777.0, 1.5, 0.293, 0.022 ]
+			,[ 3776.9, 1.5, 0.245, 0.02 ]
+			,[ 3766.9, 1.5, 0.187, 0.014 ]
+			,[ 3757.0, 1.5, 0.191, 0.014 ]
+			,[ 3747.0, 1.5, 0.161, 0.017 ]
+			,[ 3742.1, 1.5, 0.148, 0.023 ]
+			,[ 3737.1, 1.5, 0.129, 0.016 ]
+			,[ 3727.2, 1.5, 0.103, 0.016 ]
+			,[ 3717.2, 1.5, 0.117, 0.016 ]
+			,[ 3707.3, 1.5, 0.077, 0.017 ]
+			,[ 3697.4, 1.5, 0.08, 0.016 ]
+			,[ 3687.4, 1.5, 0.057, 0.015 ]
+			,[ 3677.5, 1.5, 0.074, 0.012 ]
+			,[ 3667.5, 1.5, 0.071, 0.02 ]
+			,[ 3657.6, 1.5, 0.043, 0.014 ]
+			,[ 3647.6, 1.5, 0.051, 0.016 ]
+			,[ 3637.7, 1.5, 0.017, 0.019 ]
+			,[ 3627.8, 1.5, 0.053, 0.014 ]
+			,[ 3617.8, 1.5, 0.04, 0.017 ]
+			,[ 3607.9, 1.5, 0.056, 0.017 ]
+			,[ 3598.0, 1.5, 0.019, 0.018 ]
+			,[ 3588.2, 1.5, 0.03, 0.02 ]
+			,[ 3578.1, 1.5, 0.055, 0.015 ]
+			,[ 3568.1, 1.5, 0.038, 0.014 ]
+			,[ 3558.2, 1.5, 0.03, 0.013 ]
+			,[ 3548.3, 1.5, 0.0, 0.017 ]
+			,[ 3538.3, 1.5, 0.023, 0.012 ]
+			,[ 3528.4, 1.5, 0.043, 0.011 ]
+			,[ 3518.5, 1.5, 0.022, 0.012 ]
+			,[ 3508.5, 1.5, 0.014, 0.013 ]
+			,[ 3498.6, 1.5, 0.03, 0.009 ]
+			,[ 3488.6, 1.5, 0.027, 0.012 ]
+			,[ 3478.7, 1.5, 0.028, 0.011 ]
+			,[ 3468.7, 1.5, 0.022, 0.012 ]
+			,[ 3458.8, 1.5, 0.004, 0.017 ]
+			,[ 3448.9, 1.5, 0.03, 0.011 ]
+			,[ 3429.0, 1.5, 0.013, 0.013 ]
+			,[ 3419.1, 1.5, 0.026, 0.01 ]
+			,[ 3409.1, 1.5, 0.024, 0.01 ]
+			,[ 3399.2, 1.5, 0.007, 0.012 ]
+			,[ 3389.2, 1.5, 0.034, 0.008 ]
+			,[ 3379.5, 1.5, 0.012, 0.009 ]
+			,[ 3369.6, 1.5, 0.02, 0.009 ]
+			,[ 3359.6, 1.5, 0.016, 0.01 ]
+			,[ 3349.7, 1.5, 0.021, 0.013 ]
+			,[ 3341.7, 1.5, 0.016, 0.017 ]
+			,[ 3337.7, 1.5, 0.005, 0.011 ]
+			,[ 3334.8, 1.5, 0.013, 0.016 ]
+			,[ 3329.8, 1.5, 0.024, 0.011 ]
 			]
     }
    ,{
@@ -149250,7 +149219,7 @@
 	 ,"dir":	"n5p"
 	 ,"dir1":	"n15-p"
 	 ,"file":	"n5pg0c"
-	 ,"fileDate":	"2016-12-19,14:42:40"
+	 ,"fileDate":	"2018-12-17,16:36:16"
 	 ,"year":	1974
 	 ,"author1":	"C.Rolfs"
 	 ,"dataType":	"PIGE,NRA"
@@ -149265,6 +149234,7 @@
 	 ,"Name":	""
 	 ,"X4Number":	"C0647004"
 	 ,"Reaction":	"15N(p,g0)16O"
+	 ,"Egamma":	"12259-14471"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 12127.4, 0.0, 0.0, 0.0 ]
@@ -149337,7 +149307,7 @@
 	 ,"dir":	"n5p"
 	 ,"dir1":	"n15-p"
 	 ,"file":	"n5pg0f"
-	 ,"fileDate":	"2016-12-19,14:34:52"
+	 ,"fileDate":	"2018-12-17,16:37:34"
 	 ,"year":	1960
 	 ,"author1":	"D.F.Hebbard"
 	 ,"dataType":	"PIGE,NRA"
@@ -149351,6 +149321,7 @@
 	 ,"Name":	"Tassos Lagoyannis for PIGE CRP"
 	 ,"X4Number":	"C0646002"
 	 ,"Reaction":	"15N(p,g0)16O"
+	 ,"Egamma":	"12287-12718"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 12127.4, 0.0, 0.0, 0.0 ]
@@ -149419,7 +149390,7 @@
 	 ,"dir":	"n5p"
 	 ,"dir1":	"n15-p"
 	 ,"file":	"n5pg0a"
-	 ,"fileDate":	"2014-02-03,14:09:26"
+	 ,"fileDate":	"2018-12-17,16:39:38"
 	 ,"year":	1983
 	 ,"author1":	"K.A.Snover"
 	 ,"dataType":	"PIGE,NRA"
@@ -149438,6 +149409,7 @@
 	 ,"Source":	"K.A.Snover+(1983), Jour. Physical Review, Part C, Nuclear Physics, Vol.27, Issue.5, p.1837"
 	 ,"X4Number":	"C1919002"
 	 ,"Reaction":	"15N(p,g0)16O"
+	 ,"Egamma":	"17377-20818"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 12127.41, 0.0, 0.0, 0.0 ]
@@ -149532,7 +149504,7 @@
 	 ,"dir":	"n5p"
 	 ,"dir1":	"n15-p"
 	 ,"file":	"n5pg0b"
-	 ,"fileDate":	"2016-12-19,14:56:12"
+	 ,"fileDate":	"2018-12-17,16:40:48"
 	 ,"year":	1978
 	 ,"author1":	"W.J.O`connell"
 	 ,"dataType":	"PIGE,NRA"
@@ -149552,7 +149524,7 @@
 	 ,"Source":	"W.J.O`connell+(1978), Jour. Physical Review, Part C, Nuclear Physics, Vol.17, Issue.3, p.892"
 	 ,"X4Number":	"C1223002"
 	 ,"Reaction":	"15N(p,g0)16O"
-	 ,"Egamma":	"0.0"
+	 ,"Egamma":	"20181-29012"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
@@ -150508,6 +150480,171 @@
 			 [ 1000.0, 0.0, 32608.8, 0.0 ]
 			,[ 1700.0, 0.0, 209239.8, 0.0 ]
 			,[ 2400.0, 0.0, 1358700.0, 0.0 ]
+			]
+    }
+   ,{
+        "fileInfo": {
+	  "targ":	"natN"
+	 ,"zaTarg":	7000 ,"Target":"N-nat" ,"Elem":"N"
+	 ,"proj":	"p"
+	 ,"dir":	"nnp"
+	 ,"dir1":	"n0-p"
+	 ,"file":	"nnpp0a"
+	 ,"fileDate":	"2019-02-05,18:11:14"
+	 ,"year":	2019
+	 ,"author1":	"L.Csedreki"
+	 ,"dataType":	"EBS"
+	 ,"nData":	125
+        },
+	  "Comment":	["Particle production cross sections of the natN(p,p0)natN were measured in the 3-4 MeV proton energy range using approx. 75 nm thick silicon-nitride foils."
+			,"\t\tThe statistical uncertainties of the cross section data are given. Systematic uncertainties were the following: 5% number of target nuclides and 3% charge determination, "
+			,"\t\t3% uncertainty of the solid angle. "]
+	 ,"Version":	"R33"
+	 ,"Source":	"L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56."
+	 ,"Name":	""
+	 ,"Address1":	""
+	 ,"Address2":	""
+	 ,"Address3":	""
+	 ,"Address4":	""
+	 ,"Address5":	""
+	 ,"Address6":	""
+	 ,"SubFile":	""
+	 ,"X4Number":	""
+	 ,"Reaction":	"natN(p,p0)natN"
+	 ,"Distribution": "Energy"
+	 ,"Units":	"mb"
+	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
+	 ,"Masses":	[ 1.0, 14.0, 1.0, 14.0 ]
+	 ,"Zeds":	[ 1.0, 7.0, 1.0, 7.0 ]
+	 ,"Sigfactors":	[ 1.0, 0.0 ]
+	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
+	 ,"Theta":	135.0
+	 ,"Data":	[ 
+			 [ 4015.4, 1.5, 91.96, 1.19 ]
+			,[ 4005.5, 1.5, 90.57, 1.52 ]
+			,[ 4000.5, 1.5, 89.63, 1.51 ]
+			,[ 3998.0, 1.5, 90.15, 1.48 ]
+			,[ 3995.6, 1.5, 89.58, 1.45 ]
+			,[ 3993.1, 1.5, 83.4, 1.67 ]
+			,[ 3991.6, 1.5, 85.71, 1.59 ]
+			,[ 3990.6, 1.5, 85.33, 1.53 ]
+			,[ 3988.6, 1.5, 89.07, 1.21 ]
+			,[ 3985.6, 1.5, 92.58, 1.4 ]
+			,[ 3983.6, 1.5, 90.84, 1.52 ]
+			,[ 3980.6, 1.5, 93.89, 1.28 ]
+			,[ 3975.7, 1.5, 95.46, 1.42 ]
+			,[ 3965.7, 1.5, 103.56, 1.33 ]
+			,[ 3955.8, 1.5, 107.97, 1.57 ]
+			,[ 3945.8, 1.5, 117.27, 1.53 ]
+			,[ 3935.9, 1.5, 122.58, 1.77 ]
+			,[ 3926.0, 1.5, 133.53, 1.77 ]
+			,[ 3916.0, 1.5, 146.5, 1.98 ]
+			,[ 3906.1, 1.5, 164.18, 1.43 ]
+			,[ 3896.1, 1.5, 184.81, 2.12 ]
+			,[ 3886.2, 1.5, 202.47, 1.54 ]
+			,[ 3876.3, 1.5, 201.75, 1.73 ]
+			,[ 3866.3, 1.5, 205.53, 1.62 ]
+			,[ 3856.4, 1.5, 195.55, 1.63 ]
+			,[ 3846.4, 1.5, 178.4, 1.69 ]
+			,[ 3836.5, 1.5, 162.02, 1.47 ]
+			,[ 3826.6, 1.5, 148.47, 1.27 ]
+			,[ 3816.6, 1.5, 134.57, 1.25 ]
+			,[ 3806.7, 1.5, 126.91, 1.36 ]
+			,[ 3796.7, 1.5, 120.41, 1.13 ]
+			,[ 3786.8, 1.5, 115.29, 1.08 ]
+			,[ 3777.0, 1.5, 106.48, 1.72 ]
+			,[ 3776.9, 1.5, 113.71, 1.19 ]
+			,[ 3766.9, 1.5, 105.55, 0.96 ]
+			,[ 3757.0, 1.5, 104.68, 1.01 ]
+			,[ 3747.0, 1.5, 105.13, 1.31 ]
+			,[ 3742.1, 1.5, 95.75, 2.04 ]
+			,[ 3737.1, 1.5, 99.81, 1.21 ]
+			,[ 3727.2, 1.5, 99.14, 1.11 ]
+			,[ 3717.2, 1.5, 98.93, 1.23 ]
+			,[ 3707.3, 1.5, 98.0, 1.24 ]
+			,[ 3697.4, 1.5, 99.12, 1.22 ]
+			,[ 3687.4, 1.5, 96.02, 1.4 ]
+			,[ 3677.5, 1.5, 97.23, 1.06 ]
+			,[ 3667.5, 1.5, 95.16, 1.67 ]
+			,[ 3657.6, 1.5, 96.53, 1.48 ]
+			,[ 3647.6, 1.5, 91.6, 1.67 ]
+			,[ 3637.7, 1.5, 95.37, 1.61 ]
+			,[ 3627.8, 1.5, 92.64, 1.72 ]
+			,[ 3617.8, 1.5, 95.52, 1.68 ]
+			,[ 3607.9, 1.5, 96.34, 1.6 ]
+			,[ 3598.0, 1.5, 94.58, 1.66 ]
+			,[ 3588.2, 1.5, 99.02, 1.51 ]
+			,[ 3578.1, 1.5, 98.11, 1.34 ]
+			,[ 3568.1, 1.5, 97.6, 1.31 ]
+			,[ 3558.2, 1.5, 98.78, 1.26 ]
+			,[ 3548.3, 1.5, 98.97, 1.55 ]
+			,[ 3538.3, 1.5, 99.06, 1.15 ]
+			,[ 3528.4, 1.5, 101.45, 1.3 ]
+			,[ 3518.5, 1.5, 98.25, 1.26 ]
+			,[ 3508.5, 1.5, 98.14, 1.28 ]
+			,[ 3498.6, 1.5, 96.72, 0.97 ]
+			,[ 3488.6, 1.5, 94.97, 1.13 ]
+			,[ 3478.7, 1.5, 91.65, 1.13 ]
+			,[ 3468.7, 1.5, 90.85, 1.16 ]
+			,[ 3458.8, 1.5, 85.69, 1.37 ]
+			,[ 3448.9, 1.5, 82.17, 1.16 ]
+			,[ 3438.9, 1.5, 77.78, 1.11 ]
+			,[ 3429.0, 1.5, 73.11, 1.02 ]
+			,[ 3419.1, 1.5, 67.95, 0.87 ]
+			,[ 3409.1, 1.5, 51.03, 0.67 ]
+			,[ 3399.2, 1.5, 21.96, 0.49 ]
+			,[ 3389.2, 1.5, 22.93, 0.42 ]
+			,[ 3379.5, 1.5, 27.76, 0.74 ]
+			,[ 3369.6, 1.5, 36.07, 0.73 ]
+			,[ 3359.6, 1.5, 39.72, 0.95 ]
+			,[ 3349.7, 1.5, 41.05, 1.27 ]
+			,[ 3344.7, 1.5, 43.8, 1.13 ]
+			,[ 3341.7, 1.5, 44.53, 1.35 ]
+			,[ 3339.7, 1.5, 45.09, 1.29 ]
+			,[ 3338.7, 1.5, 46.91, 1.21 ]
+			,[ 3337.7, 1.5, 47.93, 0.86 ]
+			,[ 3334.8, 1.5, 47.31, 1.34 ]
+			,[ 3329.8, 1.5, 50.31, 1.14 ]
+			,[ 3319.9, 1.5, 50.11, 1.11 ]
+			,[ 3309.9, 1.5, 54.54, 0.98 ]
+			,[ 3300.0, 1.5, 55.47, 0.9 ]
+			,[ 3290.0, 1.5, 55.58, 0.66 ]
+			,[ 3280.1, 1.5, 57.31, 0.86 ]
+			,[ 3270.2, 1.5, 58.38, 0.74 ]
+			,[ 3260.2, 1.5, 57.82, 0.94 ]
+			,[ 3250.3, 1.5, 60.8, 0.93 ]
+			,[ 3240.3, 1.5, 59.6, 0.92 ]
+			,[ 3230.4, 1.5, 58.21, 0.73 ]
+			,[ 3220.5, 1.5, 60.41, 0.85 ]
+			,[ 3210.5, 1.5, 65.49, 0.72 ]
+			,[ 3205.6, 1.5, 78.68, 1.25 ]
+			,[ 3200.6, 1.5, 127.96, 1.59 ]
+			,[ 3195.6, 1.5, 172.06, 1.83 ]
+			,[ 3190.6, 1.5, 128.53, 1.62 ]
+			,[ 3185.7, 1.5, 98.62, 1.23 ]
+			,[ 3180.7, 1.5, 90.36, 1.2 ]
+			,[ 3170.8, 1.5, 79.67, 1.08 ]
+			,[ 3160.9, 1.5, 79.63, 1.12 ]
+			,[ 3150.9, 1.5, 76.24, 1.02 ]
+			,[ 3141.0, 1.5, 70.5, 1.25 ]
+			,[ 3131.0, 1.5, 72.08, 1.38 ]
+			,[ 3121.1, 1.5, 73.9, 1.28 ]
+			,[ 3111.2, 1.5, 73.75, 1.64 ]
+			,[ 3106.2, 1.5, 75.08, 1.62 ]
+			,[ 3104.7, 1.5, 73.01, 1.78 ]
+			,[ 3103.7, 1.5, 74.44, 1.5 ]
+			,[ 3102.7, 1.5, 75.75, 1.66 ]
+			,[ 3101.2, 1.5, 73.65, 1.5 ]
+			,[ 3098.7, 1.5, 74.39, 1.51 ]
+			,[ 3096.2, 1.5, 73.52, 1.45 ]
+			,[ 3093.8, 1.5, 73.92, 1.0 ]
+			,[ 3091.3, 1.5, 74.51, 0.91 ]
+			,[ 3081.3, 1.5, 75.74, 1.35 ]
+			,[ 3071.4, 1.5, 75.11, 0.88 ]
+			,[ 3061.4, 1.5, 74.69, 0.75 ]
+			,[ 3051.5, 1.5, 76.27, 0.85 ]
+			,[ 3041.6, 1.5, 75.9, 0.68 ]
+			,[ 3031.6, 1.5, 76.5, 0.72 ]
 			]
     }
    ,{
@@ -181552,7 +181689,7 @@
 	 ,"dir":	"o6p"
 	 ,"dir1":	"o16-p"
 	 ,"file":	"o6pgb"
-	 ,"fileDate":	"2016-12-20,12:47:44"
+	 ,"fileDate":	"2018-12-17,16:48:46"
 	 ,"year":	1959
 	 ,"author1":	"N.Tanner"
 	 ,"dataType":	"PIGE,NRA"
@@ -181566,6 +181703,7 @@
 	 ,"Name":	"Tassos Lagoyannis for PIGE CRP"
 	 ,"X4Number":	""
 	 ,"Reaction":	"16O(p,g)17F"
+	 ,"Egamma":	"836-1146"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 600.27, 0.0, 0.0, 0.0 ]
@@ -181589,7 +181727,7 @@
 	 ,"dir":	"o6p"
 	 ,"dir1":	"o16-p"
 	 ,"file":	"o6pg0c"
-	 ,"fileDate":	"2014-02-03,14:20:18"
+	 ,"fileDate":	"2018-12-17,16:49:52"
 	 ,"year":	1973
 	 ,"author1":	"C.Rolfs"
 	 ,"dataType":	"PIGE,NRA"
@@ -181607,6 +181745,7 @@
 	 ,"Source":	"C.Rolfs(1973), Jour. Nuclear Physics, Section A, Vol.217, p.29"
 	 ,"X4Number":	"C0175002"
 	 ,"Reaction":	"16O(p,g0)17F"
+	 ,"Egamma":	"1165-3518"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 600.27, 0.0, 0.0, 0.0 ]
@@ -181662,7 +181801,7 @@
 	 ,"dir":	"o6p"
 	 ,"dir1":	"o16-p"
 	 ,"file":	"o6pg0a"
-	 ,"fileDate":	"2009-06-30,01:00:00"
+	 ,"fileDate":	"2018-12-17,17:01:38"
 	 ,"year":	1997
 	 ,"author1":	"R.Morlock"
 	 ,"dataType":	"PIGE,NRA"
@@ -181681,6 +181820,7 @@
 	 ,"SubFile":	""
 	 ,"X4Number":	""
 	 ,"Reaction":	"16O(p,g0)17F"
+	 ,"Egamma":	"901-4120"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"ru"
 	 ,"Qvalue":	[ 600.5, 0.0, 0.0, 0.0 ]
@@ -181877,7 +182017,7 @@
 	 ,"dir":	"o6p"
 	 ,"dir1":	"o16-p"
 	 ,"file":	"o6pg0b"
-	 ,"fileDate":	"2014-02-03,14:19:38"
+	 ,"fileDate":	"2018-12-17,17:02:34"
 	 ,"year":	1973
 	 ,"author1":	"C.Rolfs"
 	 ,"dataType":	"PIGE,NRA"
@@ -181895,6 +182035,7 @@
 	 ,"Source":	"C.Rolfs(1973), Jour. Nuclear Physics, Section A, Vol.217, p.29"
 	 ,"X4Number":	"C0175002"
 	 ,"Reaction":	"16O(p,g0)17F"
+	 ,"Egamma":	"1165-3518"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 600.27, 0.0, 0.0, 0.0 ]
@@ -181952,7 +182093,7 @@
 	 ,"dir":	"o6p"
 	 ,"dir1":	"o16-p"
 	 ,"file":	"o6pg1a"
-	 ,"fileDate":	"2016-12-20,12:56:26"
+	 ,"fileDate":	"2018-12-17,17:05:22"
 	 ,"year":	1997
 	 ,"author1":	"R.Morlock"
 	 ,"dataType":	"PIGE,NRA"
@@ -181972,7 +182113,7 @@
 	 ,"Source":	"R.Morlock+(1997), Jour. Physical Review Letters, Vol.79, p.3837"
 	 ,"X4Number":	"F1059005"
 	 ,"Reaction":	"16O(p,g1)17F"
-	 ,"Egamma":	"0.0"
+	 ,"Egamma":	"321-3634"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"ru"
 	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
@@ -182126,7 +182267,7 @@
 	 ,"dir":	"o6p"
 	 ,"dir1":	"o16-p"
 	 ,"file":	"o6pg1c"
-	 ,"fileDate":	"2014-02-03,14:21:50"
+	 ,"fileDate":	"2018-12-17,17:06:42"
 	 ,"year":	1973
 	 ,"author1":	"C.Rolfs"
 	 ,"dataType":	"PIGE,NRA"
@@ -182144,6 +182285,7 @@
 	 ,"Source":	"C.Rolfs(1973), Jour. Nuclear Physics, Section A, Vol.217, p.29"
 	 ,"X4Number":	"C0175002"
 	 ,"Reaction":	"16O(p,g1)17F"
+	 ,"Egamma":	"387-3023"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 105.27, 0.0, 0.0, 0.0 ]
@@ -182204,7 +182346,7 @@
 	 ,"dir":	"o6p"
 	 ,"dir1":	"o16-p"
 	 ,"file":	"o6pg1b"
-	 ,"fileDate":	"2014-02-03,14:20:58"
+	 ,"fileDate":	"2018-12-17,17:08:54"
 	 ,"year":	1973
 	 ,"author1":	"C.Rolfs"
 	 ,"dataType":	"PIGE,NRA"
@@ -182222,6 +182364,7 @@
 	 ,"Source":	"C.Rolfs(1973), Jour. Nuclear Physics, Section A, Vol.217, p.29"
 	 ,"X4Number":	"C0175002"
 	 ,"Reaction":	"16O(p,g1)17F"
+	 ,"Egamma":	"670-3023"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 105.27, 0.0, 0.0, 0.0 ]
@@ -216533,7 +216676,7 @@
 	 ,"dir":	"f9p"
 	 ,"dir1":	"f19-p"
 	 ,"file":	"f9ppg$6"
-	 ,"fileDate":	"2015-01-13,15:57:38"
+	 ,"fileDate":	"2019-02-05,15:55:04"
 	 ,"year":	0
 	 ,"author1":	"A. P.Jesus"
 	 ,"dataType":	"PIGE,NRA"
@@ -217586,7 +217729,7 @@
 	 ,"dir":	"f9p"
 	 ,"dir1":	"f19-p"
 	 ,"file":	"f9ppg$8"
-	 ,"fileDate":	"2015-04-19,14:04:16"
+	 ,"fileDate":	"2019-01-29,10:30:48"
 	 ,"year":	0
 	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
@@ -217596,7 +217739,7 @@
 			,"The proton energy is known to better than 0.15%."
 			,"The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is +/- 8% (see \"Sigma scale factor\" fields)."]
 	 ,"Version":	"R33"
-	 ,"Source":	"M. Chiari et al., to be published"
+	 ,"Source":	"M. Chiari et al., IAEA-TECDOC-1822, Vienna 2017"
 	 ,"Name":	"M. Chiari"
 	 ,"Address1":	"Istituto Nazionale Fisica Nucleare"
 	 ,"Address2":	"via G. Sansone 1"
@@ -218674,7 +218817,7 @@
 	 ,"dir":	"f9p"
 	 ,"dir1":	"f19-p"
 	 ,"file":	"f9ppg$5"
-	 ,"fileDate":	"2015-01-12,12:53:50"
+	 ,"fileDate":	"2019-02-05,15:54:44"
 	 ,"year":	0
 	 ,"author1":	"A. P.Jesus"
 	 ,"dataType":	"PIGE,NRA"
@@ -218685,7 +218828,7 @@
 			,"\t There is a systematic uncertainty of 7% (see Sigma scale factor fields). As the gamma detector is placed at an angle close to the neutral angle of 125, "
 			,"\t with negligible uncertainty (less than 1%) the total cross section may be obtained by multiplying the given values by 4pi."]
 	 ,"Version":	"R33"
-	 ,"Source":	"A. P. Jesus et al, data to be published"
+	 ,"Source":	"A. P. Jesus et al, unpublished data"
 	 ,"Name":	"A. P. Jesus"
 	 ,"Address":	"Departamento de F�sica, Faculdade de Ci�ncias e Tecnologia da Universidade Nova de Lisboa, maj@fct.unl.pt"
 	 ,"X4Number":	""
@@ -219779,7 +219922,7 @@
 	 ,"dir":	"f9p"
 	 ,"dir1":	"f19-p"
 	 ,"file":	"f9ppgd"
-	 ,"fileDate":	"2015-05-28,10:35:34"
+	 ,"fileDate":	"2019-01-29,10:31:16"
 	 ,"year":	0
 	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
@@ -219789,7 +219932,7 @@
 			,"The proton energy is known to better than 0.15%."
 			,"The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is +/- 8% (see \"Sigma scale factor\" fields)."]
 	 ,"Version":	"R33"
-	 ,"Source":	"M. Chiari et al., to be published"
+	 ,"Source":	"M. Chiari et al., IAEA-TECDOC-1822, Vienna 2017"
 	 ,"Name":	"M. Chiari"
 	 ,"Address1":	"Istituto Nazionale Fisica Nucleare"
 	 ,"Address2":	"via G. Sansone 1"
@@ -226983,7 +227126,7 @@
 	 ,"dir":	"ne0p"
 	 ,"dir1":	"ne20-p"
 	 ,"file":	"ne0pgb"
-	 ,"fileDate":	"2014-02-04,17:03:52"
+	 ,"fileDate":	"2018-12-19,15:51:12"
 	 ,"year":	1975
 	 ,"author1":	"Rolfs"
 	 ,"dataType":	"PIGE,NRA"
@@ -226997,6 +227140,7 @@
 	 ,"Name":	"Tassos Lagoyannis for PIGE CRP"
 	 ,"X4Number":	"C0626005"
 	 ,"Reaction":	"20Ne(p,g)21Na"
+	 ,"Egamma":	"332+1716+2425+2798+2829"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"tot"
 	 ,"Qvalue":	[ 2431.68, 0.0, 0.0, 0.0 ]
@@ -235825,7 +235969,7 @@
 	 ,"dir":	"na3p"
 	 ,"dir1":	"na23-p"
 	 ,"file":	"na3pg0a"
-	 ,"fileDate":	"2011-05-31,01:00:00"
+	 ,"fileDate":	"2018-12-19,14:02:12"
 	 ,"year":	1968
 	 ,"author1":	"R.C.Bearse"
 	 ,"dataType":	"PIGE,NRA"
@@ -235843,6 +235987,7 @@
 	 ,"SubFile":	""
 	 ,"X4Number":	"F1152002"
 	 ,"Reaction":	"23Na(p,g0)24Mg"
+	 ,"Egamma":	"15516-23864"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 11690.7, 0.0, 0.0, 0.0 ]
@@ -236144,7 +236289,7 @@
 	 ,"dir":	"na3p"
 	 ,"dir1":	"na23-p"
 	 ,"file":	"na3pg1a"
-	 ,"fileDate":	"2011-05-31,01:00:00"
+	 ,"fileDate":	"2018-12-19,14:03:48"
 	 ,"year":	1968
 	 ,"author1":	"R.C.Bearse"
 	 ,"dataType":	"PIGE,NRA"
@@ -236162,6 +236307,7 @@
 	 ,"SubFile":	""
 	 ,"X4Number":	"F1152002"
 	 ,"Reaction":	"23Na(p,g1)24Mg"
+	 ,"Egamma":	"14157-22514"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 10322.02, 0.0, 0.0, 0.0 ]
@@ -236606,7 +236752,7 @@
 	 ,"dir":	"na3p"
 	 ,"dir1":	"na23-p"
 	 ,"file":	"na3pg2a"
-	 ,"fileDate":	"2011-05-31,01:00:00"
+	 ,"fileDate":	"2018-12-19,14:05:48"
 	 ,"year":	1968
 	 ,"author1":	"R.C.Bearse"
 	 ,"dataType":	"PIGE,NRA"
@@ -236625,6 +236771,7 @@
 	 ,"SubFile":	""
 	 ,"X4Number":	"F1152003"
 	 ,"Reaction":	"23Na(p,g2+3)24Mg"
+	 ,"Egamma":	"11336-19703"
 	 ,"Distribution": "Energy"
 	 ,"Units":	"mb"
 	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
@@ -237254,16 +237401,16 @@
 	 ,"dir":	"na3p"
 	 ,"dir1":	"na23-p"
 	 ,"file":	"na3ppgt"
-	 ,"fileDate":	"2015-02-13,10:46:06"
-	 ,"year":	0
-	 ,"author1":	"I.Zamboni"
+	 ,"fileDate":	"2019-01-29,09:41:36"
+	 ,"year":	2019
+	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
 	 ,"nData":	77
         },
 	  "Comment":	["Gamma energy 440 keV."
 			,"The proton energy is known to better than 0.06%. "]
 	 ,"Version":	"R33"
-	 ,"Source":	"I. Zamboni et al., to be published"
+	 ,"Source":	"M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118"
 	 ,"Name":	"Ivana Zamboni"
 	 ,"Address1":	"Laboratory for Ion Beam Interactions"
 	 ,"Address2":	"Rudjer Boskovic Institute"
@@ -237575,9 +237722,9 @@
 	 ,"dir":	"na3p"
 	 ,"dir1":	"na23-p"
 	 ,"file":	"na3ppgl"
-	 ,"fileDate":	"2015-01-13,12:17:08"
-	 ,"year":	0
-	 ,"author1":	"A. P.Jesus"
+	 ,"fileDate":	"2019-01-29,09:42:24"
+	 ,"year":	2019
+	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
 	 ,"nData":	321
         },
@@ -237586,7 +237733,7 @@
 			,"\t There is a systematic uncertainty of 7% (see Sigma scale factor fields). As the gamma detector is placed at an angle close to the neutral angle of 125, "
 			,"\t with negligible uncertainty (less than 1%) the total cross section may be obtained by multiplying the given values by 4pi."]
 	 ,"Version":	"R33"
-	 ,"Source":	"A. P. Jesus et al, data to be published"
+	 ,"Source":	"M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118"
 	 ,"Name":	"A. P. Jesus"
 	 ,"Address":	"Departamento de Fisica, Faculdade de Ciencias e Tecnologia da Universidade Nova de Lisboa, maj@fct.unl.pt"
 	 ,"X4Number":	""
@@ -237934,16 +238081,16 @@
 	 ,"dir":	"na3p"
 	 ,"dir1":	"na23-p"
 	 ,"file":	"na3ppg$4"
-	 ,"fileDate":	"2015-07-13,17:46:38"
-	 ,"year":	0
-	 ,"author1":	"N.Sharizadeh"
+	 ,"fileDate":	"2019-01-29,09:45:14"
+	 ,"year":	2019
+	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
 	 ,"nData":	233
         },
 	  "Comment":	["The proton energy is known to better than 0.2%."
 			,"Thin target was used.  "]
 	 ,"Version":	"R33"
-	 ,"Source":	"N. Sharizadeh et al, to be published"
+	 ,"Source":	"M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118"
 	 ,"Name":	"Nasim Sharifzadeh"
 	 ,"Address1":	"Van de Graaff Laboratory"
 	 ,"Address2":	"Nuclear Science and Technology Research Institute"
@@ -238519,8 +238666,8 @@
 	 ,"dir":	"na3p"
 	 ,"dir1":	"na23-p"
 	 ,"file":	"na3ppgp"
-	 ,"fileDate":	"2015-01-02,13:24:16"
-	 ,"year":	0
+	 ,"fileDate":	"2019-01-29,09:38:00"
+	 ,"year":	2019
 	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
 	 ,"nData":	244
@@ -238529,7 +238676,7 @@
 			,"The proton energy is known to better than 0.1%."
 			,"The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is +/- 7% (see \"Sigma scale factor\" fields)."]
 	 ,"Version":	"R33"
-	 ,"Source":	"M. Chiari et al., to be published"
+	 ,"Source":	"M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118"
 	 ,"Name":	"M. Chiari"
 	 ,"Address1":	"Istituto Nazionale Fisica Nucleare"
 	 ,"Address2":	"via G. Sansone 1"
@@ -238966,9 +239113,9 @@
 	 ,"dir":	"na3p"
 	 ,"dir1":	"na23-p"
 	 ,"file":	"na3ppgv"
-	 ,"fileDate":	"2015-04-08,09:21:22"
-	 ,"year":	0
-	 ,"author1":	"L.Csedreki"
+	 ,"fileDate":	"2019-01-29,09:40:14"
+	 ,"year":	2019
+	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
 	 ,"nData":	266
         },
@@ -238976,7 +239123,7 @@
 			,"The uncertainty of proton energy is 1.5 keV."
 			,"The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is +/- 7% ."]
 	 ,"Version":	"R33"
-	 ,"Source":	"L. Csedreki et al., to be published"
+	 ,"Source":	"M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118"
 	 ,"Name":	"L. Csedreki"
 	 ,"Address1":	"Institute for Nuclear Research, Hungarian Academy of Science"
 	 ,"Address2":	"H-4026 Debrecen, Bem t�r 18/c"
@@ -239275,8 +239422,8 @@
 	 ,"dir":	"na3p"
 	 ,"dir1":	"na23-p"
 	 ,"file":	"na3ppgo"
-	 ,"fileDate":	"2015-01-02,13:24:16"
-	 ,"year":	0
+	 ,"fileDate":	"2019-01-29,09:35:48"
+	 ,"year":	2019
 	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
 	 ,"nData":	244
@@ -239285,7 +239432,7 @@
 			,"The proton energy is known to better than 0.1%."
 			,"The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is +/- 7% (see \"Sigma scale factor\" fields)."]
 	 ,"Version":	"R33"
-	 ,"Source":	"M. Chiari et al., to be published"
+	 ,"Source":	"M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118"
 	 ,"Name":	"M. Chiari"
 	 ,"Address1":	"Istituto Nazionale Fisica Nucleare"
 	 ,"Address2":	"via G. Sansone 1"
@@ -239614,8 +239761,8 @@
 	 ,"dir":	"na3p"
 	 ,"dir1":	"na23-p"
 	 ,"file":	"na3ppgn"
-	 ,"fileDate":	"2015-01-02,13:24:16"
-	 ,"year":	0
+	 ,"fileDate":	"2019-01-29,09:35:10"
+	 ,"year":	2019
 	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
 	 ,"nData":	244
@@ -239624,7 +239771,7 @@
 			,"The proton energy is known to better than 0.1%."
 			,"The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is +/- 7% (see \"Sigma scale factor\" fields)."]
 	 ,"Version":	"R33"
-	 ,"Source":	"M. Chiari et al., to be published"
+	 ,"Source":	"M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118"
 	 ,"Name":	"M. Chiari"
 	 ,"Address1":	"Istituto Nazionale Fisica Nucleare"
 	 ,"Address2":	"via G. Sansone 1"
@@ -240168,9 +240315,9 @@
 	 ,"dir":	"na3p"
 	 ,"dir1":	"na23-p"
 	 ,"file":	"na3ppgu"
-	 ,"fileDate":	"2015-02-13,10:46:06"
-	 ,"year":	0
-	 ,"author1":	"I.Zamboni"
+	 ,"fileDate":	"2019-01-29,09:39:56"
+	 ,"year":	2019
+	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
 	 ,"nData":	77
         },
@@ -240178,7 +240325,7 @@
 			,"(from the 23Na(p,ag1-0)20Ne reaction, not indicated in the \"Reaction\" section)."
 			,"The proton energy is known to better than 0.06%. "]
 	 ,"Version":	"R33"
-	 ,"Source":	"I. Zamboni et al., to be published"
+	 ,"Source":	"M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118"
 	 ,"Name":	"Ivana Zamboni"
 	 ,"Address1":	"Laboratory for Ion Beam Interactions"
 	 ,"Address2":	"Rudjer Boskovic Institute"
@@ -240287,9 +240434,9 @@
 	 ,"dir":	"na3p"
 	 ,"dir1":	"na23-p"
 	 ,"file":	"na3ppgm"
-	 ,"fileDate":	"2015-01-12,12:27:48"
-	 ,"year":	0
-	 ,"author1":	"A.P.Jesus"
+	 ,"fileDate":	"2019-01-29,09:42:50"
+	 ,"year":	2019
+	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
 	 ,"nData":	488
         },
@@ -240300,7 +240447,7 @@
 			,"\t Data refer to differential cross-section measured for two overlapping gamma-ray lines: 1636 keV (from the 23Na(p,pg2-1)23Na reaction) and 1634 keV "
 			,"\t (from the 23Na(p,ag1-0)20Ne reaction, not indicated in the \"Reaction\" section)"]
 	 ,"Version":	"R33"
-	 ,"Source":	"A.P. Jesus et al, data to be published"
+	 ,"Source":	"M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118"
 	 ,"Name":	"A. P. Jesus"
 	 ,"Address":	"Departamento de F�sica, Faculdade de Ci�ncias e Tecnologia da Universidade Nova de Lisboa, maj@fct.unl.pt"
 	 ,"X4Number":	""
@@ -240866,16 +241013,16 @@
 	 ,"dir":	"na3p"
 	 ,"dir1":	"na23-p"
 	 ,"file":	"na3ppg$5"
-	 ,"fileDate":	"2015-07-13,17:46:32"
-	 ,"year":	0
-	 ,"author1":	"N.Sharizadeh"
+	 ,"fileDate":	"2019-01-29,09:45:36"
+	 ,"year":	2019
+	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
 	 ,"nData":	233
         },
 	  "Comment":	["The proton energy is known to better than 0.2%."
 			,"Thin target was used.  "]
 	 ,"Version":	"R33"
-	 ,"Source":	"N. Sharizadeh et al, to be published"
+	 ,"Source":	"M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118"
 	 ,"Name":	"Nasim Sharifzadeh"
 	 ,"Address1":	"Van de Graaff Laboratory"
 	 ,"Address2":	"Nuclear Science and Technology Research Institute"
@@ -241140,8 +241287,8 @@
 	 ,"dir":	"na3p"
 	 ,"dir1":	"na23-p"
 	 ,"file":	"na3ppgs"
-	 ,"fileDate":	"2015-01-02,13:24:16"
-	 ,"year":	0
+	 ,"fileDate":	"2019-01-29,09:39:28"
+	 ,"year":	2019
 	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
 	 ,"nData":	244
@@ -241153,7 +241300,7 @@
 			,"The listed uncertainties in the cross-section values are statistical only; the"
 			,"normalization uncertainty is +/- 7% (see \"Sigma scale factor\" fields)."]
 	 ,"Version":	"R33"
-	 ,"Source":	"M. Chiari et al., to be published"
+	 ,"Source":	"M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118"
 	 ,"Name":	"M. Chiari"
 	 ,"Address1":	"Istituto Nazionale Fisica Nucleare"
 	 ,"Address2":	"via G. Sansone 1"
@@ -241429,9 +241576,9 @@
 	 ,"dir":	"na3p"
 	 ,"dir1":	"na23-p"
 	 ,"file":	"na3ppgw"
-	 ,"fileDate":	"2015-04-08,09:21:22"
-	 ,"year":	0
-	 ,"author1":	"L.Csedreki"
+	 ,"fileDate":	"2019-01-29,09:40:38"
+	 ,"year":	2019
+	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
 	 ,"nData":	266
         },
@@ -241441,7 +241588,7 @@
 			,"The uncertainty of proton energy is 1.5 keV."
 			,"The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is +/- 10% ."]
 	 ,"Version":	"R33"
-	 ,"Source":	"L. Csedreki et al., to be published"
+	 ,"Source":	"M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118"
 	 ,"Name":	"L. Csedreki"
 	 ,"Address1":	"Institute for Nuclear Research, Hungarian Academy of Science"
 	 ,"Address2":	"H-4026 Debrecen, Bem t�r 18/c"
@@ -241739,8 +241886,8 @@
 	 ,"dir":	"na3p"
 	 ,"dir1":	"na23-p"
 	 ,"file":	"na3ppgr"
-	 ,"fileDate":	"2015-01-02,13:24:16"
-	 ,"year":	0
+	 ,"fileDate":	"2019-01-29,09:39:08"
+	 ,"year":	2019
 	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
 	 ,"nData":	244
@@ -241752,7 +241899,7 @@
 			,"The listed uncertainties in the cross-section values are statistical only; the"
 			,"normalization uncertainty is +/- 7% (see \"Sigma scale factor\" fields)."]
 	 ,"Version":	"R33"
-	 ,"Source":	"M. Chiari et al., to be published"
+	 ,"Source":	"M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118"
 	 ,"Name":	"M. Chiari"
 	 ,"Address1":	"Istituto Nazionale Fisica Nucleare"
 	 ,"Address2":	"via G. Sansone 1"
@@ -242080,8 +242227,8 @@
 	 ,"dir":	"na3p"
 	 ,"dir1":	"na23-p"
 	 ,"file":	"na3ppgq"
-	 ,"fileDate":	"2015-01-02,13:24:16"
-	 ,"year":	0
+	 ,"fileDate":	"2019-01-29,09:38:38"
+	 ,"year":	2019
 	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
 	 ,"nData":	244
@@ -242093,7 +242240,7 @@
 			,"The listed uncertainties in the cross-section values are statistical only; the"
 			,"normalization uncertainty is +/- 7% (see \"Sigma scale factor\" fields)."]
 	 ,"Version":	"R33"
-	 ,"Source":	"M. Chiari et al., to be published"
+	 ,"Source":	"M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118"
 	 ,"Name":	"M. Chiari"
 	 ,"Address1":	"Istituto Nazionale Fisica Nucleare"
 	 ,"Address2":	"via G. Sansone 1"
@@ -259905,7 +260052,7 @@
 	 ,"dir":	"mg5p"
 	 ,"dir1":	"mg25-p"
 	 ,"file":	"mg5ppgr"
-	 ,"fileDate":	"2015-10-28,15:28:22"
+	 ,"fileDate":	"2019-02-05,12:29:56"
 	 ,"year":	0
 	 ,"author1":	"A.P.Jesus"
 	 ,"dataType":	"PIGE,NRA"
@@ -259915,7 +260062,7 @@
 			,"\t The listed uncertainties in the cross-section values are statistical and also due to peak area determination. "
 			,"\t There is a systematic uncertainty of 7% (see Sigma scale factor fields). As the gamma-ray line is isotropic total cross section values may be obtained by multiplying by 4pi.\t\t\t"]
 	 ,"Version":	"R33"
-	 ,"Source":	"A.P.Jesus et al, to be published"
+	 ,"Source":	"A.P.Jesus et al, unpublished data"
 	 ,"Name":	"A. P. Jesus"
 	 ,"Address":	"Departamento de F�sica, Faculdade de Ci�ncias e Tecnologia da Universidade Nova de Lisboa"
 	 ,"X4Number":	""
@@ -338071,7 +338218,7 @@
 	 ,"dir":	"al7p"
 	 ,"dir1":	"al27-p"
 	 ,"file":	"al7pgl"
-	 ,"fileDate":	"2016-12-20,16:52:40"
+	 ,"fileDate":	"2018-12-19,14:15:14"
 	 ,"year":	1999
 	 ,"author1":	"C.Chronidou"
 	 ,"dataType":	"PIGE,NRA"
@@ -338082,6 +338229,7 @@
 	 ,"Source":	"C. Chronidou et al., Eur. Phys. J. A 6 (1999) 303"
 	 ,"X4Number":	"O1057002"
 	 ,"Reaction":	"27Al(p,g)28Si"
+	 ,"Egamma":	"12433-13513"
 	 ,"Distribution": "Total"
 	 ,"Units":	"ru"
 	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
@@ -338525,17 +338673,19 @@
 	 ,"dir":	"al7p"
 	 ,"dir1":	"al27-p"
 	 ,"file":	"al7pgm"
-	 ,"fileDate":	"2016-12-20,16:57:46"
+	 ,"fileDate":	"2019-01-18,16:37:40"
 	 ,"year":	1999
 	 ,"author1":	"C.Chronidou"
 	 ,"dataType":	"PIGE,NRA"
 	 ,"nData":	253
         },
-	  "Comment":	["Data taken with a 4-pi summing detector"]
+	  "Comment":	["Data taken with a 4-pi summing detector with a thicker W backed target"
+			,"         compared to O1057002"]
 	 ,"Version":	"R33"
 	 ,"Source":	"C. Chronidou et al., Eur. Phys. J. A 6 (1999) 303"
 	 ,"X4Number":	"O1057003"
 	 ,"Reaction":	"27Al(p,g)28Si"
+	 ,"Egamma":	"12568-13504"
 	 ,"Distribution": "Total"
 	 ,"Units":	"ru"
 	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
@@ -338808,7 +338958,7 @@
 	 ,"dir":	"al7p"
 	 ,"dir1":	"al27-p"
 	 ,"file":	"al7pgc"
-	 ,"fileDate":	"2016-12-20,16:53:50"
+	 ,"fileDate":	"2018-12-19,14:17:46"
 	 ,"year":	2000
 	 ,"author1":	"S.Harrisopulos"
 	 ,"dataType":	"PIGE,NRA"
@@ -338826,6 +338976,7 @@
 	 ,"SubFile":	""
 	 ,"X4Number":	""
 	 ,"Reaction":	"27Al(p,g)28Si"
+	 ,"Egamma":	"11778-12665"
 	 ,"Distribution": "Total"
 	 ,"Units":	"ru"
 	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
@@ -339434,7 +339585,7 @@
 	 ,"dir":	"al7p"
 	 ,"dir1":	"al27-p"
 	 ,"file":	"al7pgi"
-	 ,"fileDate":	"2016-02-25,18:01:30"
+	 ,"fileDate":	"2019-01-29,10:06:44"
 	 ,"year":	0
 	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
@@ -339443,7 +339594,7 @@
 	  "Comment":	[""
 			,"Thick target gamma-ray yield. Gamma-ray energy 1779 keV. The proton energy is known to better than 0.1%. The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is +/- 7.5% (see \"Sigma scale factor\" fields)."]
 	 ,"Version":	"R33"
-	 ,"Source":	"M. Chiari, unpublished data"
+	 ,"Source":	"M. Chiari, IAEA-TECDOC-1822, Vienna 2017"
 	 ,"Name":	"M. Chiari"
 	 ,"Address1":	"Istituto Nazionale Fisica Nucleare"
 	 ,"Address2":	"via G. Sansone 1"
@@ -340090,7 +340241,7 @@
 	 ,"dir":	"al7p"
 	 ,"dir1":	"al27-p"
 	 ,"file":	"al7ppgz"
-	 ,"fileDate":	"2015-01-23,13:34:32"
+	 ,"fileDate":	"2019-01-29,10:02:40"
 	 ,"year":	0
 	 ,"author1":	"I.Zamboni"
 	 ,"dataType":	"PIGE,NRA"
@@ -340099,7 +340250,7 @@
 	  "Comment":	["Gamma energy 844 keV."
 			,"The proton energy is known to better than 0.06%. "]
 	 ,"Version":	"R33"
-	 ,"Source":	"I. Zamboni et al., to be published"
+	 ,"Source":	"I. Zamboni et al., IAEA-TECDOC-1822, Vienna 2017"
 	 ,"Name":	"Ivana Zamboni"
 	 ,"Address1":	"Laboratory for Ion Beam Interactions"
 	 ,"Address2":	"Rudjer Boskovic Institute"
@@ -340208,7 +340359,7 @@
 	 ,"dir":	"al7p"
 	 ,"dir1":	"al27-p"
 	 ,"file":	"al7ppg$12"
-	 ,"fileDate":	"2015-09-25,18:11:14"
+	 ,"fileDate":	"2019-02-05,12:28:22"
 	 ,"year":	0
 	 ,"author1":	"A. P.Jesus al"
 	 ,"dataType":	"PIGE,NRA"
@@ -341535,7 +341686,7 @@
 	 ,"dir":	"al7p"
 	 ,"dir1":	"al27-p"
 	 ,"file":	"al7ppgt"
-	 ,"fileDate":	"2015-12-09,17:55:24"
+	 ,"fileDate":	"2019-01-29,10:02:20"
 	 ,"year":	0
 	 ,"author1":	"L.Csedreki"
 	 ,"dataType":	"PIGE,NRA"
@@ -341544,7 +341695,7 @@
 	  "Comment":	[""
 			,"Total cross sections of the 27Al(p,pg1-0)27Al Gamma energy is 844 keV."]
 	 ,"Version":	"R33"
-	 ,"Source":	"L. Csedreki et al."
+	 ,"Source":	"L. Csedreki et al.,IAEA-TECDOC-1822, Vienna 2017"
 	 ,"Name":	""
 	 ,"Address":	"csedreki@atomki.hu"
 	 ,"X4Number":	""
@@ -341647,7 +341798,7 @@
 	 ,"dir":	"al7p"
 	 ,"dir1":	"al27-p"
 	 ,"file":	"al7ppgy"
-	 ,"fileDate":	"2015-09-02,13:37:12"
+	 ,"fileDate":	"2019-01-29,10:05:06"
 	 ,"year":	0
 	 ,"author1":	"J.Raisanen"
 	 ,"dataType":	"PIGE,NRA"
@@ -341656,7 +341807,7 @@
 	  "Comment":	["Measurements of 27Al(p,p'gamma) cross section for gamma energy 844 KeV."
 			,"\t\tPreliminary data submitted for PIGE CRP. Subject to validation."]
 	 ,"Version":	"R33"
-	 ,"Source":	"J. Raisanen, unpublished data."
+	 ,"Source":	"J. Raisanen, IAEA-TECDOC-1822, Vienna 2017"
 	 ,"Name":	""
 	 ,"X4Number":	""
 	 ,"Reaction":	"27Al(p,pg1-0)27Al"
@@ -342072,7 +342223,7 @@
 	 ,"dir":	"al7p"
 	 ,"dir1":	"al27-p"
 	 ,"file":	"al7ppg$1"
-	 ,"fileDate":	"2015-01-23,13:34:14"
+	 ,"fileDate":	"2019-01-29,10:00:58"
 	 ,"year":	0
 	 ,"author1":	"I.Zamboni"
 	 ,"dataType":	"PIGE,NRA"
@@ -342081,7 +342232,7 @@
 	  "Comment":	["Gamma energy 1014 keV."
 			,"The proton energy is known to better than 0.06%. "]
 	 ,"Version":	"R33"
-	 ,"Source":	"I. Zamboni et al., to be published"
+	 ,"Source":	"I. Zamboni et al., IAEA-TECDOC-1822, Vienna 2017"
 	 ,"Name":	"Ivana Zamboni"
 	 ,"Address1":	"Laboratory for Ion Beam Interactions"
 	 ,"Address2":	"Rudjer Boskovic Institute"
@@ -342225,7 +342376,7 @@
 	 ,"dir":	"al7p"
 	 ,"dir1":	"al27-p"
 	 ,"file":	"al7ppg$13"
-	 ,"fileDate":	"2015-09-25,17:13:42"
+	 ,"fileDate":	"2019-02-05,12:28:44"
 	 ,"year":	0
 	 ,"author1":	"A. P.Jesus"
 	 ,"dataType":	"PIGE,NRA"
@@ -342236,7 +342387,7 @@
 			,"\t  (see \"Sigma scale factor\" fields). As the gamma detector is placed at an angle close to the neutral angle of 125, with negligible uncertainty (less than 1%) "
 			,"\t  the total cross section may be obtained by multiplying the given values by 4pi.\""]
 	 ,"Version":	"R33"
-	 ,"Source":	"A. P. Jesus et al, data to be published"
+	 ,"Source":	"A. P. Jesus et al, unpublished data"
 	 ,"Name":	"A. P. Jesus"
 	 ,"Address":	"Departamento de F�sica, Faculdade de Ci�ncias e Tecnologia da Universidade Nova de Lisboa"
 	 ,"X4Number":	""
@@ -343509,7 +343660,7 @@
 	 ,"dir":	"al7p"
 	 ,"dir1":	"al27-p"
 	 ,"file":	"al7ppgv"
-	 ,"fileDate":	"2015-12-09,17:55:38"
+	 ,"fileDate":	"2019-01-29,10:02:02"
 	 ,"year":	0
 	 ,"author1":	"L.Csedreki"
 	 ,"dataType":	"PIGE,NRA"
@@ -343518,7 +343669,7 @@
 	  "Comment":	[""
 			,"Total cross sections of the 27Al(p,pg2-0)27Al Gamma energy is 1014 keV."]
 	 ,"Version":	"R33"
-	 ,"Source":	"L. Csedreki et al."
+	 ,"Source":	"L. Csedreki et al., IAEA-TECDOC-1822, Vienna 2017"
 	 ,"Name":	""
 	 ,"Address":	"csedreki@atomki.hu"
 	 ,"X4Number":	""
@@ -344458,7 +344609,7 @@
 	 ,"dir":	"al7p"
 	 ,"dir1":	"al27-p"
 	 ,"file":	"al7pagf"
-	 ,"fileDate":	"2015-01-23,13:33:02"
+	 ,"fileDate":	"2019-01-29,10:14:40"
 	 ,"year":	0
 	 ,"author1":	"I.Zamboni"
 	 ,"dataType":	"PIGE,NRA"
@@ -344467,7 +344618,7 @@
 	  "Comment":	["Gamma energy 1369 keV."
 			,"The proton energy is known to better than 0.06%. "]
 	 ,"Version":	"R33"
-	 ,"Source":	"I. Zamboni et al., to be published"
+	 ,"Source":	"I. Zamboni et al., IAEA-TECDOC-1822, Vienna 2017"
 	 ,"Name":	"Ivana Zamboni"
 	 ,"Address1":	"Laboratory for Ion Beam Interactions"
 	 ,"Address2":	"Rudjer Boskovic Institute"
@@ -345265,7 +345416,7 @@
 	 ,"dir":	"al7p"
 	 ,"dir1":	"al27-p"
 	 ,"file":	"al7page"
-	 ,"fileDate":	"2015-12-09,18:02:22"
+	 ,"fileDate":	"2019-01-29,10:13:04"
 	 ,"year":	0
 	 ,"author1":	"L.Csedreki"
 	 ,"dataType":	"PIGE,NRA"
@@ -345274,7 +345425,7 @@
 	  "Comment":	[""
 			,"Total cross sections of the 27Al(p,ag1-0)24Mg Gamma energy is 1369 keV."]
 	 ,"Version":	"R33"
-	 ,"Source":	"L. Csedreki et al."
+	 ,"Source":	"L. Csedreki et al., IAEA-TECDOC-1822, Vienna 2017"
 	 ,"Name":	""
 	 ,"Address":	"csedreki@atomki.hu"
 	 ,"X4Number":	""
@@ -350704,6 +350855,169 @@
         "fileInfo": {
 	  "targ":	"28Si"
 	 ,"zaTarg":	14028 ,"Target":"Si-28" ,"Elem":"Si"
+	 ,"proj":	"p"
+	 ,"dir":	"si8p"
+	 ,"dir1":	"si28-p"
+	 ,"file":	"si8pp1a"
+	 ,"fileDate":	"2019-02-05,18:12:28"
+	 ,"year":	2019
+	 ,"author1":	"L.Csedreki"
+	 ,"dataType":	"NRA"
+	 ,"nData":	123
+        },
+	  "Comment":	["Particle production cross sections of the 28Si(p,p1)28Si were measured in the 3-4 MeV proton energy range using approx. 75 nm thick silicon-nitride foils."
+			,"\t\tThe statistical uncertainties of the cross section data are given. Systematic uncertainties were the following: 5% number of target nuclides and 3% charge determination, "
+			,"\t\t3% uncertainty of the solid angle. "]
+	 ,"Version":	"R33"
+	 ,"Source":	"L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56."
+	 ,"Name":	""
+	 ,"Address1":	""
+	 ,"Address2":	""
+	 ,"Address3":	""
+	 ,"Address4":	""
+	 ,"Address5":	""
+	 ,"Address6":	""
+	 ,"SubFile":	""
+	 ,"X4Number":	""
+	 ,"Reaction":	"28Si(p,p1)28Si"
+	 ,"Distribution": "Energy"
+	 ,"Units":	"mb"
+	 ,"Qvalue":	[ -1779.0, 0.0, 0.0, 0.0 ]
+	 ,"Masses":	[ 1.0, 28.0, 1.0, 28.0 ]
+	 ,"Zeds":	[ 1.0, 14.0, 1.0, 14.0 ]
+	 ,"Sigfactors":	[ 1.0, 0.0 ]
+	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
+	 ,"Theta":	135.0
+	 ,"Data":	[ 
+			 [ 4015.4, 1.5, 2.69, 0.29 ]
+			,[ 4005.5, 1.5, 3.02, 0.4 ]
+			,[ 4000.5, 1.5, 3.23, 0.4 ]
+			,[ 3998.0, 1.5, 2.68, 0.38 ]
+			,[ 3995.6, 1.5, 3.05, 0.38 ]
+			,[ 3993.1, 1.5, 2.81, 0.45 ]
+			,[ 3991.6, 1.5, 2.79, 0.45 ]
+			,[ 3990.6, 1.5, 2.53, 0.38 ]
+			,[ 3988.6, 1.5, 2.52, 0.31 ]
+			,[ 3985.6, 1.5, 2.56, 0.34 ]
+			,[ 3983.6, 1.5, 2.32, 0.35 ]
+			,[ 3980.6, 1.5, 3.11, 0.38 ]
+			,[ 3975.7, 1.5, 2.99, 0.4 ]
+			,[ 3965.7, 1.5, 3.21, 0.35 ]
+			,[ 3955.8, 1.5, 3.0, 0.4 ]
+			,[ 3945.8, 1.5, 2.88, 0.35 ]
+			,[ 3935.9, 1.5, 3.04, 0.45 ]
+			,[ 3926.0, 1.5, 2.29, 0.36 ]
+			,[ 3916.0, 1.5, 3.15, 0.45 ]
+			,[ 3906.1, 1.5, 2.47, 0.28 ]
+			,[ 3896.1, 1.5, 2.07, 0.39 ]
+			,[ 3886.2, 1.5, 3.74, 0.3 ]
+			,[ 3876.3, 1.5, 2.3, 0.31 ]
+			,[ 3866.3, 1.5, 2.0, 0.26 ]
+			,[ 3856.4, 1.5, 2.26, 0.27 ]
+			,[ 3846.4, 1.5, 2.39, 0.3 ]
+			,[ 3836.5, 1.5, 2.8, 0.29 ]
+			,[ 3826.6, 1.5, 2.68, 0.26 ]
+			,[ 3816.6, 1.5, 2.81, 0.29 ]
+			,[ 3806.7, 1.5, 3.02, 0.32 ]
+			,[ 3796.7, 1.5, 3.28, 0.28 ]
+			,[ 3786.8, 1.5, 3.87, 0.29 ]
+			,[ 3777.0, 1.5, 3.85, 0.46 ]
+			,[ 3776.9, 1.5, 4.55, 0.35 ]
+			,[ 3766.9, 1.5, 5.15, 0.33 ]
+			,[ 3757.0, 1.5, 8.19, 0.38 ]
+			,[ 3747.0, 1.5, 9.4, 0.53 ]
+			,[ 3742.1, 1.5, 11.36, 0.91 ]
+			,[ 3737.1, 1.5, 12.58, 0.57 ]
+			,[ 3727.2, 1.5, 16.97, 0.59 ]
+			,[ 3717.2, 1.5, 18.66, 0.68 ]
+			,[ 3707.3, 1.5, 17.81, 0.68 ]
+			,[ 3697.4, 1.5, 15.24, 0.61 ]
+			,[ 3687.4, 1.5, 12.01, 0.68 ]
+			,[ 3677.5, 1.5, 10.16, 0.46 ]
+			,[ 3667.5, 1.5, 8.66, 0.66 ]
+			,[ 3657.6, 1.5, 7.7, 0.59 ]
+			,[ 3647.6, 1.5, 7.44, 0.62 ]
+			,[ 3637.7, 1.5, 8.21, 0.64 ]
+			,[ 3627.8, 1.5, 8.92, 0.69 ]
+			,[ 3617.8, 1.5, 8.72, 0.65 ]
+			,[ 3607.9, 1.5, 10.48, 0.7 ]
+			,[ 3598.0, 1.5, 11.43, 0.77 ]
+			,[ 3588.2, 1.5, 13.86, 0.75 ]
+			,[ 3578.1, 1.5, 15.01, 0.69 ]
+			,[ 3568.1, 1.5, 14.64, 0.65 ]
+			,[ 3558.2, 1.5, 14.02, 0.61 ]
+			,[ 3548.3, 1.5, 11.54, 0.71 ]
+			,[ 3538.3, 1.5, 10.17, 0.49 ]
+			,[ 3528.4, 1.5, 8.44, 0.52 ]
+			,[ 3518.5, 1.5, 7.26, 0.48 ]
+			,[ 3508.5, 1.5, 6.37, 0.47 ]
+			,[ 3498.6, 1.5, 4.93, 0.33 ]
+			,[ 3488.6, 1.5, 4.28, 0.36 ]
+			,[ 3478.7, 1.5, 3.5, 0.35 ]
+			,[ 3468.7, 1.5, 3.07, 0.34 ]
+			,[ 3458.8, 1.5, 2.55, 0.41 ]
+			,[ 3448.9, 1.5, 2.72, 0.35 ]
+			,[ 3438.9, 1.5, 2.65, 0.35 ]
+			,[ 3429.0, 1.5, 2.53, 0.33 ]
+			,[ 3419.1, 1.5, 2.04, 0.3 ]
+			,[ 3409.1, 1.5, 1.79, 0.25 ]
+			,[ 3399.2, 1.5, 1.47, 0.27 ]
+			,[ 3389.2, 1.5, 1.33, 0.22 ]
+			,[ 3379.5, 1.5, 1.01, 0.26 ]
+			,[ 3369.6, 1.5, 1.05, 0.28 ]
+			,[ 3349.7, 1.5, 2.83, 0.53 ]
+			,[ 3344.7, 1.5, 8.07, 0.63 ]
+			,[ 3341.7, 1.5, 13.09, 0.93 ]
+			,[ 3339.7, 1.5, 18.76, 1.0 ]
+			,[ 3338.7, 1.5, 18.77, 0.95 ]
+			,[ 3337.7, 1.5, 18.58, 0.66 ]
+			,[ 3334.8, 1.5, 14.46, 0.91 ]
+			,[ 3329.8, 1.5, 8.55, 0.63 ]
+			,[ 3319.9, 1.5, 4.79, 0.49 ]
+			,[ 3309.9, 1.5, 3.33, 0.38 ]
+			,[ 3300.0, 1.5, 2.8, 0.34 ]
+			,[ 3290.0, 1.5, 2.38, 0.23 ]
+			,[ 3280.1, 1.5, 2.31, 0.31 ]
+			,[ 3270.2, 1.5, 2.16, 0.26 ]
+			,[ 3260.2, 1.5, 2.02, 0.36 ]
+			,[ 3250.3, 1.5, 1.81, 0.32 ]
+			,[ 3240.3, 1.5, 1.77, 0.32 ]
+			,[ 3230.4, 1.5, 1.86, 0.27 ]
+			,[ 3220.5, 1.5, 1.66, 0.34 ]
+			,[ 3210.5, 1.5, 1.72, 0.24 ]
+			,[ 3205.6, 1.5, 1.56, 0.33 ]
+			,[ 3200.6, 1.5, 1.57, 0.42 ]
+			,[ 3190.6, 1.5, 1.83, 0.44 ]
+			,[ 3185.7, 1.5, 2.15, 0.33 ]
+			,[ 3180.7, 1.5, 1.73, 0.37 ]
+			,[ 3170.8, 1.5, 2.19, 0.38 ]
+			,[ 3160.9, 1.5, 1.58, 0.36 ]
+			,[ 3150.9, 1.5, 2.49, 0.33 ]
+			,[ 3141.0, 1.5, 3.0, 0.43 ]
+			,[ 3131.0, 1.5, 4.26, 0.54 ]
+			,[ 3121.1, 1.5, 7.67, 0.59 ]
+			,[ 3111.2, 1.5, 24.7, 1.19 ]
+			,[ 3106.2, 1.5, 52.91, 1.61 ]
+			,[ 3104.7, 1.5, 57.55, 1.76 ]
+			,[ 3103.7, 1.5, 62.16, 1.61 ]
+			,[ 3102.7, 1.5, 62.34, 1.8 ]
+			,[ 3101.2, 1.5, 52.47, 1.46 ]
+			,[ 3098.7, 1.5, 37.2, 1.25 ]
+			,[ 3096.2, 1.5, 20.97, 0.96 ]
+			,[ 3093.8, 1.5, 17.2, 0.6 ]
+			,[ 3091.3, 1.5, 11.77, 0.48 ]
+			,[ 3081.3, 1.5, 3.75, 0.52 ]
+			,[ 3071.4, 1.5, 2.45, 0.29 ]
+			,[ 3061.4, 1.5, 1.86, 0.27 ]
+			,[ 3051.5, 1.5, 1.27, 0.23 ]
+			,[ 3041.6, 1.5, 1.15, 0.21 ]
+			,[ 3031.6, 1.5, 0.95, 0.23 ]
+			]
+    }
+   ,{
+        "fileInfo": {
+	  "targ":	"28Si"
+	 ,"zaTarg":	14028 ,"Target":"Si-28" ,"Elem":"Si"
 	 ,"proj":	"d"
 	 ,"dir":	"si8d"
 	 ,"dir1":	"si28-d"
@@ -354039,7 +354353,7 @@
 	 ,"dir":	"si8p"
 	 ,"dir1":	"si28-p"
 	 ,"file":	"si8ppgg"
-	 ,"fileDate":	"2016-03-17,12:28:36"
+	 ,"fileDate":	"2019-01-29,10:35:48"
 	 ,"year":	2016
 	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
@@ -354048,7 +354362,7 @@
 	  "Comment":	[""
 			,"Thick target gamma-ray yield. Gamma-ray energy 1779 keV. The proton energy is known with an accuracy of 0.1%. The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is +/- 8.5% (see \"Sigma scale factor\" fields)."]
 	 ,"Version":	"R33"
-	 ,"Source":	"M. Chiari et al., NIM B 366 (2016) 77�82"
+	 ,"Source":	"M. Chiari et al., Nucl. Instr. and Meth. B 366 (2016) 77-82"
 	 ,"Name":	"M. Chiari"
 	 ,"Address1":	"Istituto Nazionale Fisica Nucleare"
 	 ,"Address2":	"via G. Sansone 1"
@@ -354625,8 +354939,174 @@
 	 ,"proj":	"p"
 	 ,"dir":	"si8p"
 	 ,"dir1":	"si28-p"
+	 ,"file":	"si8ppgp"
+	 ,"fileDate":	"2019-02-05,18:12:13"
+	 ,"year":	2019
+	 ,"author1":	"L.Csedreki"
+	 ,"dataType":	"PIGE,NRA"
+	 ,"nData":	125
+        },
+	  "Comment":	["Particle production cross sections of the 28Si(p,p�g)28Si (Eg = 1779 keV) reaction were measured in the 3-4 MeV proton energy range using approx. 75 nm thick silicon-nitride foils."
+			,"\t\tThe statistical uncertainties of the cross section data are given. Systematic uncertainties were the following: 5% number of target nuclides and 3% charge determination, "
+			,"\t\t5% uncertainty of the absolute efficiency of the gamma-detector. "]
+	 ,"Version":	"R33"
+	 ,"Source":	"L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56."
+	 ,"Name":	""
+	 ,"Address1":	""
+	 ,"Address2":	""
+	 ,"Address3":	""
+	 ,"Address4":	""
+	 ,"Address5":	""
+	 ,"Address6":	""
+	 ,"SubFile":	""
+	 ,"X4Number":	""
+	 ,"Reaction":	"28Si(p,pg1-0)28Si"
+	 ,"Egamma":	"1779"
+	 ,"Distribution": "Energy"
+	 ,"Units":	"mb"
+	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
+	 ,"Masses":	[ 1.0, 28.0, 1.0, 28.0 ]
+	 ,"Zeds":	[ 1.0, 14.0, 1.0, 14.0 ]
+	 ,"Sigfactors":	[ 1.0, 0.0 ]
+	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
+	 ,"Theta":	55.0
+	 ,"Data":	[ 
+			 [ 4015.4, 1.5, 5.83, 0.06 ]
+			,[ 4005.5, 1.5, 6.41, 0.08 ]
+			,[ 4000.5, 1.5, 6.03, 0.08 ]
+			,[ 3998.0, 1.5, 6.04, 0.08 ]
+			,[ 3995.6, 1.5, 6.03, 0.08 ]
+			,[ 3993.1, 1.5, 6.0, 0.1 ]
+			,[ 3991.6, 1.5, 5.73, 0.09 ]
+			,[ 3990.6, 1.5, 5.74, 0.09 ]
+			,[ 3988.6, 1.5, 5.7, 0.07 ]
+			,[ 3985.6, 1.5, 5.56, 0.07 ]
+			,[ 3983.6, 1.5, 6.27, 0.08 ]
+			,[ 3980.6, 1.5, 6.52, 0.07 ]
+			,[ 3975.7, 1.5, 6.93, 0.08 ]
+			,[ 3965.7, 1.5, 6.05, 0.07 ]
+			,[ 3955.8, 1.5, 6.25, 0.08 ]
+			,[ 3945.8, 1.5, 5.42, 0.07 ]
+			,[ 3935.9, 1.5, 6.33, 0.09 ]
+			,[ 3926.0, 1.5, 6.11, 0.08 ]
+			,[ 3916.0, 1.5, 5.43, 0.08 ]
+			,[ 3906.1, 1.5, 5.8, 0.06 ]
+			,[ 3896.1, 1.5, 5.84, 0.08 ]
+			,[ 3886.2, 1.5, 6.43, 0.06 ]
+			,[ 3876.3, 1.5, 5.85, 0.06 ]
+			,[ 3866.3, 1.5, 5.51, 0.06 ]
+			,[ 3856.4, 1.5, 5.41, 0.06 ]
+			,[ 3846.4, 1.5, 5.63, 0.06 ]
+			,[ 3836.5, 1.5, 5.8, 0.06 ]
+			,[ 3826.6, 1.5, 6.11, 0.05 ]
+			,[ 3816.6, 1.5, 6.6, 0.05 ]
+			,[ 3806.7, 1.5, 6.76, 0.06 ]
+			,[ 3796.7, 1.5, 7.03, 0.05 ]
+			,[ 3786.8, 1.5, 7.88, 0.06 ]
+			,[ 3777.0, 1.5, 8.51, 0.09 ]
+			,[ 3776.9, 1.5, 8.64, 0.07 ]
+			,[ 3766.9, 1.5, 10.19, 0.06 ]
+			,[ 3757.0, 1.5, 11.36, 0.07 ]
+			,[ 3747.0, 1.5, 13.87, 0.1 ]
+			,[ 3742.1, 1.5, 15.64, 0.16 ]
+			,[ 3737.1, 1.5, 16.92, 0.1 ]
+			,[ 3727.2, 1.5, 19.84, 0.1 ]
+			,[ 3717.2, 1.5, 21.1, 0.11 ]
+			,[ 3707.3, 1.5, 19.37, 0.11 ]
+			,[ 3697.4, 1.5, 16.47, 0.1 ]
+			,[ 3687.4, 1.5, 13.96, 0.11 ]
+			,[ 3677.5, 1.5, 11.86, 0.07 ]
+			,[ 3667.5, 1.5, 10.91, 0.11 ]
+			,[ 3657.6, 1.5, 10.48, 0.1 ]
+			,[ 3647.6, 1.5, 10.62, 0.11 ]
+			,[ 3637.7, 1.5, 11.0, 0.11 ]
+			,[ 3627.8, 1.5, 12.4, 0.12 ]
+			,[ 3617.8, 1.5, 13.57, 0.12 ]
+			,[ 3607.9, 1.5, 15.58, 0.13 ]
+			,[ 3598.0, 1.5, 17.62, 0.14 ]
+			,[ 3588.2, 1.5, 19.33, 0.14 ]
+			,[ 3578.1, 1.5, 20.22, 0.12 ]
+			,[ 3568.1, 1.5, 19.43, 0.12 ]
+			,[ 3558.2, 1.5, 17.07, 0.1 ]
+			,[ 3548.3, 1.5, 14.61, 0.12 ]
+			,[ 3538.3, 1.5, 11.95, 0.08 ]
+			,[ 3528.4, 1.5, 9.9, 0.08 ]
+			,[ 3518.5, 1.5, 8.23, 0.07 ]
+			,[ 3508.5, 1.5, 6.92, 0.07 ]
+			,[ 3498.6, 1.5, 5.84, 0.05 ]
+			,[ 3488.6, 1.5, 5.14, 0.05 ]
+			,[ 3478.7, 1.5, 4.77, 0.05 ]
+			,[ 3468.7, 1.5, 4.18, 0.05 ]
+			,[ 3458.8, 1.5, 3.85, 0.06 ]
+			,[ 3448.9, 1.5, 3.36, 0.05 ]
+			,[ 3438.9, 1.5, 3.23, 0.05 ]
+			,[ 3429.0, 1.5, 2.87, 0.04 ]
+			,[ 3419.1, 1.5, 2.76, 0.04 ]
+			,[ 3409.1, 1.5, 2.64, 0.03 ]
+			,[ 3399.2, 1.5, 2.44, 0.04 ]
+			,[ 3389.2, 1.5, 2.44, 0.03 ]
+			,[ 3379.5, 1.5, 2.79, 0.04 ]
+			,[ 3369.6, 1.5, 2.69, 0.04 ]
+			,[ 3359.6, 1.5, 3.27, 0.05 ]
+			,[ 3349.7, 1.5, 6.27, 0.09 ]
+			,[ 3344.7, 1.5, 12.17, 0.11 ]
+			,[ 3341.7, 1.5, 18.32, 0.15 ]
+			,[ 3339.7, 1.5, 19.97, 0.15 ]
+			,[ 3338.7, 1.5, 19.34, 0.15 ]
+			,[ 3337.7, 1.5, 17.89, 0.1 ]
+			,[ 3334.8, 1.5, 12.33, 0.12 ]
+			,[ 3329.8, 1.5, 6.69, 0.08 ]
+			,[ 3319.9, 1.5, 3.81, 0.06 ]
+			,[ 3309.9, 1.5, 2.9, 0.04 ]
+			,[ 3300.0, 1.5, 2.52, 0.04 ]
+			,[ 3290.0, 1.5, 2.34, 0.02 ]
+			,[ 3280.1, 1.5, 2.23, 0.03 ]
+			,[ 3270.2, 1.5, 2.13, 0.03 ]
+			,[ 3260.2, 1.5, 2.05, 0.03 ]
+			,[ 3250.3, 1.5, 2.0, 0.03 ]
+			,[ 3240.3, 1.5, 1.99, 0.03 ]
+			,[ 3230.4, 1.5, 1.89, 0.02 ]
+			,[ 3220.5, 1.5, 1.94, 0.03 ]
+			,[ 3210.5, 1.5, 1.87, 0.02 ]
+			,[ 3205.6, 1.5, 1.86, 0.04 ]
+			,[ 3200.6, 1.5, 1.84, 0.04 ]
+			,[ 3195.6, 1.5, 1.89, 0.04 ]
+			,[ 3190.6, 1.5, 1.97, 0.04 ]
+			,[ 3185.7, 1.5, 1.88, 0.03 ]
+			,[ 3180.7, 1.5, 1.93, 0.03 ]
+			,[ 3170.8, 1.5, 1.99, 0.03 ]
+			,[ 3160.9, 1.5, 2.19, 0.04 ]
+			,[ 3150.9, 1.5, 2.46, 0.03 ]
+			,[ 3141.0, 1.5, 3.0, 0.05 ]
+			,[ 3131.0, 1.5, 4.25, 0.06 ]
+			,[ 3121.1, 1.5, 7.69, 0.08 ]
+			,[ 3111.2, 1.5, 23.65, 0.18 ]
+			,[ 3106.2, 1.5, 47.24, 0.25 ]
+			,[ 3104.7, 1.5, 53.08, 0.27 ]
+			,[ 3103.7, 1.5, 55.76, 0.25 ]
+			,[ 3102.7, 1.5, 55.12, 0.28 ]
+			,[ 3101.2, 1.5, 49.06, 0.23 ]
+			,[ 3098.7, 1.5, 32.73, 0.19 ]
+			,[ 3096.2, 1.5, 18.31, 0.13 ]
+			,[ 3093.8, 1.5, 14.3, 0.08 ]
+			,[ 3091.3, 1.5, 9.82, 0.06 ]
+			,[ 3081.3, 1.5, 3.55, 0.06 ]
+			,[ 3071.4, 1.5, 1.96, 0.03 ]
+			,[ 3061.4, 1.5, 1.3, 0.02 ]
+			,[ 3051.5, 1.5, 1.06, 0.02 ]
+			,[ 3041.6, 1.5, 0.92, 0.01 ]
+			,[ 3031.6, 1.5, 0.81, 0.02 ]
+			]
+    }
+   ,{
+        "fileInfo": {
+	  "targ":	"28Si"
+	 ,"zaTarg":	14028 ,"Target":"Si-28" ,"Elem":"Si"
+	 ,"proj":	"p"
+	 ,"dir":	"si8p"
+	 ,"dir1":	"si28-p"
 	 ,"file":	"si8ppgf"
-	 ,"fileDate":	"2016-03-17,12:28:48"
+	 ,"fileDate":	"2019-01-29,10:36:12"
 	 ,"year":	2016
 	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
@@ -354635,7 +355115,7 @@
 	  "Comment":	[""
 			,"Thick target gamma-ray yield. Gamma-ray energy 1779 keV. The proton energy is known with an accuracy of 0.1%. The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is +/- 8.5% (see \"Sigma scale factor\" fields)."]
 	 ,"Version":	"R33"
-	 ,"Source":	"M. Chiari et al., NIM B 366 (2016) 77�82"
+	 ,"Source":	"M. Chiari et al., Nucl. Instr. and Meth. B 366 (2016) 77-82"
 	 ,"Name":	"M. Chiari"
 	 ,"Address1":	"Istituto Nazionale Fisica Nucleare"
 	 ,"Address2":	"via G. Sansone 1"
@@ -354676,8 +355156,8 @@
 	 ,"dir":	"si8p"
 	 ,"dir1":	"si28-p"
 	 ,"file":	"si8ppge"
-	 ,"fileDate":	"2015-08-04,19:28:12"
-	 ,"year":	0
+	 ,"fileDate":	"2019-01-29,10:37:16"
+	 ,"year":	2016
 	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
 	 ,"nData":	11
@@ -354685,7 +355165,7 @@
 	  "Comment":	[""
 			,"Thick target gamma-ray yield. Gamma-ray energy 1779 keV. The proton energy is known with an accuracy of 0.1%. The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is +/- 8.5% (see \"Sigma scale factor\" fields)."]
 	 ,"Version":	"R33"
-	 ,"Source":	"M. Chiari et al., submitted to NIM B"
+	 ,"Source":	"M. Chiari et al., Nucl. Instr. and Meth. B 366 (2016) 77-82"
 	 ,"Name":	"M. Chiari"
 	 ,"Address1":	"Istituto Nazionale Fisica Nucleare"
 	 ,"Address2":	"via G. Sansone 1"
@@ -354795,42 +355275,6 @@
 	 ,"proj":	"d"
 	 ,"dir":	"si8d"
 	 ,"dir1":	"si28-d"
-	 ,"file":	"si8dngb"
-	 ,"fileDate":	"2017-03-06,17:38:58"
-	 ,"year":	1994
-	 ,"author1":	"A.Z.Kiss"
-	 ,"dataType":	"PIGE,NRA"
-	 ,"nData":	1
-        },
-	  "Comment":	[""
-			,"Thick target gamma-ray yield. "
-			,"Measurements assuming elemental composition. "
-			,"Sigfactor applied to convert to isotopic yield."]
-	 ,"Version":	"R33"
-	 ,"Source":	"A.Z. Kiss et al., Nucl. Instr. & Meth. B85 (1994) 118"
-	 ,"Name":	""
-	 ,"X4Number":	""
-	 ,"Reaction":	"28Si(d,ng1-0)29P"
-	 ,"Egamma":	"1384"
-	 ,"Distribution": "Energy"
-	 ,"Units":	"yield"
-	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
-	 ,"Masses":	[ 0.0, 0.0, 0.0, 0.0 ]
-	 ,"Zeds":	[ 1.0, 14.0, 0.0, 15.0 ]
-	 ,"Sigfactors":	[ 1.0, 0.0 ]
-	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
-	 ,"Theta":	135.0
-	 ,"Data":	[ 
-			 [ 1800.0, 0.0, 108000.0, 0.0 ]
-			]
-    }
-   ,{
-        "fileInfo": {
-	  "targ":	"28Si"
-	 ,"zaTarg":	14028 ,"Target":"Si-28" ,"Elem":"Si"
-	 ,"proj":	"d"
-	 ,"dir":	"si8d"
-	 ,"dir1":	"si28-d"
 	 ,"file":	"si8dnga"
 	 ,"fileDate":	"2017-02-07,12:45:46"
 	 ,"year":	2000
@@ -354887,6 +355331,42 @@
 	 ,"proj":	"d"
 	 ,"dir":	"si8d"
 	 ,"dir1":	"si28-d"
+	 ,"file":	"si8dngb"
+	 ,"fileDate":	"2017-03-06,17:38:58"
+	 ,"year":	1994
+	 ,"author1":	"A.Z.Kiss"
+	 ,"dataType":	"PIGE,NRA"
+	 ,"nData":	1
+        },
+	  "Comment":	[""
+			,"Thick target gamma-ray yield. "
+			,"Measurements assuming elemental composition. "
+			,"Sigfactor applied to convert to isotopic yield."]
+	 ,"Version":	"R33"
+	 ,"Source":	"A.Z. Kiss et al., Nucl. Instr. & Meth. B85 (1994) 118"
+	 ,"Name":	""
+	 ,"X4Number":	""
+	 ,"Reaction":	"28Si(d,ng1-0)29P"
+	 ,"Egamma":	"1384"
+	 ,"Distribution": "Energy"
+	 ,"Units":	"yield"
+	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
+	 ,"Masses":	[ 0.0, 0.0, 0.0, 0.0 ]
+	 ,"Zeds":	[ 1.0, 14.0, 0.0, 15.0 ]
+	 ,"Sigfactors":	[ 1.0, 0.0 ]
+	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
+	 ,"Theta":	135.0
+	 ,"Data":	[ 
+			 [ 1800.0, 0.0, 108000.0, 0.0 ]
+			]
+    }
+   ,{
+        "fileInfo": {
+	  "targ":	"28Si"
+	 ,"zaTarg":	14028 ,"Target":"Si-28" ,"Elem":"Si"
+	 ,"proj":	"d"
+	 ,"dir":	"si8d"
+	 ,"dir1":	"si28-d"
 	 ,"file":	"si8dngc"
 	 ,"fileDate":	"2017-03-06,17:41:18"
 	 ,"year":	1994
@@ -354914,6 +355394,62 @@
 	 ,"Theta":	135.0
 	 ,"Data":	[ 
 			 [ 1800.0, 0.0, 136080.0, 0.0 ]
+			]
+    }
+   ,{
+        "fileInfo": {
+	  "targ":	"28Si"
+	 ,"zaTarg":	14028 ,"Target":"Si-28" ,"Elem":"Si"
+	 ,"proj":	"d"
+	 ,"dir":	"si8d"
+	 ,"dir1":	"si28-d"
+	 ,"file":	"si8dpgb"
+	 ,"fileDate":	"2017-02-07,12:45:46"
+	 ,"year":	2000
+	 ,"author1":	"Z.Elekes"
+	 ,"dataType":	"PIGE,NRA"
+	 ,"nData":	23
+        },
+	  "Comment":	[""
+			,"Thick target gamma-ray yield. Gamma energy 1273 keV."]
+	 ,"Version":	"R33"
+	 ,"Source":	"Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305"
+	 ,"Name":	""
+	 ,"X4Number":	"O0875011"
+	 ,"Reaction":	"28Si(d,pg1-0)29Si"
+	 ,"Egamma":	"1273"
+	 ,"Distribution": "Energy"
+	 ,"Units":	"yield"
+	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
+	 ,"Masses":	[ 0.0, 0.0, 0.0, 0.0 ]
+	 ,"Zeds":	[ 1.0, 14.0, 1.0, 14.0 ]
+	 ,"Sigfactors":	[ 1.0, 0.0 ]
+	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
+	 ,"Theta":	135.0
+	 ,"Data":	[ 
+			 [ 1000.0, 0.0, 2710.0, 0.0 ]
+			,[ 1100.0, 0.0, 6970.12, 0.0 ]
+			,[ 1200.0, 0.0, 13766.8, 0.0 ]
+			,[ 1300.0, 0.0, 31110.8, 0.0 ]
+			,[ 1400.0, 0.0, 68725.6, 0.0 ]
+			,[ 1500.0, 0.0, 108291.6, 0.0 ]
+			,[ 1600.0, 0.0, 188616.0, 0.0 ]
+			,[ 1700.0, 0.0, 306772.0, 0.0 ]
+			,[ 1800.0, 0.0, 537664.0, 0.0 ]
+			,[ 1900.0, 0.0, 737120.0, 0.0 ]
+			,[ 2000.0, 0.0, 1105680.0, 0.0 ]
+			,[ 2100.0, 0.0, 1409200.0, 0.0 ]
+			,[ 2200.0, 0.0, 1788600.0, 0.0 ]
+			,[ 2300.0, 0.0, 2070440.0, 0.0 ]
+			,[ 2400.0, 0.0, 2666640.0, 0.0 ]
+			,[ 2500.0, 0.0, 3252000.0, 0.0 ]
+			,[ 2600.0, 0.0, 4043320.0, 0.0 ]
+			,[ 2700.0, 0.0, 4596160.0, 0.0 ]
+			,[ 2800.0, 0.0, 5344120.0, 0.0 ]
+			,[ 2900.0, 0.0, 6482320.0, 0.0 ]
+			,[ 3000.0, 0.0, 6243840.0, 0.0 ]
+			,[ 3200.0, 0.0, 1.034136E7, 0.0 ]
+			,[ 3400.0, 0.0, 1.31164E7, 0.0 ]
 			]
     }
    ,{
@@ -354972,62 +355508,6 @@
 			,[ 3000.0, 0.0, 6426001.0, 0.0 ]
 			,[ 3210.0, 0.0, 7678801.0, 0.0 ]
 			,[ 3420.0, 0.0, 8888400.0, 0.0 ]
-			]
-    }
-   ,{
-        "fileInfo": {
-	  "targ":	"28Si"
-	 ,"zaTarg":	14028 ,"Target":"Si-28" ,"Elem":"Si"
-	 ,"proj":	"d"
-	 ,"dir":	"si8d"
-	 ,"dir1":	"si28-d"
-	 ,"file":	"si8dpgb"
-	 ,"fileDate":	"2017-02-07,12:45:46"
-	 ,"year":	2000
-	 ,"author1":	"Z.Elekes"
-	 ,"dataType":	"PIGE,NRA"
-	 ,"nData":	23
-        },
-	  "Comment":	[""
-			,"Thick target gamma-ray yield. Gamma energy 1273 keV."]
-	 ,"Version":	"R33"
-	 ,"Source":	"Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305"
-	 ,"Name":	""
-	 ,"X4Number":	"O0875011"
-	 ,"Reaction":	"28Si(d,pg1-0)29Si"
-	 ,"Egamma":	"1273"
-	 ,"Distribution": "Energy"
-	 ,"Units":	"yield"
-	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
-	 ,"Masses":	[ 0.0, 0.0, 0.0, 0.0 ]
-	 ,"Zeds":	[ 1.0, 14.0, 1.0, 14.0 ]
-	 ,"Sigfactors":	[ 1.0, 0.0 ]
-	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
-	 ,"Theta":	135.0
-	 ,"Data":	[ 
-			 [ 1000.0, 0.0, 2710.0, 0.0 ]
-			,[ 1100.0, 0.0, 6970.12, 0.0 ]
-			,[ 1200.0, 0.0, 13766.8, 0.0 ]
-			,[ 1300.0, 0.0, 31110.8, 0.0 ]
-			,[ 1400.0, 0.0, 68725.6, 0.0 ]
-			,[ 1500.0, 0.0, 108291.6, 0.0 ]
-			,[ 1600.0, 0.0, 188616.0, 0.0 ]
-			,[ 1700.0, 0.0, 306772.0, 0.0 ]
-			,[ 1800.0, 0.0, 537664.0, 0.0 ]
-			,[ 1900.0, 0.0, 737120.0, 0.0 ]
-			,[ 2000.0, 0.0, 1105680.0, 0.0 ]
-			,[ 2100.0, 0.0, 1409200.0, 0.0 ]
-			,[ 2200.0, 0.0, 1788600.0, 0.0 ]
-			,[ 2300.0, 0.0, 2070440.0, 0.0 ]
-			,[ 2400.0, 0.0, 2666640.0, 0.0 ]
-			,[ 2500.0, 0.0, 3252000.0, 0.0 ]
-			,[ 2600.0, 0.0, 4043320.0, 0.0 ]
-			,[ 2700.0, 0.0, 4596160.0, 0.0 ]
-			,[ 2800.0, 0.0, 5344120.0, 0.0 ]
-			,[ 2900.0, 0.0, 6482320.0, 0.0 ]
-			,[ 3000.0, 0.0, 6243840.0, 0.0 ]
-			,[ 3200.0, 0.0, 1.034136E7, 0.0 ]
-			,[ 3400.0, 0.0, 1.31164E7, 0.0 ]
 			]
     }
    ,{
@@ -355102,62 +355582,6 @@
 	 ,"proj":	"d"
 	 ,"dir":	"si8d"
 	 ,"dir1":	"si28-d"
-	 ,"file":	"si8dpge"
-	 ,"fileDate":	"2017-02-07,12:45:46"
-	 ,"year":	2000
-	 ,"author1":	"Z.Elekes"
-	 ,"dataType":	"PIGE,NRA"
-	 ,"nData":	23
-        },
-	  "Comment":	[""
-			,"Thick target gamma-ray yield. Gamma energy 4934 keV."]
-	 ,"Version":	"R33"
-	 ,"Source":	"Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305"
-	 ,"Name":	""
-	 ,"X4Number":	"O0875011"
-	 ,"Reaction":	"28Si(d,pg10-0)29Si"
-	 ,"Egamma":	"4934"
-	 ,"Distribution": "Energy"
-	 ,"Units":	"yield"
-	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
-	 ,"Masses":	[ 0.0, 0.0, 0.0, 0.0 ]
-	 ,"Zeds":	[ 1.0, 14.0, 1.0, 14.0 ]
-	 ,"Sigfactors":	[ 1.0, 0.0 ]
-	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
-	 ,"Theta":	135.0
-	 ,"Data":	[ 
-			 [ 1000.0, 0.0, 6102.92, 0.0 ]
-			,[ 1100.0, 0.0, 16476.8, 0.0 ]
-			,[ 1200.0, 0.0, 33062.0, 0.0 ]
-			,[ 1300.0, 0.0, 63956.0, 0.0 ]
-			,[ 1400.0, 0.0, 113820.0, 0.0 ]
-			,[ 1500.0, 0.0, 196204.0, 0.0 ]
-			,[ 1600.0, 0.0, 297016.0, 0.0 ]
-			,[ 1700.0, 0.0, 483464.0, 0.0 ]
-			,[ 1800.0, 0.0, 695928.0, 0.0 ]
-			,[ 1900.0, 0.0, 1052564.0, 0.0 ]
-			,[ 2000.0, 0.0, 1311640.0, 0.0 ]
-			,[ 2100.0, 0.0, 1485080.0, 0.0 ]
-			,[ 2200.0, 0.0, 2146320.0, 0.0 ]
-			,[ 2300.0, 0.0, 2514880.0, 0.0 ]
-			,[ 2400.0, 0.0, 3252000.0, 0.0 ]
-			,[ 2500.0, 0.0, 3750640.0, 0.0 ]
-			,[ 2600.0, 0.0, 4346840.0, 0.0 ]
-			,[ 2700.0, 0.0, 4834640.0, 0.0 ]
-			,[ 2800.0, 0.0, 5376640.0, 0.0 ]
-			,[ 2900.0, 0.0, 7609680.0, 0.0 ]
-			,[ 3000.0, 0.0, 6655760.0, 0.0 ]
-			,[ 3200.0, 0.0, 1.1924E7, 0.0 ]
-			,[ 3400.0, 0.0, 1.36584E7, 0.0 ]
-			]
-    }
-   ,{
-        "fileInfo": {
-	  "targ":	"28Si"
-	 ,"zaTarg":	14028 ,"Target":"Si-28" ,"Elem":"Si"
-	 ,"proj":	"d"
-	 ,"dir":	"si8d"
-	 ,"dir1":	"si28-d"
 	 ,"file":	"si8dpgj"
 	 ,"fileDate":	"2017-03-06,18:20:48"
 	 ,"year":	1994
@@ -355207,6 +355631,62 @@
 			,[ 3010.0, 0.0, 6426001.0, 0.0 ]
 			,[ 3220.0, 0.0, 7560001.0, 0.0 ]
 			,[ 3410.0, 0.0, 8888400.0, 0.0 ]
+			]
+    }
+   ,{
+        "fileInfo": {
+	  "targ":	"28Si"
+	 ,"zaTarg":	14028 ,"Target":"Si-28" ,"Elem":"Si"
+	 ,"proj":	"d"
+	 ,"dir":	"si8d"
+	 ,"dir1":	"si28-d"
+	 ,"file":	"si8dpge"
+	 ,"fileDate":	"2017-02-07,12:45:46"
+	 ,"year":	2000
+	 ,"author1":	"Z.Elekes"
+	 ,"dataType":	"PIGE,NRA"
+	 ,"nData":	23
+        },
+	  "Comment":	[""
+			,"Thick target gamma-ray yield. Gamma energy 4934 keV."]
+	 ,"Version":	"R33"
+	 ,"Source":	"Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305"
+	 ,"Name":	""
+	 ,"X4Number":	"O0875011"
+	 ,"Reaction":	"28Si(d,pg10-0)29Si"
+	 ,"Egamma":	"4934"
+	 ,"Distribution": "Energy"
+	 ,"Units":	"yield"
+	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
+	 ,"Masses":	[ 0.0, 0.0, 0.0, 0.0 ]
+	 ,"Zeds":	[ 1.0, 14.0, 1.0, 14.0 ]
+	 ,"Sigfactors":	[ 1.0, 0.0 ]
+	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
+	 ,"Theta":	135.0
+	 ,"Data":	[ 
+			 [ 1000.0, 0.0, 6102.92, 0.0 ]
+			,[ 1100.0, 0.0, 16476.8, 0.0 ]
+			,[ 1200.0, 0.0, 33062.0, 0.0 ]
+			,[ 1300.0, 0.0, 63956.0, 0.0 ]
+			,[ 1400.0, 0.0, 113820.0, 0.0 ]
+			,[ 1500.0, 0.0, 196204.0, 0.0 ]
+			,[ 1600.0, 0.0, 297016.0, 0.0 ]
+			,[ 1700.0, 0.0, 483464.0, 0.0 ]
+			,[ 1800.0, 0.0, 695928.0, 0.0 ]
+			,[ 1900.0, 0.0, 1052564.0, 0.0 ]
+			,[ 2000.0, 0.0, 1311640.0, 0.0 ]
+			,[ 2100.0, 0.0, 1485080.0, 0.0 ]
+			,[ 2200.0, 0.0, 2146320.0, 0.0 ]
+			,[ 2300.0, 0.0, 2514880.0, 0.0 ]
+			,[ 2400.0, 0.0, 3252000.0, 0.0 ]
+			,[ 2500.0, 0.0, 3750640.0, 0.0 ]
+			,[ 2600.0, 0.0, 4346840.0, 0.0 ]
+			,[ 2700.0, 0.0, 4834640.0, 0.0 ]
+			,[ 2800.0, 0.0, 5376640.0, 0.0 ]
+			,[ 2900.0, 0.0, 7609680.0, 0.0 ]
+			,[ 3000.0, 0.0, 6655760.0, 0.0 ]
+			,[ 3200.0, 0.0, 1.1924E7, 0.0 ]
+			,[ 3400.0, 0.0, 1.36584E7, 0.0 ]
 			]
     }
    ,{
@@ -355281,42 +355761,6 @@
 	 ,"proj":	"d"
 	 ,"dir":	"si8d"
 	 ,"dir1":	"si28-d"
-	 ,"file":	"si8dpgl"
-	 ,"fileDate":	"2017-03-06,17:57:20"
-	 ,"year":	1994
-	 ,"author1":	"A.Z.Kiss"
-	 ,"dataType":	"PIGE,NRA"
-	 ,"nData":	1
-        },
-	  "Comment":	[""
-			,"Thick target gamma-ray yield. "
-			,"Measurements assuming elemental composition. "
-			,"Sigfactor applied to convert to isotopic yield."]
-	 ,"Version":	"R33"
-	 ,"Source":	"A.Z. Kiss et al., Nucl. Instr. & Meth. B85 (1994) 118"
-	 ,"Name":	""
-	 ,"X4Number":	""
-	 ,"Reaction":	"28Si(d,pg2-0)29Si"
-	 ,"Egamma":	"2028"
-	 ,"Distribution": "Energy"
-	 ,"Units":	"yield"
-	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
-	 ,"Masses":	[ 0.0, 0.0, 0.0, 0.0 ]
-	 ,"Zeds":	[ 1.0, 14.0, 1.0, 14.0 ]
-	 ,"Sigfactors":	[ 1.0, 0.0 ]
-	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
-	 ,"Theta":	135.0
-	 ,"Data":	[ 
-			 [ 1800000.0, 0.0, 170000.0, 0.0 ]
-			]
-    }
-   ,{
-        "fileInfo": {
-	  "targ":	"28Si"
-	 ,"zaTarg":	14028 ,"Target":"Si-28" ,"Elem":"Si"
-	 ,"proj":	"d"
-	 ,"dir":	"si8d"
-	 ,"dir1":	"si28-d"
 	 ,"file":	"si8dpgc"
 	 ,"fileDate":	"2017-02-07,12:45:46"
 	 ,"year":	2000
@@ -355364,6 +355808,42 @@
 			,[ 3000.0, 0.0, 4270960.0, 0.0 ]
 			,[ 3200.0, 0.0, 6482320.0, 0.0 ]
 			,[ 3400.0, 0.0, 8574440.0, 0.0 ]
+			]
+    }
+   ,{
+        "fileInfo": {
+	  "targ":	"28Si"
+	 ,"zaTarg":	14028 ,"Target":"Si-28" ,"Elem":"Si"
+	 ,"proj":	"d"
+	 ,"dir":	"si8d"
+	 ,"dir1":	"si28-d"
+	 ,"file":	"si8dpgl"
+	 ,"fileDate":	"2017-03-06,17:57:20"
+	 ,"year":	1994
+	 ,"author1":	"A.Z.Kiss"
+	 ,"dataType":	"PIGE,NRA"
+	 ,"nData":	1
+        },
+	  "Comment":	[""
+			,"Thick target gamma-ray yield. "
+			,"Measurements assuming elemental composition. "
+			,"Sigfactor applied to convert to isotopic yield."]
+	 ,"Version":	"R33"
+	 ,"Source":	"A.Z. Kiss et al., Nucl. Instr. & Meth. B85 (1994) 118"
+	 ,"Name":	""
+	 ,"X4Number":	""
+	 ,"Reaction":	"28Si(d,pg2-0)29Si"
+	 ,"Egamma":	"2028"
+	 ,"Distribution": "Energy"
+	 ,"Units":	"yield"
+	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
+	 ,"Masses":	[ 0.0, 0.0, 0.0, 0.0 ]
+	 ,"Zeds":	[ 1.0, 14.0, 1.0, 14.0 ]
+	 ,"Sigfactors":	[ 1.0, 0.0 ]
+	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
+	 ,"Theta":	135.0
+	 ,"Data":	[ 
+			 [ 1800000.0, 0.0, 170000.0, 0.0 ]
 			]
     }
    ,{
@@ -358812,8 +359292,174 @@
 	 ,"proj":	"p"
 	 ,"dir":	"si9p"
 	 ,"dir1":	"si29-p"
+	 ,"file":	"si9ppgp"
+	 ,"fileDate":	"2019-02-05,18:14:25"
+	 ,"year":	2019
+	 ,"author1":	"L.Csedreki"
+	 ,"dataType":	"PIGE,NRA"
+	 ,"nData":	125
+        },
+	  "Comment":	["Particle production cross sections of the 29Si(p,p�g)29Si (Eg=1273 keV) reaction were measured in the 3-4 MeV proton energy range using approx. 75 nm thick silicon-nitride foils."
+			,"\t\tThe statistical uncertainties of the cross section data are given. Systematic uncertainties were the following: 5% number of target nuclides and 3% charge determination, "
+			,"\t\t5% uncertainty of the absolute efficiency of the gamma-detector. "]
+	 ,"Version":	"R33"
+	 ,"Source":	"L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56."
+	 ,"Name":	""
+	 ,"Address1":	""
+	 ,"Address2":	""
+	 ,"Address3":	""
+	 ,"Address4":	""
+	 ,"Address5":	""
+	 ,"Address6":	""
+	 ,"SubFile":	""
+	 ,"X4Number":	""
+	 ,"Reaction":	"29Si(p,pg1-0)29Si"
+	 ,"Egamma":	"1273"
+	 ,"Distribution": "Energy"
+	 ,"Units":	"mb"
+	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
+	 ,"Masses":	[ 1.0, 29.0, 1.0, 29.0 ]
+	 ,"Zeds":	[ 1.0, 7.0, 1.0, 7.0 ]
+	 ,"Sigfactors":	[ 1.0, 0.0 ]
+	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
+	 ,"Theta":	55.0
+	 ,"Data":	[ 
+			 [ 4015.4, 1.5, 11.26, 0.67 ]
+			,[ 4005.5, 1.5, 10.9, 0.83 ]
+			,[ 4000.5, 1.5, 10.06, 0.82 ]
+			,[ 3998.0, 1.5, 12.55, 0.83 ]
+			,[ 3995.6, 1.5, 10.12, 0.85 ]
+			,[ 3993.1, 1.5, 8.78, 1.09 ]
+			,[ 3991.6, 1.5, 9.22, 1.01 ]
+			,[ 3990.6, 1.5, 10.51, 0.98 ]
+			,[ 3988.6, 1.5, 10.31, 0.76 ]
+			,[ 3985.6, 1.5, 11.42, 0.82 ]
+			,[ 3983.6, 1.5, 12.7, 0.9 ]
+			,[ 3980.6, 1.5, 13.62, 0.75 ]
+			,[ 3975.7, 1.5, 16.01, 0.85 ]
+			,[ 3965.7, 1.5, 18.37, 0.8 ]
+			,[ 3955.8, 1.5, 19.66, 0.97 ]
+			,[ 3945.8, 1.5, 20.89, 0.85 ]
+			,[ 3935.9, 1.5, 16.5, 0.95 ]
+			,[ 3926.0, 1.5, 14.75, 0.89 ]
+			,[ 3916.0, 1.5, 14.15, 0.96 ]
+			,[ 3906.1, 1.5, 15.66, 0.68 ]
+			,[ 3896.1, 1.5, 18.94, 0.96 ]
+			,[ 3886.2, 1.5, 21.22, 0.72 ]
+			,[ 3876.3, 1.5, 21.28, 0.74 ]
+			,[ 3866.3, 1.5, 15.47, 0.66 ]
+			,[ 3856.4, 1.5, 12.92, 0.64 ]
+			,[ 3846.4, 1.5, 10.08, 0.71 ]
+			,[ 3836.5, 1.5, 10.18, 0.61 ]
+			,[ 3826.6, 1.5, 11.45, 0.58 ]
+			,[ 3816.6, 1.5, 12.39, 0.58 ]
+			,[ 3806.7, 1.5, 13.1, 0.65 ]
+			,[ 3796.7, 1.5, 14.38, 0.58 ]
+			,[ 3786.8, 1.5, 14.11, 0.59 ]
+			,[ 3777.0, 1.5, 12.86, 0.89 ]
+			,[ 3776.9, 1.5, 12.84, 0.66 ]
+			,[ 3766.9, 1.5, 13.53, 0.58 ]
+			,[ 3757.0, 1.5, 14.15, 0.63 ]
+			,[ 3747.0, 1.5, 13.24, 0.89 ]
+			,[ 3742.1, 1.5, 15.6, 1.51 ]
+			,[ 3737.1, 1.5, 14.64, 0.92 ]
+			,[ 3727.2, 1.5, 17.05, 0.89 ]
+			,[ 3717.2, 1.5, 16.98, 1.0 ]
+			,[ 3707.3, 1.5, 13.43, 0.98 ]
+			,[ 3697.4, 1.5, 10.53, 0.9 ]
+			,[ 3687.4, 1.5, 11.37, 0.97 ]
+			,[ 3677.5, 1.5, 11.05, 0.68 ]
+			,[ 3667.5, 1.5, 13.64, 1.04 ]
+			,[ 3657.6, 1.5, 9.86, 0.92 ]
+			,[ 3647.6, 1.5, 23.0, 1.08 ]
+			,[ 3637.7, 1.5, 9.56, 1.01 ]
+			,[ 3627.8, 1.5, 6.94, 1.09 ]
+			,[ 3617.8, 1.5, 8.67, 1.08 ]
+			,[ 3607.9, 1.5, 10.59, 1.14 ]
+			,[ 3598.0, 1.5, 9.33, 1.27 ]
+			,[ 3588.2, 1.5, 9.77, 1.21 ]
+			,[ 3578.1, 1.5, 11.42, 1.07 ]
+			,[ 3568.1, 1.5, 12.78, 1.02 ]
+			,[ 3558.2, 1.5, 11.71, 0.94 ]
+			,[ 3548.3, 1.5, 12.78, 1.06 ]
+			,[ 3538.3, 1.5, 13.16, 0.75 ]
+			,[ 3528.4, 1.5, 12.58, 0.8 ]
+			,[ 3518.5, 1.5, 15.41, 0.76 ]
+			,[ 3508.5, 1.5, 20.94, 0.78 ]
+			,[ 3498.6, 1.5, 29.96, 0.61 ]
+			,[ 3488.6, 1.5, 21.31, 0.64 ]
+			,[ 3478.7, 1.5, 19.5, 0.63 ]
+			,[ 3468.7, 1.5, 20.8, 0.64 ]
+			,[ 3458.8, 1.5, 19.28, 0.76 ]
+			,[ 3448.9, 1.5, 21.34, 0.67 ]
+			,[ 3438.9, 1.5, 31.3, 0.74 ]
+			,[ 3429.0, 1.5, 24.35, 0.65 ]
+			,[ 3419.1, 1.5, 13.95, 0.48 ]
+			,[ 3409.1, 1.5, 9.8, 0.4 ]
+			,[ 3399.2, 1.5, 7.28, 0.43 ]
+			,[ 3389.2, 1.5, 6.65, 0.36 ]
+			,[ 3379.5, 1.5, 6.81, 0.42 ]
+			,[ 3369.6, 1.5, 5.64, 0.4 ]
+			,[ 3359.6, 1.5, 4.64, 0.51 ]
+			,[ 3349.7, 1.5, 4.11, 0.83 ]
+			,[ 3344.7, 1.5, 6.8, 0.94 ]
+			,[ 3341.7, 1.5, 10.35, 1.32 ]
+			,[ 3339.7, 1.5, 12.13, 1.32 ]
+			,[ 3338.7, 1.5, 11.34, 1.27 ]
+			,[ 3337.7, 1.5, 9.96, 0.86 ]
+			,[ 3334.8, 1.5, 19.51, 1.16 ]
+			,[ 3329.8, 1.5, 5.13, 0.72 ]
+			,[ 3319.9, 1.5, 3.78, 0.57 ]
+			,[ 3309.9, 1.5, 4.89, 0.44 ]
+			,[ 3300.0, 1.5, 4.56, 0.41 ]
+			,[ 3290.0, 1.5, 4.61, 0.28 ]
+			,[ 3280.1, 1.5, 5.86, 0.37 ]
+			,[ 3270.2, 1.5, 7.17, 0.31 ]
+			,[ 3260.2, 1.5, 7.57, 0.41 ]
+			,[ 3250.3, 1.5, 9.04, 0.4 ]
+			,[ 3240.3, 1.5, 11.61, 0.42 ]
+			,[ 3230.4, 1.5, 14.41, 0.36 ]
+			,[ 3220.5, 1.5, 14.44, 0.42 ]
+			,[ 3210.5, 1.5, 11.33, 0.32 ]
+			,[ 3205.6, 1.5, 8.37, 0.47 ]
+			,[ 3200.6, 1.5, 8.78, 0.47 ]
+			,[ 3195.6, 1.5, 7.12, 0.47 ]
+			,[ 3190.6, 1.5, 5.92, 0.45 ]
+			,[ 3185.7, 1.5, 6.9, 0.4 ]
+			,[ 3180.7, 1.5, 9.68, 0.44 ]
+			,[ 3170.8, 1.5, 9.29, 0.43 ]
+			,[ 3160.9, 1.5, 6.35, 0.44 ]
+			,[ 3150.9, 1.5, 5.06, 0.39 ]
+			,[ 3141.0, 1.5, 7.72, 0.53 ]
+			,[ 3131.0, 1.5, 25.16, 0.79 ]
+			,[ 3121.1, 1.5, 5.27, 0.71 ]
+			,[ 3111.2, 1.5, 4.11, 1.47 ]
+			,[ 3106.2, 1.5, 9.73, 2.0 ]
+			,[ 3104.7, 1.5, 7.16, 2.27 ]
+			,[ 3103.7, 1.5, 7.58, 2.06 ]
+			,[ 3102.7, 1.5, 7.94, 2.27 ]
+			,[ 3101.2, 1.5, 8.46, 1.84 ]
+			,[ 3098.7, 1.5, 6.59, 1.6 ]
+			,[ 3096.2, 1.5, 7.51, 1.19 ]
+			,[ 3093.8, 1.5, 12.95, 0.72 ]
+			,[ 3091.3, 1.5, 6.4, 0.57 ]
+			,[ 3081.3, 1.5, 5.97, 0.61 ]
+			,[ 3071.4, 1.5, 7.34, 0.34 ]
+			,[ 3061.4, 1.5, 7.73, 0.28 ]
+			,[ 3051.5, 1.5, 4.02, 0.28 ]
+			,[ 3041.6, 1.5, 2.44, 0.2 ]
+			,[ 3031.6, 1.5, 2.05, 0.21 ]
+			]
+    }
+   ,{
+        "fileInfo": {
+	  "targ":	"29Si"
+	 ,"zaTarg":	14029 ,"Target":"Si-29" ,"Elem":"Si"
+	 ,"proj":	"p"
+	 ,"dir":	"si9p"
+	 ,"dir1":	"si29-p"
 	 ,"file":	"si9ppgf"
-	 ,"fileDate":	"2016-03-17,12:29:22"
+	 ,"fileDate":	"2019-01-30,12:22:42"
 	 ,"year":	2016
 	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
@@ -358822,7 +359468,7 @@
 	  "Comment":	[""
 			,"Thick target gamma-ray yield. Gamma-ray energy 1273 keV. The proton energy is known with an accuracy of 0.1%. The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is +/- 8.5% (see \"Sigma scale factor\" fields)."]
 	 ,"Version":	"R33"
-	 ,"Source":	"M. Chiari et al., NIM B 366 (2016) 77�82"
+	 ,"Source":	"M. Chiari et al., NIM B 366 (2016) 77-82"
 	 ,"Name":	"M. Chiari"
 	 ,"Address1":	"Istituto Nazionale Fisica Nucleare"
 	 ,"Address2":	"via G. Sansone 1"
@@ -358863,7 +359509,7 @@
 	 ,"dir":	"si9p"
 	 ,"dir1":	"si29-p"
 	 ,"file":	"si9ppge"
-	 ,"fileDate":	"2016-03-17,12:29:14"
+	 ,"fileDate":	"2019-01-30,12:22:56"
 	 ,"year":	2016
 	 ,"author1":	"M.Chiari"
 	 ,"dataType":	"PIGE,NRA"
@@ -358872,7 +359518,7 @@
 	  "Comment":	[""
 			,"Thick target gamma-ray yield. Gamma-ray energy 1273 keV. The proton energy is known with an accuracy of 0.1%. The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is +/- 8.5% (see \"Sigma scale factor\" fields)."]
 	 ,"Version":	"R33"
-	 ,"Source":	"M. Chiari et al., NIM B 366 (2016) 77�82"
+	 ,"Source":	"M. Chiari et al., NIM B 366 (2016) 77-82"
 	 ,"Name":	"M. Chiari"
 	 ,"Address1":	"Istituto Nazionale Fisica Nucleare"
 	 ,"Address2":	"via G. Sansone 1"
@@ -363409,6 +364055,170 @@
 	 ,"proj":	"p"
 	 ,"dir":	"sinp"
 	 ,"dir1":	"si0-p"
+	 ,"file":	"sinpp0j"
+	 ,"fileDate":	"2019-02-05,18:14:59"
+	 ,"year":	2019
+	 ,"author1":	"L.Csedreki"
+	 ,"dataType":	"EBS"
+	 ,"nData":	124
+        },
+	  "Comment":	["Particle production cross sections of the natSi(p,p0)natSi were measured in the 3-4 MeV proton energy range using approx. 75 nm thick silicon-nitride foils."
+			,"\t\tThe statistical uncertainties of the cross section data are given. Systematic uncertainties were the following: 5% number of target nuclides and 3% charge determination, "
+			,"\t\t3% uncertainty of the solid angle. "]
+	 ,"Version":	"R33"
+	 ,"Source":	"L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56."
+	 ,"Name":	""
+	 ,"Address1":	""
+	 ,"Address2":	""
+	 ,"Address3":	""
+	 ,"Address4":	""
+	 ,"Address5":	""
+	 ,"Address6":	""
+	 ,"SubFile":	""
+	 ,"X4Number":	""
+	 ,"Reaction":	"natSi(p,p0)natSi"
+	 ,"Distribution": "Energy"
+	 ,"Units":	"mb"
+	 ,"Qvalue":	[ 0.0, 0.0, 0.0, 0.0 ]
+	 ,"Masses":	[ 1.0, 28.086, 1.0, 28.086 ]
+	 ,"Zeds":	[ 1.0, 14.0, 1.0, 14.0 ]
+	 ,"Sigfactors":	[ 1.0, 0.0 ]
+	 ,"Enfactors":	[ 1.0, 0.0, 0.0, 0.0 ]
+	 ,"Theta":	135.0
+	 ,"Data":	[ 
+			 [ 4015.4, 1.5, 154.7, 1.7 ]
+			,[ 4005.5, 1.5, 143.7, 2.0 ]
+			,[ 4000.5, 1.5, 142.4, 1.9 ]
+			,[ 3998.0, 1.5, 134.6, 1.9 ]
+			,[ 3995.6, 1.5, 136.7, 1.9 ]
+			,[ 3993.1, 1.5, 133.0, 2.3 ]
+			,[ 3991.6, 1.5, 132.5, 2.1 ]
+			,[ 3990.6, 1.5, 133.0, 2.0 ]
+			,[ 3988.6, 1.5, 126.3, 1.6 ]
+			,[ 3985.6, 1.5, 123.7, 1.8 ]
+			,[ 3983.6, 1.5, 119.2, 1.8 ]
+			,[ 3980.6, 1.5, 115.8, 1.6 ]
+			,[ 3975.7, 1.5, 110.3, 1.7 ]
+			,[ 3965.7, 1.5, 104.4, 1.5 ]
+			,[ 3955.8, 1.5, 91.0, 1.5 ]
+			,[ 3945.8, 1.5, 85.1, 1.5 ]
+			,[ 3935.9, 1.5, 77.6, 1.6 ]
+			,[ 3926.0, 1.5, 68.5, 1.4 ]
+			,[ 3916.0, 1.5, 62.9, 1.4 ]
+			,[ 3906.1, 1.5, 59.1, 0.9 ]
+			,[ 3896.1, 1.5, 54.5, 1.3 ]
+			,[ 3886.2, 1.5, 49.6, 0.9 ]
+			,[ 3876.3, 1.5, 50.5, 1.0 ]
+			,[ 3866.3, 1.5, 48.9, 0.9 ]
+			,[ 3856.4, 1.5, 47.3, 0.9 ]
+			,[ 3846.4, 1.5, 45.5, 1.0 ]
+			,[ 3836.5, 1.5, 42.1, 0.8 ]
+			,[ 3826.6, 1.5, 44.5, 0.8 ]
+			,[ 3816.6, 1.5, 42.4, 0.8 ]
+			,[ 3806.7, 1.5, 42.1, 0.9 ]
+			,[ 3796.7, 1.5, 41.2, 0.8 ]
+			,[ 3786.8, 1.5, 39.3, 0.8 ]
+			,[ 3777.0, 1.5, 38.8, 1.1 ]
+			,[ 3776.9, 1.5, 37.8, 0.9 ]
+			,[ 3766.9, 1.5, 38.5, 0.7 ]
+			,[ 3757.0, 1.5, 35.1, 0.7 ]
+			,[ 3747.0, 1.5, 33.5, 0.9 ]
+			,[ 3742.1, 1.5, 34.6, 1.4 ]
+			,[ 3737.1, 1.5, 33.4, 0.9 ]
+			,[ 3727.2, 1.5, 33.5, 0.8 ]
+			,[ 3717.2, 1.5, 33.5, 0.9 ]
+			,[ 3707.3, 1.5, 35.0, 1.0 ]
+			,[ 3697.4, 1.5, 39.1, 0.9 ]
+			,[ 3687.4, 1.5, 41.3, 1.1 ]
+			,[ 3677.5, 1.5, 40.4, 0.8 ]
+			,[ 3667.5, 1.5, 40.6, 1.4 ]
+			,[ 3657.6, 1.5, 40.4, 1.2 ]
+			,[ 3647.6, 1.5, 44.0, 1.3 ]
+			,[ 3637.7, 1.5, 43.3, 1.3 ]
+			,[ 3627.8, 1.5, 43.2, 1.4 ]
+			,[ 3617.8, 1.5, 42.5, 1.4 ]
+			,[ 3607.9, 1.5, 39.7, 1.3 ]
+			,[ 3598.0, 1.5, 35.5, 1.3 ]
+			,[ 3588.2, 1.5, 34.0, 1.1 ]
+			,[ 3578.1, 1.5, 30.8, 0.9 ]
+			,[ 3568.1, 1.5, 29.1, 1.0 ]
+			,[ 3558.2, 1.5, 29.7, 0.9 ]
+			,[ 3548.3, 1.5, 32.8, 1.2 ]
+			,[ 3538.3, 1.5, 35.3, 0.9 ]
+			,[ 3528.4, 1.5, 39.8, 1.1 ]
+			,[ 3518.5, 1.5, 40.7, 1.0 ]
+			,[ 3508.5, 1.5, 42.2, 1.1 ]
+			,[ 3498.6, 1.5, 44.8, 0.8 ]
+			,[ 3488.6, 1.5, 44.4, 1.0 ]
+			,[ 3478.7, 1.5, 46.4, 1.0 ]
+			,[ 3468.7, 1.5, 46.9, 1.0 ]
+			,[ 3458.8, 1.5, 46.9, 1.4 ]
+			,[ 3448.9, 1.5, 47.1, 1.3 ]
+			,[ 3438.9, 1.5, 47.7, 1.2 ]
+			,[ 3429.0, 1.5, 52.8, 1.2 ]
+			,[ 3419.1, 1.5, 50.9, 1.1 ]
+			,[ 3409.1, 1.5, 50.6, 0.9 ]
+			,[ 3399.2, 1.5, 52.0, 1.2 ]
+			,[ 3389.2, 1.5, 52.4, 1.1 ]
+			,[ 3379.5, 1.5, 54.7, 1.1 ]
+			,[ 3369.6, 1.5, 53.9, 1.0 ]
+			,[ 3359.6, 1.5, 54.4, 1.2 ]
+			,[ 3349.7, 1.5, 59.5, 1.6 ]
+			,[ 3344.7, 1.5, 70.8, 1.5 ]
+			,[ 3341.7, 1.5, 84.8, 2.0 ]
+			,[ 3339.7, 1.5, 100.0, 2.1 ]
+			,[ 3338.7, 1.5, 94.7, 1.9 ]
+			,[ 3337.7, 1.5, 95.8, 1.4 ]
+			,[ 3334.8, 1.5, 86.5, 2.0 ]
+			,[ 3329.8, 1.5, 73.2, 1.5 ]
+			,[ 3319.9, 1.5, 64.8, 1.3 ]
+			,[ 3309.9, 1.5, 61.9, 1.3 ]
+			,[ 3300.0, 1.5, 61.4, 1.1 ]
+			,[ 3290.0, 1.5, 61.4, 0.7 ]
+			,[ 3280.1, 1.5, 59.7, 1.0 ]
+			,[ 3270.2, 1.5, 60.5, 0.8 ]
+			,[ 3260.2, 1.5, 62.5, 1.1 ]
+			,[ 3250.3, 1.5, 61.6, 1.1 ]
+			,[ 3240.3, 1.5, 62.4, 1.1 ]
+			,[ 3230.4, 1.5, 62.9, 0.9 ]
+			,[ 3220.5, 1.5, 61.2, 1.1 ]
+			,[ 3210.5, 1.5, 61.1, 0.8 ]
+			,[ 3200.6, 1.5, 61.5, 1.4 ]
+			,[ 3195.6, 1.5, 60.8, 1.4 ]
+			,[ 3190.6, 1.5, 62.3, 1.3 ]
+			,[ 3185.7, 1.5, 62.2, 1.1 ]
+			,[ 3180.7, 1.5, 59.7, 1.2 ]
+			,[ 3170.8, 1.5, 61.5, 1.1 ]
+			,[ 3160.9, 1.5, 64.4, 1.1 ]
+			,[ 3150.9, 1.5, 64.2, 1.1 ]
+			,[ 3141.0, 1.5, 64.1, 1.3 ]
+			,[ 3131.0, 1.5, 66.6, 1.5 ]
+			,[ 3121.1, 1.5, 69.2, 1.4 ]
+			,[ 3111.2, 1.5, 72.8, 2.4 ]
+			,[ 3106.2, 1.5, 73.2, 2.1 ]
+			,[ 3104.7, 1.5, 67.6, 1.9 ]
+			,[ 3103.7, 1.5, 64.3, 1.7 ]
+			,[ 3102.7, 1.5, 60.8, 1.9 ]
+			,[ 3101.2, 1.5, 54.3, 1.7 ]
+			,[ 3098.7, 1.5, 52.5, 1.6 ]
+			,[ 3096.2, 1.5, 48.8, 1.5 ]
+			,[ 3093.8, 1.5, 50.3, 1.0 ]
+			,[ 3091.3, 1.5, 53.1, 0.9 ]
+			,[ 3081.3, 1.5, 54.4, 1.4 ]
+			,[ 3071.4, 1.5, 56.4, 0.9 ]
+			,[ 3061.4, 1.5, 56.5, 0.8 ]
+			,[ 3051.5, 1.5, 56.6, 0.9 ]
+			,[ 3041.6, 1.5, 56.1, 0.7 ]
+			,[ 3031.6, 1.5, 56.7, 0.8 ]
+			]
+    }
+   ,{
+        "fileInfo": {
+	  "targ":	"natSi"
+	 ,"zaTarg":	14000 ,"Target":"Si-nat" ,"Elem":"Si"
+	 ,"proj":	"p"
+	 ,"dir":	"sinp"
+	 ,"dir1":	"si0-p"
 	 ,"file":	"sinpp0$4"
 	 ,"fileDate":	"2011-05-31,01:00:00"
 	 ,"year":	2008
@@ -364627,7 +365437,7 @@
 	 ,"dir":	"sind"
 	 ,"dir1":	"si0-d"
 	 ,"file":	"sindd0f"
-	 ,"fileDate":	"2018-03-02,16:35:07"
+	 ,"fileDate":	"2018-03-02,16:35:08"
 	 ,"year":	0
 	 ,"author1":	"Ntemou"
 	 ,"dataType":	"EBS"
@@ -364779,7 +365589,7 @@
 	 ,"dir":	"sind"
 	 ,"dir1":	"si0-d"
 	 ,"file":	"sindd0e"
-	 ,"fileDate":	"2018-03-02,16:34:46"
+	 ,"fileDate":	"2018-03-02,16:34:48"
 	 ,"year":	0
 	 ,"author1":	"Ntemou"
 	 ,"dataType":	"EBS"
@@ -364931,7 +365741,7 @@
 	 ,"dir":	"sind"
 	 ,"dir1":	"si0-d"
 	 ,"file":	"sindd0d"
-	 ,"fileDate":	"2018-03-02,11:48:55"
+	 ,"fileDate":	"2018-03-02,11:48:56"
 	 ,"year":	2017
 	 ,"author1":	"Ntemou"
 	 ,"dataType":	"EBS"
@@ -365083,7 +365893,7 @@
 	 ,"dir":	"sind"
 	 ,"dir1":	"si0-d"
 	 ,"file":	"sindd0c"
-	 ,"fileDate":	"2018-03-02,16:33:49"
+	 ,"fileDate":	"2018-03-02,16:33:50"
 	 ,"year":	0
 	 ,"author1":	"Ntemou"
 	 ,"dataType":	"EBS"
@@ -365235,7 +366045,7 @@
 	 ,"dir":	"sind"
 	 ,"dir1":	"si0-d"
 	 ,"file":	"sindd0b"
-	 ,"fileDate":	"2018-03-02,16:33:18"
+	 ,"fileDate":	"2018-03-02,16:33:20"
 	 ,"year":	0
 	 ,"author1":	"Ntemou"
 	 ,"dataType":	"EBS"
@@ -365387,7 +366197,7 @@
 	 ,"dir":	"sind"
 	 ,"dir1":	"si0-d"
 	 ,"file":	"sindd0a"
-	 ,"fileDate":	"2018-03-02,16:33:08"
+	 ,"fileDate":	"2018-03-02,16:33:10"
 	 ,"year":	0
 	 ,"author1":	"Ntemou"
 	 ,"dataType":	"EBS"
