@@ -13,7 +13,7 @@ Address5:
 Address6: 
 Serial Number: 
 SubFile: 
-X4Number: 
+X4Number: D4396003 00000000
 Reaction: 28Si(p,pg1-0)28Si 
 Egamma: 1779
 Distribution: Energy
@@ -22,7 +22,7 @@ Masses:    1.0, 28, 1.0, 28
 Zeds: 1, 14, 1, 14
 Qvalue:   0.00,      0.00,      0.00,      0.00,      0.00
 Theta:    55.00
-Sigfactors: 1.00, 0.00
+Sigfactors: 1.00, 0.077
 Enfactors: 1.00, 0.00, 0.00, 0.00
 Units: mb
 Data:
