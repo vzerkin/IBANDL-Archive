@@ -13,7 +13,7 @@ Address5:
 Address6: 
 Serial Number: 
 SubFile: 
-X4Number: 
+X4Number: D4396005 00000000
 Reaction: natN(p,p0)natN 
 Distribution: Energy
 Composition: 
@@ -21,7 +21,7 @@ Masses:    1.000,   14.000,    1.000,   14.000
 Zeds: 1, 7, 1, 7
 Qvalue:   0.00,      0.00,      0.00,      0.00,      0.00
 Theta:    135.00
-Sigfactors: 1.00, 0.00
+Sigfactors: 1.00, 0.065
 Enfactors: 1.00, 0.00, 0.00, 0.00
 Units: mb
 Data:
