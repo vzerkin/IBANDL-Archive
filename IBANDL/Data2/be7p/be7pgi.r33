@@ -1,0 +1,31 @@
+Comment:	"Low-energy cross section of the 7Be(p,g)8B solar fusion              
+ 	          reaction from the Coulomb dissociation of 8B.
+		Cross sections derived from published S factors.				
+	  
+Version: R33
+X4Number: O2213001
+Source: F.Schuemann, Phys. Rev. C 73, 015806 (2006).
+Name: Sent by Tassos Lagoyannis (NCSR "Demokritos") for the PIGE CRP
+Serial Number: 0
+Reaction: 7Be(p,g)8B
+Masses: 1.000,7.000,0.000,8.000
+Zeds: 1,4,0,5
+Qvalue:  136.39, 0.00, 0.00, 0.00, 0.00
+Distribution: Energy
+Theta: 360.
+Sigfactors: 1000.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: tot
+Data:
+160		0	1.01142E-08	1.2137E-09
+316		0	8.23026E-08	5.11726E-09
+507		0	2.2014E-07	1.38923E-08
+695		0	3.82218E-07	2.83742E-08
+942		0	5.4492E-07	3.69437E-08
+1244		0	7.24204E-07	5.46027E-08
+1540		0	8.32621E-07	7.15534E-08
+1841		0	9.52096E-07	8.78317E-08
+2187		0	1.03429E-06	1.038E-07
+2582		0	1.14306E-06	1.30416E-07
+2988		0	2.21559E-06	2.76949E-07
+EndData:
