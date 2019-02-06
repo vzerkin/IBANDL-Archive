@@ -1,0 +1,19 @@
+Comment:	M. Hass et al, ISOLDE Collaboration, Phys. Lett. B462, 1999, 237.
+	  
+Version: R33
+Source:	 M. Hass et al, Phys. Lett. B462 (1999) 237. NACRE Compilation.
+Name: Sent by Tassos Lagoyannis (NCSR "Demokritos") for the PIGE CRP
+Serial Number: 0
+Reaction: 7Be(p,g)8B
+Masses: 1.000,7.000,0.000,8.000
+Zeds: 1,4,0,5
+Qvalue:  136.39, 0.00, 0.00, 0.00, 0.00
+Distribution: Energy
+Theta: 360.
+Sigfactors: 1000.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: tot
+Data:
+1.246	0.0	0.59E-06	0.2E-07				
+1.474	0.0	0.7E-06		0.3E-07	
+EndData:
