@@ -1,0 +1,77 @@
+Comment: SUBMITTED TO: NIMB
+Cross section measurements of the 6Li(d,?0)4He reaction
+V. Foteinou 1, A. Lagoyannis 1, M. Kokkoris 2, G. Provatas 1, T. Konstantinopoulos 1, P. Misaelides 3, S. Harissopulos 1
+1 Tandem Accelerator Laboratory, Institute of Nuclear Physics, NCSR ``Demokritos'', Aghia Paraskevi, 153.10 Athens, Greece.
+2 National Technical University of Athens, Zografou Campus, 157.80 Athens, Greece.
+3 Department of Chemistry, Aristotle University of Thessaloniki, 541.24 Thessaloniki, Greece.
+File created by R33 Manager version 0.1
+
+Version: R33
+Source: V. Foteinou et al., Nucl. Instr. and Meth. B 269, 2990 (2011).
+Name: Varvara Foteinou
+Address1: : Tandem Accelerator Laboratory, 
+Address2: Institute of Nuclear Physics, 
+Address3: NCSR ``Demokritos'',
+Address4: Aghia Paraskevi, 
+Address5: 153.10 Athens, Greece.
+Address6: foteinou@inp.demokritos.gr
+Serial Number: 0
+SubFile: 6LiDA0_170.r33
+X4Number: O1968002
+Reaction: 6Li(d,a0)4He
+Distribution: Energy
+Composition: 
+Masses:    2.000,    6.000,    4.000,    4.000
+Zeds: 1, 3, 2, 2
+Qvalue:  22374.00,      0.00,      0.00,      0.00,      0.00
+Theta:    170.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  889.000,  2.000,   4.570, 0.190
+  914.000,  2.000,   4.500, 0.190
+  939.000,  2.000,   4.520, 0.190
+  964.000,  2.000,   4.510, 0.190
+  989.000,  2.000,   4.410, 0.180
+ 1015.000,  2.000,   4.460, 0.190
+ 1040.000,  2.000,   4.400, 0.190
+ 1065.000,  2.000,   4.430, 0.200
+ 1090.000,  2.000,   4.530, 0.200
+ 1115.000,  2.000,   4.310, 0.190
+ 1140.000,  2.000,   4.210, 0.190
+ 1165.000,  2.000,   4.230, 0.190
+ 1190.000,  2.000,   4.010, 0.180
+ 1215.000,  2.000,   3.990, 0.180
+ 1240.000,  2.000,   3.840, 0.170
+ 1266.000,  2.000,   3.680, 0.170
+ 1291.000,  2.000,   3.760, 0.170
+ 1316.000,  2.000,   3.890, 0.180
+ 1341.000,  2.000,   3.840, 0.170
+ 1366.000,  2.000,   3.770, 0.170
+ 1391.000,  2.000,   3.680, 0.170
+ 1416.000,  2.000,   3.510, 0.160
+ 1441.000,  2.000,   3.440, 0.140
+ 1466.000,  2.000,   3.550, 0.160
+ 1491.000,  2.000,   3.500, 0.160
+ 1516.000,  2.000,   3.580, 0.160
+ 1541.000,  2.000,   3.490, 0.160
+ 1566.000,  2.000,   3.550, 0.160
+ 1592.000,  2.000,   3.540, 0.160
+ 1617.000,  2.000,   3.330, 0.150
+ 1642.000,  2.000,   3.450, 0.160
+ 1667.000,  2.000,   3.280, 0.150
+ 1692.000,  2.000,   3.390, 0.150
+ 1717.000,  2.000,   3.400, 0.150
+ 1742.000,  2.000,   3.290, 0.150
+ 1767.000,  2.000,   3.300, 0.150
+ 1792.000,  2.000,   3.360, 0.150
+ 1817.000,  2.000,   3.270, 0.150
+ 1842.000,  2.000,   3.300, 0.150
+ 1867.000,  2.000,   3.260, 0.140
+ 1892.000,  2.000,   3.180, 0.140
+ 1917.000,  2.000,   3.220, 0.140
+ 1942.000,  2.000,   3.310, 0.150
+ 1967.000,  2.000,   3.150, 0.140
+ 1992.000,  2.000,   3.170, 0.140
+EndData:
