@@ -12,6 +12,7 @@ Address4: End of North Karegar Ave,Tehran
 Address5: Iran
 Address6: arezajokar@gmail.com  
 Serial Number: 0
+X4Number:     D0912003 00000000
 Reaction: 14N(d,pg4-1)15N
 Egamma: 1885
 Distribution: Energy
@@ -24,9 +25,9 @@ Sigfactors: 1.00, 0.1
 Enfactors: 1.00, 0.00, 0.00, 0.00
 Units: yield
 Data:
-597.08	2.00	16190	215	
-697.23	2.00	37524	601	
-797.37	2.00	82917	1280	
+597.08	2.00	16190  	215	
+697.23	2.00	37524 	601	
+797.37	2.00	82917	     1280	
 897.48	2.00	161611	1749	
 997.59	2.00	257993	4873	
 1097.69	2.00	457479	6718	
