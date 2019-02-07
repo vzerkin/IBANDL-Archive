@@ -4,10 +4,10 @@ Comment:	Differential cross sections for the production of 378 keV g-rays from r
 
 
 Version: R33
-Source:  A. Goncharov  
+Source:  A. Goncharov, IAEA-TECDOC-1822, Vienna (2017). 
 Address1: Kharkov Institute of Physics and Technology
 Address2: Kiev, Ukraine
-Name: A. Goncharov for PIGE CRP, unpublished
+Name: A. Goncharov for PIGE CRP
 Serial Number: 0
 Reaction: natCr(p,g1-0)
 Egamma: 378
