@@ -1,0 +1,32 @@
+Comment: Measurements of nuclear gamma-ray line emission in
+	 interactions of protons and alpha particles with N, O, Ne and Si.
+
+
+Version:      R33
+X4Number:    O1902002
+Source:      H.Benhabiles-Mezhoud et al, PRC 83, 024603 (2011).
+Name:       
+Reaction:     14N(p,pg9-0)14N
+Egamma:	      7027
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1000.00, 0.00, 0.00, 0.00
+Units:        tot
+Masses:       1.0, 14.0, 1.0, 14.0
+Zeds:         1, 7, 1, 7
+Qvalue:       0.00, 0.00, 0.00, 0.00, 0.00
+Theta:        360
+Data:
+8.29	0	12.8	1.6
+8.6	0	17	2.1
+8.9	0	20.8	2.5
+9.25	0	20.1	2.5
+9.6	0	24.1	2.9
+10.01	0	23.9	2.9
+10.54	0	24.7	2.9
+14.84	0	23.8	2.9
+17.36	0	18.8	2.3
+19.88	0	12.7	1.6
+22.39	0	9.7	1.1
+26.1	0	7.1	0.8
+EndData:
