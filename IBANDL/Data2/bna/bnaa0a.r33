@@ -1,0 +1,52 @@
+Comment: Invited paper for 15th International Conference on the
+Application of Ace. in Research and industry, Univ. of N.
+Texas, Denton, Texas, Nov. 4th-7th, 1998
+
+Version: R33
+Source:  C.J.Wetteland et al. LA-UR-98-4867 (1998).
+Name:
+Serial Number: 0
+SubFile: 
+X4Number: 
+Reaction: natB(a,a0)natB
+Distribution: Energy
+Composition:
+Masses: 4, 10.81, 4, 10.81
+Zeds: 2, 5, 2, 5
+Qvalue: 0, 0, 0, 0, 0
+Theta: 167
+Sigfactors: 1, 0
+Enfactors: 1, 0, 0, 0
+Units: rr
+Data:
+    5038       0.0      1.74       0.0
+    5095       0.0      6.96       0.0
+    5156       0.0     12.17       0.0
+    5223       0.0     17.39       0.0
+    5284       0.0     17.39       0.0
+    5336       0.0      6.96       0.0
+    5398       0.0     19.13       0.0
+    5464       0.0     26.09       0.0
+    5521       0.0     26.09       0.0
+    5550       0.0     34.78       0.0
+    5573       0.0     40.00       0.0
+    5592       0.0     52.17       0.0
+    5597       0.0     69.57       0.0
+    5597       0.0     53.91       0.0
+    5616       0.0     64.35       0.0
+    5626       0.0     60.87       0.0
+    5640       0.0     52.17       0.0
+    5640       0.0     48.70       0.0
+    5659       0.0     36.52       0.0
+    5673       0.0     36.52       0.0
+    5706       0.0     24.35       0.0
+    5725       0.0     19.13       0.0
+    5763       0.0     20.87       0.0
+    5791       0.0     20.87       0.0
+    5820       0.0     24.35       0.0
+    5853       0.0     34.78       0.0
+    5886       0.0     45.22       0.0
+    5915       0.0     55.65       0.0
+    5938       0.0     66.09       0.0
+    5991       0.0     60.87       0.0
+EndData:
