@@ -1,0 +1,22 @@
+Comment: 
+
+Version: R33
+Source: J.A. Davies, P.R. Norton, Nucl. Instr. and Meth. 168 (1980) 611
+Name: 
+Address1: 
+Serial Number:
+SubFile: 
+X4Number: C1537002
+Reaction: 16O(d,p1)17O
+Distribution: Energy
+Composition: 
+Masses:    2.000,   16.000,    1.000,   17.000
+Zeds: 1, 8, 1, 8
+Qvalue:   1046.00,      0.00,      0.00,      0.00,      0.00
+Theta:    150.0
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+972 0.0 13.3 0.4
+EndData:
