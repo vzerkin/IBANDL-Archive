@@ -1,0 +1,78 @@
+Comment: Data were digitized. Energy digitizing error is 0.001 MeV
+         data digitizing error is 0.06 (relative units).
+         Yield of different gamma quanta is given.
+         Differetial data are given in relative units.       
+
+Version: R33
+Source: I.V.Mitchell, et al. Nuclear Physics v.58 (1964) 529
+Name: Taova Sophiya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1051003
+Reaction: 12C(a,ag)12C
+Egamma: 4430
+Distribution: Energy
+Composition: 
+Masses:    4.000,   12.000,    4.000,   12.000
+Zeds: 2,  6,  2,  6
+Qvalue:         0.00,    0.00,      0.00,      0.00,      0.00
+Theta:      90.0
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: ru
+Data:
+     7.2988         0. 3.3954E-02         0.
+     7.3186         0. 2.2292E-02         0.
+     7.3397         0. 4.3837E-02         0.
+     7.3584         0. 3.2208E-02         0.
+     7.3783         0. 2.6086E-02         0.
+     7.4004         0. 3.6519E-02         0.
+     7.4203         0. 3.0397E-02         0.
+     7.4402         0. 3.5355E-02         0.
+      7.459         0. 2.9265E-02         0.
+       7.48         0. 3.4191E-02         0.
+     7.4999         0. 3.9149E-02         0.
+     7.5198         0. 4.4107E-02         0.
+     7.5397         0. 4.3525E-02         0.
+     7.5596         0. 4.8483E-02         0.
+     7.5795         0. 7.0061E-02         0.
+     7.6005         0. 7.4986E-02         0.
+     7.6193         0. 8.5517E-02         0.
+     7.6403         0.    0.10152         0.
+     7.6591         0.    0.12313         0.
+      7.679         0.    0.15579         0.
+     7.7011         0.     0.1773         0.
+      7.801         0.    0.55111         0.
+     7.8189         0.    0.73341         0.
+      7.839         0.    0.92673         0.
+     7.8604         0.     1.2807         0.
+     7.8798         0.     1.7566         0.
+     7.9005         0.     2.5039         0.
+     7.9177         0.     3.0408         0.
+     7.9397         0.     3.8379         0.
+     7.9595         0.     3.8152         0.
+       7.98         0.     3.3769         0.
+     8.0184         0.      2.229         0.
+      8.039         0.     1.8738         0.
+     8.0582         0.      1.297         0.
+     8.0797         0.    0.73686         0.
+     8.0993         0.    0.53684         0.
+     8.1209         0.     1.9988         0.
+     8.1412         0.     3.2281         0.
+     8.1605         0.     2.7456         0.
+     8.1808         0.     2.1466         0.
+     8.2003         0.     1.8137         0.
+      8.221         0.     1.6025         0.
+     8.2407         0.     1.4136         0.
+     8.2604         0.     1.2856         0.
+     8.2813         0.     1.2019         0.
+     8.3011         0.     1.1237         0.
+      8.321         0.     1.0955         0.
+     8.3408         0.     1.0672         0.
+     8.3607         0.     1.0666         0.
+     8.3806         0.     1.0328         0.
+EndData:
