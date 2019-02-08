@@ -14,6 +14,7 @@ Serial Number:
 SubFile: 
 X4Number: F1051003
 Reaction: 12C(a,ag)12C
+Egamma: 4430
 Distribution: Energy
 Composition: 
 Masses:    4.000,   12.000,    4.000,   12.000
