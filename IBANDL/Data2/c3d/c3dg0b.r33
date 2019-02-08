@@ -1,0 +1,50 @@
+Comment: Data were digitized. Energy digitizing error is 0.0006 MeV
+         data digitizing error is 0.0000005 mb/sr.
+
+Version: R33
+Source: W. Del Bianco et al. Canadian Journal of Physics v. 56 (1978) 3
+Name: Taova Sophiya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1078002
+Reaction: 13C(d,g0)15N
+Egamma: 17095-19756
+Distribution: Energy
+Composition: 
+Masses:     2.000,   13.000,    0.000,   15.000
+Zeds: 1,  6,  0,  7
+Qvalue:       16159.3,      0.00,      0.00,      0.00,      0.00
+Theta:     90.0
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+     1.0833         0. 5.1674E-04 1.4516E-04
+     1.1963         0. 1.7749E-03 2.1774E-04
+     1.2976         0. 1.9202E-03 2.0565E-04
+     1.4048         0. 2.4768E-03 2.4189E-04
+      1.512         0. 2.8882E-03 2.7823E-04
+     1.6073         0. 3.5537E-03  3.752E-04
+     1.7205         0.   3.82E-03   3.75E-04
+     1.8278         0. 3.8443E-03  3.871E-04
+     1.9235         0. 3.1186E-03 3.2662E-04
+     2.0251         0. 2.5744E-03 2.6613E-04
+     2.1207         0. 1.9334E-03 2.0565E-04
+     2.2162         0. 1.6432E-03 1.4517E-04
+     2.3355         0. 1.7038E-03 1.8134E-04
+     2.5263         0. 1.8613E-03 2.1761E-04
+     2.7292         0. 1.3051E-03 1.6935E-04
+      2.938         0. 1.3054E-03 1.6938E-04
+     3.1349         0.   9.79E-04 1.6952E-04
+     3.2362         0. 1.2332E-03 1.5726E-04
+     3.3376         0. 1.2817E-03 1.8145E-04
+     3.5405         0. 8.2226E-04 2.0565E-04
+     3.6537         0.  1.149E-03 2.2984E-04
+     3.7552         0. 7.2575E-04 1.6935E-04
+     3.9521         0. 6.6552E-04 1.4516E-04
+     4.1549         0.   5.69E-04 1.6962E-04
+EndData:
