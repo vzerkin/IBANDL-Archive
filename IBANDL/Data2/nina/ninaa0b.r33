@@ -1,0 +1,33 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2018-10-10, by V.Zerkin.
+            X4Title: "Non-Rutherford cross-sections for alpha elastic
+             scattering off Z=28-38 elements in the energy range
+             up to 10 MeV."
+            X4Author: A.F.Gurbich,  M.V.Bokhovko
+            EXFOR: F1345002    Created: 2018-07-09  Updated: 2018-10-08
+            X4Reaction:28-NI-0(A,EL)28-NI-0,,DA,,RTH; X4Points:6
+            ENSDF:LevelEnergy=0.00
+            AME2016:M1=4.002603254 M2=58.6934 M3=4.002603254 M4=58.6934
+
+Version:      R33
+X4Number:     F1345002
+Source:       A.F.Gurbich+(2018), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.420, p.1
+Reaction:     natNi(a,a0)natNi
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        rr
+Composition:
+Masses:       4.0, 58.693, 4.0, 58.693
+Zeds:         2, 28, 2, 28
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        170
+Data:
+ 6000.00,     3.60,     1.00,     0.02
+ 6500.00,     3.90,    0.995,     0.02
+ 7200.00,     4.32,    0.967,     0.02
+ 7600.00,     4.56,     0.94,     0.02
+ 8000.00,     4.80,    0.895,     0.02
+ 8500.00,     5.10,     0.84,     0.02
+EndData:
