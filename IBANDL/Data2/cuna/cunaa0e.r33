@@ -1,0 +1,37 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2018-10-10, by V.Zerkin.
+            X4Title: "Non-Rutherford cross-sections for alpha elastic
+             scattering off Z=28-38 elements in the energy range
+             up to 10 MeV."
+            X4Author: A.F.Gurbich,  M.V.Bokhovko
+            EXFOR: F1345003    Created: 2018-07-09  Updated: 2018-10-08
+            X4Reaction:29-CU-0(A,EL)29-CU-0,,DA,,RTH; X4Points:20
+            ENSDF:LevelEnergy=0.00
+            AME2016:M1=4.002603254 M2=63.546 M3=4.002603254 M4=63.546
+
+Version:      R33
+X4Number:     F1345003
+Source:       A.F.Gurbich+(2018), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.420, p.1
+Reaction:     natCu(a,a0)natCu
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        rr
+Composition:
+Masses:       4.0, 63.546, 4.0, 63.546
+Zeds:         2, 29, 2, 29
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        150
+Data:
+ 6500.00,     3.90,    0.997,     0.02
+ 7000.00,     4.20,     0.99,     0.02
+ 7500.00,     4.50,    0.971,    0.019
+ 7600.00,     4.56,    0.965,    0.019
+ 7700.00,     4.62,    0.958,    0.019
+ 7800.00,     4.68,     0.95,    0.019
+ 7900.00,     4.74,     0.94,    0.019
+ 8000.00,     4.80,     0.93,    0.019
+ 8500.00,     5.10,    0.857,    0.017
+ 9000.00,     5.40,     0.75,    0.015
+EndData:
