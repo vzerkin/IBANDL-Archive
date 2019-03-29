@@ -1,0 +1,61 @@
+Comment: J.Liu,T.Xie and H.J.Fischback Nucl.Instrum.Methods
+       v.79 (1993) 468;
+   "Nuclear resonance effects in the analysis of proton 
+    backscattering from carbon and silicon films"
+    The elastic scattering cross section of protons on C and Si has
+been measured using thin films in the energy region between 450 and 
+2200 keV at a laboratory angle of 155 deg.
+    The total error for the measured cross sections was estimated by
+authors as 5%. Comparison of different data is presented as graphs.
+Authors' data are presented in tabular form but some points shown in
+the graph are missed in the table.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: J.Liu+(1993), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.79, p.468
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: C1358002 20060104
+Reaction: 12C(p,p0)12C
+Distribution: Energy
+Composition: 
+Masses:    1.000,   12.000,    1.000,   12.000
+Zeds: 1, 6, 1, 6
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    155.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  450.000,  0.000,  56.000, 0.000
+  467.000,  0.000, 407.000, 0.000
+  476.000,  0.000, 606.000, 0.000
+  485.000,  0.000, 706.000, 0.000
+  512.000,  0.000, 638.000, 0.000
+  525.000,  0.000, 512.000, 0.000
+  545.000,  0.000, 403.000, 0.000
+  565.000,  0.000, 379.000, 0.000
+  582.000,  0.000, 350.000, 0.000
+  988.000,  0.000, 176.000, 0.000
+ 1555.000,  0.000, 156.000, 0.000
+ 1600.000,  0.000, 154.000, 0.000
+ 1620.000,  0.000, 146.000, 0.000
+ 1645.000,  0.000, 113.000, 0.000
+ 1665.000,  0.000,  39.000, 0.000
+ 1678.000,  0.000,  25.000, 0.000
+ 1705.000,  0.000, 342.000, 0.000
+ 1720.000,  0.000, 644.000, 0.000
+ 1730.000,  0.000, 722.000, 0.000
+ 1734.000,  0.000, 646.000, 0.000
+ 1740.000,  0.000, 596.000, 0.000
+ 1745.000,  0.000, 409.000, 0.000
+ 1766.000,  0.000, 141.000, 0.000
+ 1778.000,  0.000,  80.000, 0.000
+ 1808.000,  0.000,  49.000, 0.000
+ 1828.000,  0.000,  44.000, 0.000
+ 1853.000,  0.000,  50.000, 0.000
+ 1922.000,  0.000,  61.000, 0.000
+ 2093.000,  0.000,  68.000, 0.000
+ 2150.000,  0.000,  70.000, 0.000
+EndData:
