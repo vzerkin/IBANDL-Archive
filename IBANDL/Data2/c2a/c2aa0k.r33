@@ -1,0 +1,47 @@
+
+Comment:    Automatically converted from EXFOR on 2019-04-01,08:04:19
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-02-20 (V.Zerkin).
+            X4Title: "Aplha backscattering used in stoichiometry
+             determination of thin SiC coatings on Si(100) wafers"
+            X4Author: R.Somatri, J.F.Chailan, A.Chevarier, N.Chevarier, 
+            G.Ferro, Y.Monteil, H.Vincent, J.Bouix
+            EXFOR: D0097002    Created: 2004-01-26  Updated: 2005-09-26
+            X4Reaction:6-C-12(A,EL)6-C-12,,DA; X4Points:19
+            ENSDF:LevelEnergy=0.00
+            AME2016: M1=4.002603254 M2=12.0 M3=4.002603254 M4=12.0
+
+Version:      R33
+X4Number:     D0097002 20050926
+Source:       R.Somatri+(1996), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.113, p.284
+Reaction:     12C(a,a0)12C
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       4.0, 12.0, 4.0, 12.0
+Zeds:         2, 6, 2, 6
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        172
+Data:
+ 4035.00,     0.00,    60.00,     0.00
+ 4135.00,     0.00,    48.00,     0.00
+ 4195.00,     0.00,    54.00,     0.00
+ 4205.00,     0.00,    58.00,     0.00
+ 4215.00,     0.00,   182.00,     0.00
+ 4225.00,     0.00,   186.00,     0.00
+ 4235.00,     0.00,   349.00,     0.00
+ 4245.00,     0.00,   650.00,     0.00
+ 4255.00,     0.00,  1200.00,     0.00
+ 4265.00,     0.00,  1130.00,     0.00
+ 4275.00,     0.00,  1020.00,     0.00
+ 4285.00,     0.00,   500.00,     0.00
+ 4295.00,     0.00,   440.00,     0.00
+ 4305.00,     0.00,   420.00,     0.00
+ 4315.00,     0.00,   410.00,     0.00
+ 4335.00,     0.00,   400.00,     0.00
+ 4440.00,     0.00,   300.00,     0.00
+ 4535.00,     0.00,   136.00,     0.00
+ 4635.00,     0.00,   139.00,     0.00
+EndData:
