@@ -1,0 +1,50 @@
+Comment:    Automatically converted from EXFOR on 2019-04-01,13:53:35
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-02-20 (V.Zerkin).
+            X4Title: "Nitrogen detection by means of a broad resonance at
+             9.3 MeV in 14N(a, a)14N elastic backscattering"
+            X4Author: Y.Qui, A.P.Rice, T.A.Tombrello
+            EXFOR: C1535002    Created: 2007-03-22  Updated: 2007-07-16
+            X4Reaction:7-N-14(A,EL)7-N-14,,DA; X4Points:24
+            ENSDF:LevelEnergy=0.00
+            AME2016: M1=4.002603254 M2=14.003074004 M3=4.002603254 M4=14.003074004
+
+Version:      R33
+X4Number:     C1535002 20070716
+Source:       Y.Qui+(1992), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.71, p.324
+Reaction:     14N(a,a0)14N
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       4.0, 14.0, 4.0, 14.0
+Zeds:         2, 7, 2, 7
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        177
+Data:
+ 9092.00,     0.00,   161.20,    3.224
+ 9112.00,     0.00,   145.10,    2.902
+ 9132.00,     0.00,   142.50,     2.85
+ 9152.00,     0.00,   147.30,    2.946
+ 9172.00,     0.00,   194.30,    3.886
+ 9192.00,     0.00,   361.90,    7.238
+ 9212.00,     0.00,   435.90,    8.718
+ 9232.00,     0.00,   444.30,    8.886
+ 9252.00,     0.00,   459.80,    9.196
+ 9272.00,     0.00,   488.70,    9.774
+ 9292.00,     0.00,   482.10,    9.642
+ 9312.00,     0.00,   477.10,    9.542
+ 9332.00,     0.00,   456.70,    9.134
+ 9352.00,     0.00,   433.30,    8.666
+ 9372.00,     0.00,   421.00,     8.42
+ 9392.00,     0.00,   362.80,    7.256
+ 9412.00,     0.00,   303.70,    6.074
+ 9432.00,     0.00,   252.00,     5.04
+ 9452.00,     0.00,   156.40,    3.128
+ 9472.00,     0.00,    79.30,    1.586
+ 9492.00,     0.00,    53.10,    1.062
+ 9512.00,     0.00,    70.90,    1.418
+ 9552.00,     0.00,    91.00,     1.82
+ 9592.00,     0.00,   145.90,    2.918
+EndData:
