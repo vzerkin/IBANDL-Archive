@@ -1,38 +1,39 @@
-Comment:    Automatically converted from EXFOR
-            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
-            "Comparison of the 13C(d,a)11B and 11B(3He,p)13C
-             reactions"
-            B.B.Marsh, O.M.Bilaniuk
-            EXFOR: F0282003    Created: 1982-06-21  Updated: 2000-11-15
-            X4Reaction:6-C-13(D,A)5-B-11,PAR,DA,,,EXP; X4Points:51
-            Data converted from C.M. to Lab. (Angle: not converted)
-            LevelEnergy: 0.00
+Comment:    Automatically converted from EXFOR on 2019-04-01,09:46:12
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-02-20 (V.Zerkin).
+            X4Title: "Comparison of the C-13(d,a)B-11 and B-11(3He,p)C-13
+             reactions."
+            X4Author: B.B.Marsh, O.M.Bilaniuk
+            EXFOR: F0282003    Created: 1982-06-21  Updated: 2012-07-02
+            X4Reaction:6-C-13(D,A)5-B-11,PAR,DA; X4Points:51
+            ENSDF:LevelEnergy=0.00
+            Systematic uncertainty: ErrSys=0.42%  Min=0.14%  Max=1.03%
+            AME2016: M1=2.014101778 M2=13.003354835 M3=4.002603254 M4=11.009305166
 
 Version:      R33
-X4Number:     F0282003
+X4Number:     F0282003 20120702
 Source:       B.B.Marsh+(1963), Jour. Physical Review, Vol.130, p.2373
 Reaction:     13C(d,a0)11B
 Distribution: Energy
-Sigfactors:   1.00, 0.00
+Sigfactors:   1.00, 0.0042
 Enfactors:    1.00, 0.00, 0.00, 0.00
 Units:        mb
 Composition:
 Masses:       2.0, 13.0, 4.0, 11.0
 Zeds:         1, 6, 2, 5
-Qvalue:       5167.89, 0.00, 0.00, 0.00, 0.00
+Qvalue:       5168.11, 0.00, 0.00, 0.00, 0.00
 Theta:        154
 Data:
- 3147.80,    50.00,   3.8897,   0.0153
- 3246.50,    50.00,   4.5649,   0.0152
- 3348.40,    50.00,   5.4657,   0.0152
- 3448.50,    50.00,   6.8963,   0.0151
- 3548.50,    50.00,   8.1825,   0.0151
- 3650.80,    50.00,   9.9024,   0.0151
- 3745.40,    50.00,  10.3742,    0.015
- 3848.00,    50.00,   8.8772,    0.015
- 3950.30,    50.00,    6.997,    0.015
- 4049.60,    50.00,   4.9917,   0.0149
- 4151.20,    50.00,   5.5155,   0.0149
- 4204.50,    50.00,   5.6264,   0.0149
+ 3147.80,    50.00,   5.0921,     0.00
+ 3246.50,    50.00,   5.9936,     0.00
+ 3348.40,    50.00,   7.1975,     0.00
+ 3448.50,    50.00,    9.107,     0.00
+ 3548.50,    50.00,  10.8351,     0.00
+ 3650.80,    50.00,  13.1477,     0.00
+ 3745.40,    50.00,  13.8076,     0.00
+ 3848.00,    50.00,  11.8461,     0.00
+ 3950.30,    50.00,   9.3604,     0.00
+ 4049.60,    50.00,   6.6935,     0.00
+ 4151.20,    50.00,   7.4134,     0.00
+ 4204.50,    50.00,   7.5716,     0.00
 EndData:
-
