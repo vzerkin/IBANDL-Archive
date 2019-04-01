@@ -12,7 +12,7 @@ Comment:    Automatically converted from EXFOR on 2019-04-01,15:02:43
 
 Version:      R33
 X4Number:     D0565004 20090508
-Source:       G.Terwagne+(2008), Jour. Journal of Applied Physics, Vol.104, p.084909
+Source:       G.Terwagne+(2008), Journal of Applied Physics, Vol.104, p.084909
 Reaction:     14N(a,p1)17O
 Distribution: Energy
 Sigfactors:   1.00, 0.03
