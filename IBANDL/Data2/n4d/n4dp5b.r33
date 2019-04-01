@@ -1,0 +1,38 @@
+
+Comment:    Automatically converted from EXFOR on 2019-04-01,12:58:55
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-02-20 (V.Zerkin).
+            X4Title: "Simultaneous nuclear microanalysis of nitrogen and
+             oxygen on silicon"
+            X4Author: M.Berti, A.V.Drigo
+            EXFOR: D0131003    Created: 2004-02-29  Updated: 2005-09-26
+            X4Reaction:7-N-14(D,P)7-N-15,PAR,DA; X4Points:10
+            ENSDF:LevelEnergy=7300.00
+            Systematic uncertainty: ErrSys=0.73%  Min=0.55%  Max=0.98%
+            AME2016: M1=2.014101778 M2=14.003074004 M3=1.007825032 M4=15.000108898
+
+Version:      R33
+X4Number:     D0131003 20050926
+Source:       M.Berti+(1982), Jour. Nuclear Instrum.and Methods in Physics Res., Vol.201, p.473
+Reaction:     14N(d,p5)15N
+Distribution: Energy
+Sigfactors:   1.00, 0.0073
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 14.0, 1.0, 15.0
+Zeds:         1, 7, 1, 7
+Qvalue:       1308.73, 0.00, 0.00, 0.00, 0.00
+Theta:        150
+Data:
+  545.10,     0.40,   0.6105,   0.0608
+  565.05,     0.40,   0.6842,   0.0682
+  575.12,     0.40,   0.7472,   0.0745
+  585.19,     0.40,   0.8104,   0.0808
+  595.07,     0.40,    0.817,   0.0815
+  605.12,     0.40,   0.8504,   0.0848
+  615.02,     0.40,   0.8768,   0.0875
+  624.96,     0.40,   0.9716,    0.097
+  635.02,     0.40,   1.0208,   0.1019
+  645.09,     0.40,    1.083,   0.1081
+EndData:
