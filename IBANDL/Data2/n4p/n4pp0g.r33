@@ -1,0 +1,35 @@
+Comment: Yang Guohua et al. Nucl.Instrum.Mrthods v.B61 (1991) 175;
+   "Proton elastic scattering for light element cross section
+    enhancement with Ep > 2.5 MeV".
+   The proton elastic scattering technique in the energy range 
+of 2.5-3.6 MeV for light elements C,N and O detection has been 
+investigated by measuring the enhanced scattering cross section 
+at 170 deg lab.
+   A total accuracy of 4% in the nonresonant energy regions was
+estimated. In the energy interval of 2.7 to 3.1 MeV, both measured
+p-C and p-O cross sections appear rather smooth.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: Yang Guohua et al. Nucl.Instr.& Meth. v.B61 (1991) 175
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: F0569006  
+Reaction: 14N(p,p0)14N
+Distribution: Energy
+Composition: 
+Masses:    1.000,   14.000,    1.000,   14.000
+Zeds: 1, 7, 1, 7
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    170.00
+Sigfactors: 1.00, 0.04
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+ 2700.000,  0.000,  10.410, 0.000
+ 2800.000,  0.000,  10.860, 0.000
+ 2900.000,  0.000,  11.430, 0.000
+ 3000.000,  0.000,  11.920, 0.000
+ 3100.000,  0.000,  12.630, 0.000
+EndData:
