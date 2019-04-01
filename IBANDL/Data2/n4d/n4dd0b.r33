@@ -1,0 +1,57 @@
+
+Comment:    Automatically converted from EXFOR on 2019-04-01,12:11:00
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-02-20 (V.Zerkin).
+            X4Title: "Measurement of gamma-ray production cross sections for
+             nuclear reactions 14N(d,pg)15N and 28Si(d,pg)29Si"
+            X4Author: L.Csedreki, I.Uzonyi, Z.Szikszai, Gy.Gyurky, 
+            G.A.Sziki, A.Z.Kiss
+            EXFOR: D4299010    Created: 2014-12-10  Updated: 2015-04-29
+            X4Reaction:7-N-0(D,EL)7-N-0,,DA; X4Points:35
+            ENSDF:LevelEnergy=0.00
+            Systematic uncertainty: ErrSys=4.39%
+            AME2016: M1=2.014101778 M2=14.00674 M3=2.014101778 M4=14.00674
+
+Version:      R33
+X4Number:     D4299010 20150429
+Source:       L.Csedreki+(2014), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.328, p.20
+Reaction:     natN(d,d0)natN
+Distribution: Energy
+Sigfactors:   1.00, 0.0439
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 14.007, 2.0, 14.007
+Zeds:         1, 7, 1, 7
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        135
+Data:
+  650.00,     1.95,   196.65,   3.8303
+  700.00,     2.10,   169.70,   3.3144
+  750.00,     2.25,   154.44,    2.999
+  800.00,     2.40,   130.17,   2.5386
+  850.00,     2.55,   112.15,   2.1753
+  900.00,     2.70,    96.54,   1.8697
+  950.00,     2.85,    86.20,   1.6841
+ 1000.00,     3.00,    73.99,   1.4367
+ 1050.00,     3.15,   62.445,   1.5486
+ 1100.00,     3.30,    51.96,   1.0015
+ 1150.00,     3.45,    54.66,    1.055
+ 1200.00,     3.60,    43.54,   1.4894
+ 1250.00,     3.75,    41.16,   0.8119
+ 1300.00,     3.90,    27.31,   0.5295
+ 1350.00,     4.05,    27.07,   0.5286
+ 1400.00,     4.20,   25.445,   1.9308
+ 1450.00,     4.35,    20.77,   0.4118
+ 1500.00,     4.50,    19.82,   0.3825
+ 1550.00,     4.65,  18.5267,    2.505
+ 1600.00,     4.80,    15.58,   0.3086
+ 1650.00,     4.95,    15.05,    0.287
+ 1700.00,     5.10,    13.52,   0.2658
+ 1750.00,     5.25,    12.80,   0.2381
+ 1800.00,     5.40,  11.9267,   0.6747
+ 1850.00,     5.55,    10.72,   0.1972
+ 1900.00,     5.70,     9.66,   0.1788
+ 1950.00,     5.85,     8.62,   0.1583
+ 2000.00,     6.00,     8.35,   0.1606
+EndData:
