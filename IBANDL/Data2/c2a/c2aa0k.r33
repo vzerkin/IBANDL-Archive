@@ -1,56 +1,47 @@
-Comment: Nucl. Instr. Meth. B113 (1996) 284-287
-"Alpha backscattering used in stoichiometry determination of
-thin SiC coatings on Si(100) wafers."
-R.Somatri et al. (E-mail:somatri@frcpn11.in2p3.fr)
- Cross sections for 170.5" backscattering of 4He ions on
-natural carbon target films at energies in the range
-1.6-5 MeV have been measured by Leavitt et al. [5].
-We measured these 4He-C cross sections for a 172" backscattering
-angle using the procedure described in Ref.[5] for the energy
-region 4.035-4.635 MeV. The results are very close to Leavitt's
-data. Concerning the 28Si(a,a)28Si reaction, a measure-
-ment of the excitation function in the 2-7 MeV energy
-range and for a 170" detection angle has been reported [6].
-We measured the 4He-Si cross sections for a 172"
-backscattering angle. The results are given in Table.
-The uncertainties of the tabulated values are +/-5%
-[5] J.A.Leavitt et al. NIM B40/41 (1989) 776.
-File created by R33 Manager version 0.21
 
-Version: R33
-Source: R.Somatri et al. Nucl. Instr. Meth. B113 (1996) 284-287
-Name: 
-Serial Number: 
-SubFile: 
-X4Number: D0097002 
-Reaction: 12C(a,a0)12C
+Comment:    Automatically converted from EXFOR on 2019-04-01,08:04:19
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-02-20 (V.Zerkin).
+            X4Title: "Aplha backscattering used in stoichiometry
+             determination of thin SiC coatings on Si(100) wafers"
+            X4Author: R.Somatri, J.F.Chailan, A.Chevarier, N.Chevarier, 
+            G.Ferro, Y.Monteil, H.Vincent, J.Bouix
+            EXFOR: D0097002    Created: 2004-01-26  Updated: 2005-09-26
+            X4Reaction:6-C-12(A,EL)6-C-12,,DA; X4Points:19
+            ENSDF:LevelEnergy=0.00
+            AME2016: M1=4.002603254 M2=12.0 M3=4.002603254 M4=12.0
+
+Version:      R33
+X4Number:     D0097002 20050926
+Source:       R.Somatri+(1996), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.113, p.284
+Reaction:     12C(a,a0)12C
 Distribution: Energy
-Composition: 
-Masses:    4.000,   12.000,    4.000,   12.000
-Zeds: 2, 6, 2, 6
-Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
-Theta:    172.00
-Sigfactors: 1.00, 0.00
-Enfactors: 1000.00, 0.00, 0.00, 0.00
-Units: mb
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       4.0, 12.0, 4.0, 12.0
+Zeds:         2, 6, 2, 6
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        172
 Data:
-    4.040,  0.000,  60.000, 0.000
-    4.140,  0.000,  48.000, 0.000
-    4.200,  0.000,  54.000, 0.000
-    4.210,  0.000,  58.000, 0.000
-    4.220,  0.000, 182.000, 0.000
-    4.220,  0.000, 186.000, 0.000
-    4.240,  0.000, 349.000, 0.000
-    4.250,  0.000, 650.000, 0.000
-    4.260,  0.000, 1200.000, 0.000
-    4.270,  0.000, 1130.000, 0.000
-    4.280,  0.000, 1020.000, 0.000
-    4.290,  0.000, 500.000, 0.000
-    4.300,  0.000, 440.000, 0.000
-    4.310,  0.000, 420.000, 0.000
-    4.320,  0.000, 410.000, 0.000
-    4.340,  0.000, 400.000, 0.000
-    4.440,  0.000, 300.000, 0.000
-    4.540,  0.000, 136.000, 0.000
-    4.640,  0.000, 139.000, 0.000
+ 4035.00,     0.00,    60.00,     0.00
+ 4135.00,     0.00,    48.00,     0.00
+ 4195.00,     0.00,    54.00,     0.00
+ 4205.00,     0.00,    58.00,     0.00
+ 4215.00,     0.00,   182.00,     0.00
+ 4225.00,     0.00,   186.00,     0.00
+ 4235.00,     0.00,   349.00,     0.00
+ 4245.00,     0.00,   650.00,     0.00
+ 4255.00,     0.00,  1200.00,     0.00
+ 4265.00,     0.00,  1130.00,     0.00
+ 4275.00,     0.00,  1020.00,     0.00
+ 4285.00,     0.00,   500.00,     0.00
+ 4295.00,     0.00,   440.00,     0.00
+ 4305.00,     0.00,   420.00,     0.00
+ 4315.00,     0.00,   410.00,     0.00
+ 4335.00,     0.00,   400.00,     0.00
+ 4440.00,     0.00,   300.00,     0.00
+ 4535.00,     0.00,   136.00,     0.00
+ 4635.00,     0.00,   139.00,     0.00
 EndData:
