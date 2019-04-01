@@ -1,0 +1,50 @@
+
+Comment:    Automatically converted from EXFOR on 2019-04-01,12:22:48
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-02-20 (V.Zerkin).
+            X4Title: "Differential cross-sections for nuclear reactions
+             14-N(d,p5)15-N, 14-N(d,p0)15-N, 14-N(d,alpha0)12-C
+             and 14-N(d,alpha1)12-C"
+            X4Author: S.Pellegrino,  L.Beck,  Ph.Trouslard
+            EXFOR: O1196004    Created: 2004-10-13  Updated: 2005-09-26
+            X4Reaction:7-N-14(D,P)7-N-15,PAR,DA; X4Points:32
+            ENSDF:LevelEnergy=0.00
+            Systematic uncertainty: ErrSys=5.29%
+            AME2016: M1=2.014101778 M2=14.003074004 M3=1.007825032 M4=15.000108898
+
+Version:      R33
+X4Number:     O1196004 20050926
+Source:       S.Pellegrino+(2004), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.219-220, p.140
+Reaction:     14N(d,p0)15N
+Distribution: Energy
+Sigfactors:   1.00, 0.0529
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 14.0, 1.0, 15.0
+Zeds:         1, 7, 1, 7
+Qvalue:       8608.73, 0.00, 0.00, 0.00, 0.00
+Theta:        150
+Data:
+  500.00,     1.00,   0.0285,   0.0073
+  550.00,     1.00,    0.039,   0.0197
+  600.00,     1.00,     0.07,   0.0114
+  650.00,     1.00,     0.12,    0.027
+  700.00,     1.00,   0.1965,   0.0567
+  750.00,     1.00,    0.211,   0.0402
+  800.00,     1.00,     0.26,   0.0418
+  850.00,     1.00,   0.3255,   0.0548
+  900.00,     1.00,     0.34,   0.0623
+ 1000.00,     1.00,    0.497,   0.0756
+ 1100.00,     1.00,    0.645,   0.0993
+ 1200.00,     1.00,     0.64,   0.0973
+ 1300.00,     1.00,    0.829,   0.1266
+ 1400.00,     1.00,    1.115,   0.1679
+ 1500.00,     1.00,     1.20,   0.1823
+ 1600.00,     1.00,    1.392,   0.2303
+ 1700.00,     1.00,    1.817,   0.2736
+ 1750.00,     1.00,    2.161,   0.3255
+ 1800.00,     1.00,   2.5193,   0.4454
+ 1900.00,     1.00,     3.00,   0.4509
+ 2000.00,     1.00,    2.464,   0.4153
+EndData:
