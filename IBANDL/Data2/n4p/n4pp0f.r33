@@ -1,102 +1,58 @@
-Comment: V.Havranek, V.Hnatowicz, J.Kvitek "Cross-section for 160
-Elastic Scattering of 1.4-2.4 MeV Protons from Nitrogen
-and Titanium"-Czech.J.Phys. Vol.41(1991),No.10, p.921.
- All measurements were performed on a standard backscattering
-facility with a scattering chamber of 400 mm in diameter. The
-ion beam provided by the Van de Graaf accelerator of Nuclear
-Physics Institute was collimaled to a diameter of 1.5 mm on the
-sample surface. The scattered parlicles were registered using 
-surface barrier Si detector (25 mm2 active area) placed at a
-distance of 70 mm from the sample The detector was connected
-to standard slectronics and ND65 MCA. The syslem energy resolution
-(FWHM) was 10 keV for protons and 15 keV for alpha particles The
-beam energy calibration was done using 1742 keV resonance in proton
-elastic scattering of 14N. Additional check of the energy
-calibration was accomplished 1652 and 2083 keV resonances in proton
-elastic scattering of 28Si.
- Two different targers of nalural isotopic composition were used for
-proton cross section measurements. Sample no.1 comprising thin TiN
-and Au layers on Si substrate was prepared by TiN deposition 
-(reactive magnetron sputtering in Ar+N2 atmosphere) and subsequent
-vacuum evaporation of thin gold layer which serves as an internal
-standard. The former technique was employed also for the preparation
-of sample no.2 comprising TiN layer on Be backing. Both samples were
-thoroughly investigated by the standard RBS method using 2 MeV alpha
-particles to determine their composition and thickness. The measured
-relative areal densities of relevant elenlents in sample no.1 were
-N:Ti:Au = (9.5 +/- 0.5): (8.4 +/- 0.5 ):1 and in sample no.2 Ti:N =
-(0.98 +/- 0.05):1. The measured thickness of TiN layers (in TiN/cm^2)
-on sample no.1 and no.2 was 3.8 10^17 and 6.0 10^17, respectively.
-  Most of the cross section measurements in proton energy region
-1.4-2.4 MeV was performed using sample no.1. To determine the cross
-sections of nitrogen and titanium, the areas of N, Ti and Au peaks
-were calculated from the measured RBS spectra and the cross sections
-of N and Ti were determined using known sample composition and 
-assuming theoretical Rutherford cross section for Au internal
-standard. The pertinent peak areas were calculated by substracting
-underlying linear background from the raw measured spectrum and
-summing net count numbers in relevant energy region.
- The systematic error in non-resonant regions arising mainly from
-uncertain knowledge of target composition are about 5%. Around the
-narrow nitrogen resonance at 1742 keV, an additional error of about
-10% appears due to the finite target thickness, proton beam energy
-inhomogeneity, the system energy resolution, and possible 4% 
-difference of titanium cross section from the theoretical Rutherford
-value.
-   Throughout the whole energy region investigated, the measured cross
-section of proton elastic scattering of titanium differs from the
-Rutherford value by less then 4%, i.e. no difference out of quoted
-errors is observed. 
-   Absolute cross sections are in lab reference frame.
-File created by R33 Manager version 0.21
+Comment:    Automatically converted from EXFOR on 2019-04-01,10:33:35
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-02-20 (V.Zerkin).
+            X4Title: "Cross section for 160 degr. elastic scattering of
+             1.4-2.4 MeV protons from nitrogen and titanium"
+            X4Author: V.Havranek, V.Hnatowicz, J.Kvitek
+            EXFOR: D0105002    Created: 2004-02-09  Updated: 2005-09-26
+            X4Reaction:7-N-14(P,EL)7-N-14,,DA; X4Points:32
+            ENSDF:LevelEnergy=0.00
+            AME2016: M1=1.007825032 M2=14.003074004 M3=1.007825032 M4=14.003074004
 
-Version: R33
-Source: V.Havranek, V.Hnatowic, J.Kvitek Czech.J.Phys. v.41 (1991) No.10, p.921
-Name: 
-Serial Number: 
-SubFile: 0
-X4Number: D0105002 
-Reaction: 14N(p,p0)14N
+Version:      R33
+X4Number:     D0105002 20050926
+Source:       V.Havranek+(1991), Jour. Czechoslovak Journal of Physics, Vol.41, p.921
+Reaction:     14N(p,p0)14N
 Distribution: Energy
-Composition: 
-Masses:    1.000,   14.000,    1.000,   14.000
-Zeds: 1, 7, 1, 7
-Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
-Theta:    160.00
-Sigfactors: 1.00, 0.00
-Enfactors: 1.00, 0.00, 0.00, 0.00
-Units: mb
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 14.0, 1.0, 14.0
+Zeds:         1, 7, 1, 7
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        160
 Data:
- 1453.000,  0.000,  58.000, 4.000
- 1486.000,  0.000,  57.000, 3.000
- 1508.000,  0.000,  58.000, 4.000
- 1529.000,  0.000,  52.000, 3.000
- 1550.000,  0.000,  78.000, 4.000
- 1561.000,  0.000,  94.000, 4.000
- 1572.000,  0.000, 108.000, 3.000
- 1593.000,  0.000, 101.000, 3.000
- 1615.000,  0.000,  95.000, 3.000
- 1666.000,  0.000,  91.000, 3.000
- 1687.000,  0.000,  90.000, 3.000
- 1713.000,  0.000,  90.000, 3.000
- 1720.000,  0.000,  91.000, 3.000
- 1727.000,  0.000,  93.000, 3.000
- 1734.000,  0.000,  99.000, 2.000
- 1737.000,  0.000, 111.000, 3.000
- 1739.000,  0.000, 139.000, 3.000
- 1742.000,  0.000, 184.000, 2.000
- 1744.000,  0.000, 173.000, 2.000
- 1748.000,  0.000, 111.000, 3.000
- 1757.000,  0.000,  75.000, 3.000
- 1771.000,  0.000,  77.000, 3.000
- 1776.000,  0.000,  83.000, 3.000
- 1831.000,  0.000,  76.000, 4.000
- 1884.000,  0.000,  76.000, 4.000
- 1991.000,  0.000,  78.000, 4.000
- 2046.000,  0.000,  75.000, 4.000
- 2099.000,  0.000,  78.000, 4.000
- 2154.000,  0.000,  85.000, 4.000
- 2261.000,  0.000, 100.000, 3.000
- 2315.000,  0.000, 111.000, 3.000
- 2369.000,  0.000, 130.000, 3.000
+ 1453.00,     5.00,    58.00,     4.00
+ 1486.00,     5.00,    57.00,     3.00
+ 1508.00,     5.00,    58.00,     4.00
+ 1529.00,     5.00,    52.00,     3.00
+ 1550.00,     5.00,    78.00,     4.00
+ 1561.00,     5.00,    94.00,     4.00
+ 1572.00,     5.00,   108.00,     3.00
+ 1593.00,     5.00,   101.00,     3.00
+ 1615.00,     5.00,    95.00,     3.00
+ 1666.00,     5.00,    91.00,     3.00
+ 1687.00,     5.00,    90.00,     3.00
+ 1713.00,     5.00,    90.00,     3.00
+ 1720.00,     5.00,    91.00,     3.00
+ 1727.00,     5.00,    93.00,     3.00
+ 1734.00,     5.00,    99.00,     2.00
+ 1737.00,     5.00,   111.00,     3.00
+ 1739.00,     5.00,   139.00,     3.00
+ 1742.00,     5.00,   184.00,     2.00
+ 1744.00,     5.00,   173.00,     2.00
+ 1748.00,     5.00,   111.00,     3.00
+ 1757.00,     5.00,    75.00,     3.00
+ 1771.00,     5.00,    77.00,     3.00
+ 1776.00,     5.00,    83.00,     3.00
+ 1831.00,     5.00,    76.00,     4.00
+ 1884.00,     5.00,    76.00,     4.00
+ 1991.00,     5.00,    78.00,     4.00
+ 2046.00,     5.00,    75.00,     4.00
+ 2099.00,     5.00,    78.00,     4.00
+ 2154.00,     5.00,    85.00,     4.00
+ 2261.00,     5.00,   100.00,     3.00
+ 2315.00,     5.00,   111.00,     3.00
+ 2369.00,     5.00,   130.00,     3.00
 EndData:
