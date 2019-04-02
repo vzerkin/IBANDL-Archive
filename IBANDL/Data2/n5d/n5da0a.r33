@@ -1,0 +1,44 @@
+Comment:    Automatically converted from EXFOR on 2019-04-02,08:03:21
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-02-20 (V.Zerkin).
+            X4Title: "Absolute calibration of the 15N(d,alpha0)13C and
+             15N(p,alpha0)12C reaction cross sections"
+            X4Author: J.A.Sawicki, J.A.Davies, T.E.Jackman
+            EXFOR: C0190005    Created: 1998-10-27  Updated: 2014-07-11
+            X4Reaction:7-N-15(D,A)6-C-13,PAR,DA; X4Points:18
+            ENSDF:LevelEnergy=0.00
+            AME2016: M1=2.014101778 M2=15.000108898 M3=4.002603254 M4=13.003354835
+
+Version:      R33
+X4Number:     C0190005 20140711
+Source:       J.A.Sawicki+(1986), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.15, p.530
+Reaction:     15N(d,a0)13C
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 15.0, 4.0, 13.0
+Zeds:         1, 7, 2, 6
+Qvalue:       7687.24, 0.00, 0.00, 0.00, 0.00
+Theta:        150
+Data:
+  804.00,     0.00,    0.913,     0.00
+  846.00,     0.00,    0.868,     0.00
+  874.00,     0.00,    0.936,     0.00
+  900.00,     0.00,     1.16,     0.00
+  926.00,     0.00,     1.58,     0.00
+  950.00,     0.00,     1.92,     0.00
+  974.00,     0.00,     2.12,     0.00
+  996.00,     0.00,     2.35,     0.00
+ 1031.00,     0.00,     2.60,     0.00
+ 1059.00,     0.00,     2.63,     0.00
+ 1109.00,     0.00,     2.81,     0.00
+ 1147.00,     0.00,     2.99,     0.00
+ 1176.00,     0.00,     2.90,     0.00
+ 1203.00,     0.00,     2.76,     0.00
+ 1225.00,     0.00,     2.37,     0.00
+ 1251.00,     0.00,     2.33,     0.00
+ 1275.00,     0.00,     2.17,     0.00
+ 1299.00,     0.00,     2.26,     0.00
+EndData:
