@@ -1,0 +1,48 @@
+Comment:    Automatically converted from EXFOR on 2019-04-03,17:27:34
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-02-20 (V.Zerkin).
+            X4Title: "Determination of the total amount of oxygen atoms in
+             silicon oxide surface layers by the nuclear reactions
+             16O(d,p1)17O* and 16O(d,a)14N"
+            X4Author: A.Turos, L.Wielunski, J.Olenski
+            EXFOR: D0098002    Created: 2004-02-09  Updated: 2005-09-26
+            X4Reaction:8-O-16(D,P)8-O-17,PAR,DA; X4Points:20
+            ENSDF:LevelEnergy=870.73
+            Systematic uncertainty: ErrSys=0.4%  Min=0.21%  Max=0.52%
+            AME2016: M1=2.014101778 M2=15.994914619 M3=1.007825032 M4=16.999131756
+
+Version:      R33
+X4Number:     D0098002 20050926
+Source:       A.Turos+(1973), Jour. Physica Status Solidi, Vol.16, p.211
+Reaction:     16O(d,p1)17O
+Distribution: Energy
+Sigfactors:   1.00, 0.004
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 16.0, 1.0, 17.0
+Zeds:         1, 8, 1, 8
+Qvalue:       1047.78, 0.00, 0.00, 0.00, 0.00
+Theta:        145
+Data:
+  760.88,     0.50,   3.8291,     0.00
+  770.49,     0.50,    4.169,     0.00
+  789.64,     0.50,   4.7655,     0.00
+  800.60,     0.50,    4.769,     0.00
+  809.33,     0.50,   4.7219,     0.00
+  820.87,     0.50,   4.7519,     0.00
+  830.79,     0.50,   4.8133,     0.00
+  840.59,     0.50,    4.736,     0.00
+  850.46,     0.50,    4.742,     0.00
+  860.64,     0.50,   4.4694,     0.00
+  871.06,     0.50,   4.4741,     0.00
+  880.48,     0.50,   4.5922,     0.00
+  890.28,     0.50,   4.5149,     0.00
+  899.77,     0.50,   4.7161,     0.00
+  910.31,     0.50,   4.8595,     0.00
+  919.80,     0.50,   5.0607,     0.00
+  930.68,     0.50,   5.5922,     0.00
+  940.53,     0.50,   6.2094,     0.00
+  950.52,     0.50,   7.6318,     0.00
+  957.67,     0.50,   9.5606,     0.00
+EndData:
