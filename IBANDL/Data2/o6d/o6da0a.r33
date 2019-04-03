@@ -1,0 +1,38 @@
+Comment:    Automatically converted from EXFOR on 2019-04-03,18:10:53
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-02-20 (V.Zerkin).
+            X4Title: "Low-concentration oxygen depth profiling by the
+             16O(d,alpha)14N reaction"
+            X4Author: S.T.Picraux
+            EXFOR: C1041002    Created: 2004-07-20  Updated: 2005-09-26
+            X4Reaction:8-O-16(D,A)7-N-14,,DA; X4Points:11
+            ENSDF:LevelEnergy=0.00
+            Systematic uncertainty: ErrSys=0.35%  Min=0.24%  Max=0.53%
+            AME2016: M1=2.014101778 M2=15.994914619 M3=4.002603254 M4=14.003074004
+
+Version:      R33
+X4Number:     C1041002 20050926
+Source:       S.T.Picraux(1978), Jour. Nuclear Instrum.and Methods in Physics Res., Vol.149, p.289
+Reaction:     16O(d,a)14N
+Distribution: Energy
+Sigfactors:   1.00, 0.0035
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 16.0, 4.0, 14.0
+Zeds:         1, 8, 2, 7
+Qvalue:       3110.39, 0.00, 0.00, 0.00, 0.00
+Theta:        160
+Data:
+  840.30,     0.50,     5.61,   0.1977
+  869.90,     0.50,     5.82,   0.1977
+  900.50,     0.50,     6.02,   0.2179
+  930.70,     0.50,     7.21,    0.228
+  959.90,     0.50,     8.32,   0.2482
+  975.10,     0.50,    11.02,   0.3186
+  987.50,     0.50,    12.52,   0.3085
+  990.50,     0.50,    12.05,   0.3186
+ 1005.10,     0.50,    12.57,   0.3085
+ 1012.60,     0.50,    11.90,   0.3487
+ 1019.80,     0.50,    11.39,   0.3085
+EndData:
