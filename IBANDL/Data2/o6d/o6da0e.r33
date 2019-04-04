@@ -1,0 +1,48 @@
+Comment:    Automatically converted from EXFOR on 2019-04-04,12:15:34
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-02-20 (V.Zerkin).
+            X4Title: "Use of the nuclear reaction 16O(d,a)14N in the
+             microanalysis of oxide surface layers"
+            X4Author: A.Turos, L.Wielunski, A.Barcz
+            EXFOR: D0106002    Created: 2004-02-11  Updated: 2005-09-26
+            X4Reaction:8-O-16(D,A)7-N-14,,DA; X4Points:21
+            ENSDF:LevelEnergy=0.00
+            Systematic uncertainty: ErrSys=0.19%  Min=0.13%  Max=0.34%
+            AME2016: M1=2.014101778 M2=15.994914619 M3=4.002603254 M4=14.003074004
+
+Version:      R33
+X4Number:     D0106002 20050926
+Source:       A.Turos+(1973), Jour. Nuclear Instrum.and Methods in Physics Res., Vol.111, p.605
+Reaction:     16O(d,a0)14N
+Distribution: Energy
+Sigfactors:   1.00, 0.0019
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 16.0, 4.0, 14.0
+Zeds:         1, 8, 2, 7
+Qvalue:       3110.39, 0.00, 0.00, 0.00, 0.00
+Theta:        145
+Data:
+  760.18,    12.50,   2.9264,     0.00
+  769.92,    12.50,   3.6714,     0.00
+  775.13,    12.50,   4.0141,     0.00
+  780.34,    12.50,   4.4252,     0.00
+  784.55,    12.50,   4.5711,     0.00
+  790.13,    12.50,   4.2044,     0.00
+  795.18,    12.50,   4.5129,     0.00
+  800.04,    12.50,   4.9923,     0.00
+  809.81,    12.50,    5.216,     0.00
+  820.26,    12.50,   5.4056,     0.00
+  825.14,    12.50,   5.5004,     0.00
+  830.03,    12.50,   5.6806,     0.00
+  839.81,    12.50,    5.665,     0.00
+  849.75,    12.50,   5.9144,     0.00
+  860.03,    12.50,   6.1126,     0.00
+  875.20,    12.50,   6.1918,     0.00
+  889.19,    12.50,   6.4418,     0.00
+  899.65,    12.50,   6.5032,     0.00
+  914.98,    12.50,   6.7449,     0.00
+  925.41,    12.50,   7.2593,     0.00
+  950.17,    12.50,   7.9383,     0.00
+EndData:
