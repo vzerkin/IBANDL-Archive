@@ -1,0 +1,40 @@
+Comment:    Automatically converted from EXFOR on 2019-06-29,19:18:46
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-06-19 (V.Zerkin).
+            X4Title: "Absolute calibration of the 18O(p,a0)l5N nuclear
+             reaction"
+            X4Author: N.S.Christensen, F.Jensen, F.Besenbacher, I.Stensgaard
+            EXFOR: D0126002    Created: 2004-02-29  Updated: 2005-09-26
+            X4Reaction:8-O-18(P,A)7-N-15,PAR,DA; X4Points:95
+            ENSDF:LevelEnergy=0.00
+            Systematic uncertainty: ErrSys=1.57%  Min=0.4%  Max=11.03%
+            AME2016: M1=1.007825032 M2=17.999159612 M3=4.002603254 M4=15.000108898
+
+Version:      R33
+X4Number:     D0126002 20050926
+Source:       N.S.Christensen+(1990), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.51, p.97
+Reaction:     18O(p,a0)15N
+Distribution: Energy
+Sigfactors:   1.00, 0.0157
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 18.0, 4.0, 15.0
+Zeds:         1, 8, 2, 7
+Qvalue:       3979.8, 0.00, 0.00, 0.00, 0.00
+Theta:        90
+Data:
+  821.54,     4.00,    63.19,     0.40
+  823.58,     4.00,   65.483,     0.40
+  825.62,     4.00,    67.89,     0.40
+  827.42,     4.00,   72.022,     0.40
+  829.97,     4.00,   71.439,     0.40
+  831.70,     4.00,   72.354,     1.61
+  833.70,     4.00,   72.347,     0.40
+  835.69,     4.00,   72.226,     0.40
+  837.65,     4.00,   70.036,     0.40
+  839.59,     4.00,   67.501,     0.40
+  841.78,     4.00,   62.781,     0.40
+  843.43,     4.00,   59.673,     0.40
+  846.71,     4.00,   52.191,     0.40
+EndData:
