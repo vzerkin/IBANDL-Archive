@@ -1,0 +1,40 @@
+Comment: These cross sections have been measured at LARN (Namur-Belgium)
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: G.Terwagne, G.G.Ross and L.Leblanc, J.Appl.Phys. 79(1996)8886-8891
+Name: Guy Terwagne
+Address1: Laboratoire d'Analyses par R?actions Nucl?aires
+Address2: Facult?s Universitaires N-D de la Paix
+Address3: rue Muzet, 22
+Address4: B-5000 Namur, BELGIUM
+Address5: tel: (+32) 81 731267		fax: (+32) 81 737938
+Address6: guy.terwagne@fundp.ac.be
+Serial Number: 
+SubFile: 1htp1x1.r33
+X4Number: A0626002
+Reaction: 1H(3He,1H)3He
+Distribution: Energy
+Composition: 
+Masses:    3.000,    1.000,    1.000,    3.000
+Zeds: 2, 1, 1, 2
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:     20.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 2000.000,  0.000, 472.950, 37.840
+ 2100.000,  0.000, 482.360, 38.590
+ 2200.000,  0.000, 442.090, 35.370
+ 2300.000,  0.000, 519.290, 41.540
+ 2350.000,  0.000, 451.290, 36.100
+ 2400.000,  0.000, 508.790, 40.700
+ 2400.000,  0.000, 505.170, 40.410
+ 2500.000,  0.000, 456.720, 36.540
+ 2600.000,  0.000, 491.530, 39.320
+ 2700.000,  0.000, 529.190, 42.330
+ 2800.000,  0.000, 546.150, 43.690
+ 2900.000,  0.000, 578.510, 46.280
+ 3000.000,  0.000, 646.140, 51.690
+EndData:
