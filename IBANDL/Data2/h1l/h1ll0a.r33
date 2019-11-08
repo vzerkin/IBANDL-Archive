@@ -6,7 +6,7 @@ File created by R33 Manager version 0.21
 Version: R33
 Source: Z. Siketic et al., Nucl. Instr. and Meth. B 229 (2005) 180
 Name: Z.Siketic
-Address1: Ruder Boškovic Institute
+Address1: Ruder Bo?kovic Institute
 Address2: Laboratory for Ion Beam Interactions, Department of experimental phys
 Address3: P.O.Box 180
 Address4: 10002 Zagreb, Croatia 
@@ -14,7 +14,7 @@ Address5: zsiketic@irb.hr
 Address6: 
 Serial Number: 
 SubFile: H(7Li,H)7Li_30 .r33
-X4Number: 
+X4Number: O0694002
 Reaction: 1H(7Li,1H)7Li
 Distribution: Energy
 Composition: 
