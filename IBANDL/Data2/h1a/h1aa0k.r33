@@ -1,0 +1,52 @@
+Comment: Nuclear Instruments and Methods in Physics Research 218(1983)598
+ANALYSIS OF HYDROGEN IN CORROSION PRODUCT FILMS ON AMORPHOUS
+ALLOY USING THE ELASTIC RECOIL DETECTION TECHNIQUE
+S.YAMAGUCHI. Y. FUJINO and S. NAGATA
+H.KANEKO. K. HASHIMOTO and M. HIRABAYASHI
+ For the measurement of the recoil cross section for
+the 1H(4He,4He)1H reaction. V2H plates of 1 mm
+thickness were prepared by the hydrogen gas reaction of
+vanadium uring a Sieverts Type apparatus. The amount
+of hydrogen absorbed in the plates was evaluated from
+its temperature, pressure and volume.
+ The differential recoil cross section was determined
+by measuring the height of the ERD spectra for V2H as
+a function of the incident 4He energy. In determining
+the cross section, it is necessary to know the solid angle
+subtended by the detector as well as the irradiation dose
+of the analysing beam. Both quantities were evaluated
+from measurements of the Rufherford scattering yields
+from an Au foil under the same experimenlal condi-
+tions. The error associated wilh the measurement is 
+estimated to be about ~5% for the differential cross section.
+The data are given in lab system.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: S.Yamaguchi et al. Nucl. Instr. & Meth. 218 (1983) 598
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: E1861003
+Reaction: 1H(a,p)4He
+Distribution: Energy
+Composition: 
+Masses:    4.000,    1.000,    1.000,    4.000
+Zeds: 2, 1, 1, 2
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:     31.30
+Sigfactors: 1.00, 0.05
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+    1.950,  0.000, 202.619, 0.000
+    2.060,  0.000, 212.304, 0.000
+    2.180,  0.000, 185.702, 0.000
+    2.310,  0.000, 184.759, 0.000
+    2.400,  0.000, 186.490, 0.000
+    2.500,  0.000, 189.985, 0.000
+    2.610,  0.000, 195.248, 0.000
+    2.700,  0.000, 196.976, 0.000
+    2.810,  0.000, 187.196, 0.000
+    3.050,  0.000, 177.352, 0.000
+EndData:
