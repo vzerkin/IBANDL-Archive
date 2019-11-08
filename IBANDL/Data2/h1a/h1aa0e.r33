@@ -17,7 +17,7 @@ recoiled particles, dN- the error in the atomic density of
 H(D), dQ- the error in the fluence of incident helium
 ions, dO- the error in the detector solid angle, and
 the dt-error in the effective thickness. These values were
-evaluated to be dY=5%,dN=4%, d(Q ù O)= 10%, and dt=15%.
+evaluated to be dY=5%,dN=4%, d(Q ? O)= 10%, and dt=15%.
 Consequently, the error associated with the cross section
 measurements will be ~ 20%.
  The presence of the resonance at 2.1 MeV has been
@@ -31,7 +31,7 @@ Source: S.Nagata et al. Nucl.Instrum. & Meth. v.B6(1985) 533
 Name: 
 Serial Number: 
 SubFile: 
-X4Number: 
+X4Number: E1862002
 Reaction: 1H(a,p)4He
 Distribution: Energy
 Composition: 
@@ -43,19 +43,19 @@ Sigfactors: 1.00, 0.00
 Enfactors: 1000.00, 0.00, 0.00, 0.00
 Units: mb
 Data:
-    1.510,  0.000, 587.900, 0.000
+    1.514,  0.000, 587.900, 0.000
     1.540,  0.000, 533.900, 0.000
-    1.580,  0.000, 494.700, 0.000
-    1.600,  0.000, 473.700, 0.000
-    1.630,  0.000, 455.600, 0.000
-    1.670,  0.000, 434.400, 0.000
-    1.700,  0.000, 428.300, 0.000
-    1.720,  0.000, 422.200, 0.000
-    1.760,  0.000, 410.100, 0.000
-    1.790,  0.000, 410.000, 0.000
-    1.820,  0.000, 391.800, 0.000
-    1.850,  0.000, 373.700, 0.000
-    1.890,  0.000, 364.600, 0.000
-    1.910,  0.000, 358.500, 0.000
-    1.950,  0.000, 364.400, 0.000
+    1.579,  0.000, 494.700, 0.000
+    1.597,  0.000, 473.700, 0.000
+    1.627,  0.000, 455.600, 0.000
+    1.671,  0.000, 434.400, 0.000
+    1.701,  0.000, 428.300, 0.000
+    1.719,  0.000, 422.200, 0.000
+    1.758,  0.000, 410.100, 0.000
+    1.789,  0.000, 410.000, 0.000
+    1.823,  0.000, 391.800, 0.000
+    1.854,  0.000, 373.700, 0.000
+    1.893,  0.000, 364.600, 0.000
+    1.911,  0.000, 358.500, 0.000
+    1.946,  0.000, 364.400, 0.000
 EndData:
