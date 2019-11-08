@@ -1,0 +1,35 @@
+Comment: Invited paper for 15th International Conference on the
+Application of Ace. in Research and industry, Univ. of N.
+Texas, Denton, Texas, Nov. 4th-7th, 1998
+
+Version: R33
+Source:  C.J.Wetteland et al. LA-UR-98-4867 (1998).
+Name:
+Serial Number: 0
+SubFile: 
+X4Number: C2103002
+Reaction: 1H(a,p)4He
+Distribution: Energy
+Composition:
+Masses: 4, 1, 1, 4
+Zeds: 2, 1, 1, 2
+Qvalue: 0, 0, 0, 0, 0
+Theta: 30
+Sigfactors: 1, 0
+Enfactors: 1, 0, 0, 0
+Units: rr
+Data:
+5037.951       0.0     15.306       0.0
+5140.417       0.0     17.143       0.0
+5216.318       0.0     17.959       0.0
+5292.220       0.0     17.959       0.0
+5368.121       0.0     19.184       0.0
+5442.124       0.0     19.796       0.0
+5518.026       0.0     21.020       0.0
+5593.927       0.0     22.041       0.0
+5667.930       0.0     23.061       0.0
+5743.832       0.0     24.490       0.0
+5817.835       0.0     24.694       0.0
+5891.839       0.0     26.327       0.0
+5967.740       0.0     27.347       0.0
+EndData:
