@@ -1,0 +1,53 @@
+Comment: These cross sections have been digitized from the publication
+cited below. No error of either the energy and or the sigma is given.
+Some errors may be among the data, we are recently checking them.
+The Los Alamos Ion Beam Handbook also will contain these data as soon
+as it is ready. If you use this data please refer to the paper below.
+Special comment:
+WARNING ! THIS IS MAINLY FOR TEST NO GUARANTY IS PROVIDED FOR EVEN
+AGREEMENT WITH THE ORIGINAL PUBLICATION.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: W.Moller and F.Besenbacher, Nucl.Instr.Meth., 168(1980), 11
+Name: Gyorgy Vizkelethy
+Address1: Department of Physics
+Address2: Idaho State University
+Address3: Campus Box 8106
+Address4: Pocatello, ID 83209-8106
+Address5: (208) 236-2626
+Address6: vizkel@physics.isu.edu
+Serial Number: 
+SubFile: 2dtp_1.r33
+X4Number: A1185002
+Reaction: 2H(3He,p0)4He
+Distribution: Energy
+Composition: 
+Masses:    3.000,    2.000,    1.000,    4.000
+Zeds: 2, 1, 1, 2
+Qvalue:  18352.00,      0.00,      0.00,      0.00,      0.00
+Theta:    360.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: tot
+Data:
+  214.000,  0.000,  49.600, 0.000
+  365.000,  0.000, 328.000, 0.000
+  434.000,  0.000, 520.000, 0.000
+  514.000,  0.000, 747.000, 0.000
+  549.000,  0.000, 758.000, 0.000
+  584.000,  0.000, 840.000, 0.000
+  667.000,  0.000, 822.000, 0.000
+  741.000,  0.000, 822.000, 0.000
+  772.000,  0.000, 726.000, 0.000
+  820.000,  0.000, 695.000, 0.000
+  964.000,  0.000, 574.000, 0.000
+ 1115.000,  0.000, 434.000, 0.000
+ 1266.000,  0.000, 360.000, 0.000
+ 1412.000,  0.000, 283.000, 0.000
+ 1564.000,  0.000, 239.000, 0.000
+ 1709.000,  0.000, 212.000, 0.000
+ 1876.000,  0.000, 182.000, 0.000
+ 2017.000,  0.000, 171.000, 0.000
+ 2156.000,  0.000, 166.000, 0.000
+EndData:
