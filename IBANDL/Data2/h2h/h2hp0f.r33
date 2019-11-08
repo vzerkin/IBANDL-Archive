@@ -1,54 +1,61 @@
-Comment: This cross section has been taken from Table 1
-of the publication cited below 
-If you use this data please refer to the paper below.
-Special comment:
-WARNING ! THIS IS MAINLY FOR TEST NO GUARANTY IS PROVIDED FOR EVEN
-AGREEMENT WITH THE ORIGINAL PUBLICATION.
-File created by R33 Manager version 0.1
+Comment:    Automatically converted from EXFOR at 2020-10-19,20:32:54
+            by the IAEA-NDS EXFOR Web-Retrieval System,
+            program X4toR33 ver-2020-10-12 (V.Zerkin).
+            X4Title: "Cross section data for the D(He3,p)2-He-4 nuclear
+                      reaction from 0.25 to 6 MeV."
+            X4Author: B.Wielunska, M.Mayer, T.Schwarz-Selinger, U.Von Toussaint, 
+            J.Bauer
+            EXFOR: O1258002    Created: 2005-03-21  Updated: 2017-06-09
+            X4Reaction:1-H-2(HE3,P)2-HE-4,,DA; X4Points:34
+            ENSDF:LevelEnergy=0.00
+            AME2016: M1=3.016029322 M2=2.014101778 M3=1.007825032 M4=4.002603254
 
-Version: R33
-Source: V.Kh.Alimov, M.Mayer, J. Roth, Nucl. Instr. Meth. B234 (2005) 169 
-Name: M. Mayer
-Address1: Max-Planck-Institut fuer Plasmaphysik
-Address2: Boltzmannstr. 2
-Address3: D 85748 Garching
-Address4: Germany
-Address5: Matej.Mayer@ipp.mpg.de
-Address6: 
-Serial Number: 2dtp_6.r33
-Reaction: 2H(3He,p0)4He
+Version:      R33
+X4Number:     O1258002 20170609
+Source:       B.Wielunska+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.371, p.41
+Reaction:     2H(3He,p0)4He
 Distribution: Energy
-Composition: 
-Masses:    3.000,    2.000,    1.000,    4.000
-Zeds: 2, 1, 1, 2
-Qvalue:  18352.00,      0.00,      0.00,      0.00,      0.00
-Theta:    135.00
-Sigfactors: 1.00, 0.00
-Enfactors: 1.00, 0.00, 0.00, 0.00
-Units: mb
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 2.0, 1.0, 4.0
+Zeds:         2, 1, 1, 2
+Qvalue:       18353.05, 0.00, 0.00, 0.00, 0.00
+Theta:        135
 Data:
-  550.000,  0.000,  56.230, 1.968
-  690.000,  0.000,  56.230, 1.968
-  800.000,  0.000,  50.430, 1.765
- 1000.000,  0.000,  36.580, 1.280
- 1200.000,  0.000,  26.690, 0.934
- 1400.000,  0.000,  19.280, 0.675
- 1600.000,  0.000,  16.870, 0.590
- 1800.000,  0.000,  12.710, 0.445
- 2000.000,  0.000,  12.120, 0.424
- 2200.000,  0.000,  10.360, 0.363
- 2400.000,  0.000,   9.310, 0.326
- 2600.000,  0.000,   8.470, 0.296
- 2800.000,  0.000,   8.090, 0.283
- 3000.000,  0.000,   7.680, 0.269
- 3200.000,  0.000,   7.100, 0.248
- 3400.000,  0.000,   7.120, 0.249
- 3600.000,  0.000,   6.490, 0.227
- 3800.000,  0.000,   6.360, 0.223
- 4000.000,  0.000,   6.090, 0.213
- 4400.000,  0.000,   5.870, 0.205
- 4800.000,  0.000,   5.540, 0.194
- 5200.000,  0.000,   5.340, 0.187
- 5600.000,  0.000,   5.220, 0.183
- 6000.000,  0.000,   5.280, 0.185
+   232.90,      0.00,      7.50,    0.00
+   282.00,      0.00,     13.10,    0.00
+   331.30,      0.00,     20.40,    0.00
+   380.90,      0.00,     30.30,    0.00
+   430.60,      0.00,     39.10,    0.00
+   480.60,      0.00,     48.60,    0.00
+   530.60,      0.00,     54.70,    0.00
+   580.70,      0.00,     59.20,    0.00
+   610.80,      0.00,     59.40,    0.00
+   630.80,      0.00,     59.30,    0.00
+   681.10,      0.00,     60.30,    0.00
+   781.60,      0.00,     51.10,    0.00
+   982.80,      0.00,     36.70,    0.00
+  1183.90,      0.00,     26.60,    0.00
+  1385.00,      0.00,     21.40,    0.00
+  1585.90,      0.00,     17.10,    0.00
+  1786.70,      0.00,     14.60,    0.00
+  1987.40,      0.00,     12.20,    0.00
+  2188.00,      0.00,     11.30,    0.00
+  2388.50,      0.00,     10.10,    0.00
+  2589.00,      0.00,      9.10,    0.00
+  2789.40,      0.00,      8.10,    0.00
+  2989.80,      0.00,      7.70,    0.00
+  3190.20,      0.00,      7.50,    0.00
+  3390.50,      0.00,      7.00,    0.00
+  3590.80,      0.00,      7.00,    0.00
+  3791.10,      0.00,      6.70,    0.00
+  3991.40,      0.00,      6.40,    0.00
+  4391.80,      0.00,      6.00,    0.00
+  4792.20,      0.00,      6.50,    0.00
+  5192.60,      0.00,      5.60,    0.00
+  5592.90,      0.00,      5.80,    0.00
+  5993.20,      0.00,      5.60,    0.00
+  6393.50,      0.00,      5.50,    0.00
 EndData:
