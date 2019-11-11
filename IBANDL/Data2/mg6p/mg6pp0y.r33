@@ -1,0 +1,59 @@
+Comment:    Automatically converted from EXFOR on 2019-11-11,15:06:30
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-06-26 (V.Zerkin).
+            X4Title: "An optical potential for describing proton scattering
+             by 26Mg at low and medium energies"
+            X4Author: E.A.Romanovskii, T.I.Spasskaya, A.M.Borisov, S.V.Ermakov, 
+            B.S.Galakhmatova, N.P.Sikorenko
+            EXFOR: F0926002    Created: 2008-04-14  Updated: 2008-05-16
+            X4Reaction:12-MG-26(P,EL)12-MG-26,,DA; X4Points:340
+            Converted from C.M. to Lab.: Sigma, Theta
+            SigmaLab=SigmaCM/1.0764726
+            ThetaCM: 160.7
+            ENSDF:LevelEnergy=0.00
+            AME2016: M1=1.007825032 M2=25.982592971 M3=1.007825032 M4=25.982592971
+
+Version:      R33
+X4Number:     F0926002 20080516
+Source:       E.A.Romanovskii+(1986), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.50, p.129
+Reaction:     26Mg(p,p0)26Mg
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 26.0, 1.0, 26.0
+Zeds:         1, 12, 1, 12
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        159.9
+Data:
+ 6505.20,     0.00,  26.3964,     0.00
+ 6533.40,     0.00,  16.6628,     0.00
+ 6571.50,     0.00,  14.2967,     0.00
+ 6604.60,     0.00,  11.9297,     0.00
+ 6637.60,     0.00,  11.2256,     0.00
+ 6670.60,     0.00,  10.2836,     0.00
+ 6698.30,     0.00,  17.1802,     0.00
+ 6726.10,     0.00,  22.8886,     0.00
+ 6743.80,     0.00,  24.3192,     0.00
+ 6766.70,     0.00,  23.6123,     0.00
+ 6784.50,     0.00,  19.5778,     0.00
+ 6832.80,     0.00,  19.8277,     0.00
+ 6865.50,     0.00,  27.4378,     0.00
+ 6900.90,     0.00,  34.3362,     0.00
+ 6936.80,     0.00,  21.7544,     0.00
+ 6969.90,     0.00,  17.9614,     0.00
+ 7002.90,     0.00,  17.4951,     0.00
+ 7086.20,     0.00,  31.2948,     0.00
+ 7126.80,     0.00,  33.6813,     0.00
+ 7172.60,     0.00,   30.129,     0.00
+ 7249.00,     0.00,  18.5077,     0.00
+ 7289.50,     0.00,  22.3192,     0.00
+ 7332.10,     0.00,  42.0484,     0.00
+ 7372.60,     0.00,  46.8103,     0.00
+ 7413.50,     0.00,  35.6544,     0.00
+ 7441.70,     0.00,  27.3467,     0.00
+ 7485.10,     0.00,  17.1421,     0.00
+ 7528.40,     0.00,  11.4513,     0.00
+ 7573.40,     0.00,    36.17,     0.00
+EndData:
