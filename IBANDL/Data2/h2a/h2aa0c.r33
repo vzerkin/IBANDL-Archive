@@ -1,0 +1,53 @@
+Comment: S.S.Nagata et al. Nucl. Instr. & Meth. B6(1985)533
+"Depth resolution and recoil cross section for
+analyzing hydrogn in solids using elastic recoil
+detection with 4He beam".
+ For the measurements of recoil cross sectionl plates
+of vanadium hydride V2H and deuteride V2D of 1 mm
+thick were used. These hydride and deuteride plates
+wete prepared by the gas-solid reaction using a Sieverts'
+type apparatus. The formation of the V2H and V2D
+phases was confirmed by an X-ray diffraction. The
+amounts of hydrogen isotopes were evaluated from the
+initial weight of vanadium and the amount of absorbed
+hydrogen by a conventional gas volumetric method.
+ The accuracy of the cross sections are limited by the
+following uncertaintics: dY- the error in the number of
+recoiled particles, dN- the error in the atomic density of
+H(D), dQ- the error in the fluence of incident helium
+ions, dO- the error in the detector solid angle, and
+the dt-error in the effective thickness. These values were
+evaluated to be dY=5%,dN=4%, d(Q ? O)= 10%, and dt=15%.
+Consequently, the error associated with the cross section
+measurements will be ~ 20%.
+ The presence of the resonance at 2.1 MeV has been
+reported in the inverse reaction of 4He(d,d)4He [A.Galonsky
+et al. Phys.Rev. 98(1955)586].
+The data are given in lab system.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: S.Nagata et al. Nucl.Instrum. & Meth. v.B6(1985) 533
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: E1862008
+Reaction: 2H(a,d)4He
+Distribution: Energy
+Composition: 
+Masses:    4.000,    2.000,    4.000,    2.000
+Zeds: 2, 1, 2, 1
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:     41.50
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+    2.149,  0.000, 222.200, 0.000
+    2.297,  0.000, 242.400, 0.000
+    2.438,  0.000, 252.500, 0.000
+    2.613,  0.000, 252.500, 0.000
+    2.723,  0.000, 262.600, 0.000
+    2.815,  0.000, 272.700, 0.000
+    3.049,  0.000, 242.400, 0.000
+EndData:
