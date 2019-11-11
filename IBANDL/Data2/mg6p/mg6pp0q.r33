@@ -1,0 +1,46 @@
+Comment:    Automatically converted from EXFOR on 2019-11-11,15:14:03
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-06-26 (V.Zerkin).
+            X4Title: "An optical potential for describing proton scattering
+             by 26Mg at low and medium energies"
+            X4Author: E.A.Romanovskii, T.I.Spasskaya, A.M.Borisov, S.V.Ermakov, 
+            B.S.Galakhmatova, N.P.Sikorenko
+            EXFOR: F0926002    Created: 2008-04-14  Updated: 2008-05-16
+            X4Reaction:12-MG-26(P,EL)12-MG-26,,DA; X4Points:340
+            Converted from C.M. to Lab.: Sigma, Theta
+            SigmaLab=SigmaCM/0.9875122
+            ThetaCM: 82.2
+            ENSDF:LevelEnergy=0.00
+            AME2016: M1=1.007825032 M2=25.982592971 M3=1.007825032 M4=25.982592971
+
+Version:      R33
+X4Number:     F0926002 20080516
+Source:       E.A.Romanovskii+(1986), Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.50, p.129
+Reaction:     26Mg(p,p0)26Mg
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 26.0, 1.0, 26.0
+Zeds:         1, 12, 1, 12
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        80
+Data:
+ 7074.30,     0.00,  32.9707,     0.00
+ 7113.80,     0.00,  36.0887,     0.00
+ 7153.10,     0.00,  41.2724,     0.00
+ 7188.70,     0.00,    37.16,     0.00
+ 7226.10,     0.00,  39.6572,     0.00
+ 7261.10,     0.00,  47.3169,     0.00
+ 7300.60,     0.00,    48.37,     0.00
+ 7342.50,     0.00,  44.6739,     0.00
+ 7380.50,     0.00,  34.5727,     0.00
+ 7418.00,     0.00,  34.3854,     0.00
+ 7463.60,     0.00,  39.7788,     0.00
+ 7499.10,     0.00,   37.318,     0.00
+ 7540.80,     0.00,  36.9271,     0.00
+ 7577.90,     0.00,  44.5878,     0.00
+ 7609.50,     0.00,   38.201,     0.00
+ 7649.50,     0.00,  30.5799,     0.00
+EndData:
