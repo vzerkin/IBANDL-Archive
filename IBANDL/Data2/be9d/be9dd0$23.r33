@@ -1,0 +1,37 @@
+Comment: File created by R33 Manager version 0.1
+
+Version: R33
+Source: E. Ntemou, NIMB Vol. 459 (2019) p. 90 
+Name: E. Ntemou
+Address1: National Technical University of Athens
+Address2: Zografou campus
+Address3: Greece
+Address4: 
+Address5: 
+Serial Number: 0
+Reaction: 9Be(d,d0)9Be
+Distribution: Energy
+Composition: 
+Masses:    2.000,    9.000,    2.000,    9.000
+Zeds: 1, 4, 1, 4
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    120.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 1937.300,  2.200,  15.900, 0.300
+ 1957.300,  2.200,  15.700, 0.300
+ 1977.400,  2.200,  16.200, 0.300
+ 1997.400,  2.200,  15.200, 0.300
+ 2017.400,  2.200,  15.600, 0.300
+ 2037.400,  2.200,  15.800, 0.300
+ 2057.400,  2.200,  14.800, 0.300
+ 2077.400,  2.200,  14.700, 0.300
+ 2097.400,  2.200,  14.300, 0.300
+ 2117.400,  2.200,  15.600, 0.300
+ 2137.400,  2.200,  14.500, 0.300
+ 2157.500,  2.200,  14.500, 0.300
+ 2177.500,  2.200,  14.600, 0.300
+ 2197.500,  2.200,  14.100, 0.200
+EndData:
