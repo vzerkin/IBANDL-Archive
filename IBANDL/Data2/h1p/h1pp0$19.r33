@@ -1,15 +1,18 @@
-Comment:    Automatically converted from EXFOR
-            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
-            "The scattering of 2.4 to 3.5 MeV protons by protons"
-            J.M.Blair, G.Freier, E.Lampi, W.Sleator, 
-            Jr., J.H.Williams
-            EXFOR: A1117002    Created: 1981-10-26  Updated: 1999-05-05
-            X4Reaction:1-H-1(P,EL)1-H-1,,DA,,,EXP; X4Points:44
+Comment:    Automatically converted from EXFOR on 2020-04-03,18:01:38
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-12-10 (V.Zerkin).
+            X4Title: "The scattering of 2.4 to 3.5 MeV protons by protons"
+            X4Author: J.M.Blair, G.Freier, E.E.Lampi, W.Sleator Jr, 
+            J.H.Williams
+            EXFOR: A1117002    Created: 1981-10-26  Updated: 2018-04-23
+            X4Reaction:1-H-1(P,EL)1-H-1,,DA; X4Points:44
+            ENSDF:LevelEnergy=0.00
             Theta groupping interval=3.0 deg.
+            AME2016: M1=1.007825032 M2=1.007825032 M3=1.007825032 M4=1.007825032
 
 Version:      R33
-X4Number:     A1117002
-Source:       J.M.Blair+(1948), Jour. Physical Review, Vol.74, Issue.5, p.553
+X4Number:     A1117002 20180423
+Source:       J.M.Blair+(1948), Jour. Physical Review, Vol.74, p.553
 Reaction:     1H(p,p0)1H
 Distribution: Energy
 Sigfactors:   1.00, 0.00
@@ -19,11 +22,10 @@ Composition:
 Masses:       1.0, 1.0, 1.0, 1.0
 Zeds:         1, 1, 1, 1
 Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
-Theta:        13.7
+Theta:        13.8
 Data:
- 2420.00,    20.00,  1068.00,   293.44
- 3040.00,    20.00,   794.50,  183.908
- 3270.00,    20.00,   732.00,  145.824
- 3530.00,    20.00,   661.50,  123.868
+  2420.00,     20.00,   1068.00,    292.00
+  3040.00,     20.00,    794.50,  182.5001
+  3270.00,     20.00,    732.00,    144.00
+  3530.00,     20.00,    661.50,    123.50
 EndData:
-
