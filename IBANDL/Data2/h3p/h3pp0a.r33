@@ -1,0 +1,33 @@
+Comment: \Protons on H3; 2500 - 3500 keV; CM angle = 168.7; LAB angle = 163.2;
+\Langley, 19??; RPC; Ratio to Rutherford vs. proton lab KE in keV.
+\
+\Point on Y axis was    2500.00   1200.00
+\Point of origin was    2500.00      0.00
+\Point on X axis was    3750.00      0.00
+4 2
+File was converted RTR -> R33
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: Langley, R.A. (1976) in Proc. Int. Conf. on Radiation Effect and Tritium Technology for Fusion Reactors, vol IV, (J.S. Walson and F.W. Wiffen, eds.), p.158. Conf. 750989, US Dept. of Commerce, Springfield, VA, USA.
+Name: 
+Address1: 
+Serial Number: 
+SubFile: ph_la76b.rtr
+X4Number: C2101005
+Reaction: 3H(p,p0)3H
+Distribution: Energy
+Composition: 
+Masses:    1.000,    3.000,    1.000,    3.000
+Zeds: 1, 1, 1, 1
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    163.20
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+ 2744.000,  0.000, 760.430, 0.000
+ 3021.000,  0.000, 858.880, 0.000
+ 3255.000,  0.000, 946.500, 0.000
+ 3490.000,  0.000, 1056.540, 0.000
+EndData:
