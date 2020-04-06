@@ -1,0 +1,38 @@
+Comment:    Automatically converted from EXFOR on 2020-04-06,10:56:36
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-12-10 (V.Zerkin).
+            X4Title: "Cross sections for proton-deuteron scattering from 1.0
+                      10.0 MeV"
+            X4Author: D.C.Kocher, T.B.Clegg
+            EXFOR: A1030002    Created: 1981-03-09  Updated: 2005-09-26
+            X4Reaction:1-H-2(P,EL)1-H-2,,DA,,,EXP; X4Points:219
+            Converted from C.M. to Lab.: Sigma, Theta
+            SigmaLab=SigmaCM/2.6318352
+            ThetaLab=132 ThetaCM:153.8 [152, 154]
+            ENSDF:LevelEnergy=0.00
+            Theta groupping interval=3.0 deg.
+            Systematic uncertainty: ErrSys=0.83%  Min=0.44%  Max=3.7%
+            AME2016: M1=1.007825032 M2=2.014101778 M3=1.007825032 M4=2.014101778
+
+Version:      R33
+X4Number:     A1030002 20050926
+Source:       D.C.Kocher+(1969), Jour. Nuclear Physics, Section A, Vol.132, Issue.2, p.455
+Reaction:     2H(p,p0)2H
+Distribution: Energy
+Sigfactors:   1.00, 0.0083
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 2.0, 1.0, 2.0
+Zeds:         1, 1, 1, 1
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        132
+Data:
+  1993.00,      0.00,  124.7039,      0.00
+  2995.00,      0.00,  104.2998,    1.7098
+  3998.00,      0.00,   89.1013,      0.00
+  5002.00,      0.00,   74.3588,      0.00
+  6007.00,      0.00,   62.2759,      0.00
+  8025.00,      0.00,   45.0636,      0.00
+ 10040.00,      0.00,   32.9048,      0.00
+EndData:
