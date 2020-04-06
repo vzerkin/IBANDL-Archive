@@ -1,0 +1,67 @@
+Comment: "Absolute cross section for D(4He,D)4He forward scattering"
+A.J. Kellock and J.E.E. Baglin
+         The D(4He, D)4He differential cross section for forward 
+scattering of deuterons by helium ions has been measured, with an
+estimated precision of 5%, in the range 1-3 MeV at the scattering 
+angles of 20, 25, 30, 35 and 40 deg. Deuterated polystyrene
+(C8D8)n films spun on Si wafer were used for the measurements, 
+enabling the forward scattering cross section to be determined
+directly with reference to the 4He backscattering cross section of 
+carbon (which was, in turn, referenced to the Rutherford cross
+section for 4He on Cu). The D(4He, D)4He cross section exhibits a 
+resonance at 2.135 +/-0.01 MeV, with about 60 keV FWHM, the
+amplitude of which is strongly dependent on scattering angle. 
+For the rest of the energy range, the cross section is featureless, 
+and can be fitted well by a simple polynomial.
+The data are given in lab system.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: A.J.Kellock and J.E.E.Baglin Nucl.Instrum.Methods B79 (1993) 493
+Name: 
+Serial Number: 
+SubFile: h2ah20e.r33
+X4Number: C1345002
+Reaction: 2H(a,d)4He
+Distribution: Energy
+Composition: 
+Masses:    4.000,    2.000,    2.000,    4.000
+Zeds: 2, 1, 1, 2
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:     40.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+    0.984,  0.000, 677.000, 0.000
+    1.081,  0.000, 596.000, 0.000
+    1.179,  0.000, 549.000, 0.000
+    1.277,  0.000, 536.000, 0.000
+    1.379,  0.000, 501.000, 0.000
+    1.476,  0.000, 465.000, 0.000
+    1.578,  0.000, 430.000, 0.000
+    1.676,  0.000, 440.000, 0.000
+    1.778,  0.000, 428.000, 0.000
+    1.880,  0.000, 438.000, 0.000
+    1.927,  0.000, 426.000, 0.000
+    1.978,  0.000, 357.000, 0.000
+    1.999,  0.000, 391.000, 0.000
+    2.050,  0.000, 367.000, 0.000
+    2.067,  0.000, 402.000, 0.000
+    2.097,  0.000, 367.000, 0.000
+    2.118,  0.000, 344.000, 0.000
+    2.131,  0.000, 298.000, 0.000
+    2.165,  0.000, 263.000, 0.000
+    2.199,  0.000, 251.000, 0.000
+    2.216,  0.000, 274.000, 0.000
+    2.246,  0.000, 250.000, 0.000
+    2.267,  0.000, 262.000, 0.000
+    2.318,  0.000, 261.000, 0.000
+    2.369,  0.000, 295.000, 0.000
+    2.467,  0.000, 306.000, 0.000
+    2.569,  0.000, 304.000, 0.000
+    2.671,  0.000, 292.000, 0.000
+    2.671,  0.000, 292.000, 0.000
+    2.777,  0.000, 268.000, 0.000
+    2.871,  0.000, 278.000, 0.000
+EndData:
