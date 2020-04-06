@@ -1,0 +1,40 @@
+Comment:    Automatically converted from EXFOR on 2020-04-06,11:29:19
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-12-10 (V.Zerkin).
+            X4Title: "Measurements of the elastic scattering cross sections
+                      for proton on T, 4He"
+            X4Author: T.Cai, J.Q.Li, Z.J.He, X.F.Wang, 
+            L.Q.Shi
+            EXFOR: S0071002    Created: 2010-10-25  Updated: 2011-01-12
+            X4Reaction:1-H-3(P,EL)1-H-3,,DA; X4Points:12
+            ENSDF:LevelEnergy=0.00
+            Systematic uncertainty: ErrSys=1.0%
+            AME2016: M1=1.007825032 M2=3.016049281 M3=1.007825032 M4=3.016049281
+
+Version:      R33
+X4Number:     S0071002 20110112
+Source:       T.Cai+(2010), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.268, p.3373
+Reaction:     3H(p,p0)3H
+Distribution: Energy
+Sigfactors:   1.00, 0.01
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 3.0, 1.0, 3.0
+Zeds:         1, 1, 1, 1
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        155
+Data:
+  1222.00,      6.00,    134.20,      0.00
+  1422.00,      6.00,    139.30,      0.00
+  1623.00,      6.00,    138.70,      0.00
+  1824.00,      6.00,    138.00,      0.00
+  2024.00,      6.00,    135.30,      0.00
+  2224.00,      6.00,    131.30,      0.00
+  2424.00,      6.00,    123.20,      0.00
+  2625.00,      6.00,    116.90,      0.00
+  2825.00,      6.00,    111.50,      0.00
+  3025.00,      6.00,    105.80,      0.00
+  3225.00,      6.00,     99.20,      0.00
+  3425.00,      6.00,     95.40,      0.00
+EndData:
