@@ -1,0 +1,52 @@
+Comment: J.L.Yarnell,R.H.Lovberg and W.R.Stratton Phys.Rev.
+     90 (1953) 292;
+     The cross-section for the reaction 3He(d,p)4He  was  measured 
+between the angles of 15 and 130 deg lab at  deutron  energies  of 
+0.260, 0.455, 0.978, 1.51, 2.01, 2.50, 3.01, 3.56 MeV (tabulated). 
+The cross-section was measured at a fixed  angle  of  86  deg  for 
+deutron energies from 240  keV  to  914  keV  (graph).  A  maximum 
+occurred at a deutron energy of  430+-30  keV.  The  cross-section 
+appears to be isotropic in the c.m. system in the neighborhood  of 
+the maximum (in the interval of 260 to 978 keV). The value of  the 
+total  cross-section  at  the  maximum  is  0.90+-0.10  barn.   An 
+electrostatic generator, a thin  gaseous  target  of  3He,  a  NaJ 
+scintillation counter.
+The data are given in lab system.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: J.L.Yarnell, R.H.Lovberg, W.R.Stratton Phys.Rev. 90 (1953) 292
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: C0987002
+Reaction: 3He(d,p0)4He
+Distribution: Energy
+Composition: 
+Masses:    2.000,    3.000,    1.000,    4.000
+Zeds: 1, 2, 1, 2
+Qvalue:  18350.00,      0.00,      0.00,      0.00,      0.00
+Theta:     86.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  240.600,  0.000,  23.100, 0.000
+  291.000,  0.000,  37.800, 0.000
+  335.400,  0.000,  55.300, 0.000
+  384.500,  0.000,  65.600, 0.000
+  405.900,  0.000,  69.900, 0.000
+  427.400,  0.000,  69.400, 0.000
+  448.600,  0.000,  71.600, 0.000
+  468.400,  0.000,  71.500, 0.000
+  492.500,  0.000,  69.500, 0.000
+  505.700,  0.000,  66.500, 0.000
+  524.300,  0.000,  64.300, 0.000
+  544.600,  0.000,  60.400, 0.000
+  583.200,  0.000,  54.500, 0.000
+  620.600,  0.000,  49.000, 0.000
+  694.500,  0.000,  40.400, 0.000
+  770.600,  0.000,  34.300, 0.000
+  844.500,  0.000,  28.400, 0.000
+  924.300,  0.000,  25.400, 0.000
+EndData:
