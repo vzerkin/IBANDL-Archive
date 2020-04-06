@@ -1,0 +1,49 @@
+Comment: Data were digitized. Energy digitizing error is 0.578 keV
+         data digitizing error is 0.007 (relative units). 
+         Differential cross-sections are given in relative units 
+         
+Version: R33
+Source: G.Dearnaley et al. Nuclear Physics  v.36 (1962) 71
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1003003 
+Reaction: 6Li(a,a0)6Li 
+Distribution: Energy
+Composition: 
+Masses:    4.000,   6.000,    4.000,   6.000
+Zeds: 2, 3, 2, 3
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:  71.00
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: ru
+Data:
+     0.9766         0.     3.1884         0.
+     1.0009         0.     2.6584         0.
+      1.026         0.     2.4104         0.
+      1.051         0.     1.8128         0.
+     1.0767         0.      1.576         0.
+     1.1017         0.     1.1137         0.
+     1.1261         0.     0.5161         0.
+     1.1511         0.     0.4147         0.
+     1.1761         0.     0.5614         0.
+     1.2005         0.     1.1367         0.
+     1.2262         0.     1.5653         0.
+     1.2505         0.      2.073         0.
+     1.2762         0.     2.6031         0.
+     1.3005         0.     2.8852         0.
+     1.3256         0.     2.9078         0.
+     1.3513         0.      2.829         0.
+     1.3763         0.     3.0321         0.
+      1.402         0.     2.8292         0.
+     1.4263         0.     2.7278         0.
+      1.452         0.     2.6941         0.
+     1.4771         0.     2.5024         0.
+     1.5021         0.     2.5589         0.
+     1.5271         0.     2.4688         0.
+EndData:
