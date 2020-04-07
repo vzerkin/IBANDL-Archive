@@ -1,0 +1,43 @@
+
+
+Comment:    Automatically converted from EXFOR on 2020-04-07,18:12:05
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-12-10 (V.Zerkin).
+            X4Title: "Excitation function of the reaction C-12(d,p0)C-13
+                      between 400 and 1350 keV angular distributions."
+            X4Author: M.Huez,  L.Quaglia,  G.Weber
+            EXFOR: O2051002    Created: 2012-09-28  Updated: 2012-12-11
+            X4Reaction:6-C-12(D,P)6-C-13,PAR,DA; X4Points:191
+            ENSDF:LevelEnergy=0.00
+            AME2016: M1=2.014101778 M2=12.0 M3=1.007825032 M4=13.003354835
+
+Version:      R33
+X4Number:     O2051002 20121211
+Source:       M.Huez+(1972), Jour. Nuclear Instrum.and Methods in Physics Res., Vol.105, p.197
+Reaction:     12C(d,p0)13C
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 12.0, 1.0, 13.0
+Zeds:         1, 6, 1, 6
+Qvalue:       2721.74, 0.00, 0.00, 0.00, 0.00
+Theta:        90
+Data:
+   640.00,      0.00,      1.80,      0.00
+   690.00,      0.00,      2.41,      0.00
+   740.00,      0.00,      4.24,      0.00
+   790.00,      0.00,      5.46,      0.00
+   840.00,      0.00,      7.66,      0.00
+   890.00,      0.00,     16.80,      0.00
+   940.00,      0.00,     22.00,      0.00
+   990.00,      0.00,     17.90,      0.00
+  1060.00,      0.00,     14.40,      0.00
+  1100.00,      0.00,     16.40,      0.00
+  1140.00,      0.00,     22.20,      0.00
+  1190.00,      0.00,     24.20,      0.00
+  1240.00,      0.00,     23.40,      0.00
+  1290.00,      0.00,     22.40,      0.00
+  1355.00,      0.00,     23.90,      0.00
+EndData:
