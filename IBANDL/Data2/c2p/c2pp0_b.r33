@@ -8,7 +8,7 @@ Comment:    Automatically converted from EXFOR via C4
             Manually converted from c.m. to lab.
 
 Version:      R33
-X4Number:     C1000002 20040503
+X4Number:     C0848002
 Source:       H.L.Jackson+(1953), Jour. Physical Review, Vol.89, p.365
 Reaction:     12C(p,p0)12C
 Distribution: Energy
