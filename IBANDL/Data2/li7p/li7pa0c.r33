@@ -13,7 +13,7 @@ Comment:    Automatically converted from EXFOR on 2020-04-06,23:24:09
 Version:      R33
 X4Number:     A1507002 20180423
 Source:       W.E.Sweeney Jr+(1969), Jour. Physical Review, Vol.182, p.1007
-Reaction:     7Li(p,a)4He
+Reaction:     7Li(p,a0)4He
 Distribution: Energy
 Sigfactors:   1.00, 0.0764
 Enfactors:    1.00, 0.00, 0.00, 0.00
