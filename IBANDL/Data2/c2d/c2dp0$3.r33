@@ -1,0 +1,48 @@
+Comment:    Automatically converted from EXFOR on 2020-04-07,18:06:39
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-12-10 (V.Zerkin).
+            X4Title: "Differential Cross Sections for C12(d,d)C12 and
+                      C12(d,p)C13"
+            X4Author: M.T.Mcellistrem, K.W.Jones, R.Chiba, R.A.Douglas, 
+            D.F.Herring, E.A.Silverstein
+            EXFOR: C0993006    Created: 2004-02-21  Updated: 2005-09-26
+            X4Reaction:6-C-12(D,P)6-C-13,PAR,DA; X4Points:462
+            Converted from C.M. to Lab.: Sigma, Theta
+            SigmaLab=SigmaCM/{1.1525688, 1.1596022}
+            ThetaLab=151.5 ThetaCM:153.7
+            ENSDF:LevelEnergy=0.00
+            Theta groupping interval=3.0 deg.
+            AME2016: M1=2.014101778 M2=12.0 M3=1.007825032 M4=13.003354835
+
+Version:      R33
+X4Number:     C0993006 20050926
+Source:       M.T.Mcellistrem+(1956), Jour. Physical Review, Vol.104, p.1008
+Reaction:     12C(d,p0)13C
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 12.0, 1.0, 13.0
+Zeds:         1, 6, 1, 6
+Qvalue:       2721.74, 0.00, 0.00, 0.00, 0.00
+Theta:        151.5
+Data:
+  2800.00,      0.00,     9.969,      0.00
+  2829.00,      0.00,    9.5228,      0.00
+  2858.00,      0.00,    9.4237,      0.00
+  2918.00,      0.00,     9.087,      0.00
+  2945.00,      0.00,    8.9972,     0.355
+  2973.00,      0.00,    7.9206,      0.00
+  3000.00,      0.00,    7.7535,      0.00
+  3031.00,      0.00,    7.9407,      0.00
+  3060.00,      0.00,    7.7044,      0.00
+  3088.00,      0.00,    8.3155,      0.00
+  3116.00,      0.00,    7.9324,    0.4234
+  3144.00,      0.00,    6.7204,      0.00
+  3173.00,      0.00,    6.6231,      0.00
+  3204.00,      0.00,    6.2495,      0.00
+  3229.00,      0.00,    5.8076,      0.00
+  3259.00,      0.00,    5.9264,      0.00
+  3288.00,      0.00,    6.3211,    0.3536
+EndData:
