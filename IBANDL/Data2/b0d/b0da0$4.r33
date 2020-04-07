@@ -1,42 +1,60 @@
-Comment:    Automatically converted from EXFOR
-            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
-            "Observation of the isoscalar giant resonance in the
-             reaction 10B(d,a)8Be(g.s.)"
-            W.Buck, T.Rohwer, G.Staudt, A.Ziemke, 
+Comment:    Automatically converted from EXFOR on 2020-04-07,22:22:19
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-12-10 (V.Zerkin).
+            X4Title: "Observation of the isoscalar giant resonance in the
+                      reaction 10B(d,a)8Be(g.s.)"
+            X4Author: W.Buck, T.Rohwer, G.Staudt, A.Ziemke, 
             F.Vogler
-            EXFOR: F0203003    Created: 1985-01-14  Updated: 1999-04-27
+            EXFOR: F0203003    Created: 1985-01-14  Updated: 2005-09-26
             X4Reaction:5-B-10(D,A)4-BE-8,PAR,DA,,,EXP; X4Points:248
-            Data converted from C.M. to Lab. 
-            LevelEnergy: 0.00
-            Theta groupping interval=3.0 deg.
+            Converted from C.M. to Lab.: Sigma, Theta
+            SigmaLab=SigmaCM/{1.031669, 1.0809916}
+            ThetaLab=103.4 ThetaCM:110.0
+            ENSDF:LevelEnergy=0.00
+            Systematic uncertainty: ErrSys=6.43%  Min=0.82%  Max=38.07%
+            AME2016: M1=2.014101778 M2=10.012936862 M3=4.002603254 M4=8.005305102
 
 Version:      R33
-X4Number:     F0203003
+X4Number:     F0203003 20050926
 Source:       W.Buck+(1978), Jour. Nuclear Physics, Section A, Vol.297, p.231
 Reaction:     10B(d,a0)8Be
 Distribution: Energy
-Sigfactors:   1.00, 0.00
+Sigfactors:   1.00, 0.0643
 Enfactors:    1.00, 0.00, 0.00, 0.00
 Units:        mb
 Composition:
 Masses:       2.0, 10.0, 4.0, 8.0
 Zeds:         1, 5, 2, 4
-Qvalue:       17819.86, 0.00, 0.00, 0.00, 0.00
-Theta:        126
+Qvalue:       17819.74, 0.00, 0.00, 0.00, 0.00
+Theta:        103.4
 Data:
-  559.90,    60.00,   0.0813,   0.0282
-  677.30,    60.00,   0.2983,    0.028
- 1035.00,    60.00,   0.4224,   0.0276
- 1153.00,    60.00,   0.5058,   0.0275
- 1391.00,    60.00,   0.5863,   0.0272
- 1510.00,    60.00,   0.6683,   0.0271
- 1746.00,    60.00,   0.7889,   0.0269
- 1747.00,    60.00,   0.9555,   0.0269
- 1863.00,    60.00,   1.2028,   0.0268
- 2102.00,    60.00,   1.1539,   0.0267
- 2460.00,    60.00,   1.1838,   0.0264
- 2701.00,    60.00,   0.9738,   0.0263
- 2823.00,    60.00,   0.7278,   0.0262
- 3063.00,    60.00,   0.5626,   0.0261
+   552.50,     60.00,    0.1031,      0.00
+   789.10,     60.00,    0.3567,      0.00
+   907.20,     60.00,    0.5081,      0.00
+  1145.00,     60.00,    0.6579,      0.00
+  1383.00,     60.00,    0.6058,      0.00
+  1384.00,     60.00,    0.7566,      0.00
+  1621.00,     60.00,     0.805,      0.00
+  1739.00,     60.00,    0.9544,      0.00
+  1857.00,     60.00,    1.1538,      0.00
+  1974.00,     60.00,    1.3518,      0.00
+  2213.00,     60.00,    1.3992,      0.00
+  2335.00,     60.00,    1.0997,      0.00
+  2576.00,     60.00,     0.899,      0.00
+  2698.00,     60.00,    0.6004,      0.00
+  2937.00,     60.00,    0.5503,      0.00
+  3534.00,     60.00,    0.5987,      0.00
+  4011.00,     60.00,    0.6474,      0.00
+  4486.00,     60.00,    0.9425,      0.00
+  5085.00,     60.00,    0.7937,      0.00
+  5564.00,     60.00,    0.5972,      0.00
+  6039.00,     60.00,     0.989,      0.00
+  6521.00,     60.00,    0.4504,      0.00
+  7001.00,     60.00,    0.2553,      0.00
+  7479.00,     60.00,     0.207,      0.00
+  7837.00,     60.00,    0.2562,      0.00
+  8076.00,     60.00,    0.2565,      0.00
+  8674.00,     60.00,    0.1597,      0.00
+  8913.00,     60.00,    0.1113,      0.00
+  9152.00,     60.00,    0.1604,      0.00
 EndData:
-
