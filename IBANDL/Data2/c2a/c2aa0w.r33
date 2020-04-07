@@ -1,45 +1,50 @@
-Comment: Invited paper for 15th International Conference on the
-Application of Ace. in Research and industry, Univ. of N.
-Texas, Denton, Texas, Nov. 4th-7th, 1998
+Comment:    Automatically converted from EXFOR on 2020-04-07,18:43:55
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-12-10 (V.Zerkin).
+            X4Title: "`Magic` Energies For Detecting Light Elements With
+                      Resonant Alpha Particle Backscattering"
+            X4Author: C.J.Wetteland, C.J.Maggiore, J.R.Tesmer, X-M.He, 
+            D-H.Lee
+            EXFOR: C2103004    Created: 2014-04-04  Updated: 2014-07-09
+            X4Reaction:6-C-0(A,EL)6-C-0,,DA,,RTH; X4Points:23
+            ENSDF:LevelEnergy=0.00
+            AME2016: M1=4.002603254 M2=12.0107 M3=4.002603254 M4=12.0107
 
-Version: R33
-Source:  C.J.Wetteland et al. LA-UR-98-4867
-Name:
-Serial Number: 0
-SubFile: 
-X4Number: 
-Reaction: 12C(a,a0)12C
+Version:      R33
+X4Number:     C2103004 20140709
+Source:       C.J.Wetteland+(1998), Rept. Los Alamos Scientific Lab. Reports, No.98-4867
+Reaction:     natC(a,a0)natC
 Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        rr
 Composition:
-Masses: 4, 12, 4, 12
-Zeds: 2, 6, 2, 6
-Qvalue: 0, 0, 0, 0, 0
-Theta: 167
-Sigfactors: 1, 0
-Enfactors: 1, 0, 0, 0
-Units: rr
+Masses:       4.0, 12.011, 4.0, 12.011
+Zeds:         2, 6, 2, 6
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        167
 Data:
-    5042       0.0     34.38       0.0
-    5071       0.0     38.13       0.0
-    5104       0.0     40.00       0.0
-    5137       0.0     41.88       0.0
-    5217       0.0     47.50       0.0
-    5297       0.0     56.88       0.0
-    5368       0.0     66.25       0.0
-    5443       0.0     77.50       0.0
-    5519       0.0     81.25       0.0
-    5580       0.0     92.50       0.0
-    5637       0.0    100.00       0.0
-    5665       0.0    101.88       0.0
-    5698       0.0    109.38       0.0
-    5726       0.0    107.50       0.0
-    5755       0.0    111.25       0.0
-    5788       0.0     88.75       0.0
-    5811       0.0     41.88       0.0
-    5840       0.0     25.00       0.0
-    5873       0.0     41.88       0.0
-    5906       0.0     45.63       0.0
-    5939       0.0     47.50       0.0
-    5958       0.0     51.25       0.0
-    5995       0.0     56.88       0.0
+ 5051.331,      0.00,    33.572,    1.3429
+ 5079.848,      0.00,    37.143,    1.4857
+ 5110.266,      0.00,    38.572,    1.5429
+ 5140.684,      0.00,     40.00,      1.60
+  5216.73,      0.00,    47.142,    1.8857
+ 5292.776,      0.00,     57.14,    2.2856
+  5366.92,      0.00,    64.996,    2.5998
+ 5442.966,      0.00,    75.709,    3.0284
+ 5519.011,      0.00,    77.851,     3.114
+ 5577.947,      0.00,    89.992,    3.5997
+ 5638.783,      0.00,    97.848,    3.9139
+ 5669.202,      0.00,    98.562,    3.9425
+  5699.62,      0.00,   106.418,    4.2567
+ 5730.038,      0.00,   104.275,     4.171
+ 5760.456,      0.00,   107.846,    4.3138
+ 5790.875,      0.00,     87.85,     3.514
+  5817.49,      0.00,    42.143,    1.6857
+ 5847.909,      0.00,    24.288,    0.9715
+ 5878.327,      0.00,     40.00,      1.60
+ 5908.745,      0.00,    45.713,    1.8285
+ 5937.262,      0.00,    47.856,    1.9142
+ 5967.681,      0.00,    50.713,    2.0285
+ 5998.099,      0.00,     57.14,    2.2856
 EndData:
