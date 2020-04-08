@@ -1,0 +1,47 @@
+Comment:    Automatically converted from EXFOR on 2020-04-07,23:56:33
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-12-10 (V.Zerkin).
+            X4Title: "11B(3He,p)13C and 11B(3He,d)12C reactions"
+            X4Author: H.D.Holmgren, E.A.Wolicki, R.L.Johnston
+            EXFOR: F0251005    Created: 1985-09-25  Updated: 2005-09-26
+            X4Reaction:5-B-11(HE3,D)6-C-12,PAR,DA,,,EXP; X4Points:69
+            ENSDF:LevelEnergy=0.00
+            Systematic uncertainty: ErrSys=15.0%
+            AME2016: M1=3.016029322 M2=11.009305166 M3=2.014101778 M4=12.0
+
+Version:      R33
+X4Number:     F0251005 20050926
+Source:       H.D.Holmgren+(1959), Jour. Physical Review, Vol.114, p.1281
+Reaction:     11B(3He,d0)12C
+Distribution: Energy
+Sigfactors:   1.00, 0.15
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 11.0, 2.0, 12.0
+Zeds:         2, 5, 1, 6
+Qvalue:       10463.2, 0.00, 0.00, 0.00, 0.00
+Theta:        163
+Data:
+  3098.00,      8.00,    0.1361,      0.00
+  3212.00,      8.00,    0.1335,      0.00
+  3300.00,      8.00,     0.121,      0.00
+  3402.00,      8.00,    0.1284,      0.00
+  3491.00,      8.00,    0.1458,      0.00
+  3592.00,      8.00,    0.1432,      0.00
+  3782.00,      8.00,    0.1555,      0.00
+  3896.00,      8.00,    0.1404,      0.00
+  3998.00,      8.00,    0.1478,      0.00
+  4175.00,      8.00,    0.1502,      0.00
+  4277.00,      8.00,     0.165,      0.00
+  4378.00,      8.00,     0.165,      0.00
+  4581.00,      8.00,    0.1773,      0.00
+  4695.00,      8.00,    0.1946,      0.00
+  4784.00,      8.00,    0.1946,      0.00
+  4886.00,      8.00,    0.1995,      0.00
+  5000.00,      8.00,    0.2168,      0.00
+  5089.00,      8.00,    0.2367,      0.00
+  5203.00,      8.00,    0.2391,      0.00
+  5292.00,      8.00,    0.2216,      0.00
+  5406.00,      8.00,    0.2514,      0.00
+EndData:
