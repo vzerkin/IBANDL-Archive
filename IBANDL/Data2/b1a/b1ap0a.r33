@@ -2,7 +2,7 @@ Comment: none
 File created by R33 Manager version 0.21
 
 Version: R33
-Source: G.Giorginis, A.Crametz, P.Misalides, and M.Conti, IBA-12, Tempe, Arizona
+Source: G.Giorginis, P.Misalides, A.Crametz, and M.Conti, Nuclear Inst. and Meth. B 118 (1996) 224-227.
 Name: Georgios Giorginis
 Address1: CEC-JRC
 Address2: Institute for Reference Materials and Measurements (IRMM)
@@ -12,7 +12,7 @@ Address5: BELGIUM
 Address6: vgjorgo@irmm.jrc.rtt.be
 Serial Number: 
 SubFile: 11BAP0.R33
-X4Number: 
+X4Number: O0815004
 Reaction: 11B(a,p0)14C
 Distribution: Energy
 Composition: 
