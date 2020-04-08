@@ -1,0 +1,41 @@
+Comment:    Automatically converted from EXFOR on 2020-04-08,22:43:47
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-12-10 (V.Zerkin).
+            X4Title: "The (d,p) reaction on 23Na in the deuteron energy
+                      range from 1.0 to 2.5 MeV"
+            X4Author: A.Z.El-Behay, M.A.Farouk, M.L.Jhingan, M.H.Nassef, 
+            I.I.Zaloubovsky
+            EXFOR: D0077002    Created: 2004-02-11  Updated: 2005-09-26
+            X4Reaction:11-NA-23(D,P)11-NA-24,PAR,DA; X4Points:457
+            ENSDF:LevelEnergy=0.00
+            Theta groupping interval=3.0 deg.
+            Systematic uncertainty: ErrSys=15.19%  Min=5.68%  Max=34.8%
+            AME2016: M1=2.014101778 M2=22.989769281 M3=1.007825032 M4=23.990963011
+
+Version:      R33
+X4Number:     D0077002 20050926
+Source:       A.Z.El-Behay+(1965), Jour. Nuclear Physics, Vol.74, p.225
+Reaction:     23Na(d,p0)24Na
+Distribution: Energy
+Sigfactors:   1.00, 0.1519
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 23.0, 1.0, 24.0
+Zeds:         1, 11, 1, 11
+Qvalue:       4734.8, 0.00, 0.00, 0.00, 0.00
+Theta:        90.7
+Data:
+  1400.00,      0.00,    0.2732,      0.00
+  1500.00,      0.00,    0.3361,      0.00
+  1600.00,      0.00,     0.235,      0.00
+  1700.00,      0.00,    0.2895,      0.00
+  1800.00,      0.00,    0.3373,      0.00
+  1900.00,      0.00,    0.5541,      0.00
+  2000.00,      0.00,    0.5298,      0.00
+  2100.00,      0.00,    0.7734,      0.00
+  2200.00,      0.00,    0.6361,      0.00
+  2300.00,      0.00,    0.5104,      0.00
+  2400.00,      0.00,    0.6254,      0.00
+  2500.00,      0.00,    0.8234,      0.00
+EndData:
