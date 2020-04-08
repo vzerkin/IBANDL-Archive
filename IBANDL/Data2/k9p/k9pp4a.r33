@@ -1,0 +1,72 @@
+Comment: Data were digitized. Energy digitizing error is 0.0008 MeV
+         data digitizing error is 0.004 (relative units).
+         Differential cross-sections are given in relative units.
+
+Version: R33
+Source: S.S.Vasilyev et al. Izvestiya Akademii Nauk v.32 (1968) 2013
+Name: Taova Sophiya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1096004
+Reaction: 39K(p,p4)39K
+Distribution: Energy
+Composition: 
+Masses:     1.000,   39.000,    1.000,   39.000
+Zeds: 1,  19,  1,  19
+Qvalue:     -3603.00,      0.00,      0.00,      0.00,      0.00
+Theta:    90.0
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: ru
+Data:
+     6.2796         0.     2.3339         0.
+       6.29         0.     1.8629         0.
+     6.3003         0.     1.5642         0.
+     6.3104         0.     2.1391         0.
+     6.3217         0.     2.6106         0.
+      6.332         0.     2.7602         0.
+       6.34         0.     2.3696         0.3
+     6.3525         0.     2.3698         0.
+     6.3628         0.     2.2436         0.
+      6.372         0.     1.8185         0.
+     6.3812         0.     1.4968         0.
+     6.3903         0.       1.52         0.
+     6.4005         0.     1.7386         0.
+     6.4118         0.     2.1986         0.
+     6.4231         0.     2.6126         0.
+     6.4333         0.     2.9691         0.
+     6.4435         0.     3.2796         0.
+     6.4538         0.     3.0844         0.
+     6.4642         0.     2.5674         0.
+     6.4734         0.     2.1078         0.
+     6.4814         0.     1.8666         0.
+     6.4917         0.     1.7978         0.
+     6.5019         0.     1.9704         0.
+     6.5133         0.     2.1201         0.
+     6.5235         0.     2.2582         0.
+     6.5349         0.     2.4768         0.
+     6.5429         0.      2.362         0.
+     6.5531         0.     2.2358         0.
+     6.5645         0.      2.328         0.
+     6.5726         0.     1.8684         0.
+     6.5829         0.     1.6961         0.
+     6.5931         0.     2.0527         0.
+     6.6033         0.     2.1678         0.
+     6.6135         0.     2.2715         0.
+     6.6237         0.     2.5015         0.
+     6.6351         0.     2.7546     0.1954
+     6.6432         0.     1.9387    0.18391
+     6.6534         0.     2.1803         0.
+     6.6636         0.     2.4678         0.
+      6.675         0.     2.5485         0.
+      6.683         0.     2.4567         0.
+     6.6922         0.     2.1121         0.
+     6.7025         0.     2.0088         0.
+     6.7127         0.     2.0895         0.
+      6.723         0.     2.1012         0.
+     6.7333         0.     1.8485         0.
+EndData:
