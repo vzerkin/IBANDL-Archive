@@ -1,0 +1,38 @@
+Comment:    Automatically converted from EXFOR on 2020-04-07,23:00:17
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-12-10 (V.Zerkin).
+            X4Title: "Angular distributions of 10B(d,alpha)8Be reactions
+                      from 0.6 to 1.5 MeV"
+            X4Author: R.L.Becker
+            EXFOR: F0365003    Created: 1985-12-16  Updated: 2005-09-26
+            X4Reaction:5-B-10(D,A)4-BE-8,PAR,DA,,,EXP; X4Points:154
+            Converted from C.M. to Lab.: Sigma, Theta
+            SigmaLab=SigmaCM/{1.0221579, 1.0314523}
+            ThetaLab=100.7 ThetaCM:104.4 [102.6, 105.6]
+            ENSDF:LevelEnergy=0.00
+            Theta groupping interval=3.0 deg.
+            Systematic uncertainty: ErrSys=17.35%  Min=15.13%  Max=46.91%
+            AME2016: M1=2.014101778 M2=10.012936862 M3=4.002603254 M4=8.005305102
+
+Version:      R33
+X4Number:     F0365003 20050926
+Source:       R.L.Becker(1960), Jour. Physical Review, Vol.119, p.1076
+Reaction:     10B(d,a0)8Be
+Distribution: Energy
+Sigfactors:   1.00, 0.1735
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 10.0, 4.0, 8.0
+Zeds:         1, 5, 2, 4
+Qvalue:       17819.74, 0.00, 0.00, 0.00, 0.00
+Theta:        100.7
+Data:
+   580.00,      6.00,    0.1212,      0.00
+   700.00,      6.00,    0.1429,      0.00
+   840.00,      6.00,    0.4288,      0.00
+   970.00,      6.00,    0.4241,      0.00
+  1130.00,      6.00,    0.3507,      0.00
+  1290.00,      6.00,    0.3603,      0.00
+  1480.00,      6.00,    0.3826,      0.00
+EndData:
