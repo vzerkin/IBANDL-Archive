@@ -1,0 +1,74 @@
+Comment: Data were digitized. Energy digitizing error is 0.001 MeV
+         data digitizing error is 0.1 rel.units (relative units). 
+         Differential cross-sections are given in relative units.  
+         
+Version: R33
+Source: S.S.Vasilyev et al. Izvestiya Academii Nauk v.32 (1968) 587
+Name: Sophiya Taova 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0964003
+Reaction: 23Na(p,p2)23Na
+Distribution: Energy
+Composition: 
+Masses:    1.000,   23.000,    1.000,   23.000
+Zeds: 1, 11, 1, 11
+Qvalue:     -2080.0,      0.00,      0.00,      0.00,      0.00
+Theta:   120.0
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: ru
+Data:
+     6.2453        0.0       947.        0.0
+      6.255        0.0      876.4        0.0
+     6.2628        0.0      829.3        0.0
+     6.2746        0.0      852.8        0.0
+     6.2843        0.0      825.4        0.0
+      6.295        0.0      754.8        0.0
+     6.3058        0.0      776.4        0.0
+     6.3146        0.0      776.4        0.0
+     6.3243        0.0       796.        0.0
+     6.3341        0.0      841.1        0.0
+     6.3409        0.0      880.3        0.0
+     6.3536        0.0      882.3        0.0
+     6.3653        0.0      856.8        0.0
+      6.376        0.0       845.        0.0
+     6.3868        0.0      827.4        0.0
+     6.3955        0.0      756.8        0.0
+     6.4053        0.0      686.2        0.0
+     6.4151        0.0      641.1        0.0
+     6.4248        0.0      684.3        0.0
+     6.4336        0.0      813.7        0.0
+     6.4453        0.0      931.3        0.0
+      6.456        0.0      764.6        0.0
+     6.4668        0.0       749.        0.0
+     6.4765        0.0      743.1        0.0
+     6.4863        0.0      690.1        0.0
+      6.496        0.0      760.7        0.0
+     6.5067        0.0      872.5        0.0
+     6.5146        0.0      807.8        0.0
+     6.5272        0.0       800.        0.0
+      6.538        0.0      792.1        0.0
+     6.5468        0.0      780.4        0.0
+     6.5546        0.0      737.2        0.0
+     6.5633        0.0      707.8        0.0
+      6.576        0.0      729.4        0.0
+     6.5868        0.0      721.5        0.0
+     6.5965        0.0      770.6        0.0
+     6.6043        0.0      735.3        0.0
+     6.6151        0.0      682.3        0.0
+     6.6268        0.0       751.        0.0
+     6.6365        0.0      694.1        0.0
+     6.6472        0.0      696.1        0.0
+      6.658        0.0      739.2        0.0
+     6.6668        0.0      731.4        0.0
+     6.6775        0.0      752.9        0.0
+     6.6863        0.0      792.1        0.0
+      6.696        0.0      819.6        0.0
+     6.7077        0.0      794.1        0.0
+     6.7194        0.0       802.        0.0
+EndData:
