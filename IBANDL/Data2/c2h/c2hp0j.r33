@@ -2,10 +2,11 @@ Comment: These cross sections have been obtained from backward calculation using
 
 Version: R33
 Source: S. Moeller, Nucl. Instr. Meth. B 394 (2017) 134
-Name: Sören Möller
+Name: S?ren M?ller
 Address1: Forschungszentrum Juelich IEK-4
 Address2: s.moeller@fz-juelich.de
 Serial Number: 0
+X4Number:     O2321002 20170609
 Reaction: 12C(3He,p0)14N
 Distribution: Energy
 Composition: 
@@ -17,7 +18,6 @@ Sigfactors: 1.00, 0.00
 Enfactors: 1.00, 0.00, 0.00, 0.00
 Units: mb
 Data:
-0000.000,  0.000,   0.000, 0.000
 1599.02163, 0, 0.07788, 0
 1604.87859, 0, 0.07774, 0
 1610.73557, 0, 0.07243, 0
@@ -515,4 +515,3 @@ Data:
 4494.43941, 0, 0.59358, 0
 4500.3048, 0, 0.48292, 0
 EndData:
-
