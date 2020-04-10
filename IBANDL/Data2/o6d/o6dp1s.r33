@@ -1,0 +1,39 @@
+Comment: The excitation function was constructed from angular distributions presented in the paper. 
+Numerical values were taken from EXFOR SUBENT D0152001 and were converted from the c.m. frame to the 
+lab one.
+
+Version: R33
+Source: S.Cavallaro et al. Il Nuovo Cimento, 14A (1973) 692
+Name: A.Gurbich
+Serial Number: 0
+X4Number: D0152003
+Reaction: 16O(d,p1)17O
+Distribution: Energy
+Composition:
+Masses: 2, 16, 1, 17
+Zeds: 1, 8, 1, 8
+Qvalue: 1047, 0, 0, 0, 0
+Theta: 150
+Sigfactors: 1, 0
+Enfactors: 1, 0, 0, 0
+Units: mb
+Data:
+     980    0.0    15.06   0.0
+    1020    0.0     7.52   0.0
+    1040    0.0     5.65   0.0
+    1100    0.0     3.08   0.0
+    1160    0.0     2.45   0.0
+    1190    0.0     2.76   0.0
+    1250    0.0     5.28   0.0
+    1290    0.0    10.84   0.0
+    1330    0.0    11.04   0.0
+    1380    0.0    12.09   0.0
+    1430    0.0     8.96   0.0
+    1520    0.0     7.75   0.0
+    1620    0.0     7.67   0.0
+    1680    0.0     5.74   0.0
+    1730    0.0     3.62   0.0
+    1760    0.0     2.31   0.0
+    1870    0.0     6.53   0.0
+    1970    0.0     9.53   0.0
+EndData:
