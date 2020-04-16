@@ -1,0 +1,23 @@
+Comment:  	The Gamma radiation from 11B bombarded by Protons.
+		Data measured at angle 90 deg and multiplied x 4pi to give total cross sections.
+
+
+Version:      R33
+X4Number:     F0363002 00000000
+Source:       T.Huus and R. Day, Phys. Rev. 91, 599 (1953).
+Name:       
+Reaction:     11B(p,g1)12C
+Egamma: 11664-12791
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1000.00, 0.00, 0.00, 0.00
+Units:        tot
+Masses:       1.0, 11.0, 0.0, 12.0
+Zeds:         1, 5, 0, 6
+Qvalue:       15956.85, 0.00, 0.00, 0.00, 0.00
+Theta:        360
+Data:
+.163        0.        .152                
+.675        0.        .048                
+1.388       0.        .018                
+EndData:
