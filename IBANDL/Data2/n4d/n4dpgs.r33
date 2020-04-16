@@ -1,0 +1,73 @@
+Comment: Differential cross section data. Gamma-ray energy 2297 keV.  The listed uncertainties in the cross section values are statistical only. 
+
+There is a systematic uncertainty of less than +/- 9% (see "Sigma scale factor" fields).
+Version: R33
+Source: A. Jokar et al., Nucl. Instr. and Meth. B 431 (2018) 25.
+Name: Alireza Jokar 
+Address1: Van de Graaff Laboratory
+Address2: Nuclear Science and Technology Research Institute
+Address3: PO Box 14395-836
+Address4: End of North Karegar Ave,Tehran
+Address5: Iran
+Address6: arezajokar@gmail.com
+Serial Number: 0
+X4Number:     D09120032 00000000
+Reaction: 14N(d,pg6-1)15N  
+Egamma: 2297
+Distribution: Energy
+Composition: Natural
+Masses:   
+Zeds: 1, 7, 1, 7
+Qvalue:     
+Theta:     90.00
+Sigfactors: 1.00, 0.09
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+584.90	2.00	0.15	0.00	
+635.60	2.00	0.18	0.00	
+665.90	2.00	0.24	0.01	
+696.30	2.00	0.26	0.01	
+726.60	2.00	0.35	0.01	
+757.00	2.00	0.39	0.01	
+787.30	2.00	0.5	0.01	
+817.50	2.00	0.58	0.01	
+847.80	2.00	0.69	0.01	
+878.10	2.00	0.78	0.01	
+908.30	2.00	0.8	0.01	
+938.60	2.00	0.94	0.01	
+968.80	2.00	1.09	0.01	
+1029.20	2.00	1.18	0.02	
+1059.30	2.00	1.37	0.02	
+1089.60	2.00	1.5	0.03	
+1119.70	2.00	1.67	0.03	
+1149.90	2.00	1.58	0.03	
+1180.10	2.00	1.86	0.03	
+1210.20	2.00	2.01	0.03	
+1240.40	2.00	2.19	0.03	
+1270.50	2.00	2.41	0.03	
+1300.70	2.00	2.53	0.04	
+1330.80	2.00	2.88	0.04	
+1360.90	2.00	3.13	0.04	
+1391.10	2.00	3.38	0.04	
+1421.20	2.00	3.76	0.05	
+1451.30	2.00	3.68	0.05	
+1481.40	2.00	4.17	0.05	
+1511.50	2.00	4.21	0.05	
+1541.60	2.00	4.47	0.05	
+1571.70	2.00	4.77	0.05	
+1601.80	2.00	4.77	0.05	
+1631.90	2.00	4.99	0.05	
+1662.00	2.00	5.18	0.06	
+1692.10	2.00	4.95	0.05	
+1722.20	2.00	5.1	0.05	
+1752.30	2.00	5.03	0.05	
+1782.40	2.00	5.1	0.05	
+1812.50	2.00	5.05	0.05	
+1842.60	2.00	5.02	0.05	
+1872.70	2.00	5.26	0.06	
+1902.70	2.00	5.67	0.06	
+1932.80	2.00	5.67	0.06	
+1962.90	2.00	5.71	0.06	
+1993.00	2.00	5.42	0.06	
+EndData:
