@@ -1,36 +1,40 @@
-Comment:    Automatically converted from EXFOR
-            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
-            "Excitations functions and angular distributions of
-             alpha particles leading to the ground and first excited
-             states of 7Be in the reaction 10B(p,alpha)7Be"
-            J.W.Cronin
-            EXFOR: F0217004    Created: 1985-10-25  Updated: 2000-11-15
-            X4Reaction:5-B-10(P,A)4-BE-7,PAR,DA,,,EXP; X4Points:25
-            LevelEnergy: 434.00
+Comment:    Automatically converted from EXFOR on 2020-04-19,20:48:36
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-12-10 (V.Zerkin).
+            X4Title: "Excitations functions and angular distributions of
+                      alpha particles leading to the ground and first excited
+                      states of Be-7 in the reaction B-10(p,alpha)Be-7."
+            X4Author: J.W.Cronin
+            EXFOR: F0217004    Created: 1985-10-25  Updated: 2012-07-02
+            X4Reaction:5-B-10(P,A)4-BE-7,PAR,DA; X4Points:25
+            Converted from C.M. to Lab.:  Theta (Sigma: not converted) 
+            ThetaLab=90.1 ThetaCM:100.0
+            ENSDF:LevelEnergy=434.00
+            Systematic uncertainty: ErrSys=16.34%  Min=3.28%  Max=165.11%
+            AME2016: M1=1.007825032 M2=10.012936862 M3=4.002603254 M4=7.016928717
 
 Version:      R33
-X4Number:     F0217004
-Source:       J.W.Cronin(1956), Jour. Physical Review, Vol.101, p.298 
+X4Number:     F0217004 20120702
+Source:       J.W.Cronin(1956), Jour. Physical Review, Vol.101, p.298
 Reaction:     10B(p,a1)7Be
 Distribution: Energy
-Sigfactors:   1.00, 0.00
+Sigfactors:   1.00, 0.1634
 Enfactors:    1.00, 0.00, 0.00, 0.00
 Units:        mb
 Composition:
 Masses:       1.0, 10.0, 4.0, 7.0
 Zeds:         1, 5, 2, 4
-Qvalue:       710.75, 0.00, 0.00, 0.00, 0.00
-Theta:        100
+Qvalue:       711.67, 0.00, 0.00, 0.00, 0.00
+Theta:        90.1
 Data:
- 1098.90,     2.00,   0.5263,    0.869
- 1178.10,     2.00,   1.1216,   0.5606
- 1258.80,     2.00,    1.521,   0.5604
- 1319.40,     2.00,   3.1517,   0.6726
- 1330.50,     2.00,   3.6011,   0.6167
- 1418.90,     2.00,   5.0941,   0.5886
- 1466.40,     2.00,   9.2742,   0.5885
- 1535.30,     2.00,   11.186,   0.5044
- 1627.70,     2.00,   9.4002,   0.6446
- 1628.40,     2.00,   10.437,   0.5887
+  1098.90,      0.00,    0.5263,      0.00
+  1178.10,      0.00,    1.1216,      0.00
+  1258.80,      0.00,     1.521,      0.00
+  1319.40,      0.00,    3.1517,      0.00
+  1330.50,      0.00,    3.6011,      0.00
+  1418.90,      0.00,    5.0941,      0.00
+  1466.40,      0.00,    9.2742,      0.00
+  1535.30,      0.00,    11.186,      0.00
+  1627.70,      0.00,    9.4002,      0.00
+  1628.40,      0.00,   10.4372,      0.00
 EndData:
-
