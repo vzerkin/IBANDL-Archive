@@ -4,6 +4,7 @@ Version: R33
 Source:  M.J. Kenny, Aust. J. Phys. 34 (1981) 35
 Name: Gurbich
 Serial Number: 0
+X4Number: D083002 00000000
 Reaction: 19F(p,pg2-0)19F
 Egamma: 197
 Distribution: Energy
@@ -12,13 +13,13 @@ Masses: 1,19,1,19
 Zeds: 1,9,1,9
 Qvalue: 0, 0, 0, 0, 0
 Theta: 135
-Sigfactors: 1000000, 1000000
+Sigfactors: 1000000, 0.1
 Enfactors: 1, 0, 0, 0
 Units: yield
 Data:
-1750	0.0	0.36	0.03
-2000	0.0	3.0	0.3
-2250	0.0	4.4	0.4
-2500	0.0	7.1	0.7
-2750	0.0	13.0	1.3
+1750	0.0	0.36	0.0
+2000	0.0	3.0	0.0
+2250	0.0	4.4	0.0
+2500	0.0	7.1	0.0
+2750	0.0	13.0	0.0
 EndData:
