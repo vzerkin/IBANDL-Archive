@@ -1,0 +1,35 @@
+Comment: 
+ Systematic uncertainty: ErrSys=12.8%  Min=42.3%  Max=3.7%
+
+Version: R33
+X4Number: A1457004 00000000 
+Source: A.B. Brown et al., Phys. Rev 82 (1951) 159
+Name: A.B. Brown 
+Egamma: 429 
+Serial Number: 0
+Reaction: 10B(p,ag1-0)7Be
+Distribution: Energy
+Composition: 
+Masses:    1.000,   10.000,    4.000,    7.000
+Zeds: 1, 5, 2, 4
+Qvalue:    0.0,      0.00,      0.00,      0.00,      0.00
+Theta:    90.00
+Sigfactors: 1.00, 0.00 
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: tot 
+Data:
+1257.,  0.,      17.55,       0.00 
+1282.,  0.,       29.1,       0.00 
+1306.,  0.,       36.03,      0.00 
+1331.,  0.,       43.73,      0.00 
+1357.,  0.,       72.96,      0.00 
+1383.,  0.,       69.13,      0.00 
+1410.,  0.,        75.29,     0.00 
+1434.,  0.,       89.91,      0.00 
+1461.,  0.,      102.2,       0.00 
+1487.,  0.,      126.1,       0.00 
+1538.,  0.,      116.1,       0.00 
+1565.,  0.,      121.5,       0.00 
+1587.,  0.,      105.4,       0.00 
+1613.,  0.,       89.23,      0.00 
+EndData:
