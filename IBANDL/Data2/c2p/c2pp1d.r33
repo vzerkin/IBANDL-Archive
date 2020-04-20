@@ -1,0 +1,57 @@
+Comment:    Automatically converted from EXFOR on 2020-04-20,11:16:10
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program ver-2019-12-10 (V.Zerkin).
+            X4Title: "Proton elastic scattering differential cross-sections
+                      for C-12."
+            X4Author: D.Abriola,  A.F.Gurbich,  M.Kokkoris,  A.Lagoyannis, 
+            V.Paneta
+            EXFOR: O1909003    Created: 2011-10-12  Updated: 2012-12-11
+            X4Reaction:6-C-12(P,INL)6-C-12,PAR,DA; X4Points:171
+            ENSDF:LevelEnergy=4438.00
+            Systematic uncertainty: ErrSys=6.97%  Min=3.7%  Max=14.29%
+            AME2016: M1=1.007825032 M2=12.0 M3=1.007825032 M4=12.0
+
+Version:      R33
+X4Number:     O1909003 20121211
+Source:       D.Abriola+(2011), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.269, p.2011
+Reaction:     12C(p,p1)12C
+Distribution: Energy
+Sigfactors:   1.00, 0.0697
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 12.0, 1.0, 12.0
+Zeds:         1, 6, 1, 6
+Qvalue:       -4438.0, 0.00, 0.00, 0.00, 0.00
+Theta:        140
+Data:
+  5800.00,      9.00,      2.30,      0.00
+  5847.00,      9.00,      3.50,      0.00
+  5897.00,      9.00,      7.30,      0.00
+  5947.00,     10.00,      2.40,      0.00
+  5997.00,     10.00,      0.90,      0.00
+  6047.00,     10.00,      0.90,      0.00
+  6097.00,     10.00,      0.90,      0.00
+  6147.00,     10.00,      1.00,      0.00
+  6197.00,     10.00,      1.30,      0.00
+  6251.00,     10.00,      1.30,      0.00
+  6301.00,     10.00,      1.60,      0.00
+  6351.00,     10.00,      1.80,      0.00
+  6397.00,     10.00,      2.10,      0.00
+  6447.00,     10.00,      2.40,      0.00
+  6501.00,     10.00,      2.70,      0.00
+  6551.00,     10.00,      3.00,      0.00
+  6601.00,     11.00,      3.40,      0.00
+  6651.00,     11.00,      3.60,      0.00
+  6701.00,     11.00,      4.10,      0.00
+  6751.00,     11.00,      4.40,      0.00
+  6801.00,     11.00,      4.50,      0.00
+  6851.00,     11.00,      4.90,      0.00
+  6901.00,     11.00,      5.20,      0.00
+  6951.00,     11.00,      5.50,      0.00
+  7001.00,     11.00,      5.80,      0.00
+  7051.00,     11.00,      5.90,      0.00
+  7101.00,     11.00,      6.30,      0.00
+  7151.00,     11.00,      6.30,      0.00
+  7201.00,     12.00,      6.40,      0.00
+EndData:
