@@ -1,0 +1,38 @@
+Comment:    Automatically converted from EXFOR at 2020-09-09,12:18:46
+            by the IAEA-NDS EXFOR Web-Retrieval System,
+            program X4toR33 ver-2020-05-11 (V.Zerkin).
+            X4Title: "Cross section for 170 degrees backscattering of He-4
+                      from oxygen in the energy range of 2.0-9.0 MeV."
+            X4Author: Huan-Sheng Cheng,  Hao Shen,  Jiayong Tang,  Fujia Yang
+            EXFOR: O0877003    Created: 2001-06-13  Updated: 2010-01-20
+            X4Reaction:8-O-16(A,EL)8-O-16,,DA,,RTH; X4Points:50
+            ENSDF:LevelEnergy=0.00
+            AME2016: M1=4.002603254 M2=15.994914619 M3=4.002603254 M4=15.994914619
+
+Version:      R33
+X4Number:     O0877003 20100120
+Source:       Huan-Sheng Cheng+(1993), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.83, p.449
+Reaction:     16O(a,a0)16O
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        rr
+Composition:
+Masses:       4.0, 16.0, 4.0, 16.0
+Zeds:         2, 8, 2, 8
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        165
+Data:
+  8350.00,      0.00,     29.70,      0.90
+  8400.00,      0.00,     30.20,      0.90
+  8450.00,      0.00,     29.60,      0.90
+  8500.00,      0.00,     30.40,      0.90
+  8550.00,      0.00,     29.00,      0.90
+  8600.00,      0.00,     29.90,      0.90
+  8650.00,      0.00,     29.80,      0.90
+  8700.00,      0.00,     28.00,      0.80
+  8750.00,      0.00,     27.10,      0.80
+  8800.00,      0.00,     27.50,      0.80
+  8850.00,      0.00,     25.00,      0.80
+  8900.00,      0.00,      6.30,      0.20
+EndData:
