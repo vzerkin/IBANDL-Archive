@@ -9,12 +9,12 @@ File was converted RTR -> R33
 File created by R33 Manager version 0.21
 
 Version: R33
-Source: Hunt et al. Phys. Rev. 160 (1967) 782
+Source: W.E.Hunt+(1967), Jour. Physical Review, Vol.160, p.782
 Name: 
 Address1: 
 Serial Number: 
 SubFile: ao_hu67a.rtr
-X4Number: 
+X4Number: T0242002 20120515
 Reaction: 16O(a,a0)16O
 Distribution: Energy
 Composition: 
