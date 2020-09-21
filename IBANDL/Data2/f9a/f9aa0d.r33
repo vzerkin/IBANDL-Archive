@@ -11,12 +11,12 @@ File was converted RTR -> R33
 File created by R33 Manager version 0.21
 
 Version: R33
-Source: Cseh et al. Nucl. Phys. A413 (1984) 311
+Source: J.Cseh+(1984), Nuclear Physics, Section A, Vol.413, p.311
 Name: 
 Address1: 
 Serial Number: 
 SubFile: af_cs84c.rtr
-X4Number: 
+X4Number: D0325002 
 Reaction: 19F(a,a0)19F
 Distribution: Energy
 Composition: 
