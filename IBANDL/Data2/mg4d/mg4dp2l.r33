@@ -1,6 +1,7 @@
 Comment: File created by R33 Manager version 0.1
 
 Version: R33
+X4Number:     D0797004 20160701
 Source: H. Rafi-kheiri, O. Kakuee, M. Lamehi-Rachti, Nucl. Instr. Meth. B 373 (2016) 63-69
 Name: H. Rafi-kheiri, O. Kakuee, M. Lamehi-Rachti
 Serial Number: 0
@@ -11,7 +12,7 @@ Masses:    2.010,   23.990,    1.010,   24.990
 Zeds: 1, 12, 1, 12
 Qvalue:   4131.34,      0.00,      0.00,      0.00,      0.00
 Theta:     90.00
-Sigfactors: 1.00, 0.00
+Sigfactors: 1.00, 0.033
 Enfactors: 1.00, 0.00, 0.00, 0.00
 Units: mb
 Data:
