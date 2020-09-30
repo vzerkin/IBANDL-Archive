@@ -1,0 +1,45 @@
+Comment: Data were digitized. Energy digitizing error is 2.663 keV
+         data digitizing error is 0.0006 (relative units). 
+         Differential cross-sections are given in relative units.
+         
+Version: R33
+Source: W.N.Wang et al. Nuclear Physics A v.102 (1967) 537
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: S0074003 20150209
+Reaction: 25Mg(d,a1)23Na 
+Distribution: Energy
+Composition: 
+Masses:    2.000,   25.000,    4.000,   23.000
+Zeds: 1, 12, 2, 11
+Qvalue:      6609.81,      0.00,      0.00,      0.00,      0.00
+Theta:  130.00
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: ru
+Data:
+      2.047         0.    0.25876         0.
+     2.0945         0.    0.42812         0.
+     2.1444         0.    0.48454         0.
+     2.1943         0.    0.48448         0.
+     2.2442         0.     0.5456         0.
+     2.2941         0.    0.63025         0.
+      2.344         0.    0.62078         0.
+     2.3986         0.    0.49366         0.
+     2.4484         0.    0.34302         0.
+      2.496         0.    0.56414         0.
+     2.5459         0.     0.5735         0.
+     2.5957         0.    0.41815         0.
+     2.6456         0.    0.56397         0.
+     2.6979         0.    0.56862         0.
+     2.7478         0.    0.66268         0.
+     2.7953         0.    0.67204         0.
+     2.8475         0.    0.58257         0.
+      2.895         0.    0.51193         0.
+     2.9711         0.    0.63419         0.
+EndData:
