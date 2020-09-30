@@ -1,0 +1,21 @@
+Comment: Thick target yields.
+
+
+Version: R33
+Source: M.J.Kenny+, Nucl. Instr. and Meth. 168 (1980) 115
+X4Number:     D0384019
+Reaction: 26Mg(p,g1-0)27Al
+Masses:
+Zeds: 1, 12, 0, 13
+Composition: natural
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Distribution: Energy
+Theta:     90.00
+Egamma: 843
+Sigfactors: 1.00, 0.00
+Units: yield
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Data:
+2000.0	0.0	370.00
+2514.0	0.0	1000.00
+EndData:
