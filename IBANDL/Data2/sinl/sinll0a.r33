@@ -1,0 +1,53 @@
+Comment: Data taken from Table 2 in the publication cited below
+ratio-to-Rutherford converted to mb/sr
+WARNING ! THIS IS MAINLY FOR TEST NO GUARANTY IS PROVIDED FOR EVEN
+AGREEMENT WITH THE ORIGINAL PUBLICATION.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: A. Nurmela et al. Nucl. Instr. Meth. B155 (1999) 211
+Name: B. Diaz Herrera/M. Mayer
+Address1: Max-Planck-Institut fuer Plasmaphysik
+Address2: Boltzmannstr. 2
+Address3: 85748 Garching
+Address4: Germany
+Serial Number: 
+SubFile: Nurmela-7li-Si_140.r33
+X4Number: O0857006 20050926
+Reaction: natSi(7Li,7Li)natSi
+Distribution: Energy
+Composition: Natural
+Masses:    7.000,   28.000,    7.000,   28.000
+Zeds: 3, 14, 3, 14
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    140.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 4500.000,  0.000, 130.860, 0.000
+ 5000.000,  0.000, 105.997, 0.000
+ 5250.000,  0.000,  95.181, 0.000
+ 5500.000,  0.000,  88.477, 0.000
+ 5750.000,  0.000,  81.752, 0.000
+ 5900.000,  0.000,  75.364, 0.000
+ 6000.000,  0.000,  75.081, 0.000
+ 6100.000,  0.000,  73.352, 0.000
+ 6200.000,  0.000,  67.558, 0.000
+ 6400.000,  0.000,  65.989, 0.000
+ 6500.000,  0.000,  62.093, 0.000
+ 6550.000,  0.000,  61.148, 0.000
+ 6600.000,  0.000,  61.442, 0.000
+ 6700.000,  0.000,  59.031, 0.000
+ 6800.000,  0.000,  55.589, 0.000
+ 6900.000,  0.000,  50.650, 0.000
+ 7000.000,  0.000,  48.672, 0.000
+ 7100.000,  0.000,  46.785, 0.000
+ 7200.000,  0.000,  44.472, 0.000
+ 7300.000,  0.000,  42.267, 0.000
+ 7400.000,  0.000,  40.165, 0.000
+ 7500.000,  0.000,  34.861, 0.000
+ 7600.000,  0.000,  30.280, 0.000
+ 7700.000,  0.000,  30.392, 0.000
+ 7800.000,  0.000,  28.311, 0.000
+EndData:
