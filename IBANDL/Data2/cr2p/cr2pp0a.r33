@@ -1,0 +1,49 @@
+Comment: Data were digitized. Energy digitizing error is 0.005 MeV
+         data digitizing error is 0.002 mb/sr.
+
+Version: R33
+Source: J.H. Bjerregaard et al. Nuclear Physics v.51 (1964) 641
+Name: Taova Sophiya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1038002 20100518 
+Reaction: 52Cr(p,p0)52Cr
+Distribution: Energy
+Composition: 
+Masses:    1.000,   52.000,    1.000,   52.000
+Zeds: 1,  24,  1,  24
+Qvalue:         0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    145.0
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+     3.6188         0.     68.555         0.
+     3.6216         0.      73.62         0.
+     3.6259         0.      65.16         0.
+     3.6287         0.     73.265         0.
+     3.6308         0.     83.395         0.
+      3.633         0.      83.05         0.
+     3.6349         0.     81.695         0.
+      3.636         0.      79.33         0.
+     3.6394         0.     76.955         0.
+     3.6418         0.     78.975         0.
+     3.6465         0.       73.9         0.
+     3.6493         0.     65.445         0.
+     3.6534         0.     59.015         0.
+     3.6573         0.     71.845         0.
+     3.6598         0.     101.57         0.
+      3.663         0.     108.66         0.
+     3.6656         0.    104.935         0.
+     3.6689         0.     88.035         0.
+     3.6714         0.     80.935         0.
+     3.6736         0.      68.09         0.
+      3.677         0.     69.435         0.
+     3.6809         0.     68.075         0.
+     3.6884         0.     59.275         0.
+     3.6947         0.     52.505         0.
+EndData:
