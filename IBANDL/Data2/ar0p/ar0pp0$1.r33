@@ -7,8 +7,8 @@ Comment:    Automatically converted from EXFOR
             Data converted from C.M. to Lab. 
 
 Version:      R33
-X4Number:     C0859003
-Source:       A.C.L.Barnard+(1961), Jour. Nuclear Physics, Vol.28, p.428
+X4Number:     C0859003 20050926
+Source:       A.C.L.Barnard+(1961), Nuclear Physics, Vol.28, p.428
 Reaction:     40Ar(p,p0)40Ar
 Distribution: Energy
 Sigfactors:   1.00, 0.00
