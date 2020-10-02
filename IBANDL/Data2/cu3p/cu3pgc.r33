@@ -4,7 +4,7 @@ Sigfactor applied to convert to isotopic yield.
 
 Version: R33
 Source: M.J.Kenny+, Nucl. Instr. and Meth. 168 (1980) 115
-EXFOR Subentry:	D0384013
+X4Number:     D0384013
 Reaction:     63Cu(p,g4-1)64Zn
 Distribution: Energy
 Egamma:	   992
