@@ -1,0 +1,22 @@
+Comment:    Thick target yields.
+Sigfactor applied to convert to isotopic yield.
+
+
+Version: R33
+Source: M.J.Kenny+, Nucl. Instr. and Meth. 168 (1980) 115
+X4Number:     D0384013
+Reaction:     63Cu(p,g1-0)64Zn
+Distribution: Energy
+Egamma:	   992
+Sigfactors:   1.446, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        yield
+Composition:
+Masses:       1.0, 63.0, 0.0, 64.0
+Zeds:         1, 29, 0, 30
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        135
+Data:
+ 2000,     0.00,    3.3E+03,     0.00
+ 2514,     0.00,    1.6E+04,     0.00
+EndData:
