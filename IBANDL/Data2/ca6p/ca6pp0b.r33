@@ -1,0 +1,33 @@
+Comment: Data were digitized. Energy digitizing error is 0.232 keV
+         data digitizing error is 0.012 mb/sr.
+
+Version: R33
+Source: C. Gaarde et al. Nuclear Physics A v.102 (1967) 1
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1175005 20130411
+Reaction: 46Ca(p,p0)46Ca 
+Distribution: Energy
+Composition: 
+Masses:    1.000,   46.000,    1.000,   46.000
+Zeds: 1, 20, 1, 20
+Qvalue:        0.00,      0.00,      0.00,      0.00,      0.00
+Theta:   159.00
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+     2.7538         0.  2.783E-02    0.13551
+     2.7611         0.    0.52619    0.11863
+     2.7645         0.     1.1143     0.1073
+      2.769         0.     1.5614    0.11302
+     2.7726         0.    0.82755    0.12993
+      2.777         0.    0.63621    0.10172
+     2.7803         0.    0.25826    0.11295
+     2.7877         0.  2.223E-02  6.779E-02
+EndData:
