@@ -4,7 +4,7 @@ Comment:	Total cross sections of the 14N(d,p?5-0)15N.
                  measured at angle multiplied by 4Pi
 
 Version: R33
-Source:  L. Csedreki et al., Nucl. Instr. & Meth. B328 (2014)20-26.
+Source:  L.Csedreki+(2014), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.328, p.20
 Name:
 X4Number: D4299004
 Reaction: 14N(d,pg5-0)15N
