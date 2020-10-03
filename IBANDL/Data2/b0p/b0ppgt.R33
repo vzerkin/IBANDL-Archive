@@ -1,0 +1,39 @@
+Comment:
+Thick target gamma-ray yield. Gamma-ray energy 718 keV. The proton energy is known with an accuracy of 0.1%. The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is +/- 8.5 (see "Sigma scale factor" fields).
+
+Version: R33
+Source:  M.Chiari+(2016), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.366, p.77
+Name: M. Chiari
+Address1: Istituto Nazionale Fisica Nucleare
+Address2: via G. Sansone 1
+Address3: I-50019 Sesto Fiorentino (Firenze)
+Address4: ITALY
+Address5: chiari@fi.infn.it
+Address6: 
+Serial Number: 0
+X4Number: O2306008
+Reaction: 10B(p,pg1-0)10B
+Egamma: 718
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,5,1,5
+Qvalue: 0.00, 0.00, 0.00, 0.00, 0.00
+Theta: 0.00
+Sigfactors: 1.00, 0.085
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: yield
+Data:
+2498	0	9.63E+05	0.27E+05
+2647	0	1.263E+06	0.029E+06
+2795	0	1.97E+06	0.04E+06
+2943	0	2.85E+06	0.05E+06
+3092	0	3.56E+06	0.06E+06
+3240	0	4.41E+06	0.07E+06
+3388	0	5.23E+06	0.07E+06
+3537	0	6.09E+06	0.09E+06
+3685	0	7.40E+06	0.09E+06
+3834	0	9.37E+06	0.09E+06
+3982	0	1.174E+07	0.015E+07
+4130	0	1.457E+07	0.017E+07
+EndData:
