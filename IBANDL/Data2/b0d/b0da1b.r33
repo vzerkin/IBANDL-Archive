@@ -12,7 +12,7 @@ Comment:    Automatically converted from EXFOR on 2020-04-07,22:55:37
 
 Version:      R33
 X4Number:     D0144002 20050926
-Source:       G.Debras+(1977), Jour. Journal of Radioanalytical Chemistry, Vol.38, p.193
+Source:       G.Debras+(1977), Journal of Radioanalytical Chemistry, Vol.38, p.193
 Reaction:     10B(d,a1)8Be
 Distribution: Energy
 Sigfactors:   1.00, 0.06
