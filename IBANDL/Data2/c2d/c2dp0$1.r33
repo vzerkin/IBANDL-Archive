@@ -9,7 +9,7 @@ Comment:    Automatically converted from EXFOR
 
 Version:      R33
 X4Number:     D0144003
-Source:       G.Debras+(1977), Jour. Journal of Radioanalytical Chemistry, Vol.38, p.193
+Source:       G.Debras+(1977), Journal of Radioanalytical Chemistry, Vol.38, p.193
 Reaction:     12C(d,p0)13C
 Distribution: Energy
 Sigfactors:   1.00, 0.00
