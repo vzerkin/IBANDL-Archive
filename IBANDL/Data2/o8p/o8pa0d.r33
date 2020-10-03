@@ -1,0 +1,47 @@
+Comment: N.S.Christensen Nucl.Instrum.Methods B51 (1990) 97;
+     The 18O(p,a)15N differential reaction cross section has  been 
+calibrated against the Rutherford scattering cross section in  the 
+energy intervals 620-640 keV, 700-900 keV and 1730-1760 keV. Three 
+resonances have been observed at 629 keV, 833 keV  and  1763  keV. 
+The cross section at the broad resonance observed around  833  keV 
+shows a cosine dependence on the center-of-mass reaction angle.  A 
+new method  for  in  situ  preparation  of  thin  18O  targets  is 
+presented.
+     Van  de  Graaff  accelerator,   UHV   system,   no   buildup, 
+accelerator calibration uncertainty is estimated by authors to  be 
+1 keV.
+     Graphical presentation of cross sections at 30,  90  and  144 
+deg lab. Angular distribution at the resonance energy of 833 keV.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: N.S.Christensen+(1990), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.51, p.97
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: D0126002 
+Reaction: 18O(p,a0)15N
+Distribution: Energy
+Composition: 
+Masses:    1.000,   18.000,    4.000,   15.000
+Zeds: 1, 8, 2, 7
+Qvalue:   3980.00,      0.00,      0.00,      0.00,      0.00
+Theta:    144.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  620.200,  0.000,  12.100, 0.000
+  621.900,  0.000,  15.300, 0.000
+  623.100,  0.000,  21.300, 0.000
+  623.200,  0.000,  29.500, 0.000
+  622.900,  0.000,  40.500, 0.000
+  622.600,  0.000,  52.000, 0.000
+  626.400,  0.000,  28.100, 0.000
+  628.500,  0.000,  18.200, 0.000
+  630.900,  0.000,   6.100, 0.000
+  634.500,  0.000,   8.400, 0.000
+  636.500,  0.000,   9.200, 0.000
+  640.300,  0.000,   8.300, 0.000
+  640.300,  0.000,  10.300, 0.000
+EndData:
