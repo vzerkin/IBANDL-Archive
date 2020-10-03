@@ -1,0 +1,55 @@
+Comment:	Total cross sections of the 14N(d,p?6-1)15N. 
+		Gamma energy is 2297 keV.
+                Total cross section = differential gamma-ray cross-section 
+                 measured at angle multiplied by 4Pi
+
+
+Version: R33
+Source:  L.Csedreki+(2014), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.328, p.20
+Name:
+Serial Number: 0
+X4Number: D4299003
+Reaction: 14N(d,pg6-1)15N
+Egamma: 2297.
+Distribution: Energy
+Composition:
+Masses: 2., 14., 1., 15.
+Zeds: 1, 7, 1, 7
+Qvalue: 6312., 0, 0, 0, 0
+Theta: 55.
+Sigfactors: 1., 0.
+Enfactors: 1000., 0., 0., 0.
+Units: tot
+Data:
+0.65	0	2.2	0.1
+0.7	0	3.3	0.2
+0.75	0	4.4	0.2
+0.8	0	5.8	0.3
+0.85	0	7.2	0.3
+0.9	0	8.8	0.4
+0.95	0	11.4	0.5
+1	0	12.0	0.6
+1.05	0	15.4	0.8
+1.1	0	16.6	1.0
+1.15	0	19.0	1.0
+1.2	0	22.7	1.1
+1.25	0	25.1	1.2
+1.3	0	30.6	1.5
+1.35	0	35.8	1.7
+1.4	0	42.2	2.0
+1.45	0	46.8	2.1
+1.5	0	51.5	2.4
+1.55	0	55.7	2.6
+1.6	0	59.0	2.7
+1.65	0	61.3	2.8
+1.7	0	64.1	2.9
+1.75	0	67.2	3.0
+1.8	0	68.0	3.1
+1.85	0	68.4	3.1
+1.9	0	75.8	3.4
+1.93	0	79.8	4.3
+1.95	0	75.8	3.4
+1.97	0	75.8	4.1
+2	0	74.6	3.4
+EndData:
+
