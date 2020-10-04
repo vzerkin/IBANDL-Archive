@@ -1,0 +1,40 @@
+Comment: Energy range: 1790-1810 keV
+
+Source: F.B.Hagedorn+(1957), Physical Review, Vol.105, p.219.
+Name: A. R. Ramos
+Address1: ITN- Nuclear and Technological Institute
+Address2: Estrada Nacional 10
+Address3: 2686-953 Sacavem
+Address4: Portugal
+Address5: e-mail: ariel@itn.pt
+Serial Number:
+SubFile: HAG1790_1810.r33
+X4Number: 
+Reaction: 14N(p,p0)14N
+Distribution: Energy
+Masses: 1,14,1,14
+Zeds: 1,7,1,7
+Qvalue: 0
+Theta: 121.5
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+1788.2	0	3.32	0
+1791.1	0	3.33	0
+1793.1	0	3.34	0
+1794.2	0	3.39	0
+1795.1	0	3.40	0
+1796.2	0	3.40	0
+1797.2	0	3.42	0
+1798.0	0	3.39	0
+1799.0	0	3.31	0
+1800.0	0	3.24	0
+1801.0	0	3.18	0
+1802.0	0	3.17	0
+1802.9	0	3.12	0
+1805.8	0	3.13	0
+1809.7	0	3.14	0
+1811.6	0	3.16	0
+1814.6	0	3.20	0
+EndData:
