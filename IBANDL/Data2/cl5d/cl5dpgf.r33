@@ -2,7 +2,8 @@ Comment: Differential cross section data. Gamma-ray energy 1165 keV.  The listed
 There is a systematic uncertainty of +/- 10% (see "Sigma scale factor" fields).
 
 Version: R33
-Source: A. Jokar et al.,Nucl.Instr.and Meth.B 377(2016)37.
+X4Number:     D0803003 20160701
+Source: A. Jokar+(2016),Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.371, p.37
 Name: Alireza Jokar 
 Address1: Van de Graaff Laboratory
 Address2: Nuclear Science and Technology Research Institute
