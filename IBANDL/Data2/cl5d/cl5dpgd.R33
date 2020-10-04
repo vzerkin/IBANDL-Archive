@@ -1,0 +1,53 @@
+Comment: Differential cross section data. Gamma-ray energy 788 keV.  The listed uncertainties in the cross section values are statistical only. 
+There is a systematic uncertainty of +/- 10% (see "Sigma scale factor" fields).
+
+Version: R33
+X4Number:     D0803002 20160701
+Source: A. Jokar+(2016),Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.371, p.37
+Name: Alireza Jokar 
+Address1: Van de Graaff Laboratory
+Address2: Nuclear Science and Technology Research Institute
+Address3: PO Box 14395-836
+Address4: End of North Karegar Ave,Tehran
+Address5: Iran
+Address6: arezajokar@gmail.com
+Serial Number: 0
+Reaction: 35Cl(d,pg1-0)36Cl
+Egamma: 788
+Distribution: Energy
+Composition: Natural
+Masses:   
+Zeds: 1, 17, 1, 17
+Qvalue:     
+Theta:     90.00
+Sigfactors: 1.00, 0.10
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  986.890,  2.000,   0.000, 0.000
+ 1027.190,  2.000,   0.010, 0.000
+ 1067.460,  2.000,   0.010, 0.000
+ 1107.730,  2.000,   0.013, 0.000
+ 1147.970,  2.000,   0.020, 0.001
+ 1188.210,  2.000,   0.031, 0.001
+ 1228.430,  2.000,   0.034, 0.001
+ 1268.640,  2.000,   0.059, 0.002
+ 1308.840,  2.000,   0.068, 0.002
+ 1349.040,  2.000,   0.100, 0.004
+ 1389.220,  2.000,   0.098, 0.003
+ 1429.390,  2.000,   0.132, 0.003
+ 1469.560,  2.000,   0.168, 0.004
+ 1509.720,  2.000,   0.196, 0.005
+ 1549.880,  2.000,   0.226, 0.006
+ 1590.030,  2.000,   0.287, 0.006
+ 1630.170,  2.000,   0.331, 0.008
+ 1670.310,  2.000,   0.404, 0.010
+ 1710.440,  2.000,   0.434, 0.011
+ 1750.570,  2.000,   0.529, 0.012
+ 1790.700,  2.000,   0.634, 0.013
+ 1830.820,  2.000,   0.705, 0.014
+ 1870.930,  2.000,   0.770, 0.017
+ 1911.040,  2.000,   0.835, 0.018
+ 1951.150,  2.000,   0.946, 0.019
+ 1991.250,  2.000,   1.077, 0.019
+EndData:
