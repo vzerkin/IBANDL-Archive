@@ -1,0 +1,42 @@
+Comment: Data were digitized. Energy digitizing error is 1.67 keV
+         data digitizing error is 0.3 mb/sr. 
+         
+Version: R33
+Source: V.B.Gubin+(1974), Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.38, Issue.4, p.868
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-79-06   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0866003
+Reaction: 26Mg(p,p0)26Mg
+Distribution: Energy
+Composition: 
+Masses:    1.000,   26.000,    1.000,   26.000
+Zeds: 1, 12, 1, 12
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:  160.00
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 5.9035    0.0    39.330    0.0   
+ 5.9345    0.0    32.426    0.0  
+ 5.9636    0.0    41.960    0.0  
+ 5.9990    0.0    48.134    0.0  
+ 6.0253    0.0    63.541    0.0  
+ 6.0563    0.0    76.092    0.0  
+ 6.0845    0.0    56.444    0.0  
+ 6.1149    0.0    42.497    0.0  
+ 6.1390    0.0    32.916    0.0  
+ 6.1754    0.0    30.871    0.0  
+ 6.2152    0.0    29.829    0.0  
+ 6.2382    0.0    27.125    0.0  
+ 6.2659    0.0    21.231    0.0  
+ 6.2977    0.0    23.047    0.0  
+ 6.3293    0.0    23.019    0.0  
+ 6.3560    0.0    25.008    0.0  
+ 6.3897    0.0    30.345    0.0  
+EndData:
