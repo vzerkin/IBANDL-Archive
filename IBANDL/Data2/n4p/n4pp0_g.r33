@@ -1,0 +1,41 @@
+Comment: Energy range: 1040-1080 keV
+
+Source: F.B.Hagedorn+(1957), Physical Review, Vol.105, p.219.
+Name: A. R. Ramos
+Address1: ITN- Nuclear and Technological Institute
+Address2: Estrada Nacional 10
+Address3: 2686-953 Sacavem
+Address4: Portugal
+Address5: e-mail: ariel@itn.pt
+Serial Number:
+SubFile: HAG1040_1080.r33
+X4Number:
+Reaction: 14N(p,p0)14N
+Distribution: Energy
+Masses: 1,14,1,14
+Zeds: 1,7,1,7
+Qvalue: 0
+Theta: 121.5
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+1035.0	0	1.63	0
+1040.0	0	1.57	0
+1044.9	0	1.49	0
+1047.4	0	1.30	0
+1048.8	0	1.24	0
+1050.0	0	1.19	0
+1051.3	0	1.20	0
+1051.7	0	1.67	0
+1052.7	0	1.98	0
+1054.9	0	2.77	0
+1055.9	0	2.97	0
+1057.2	0	2.73	0
+1058.3	0	2.55	0
+1060.0	0	2.35	0
+1062.5	0	2.27	0
+1064.9	0	2.17	0
+1070.2	0	2.06	0
+1075.3	0	2.07	0
+EndData:
