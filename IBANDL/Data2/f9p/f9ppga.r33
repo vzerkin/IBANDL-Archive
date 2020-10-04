@@ -3,9 +3,10 @@ Gamma energy 197 keV. Total cross sections were calculated assuming isotropic
 angular distribution of the 197 keV emission.
 
 Version: R33
-Source:  A.P. Jesus et al., Nucl. Instr. Meth. B 161-163 (2000) 186
+Source: A.P.Jesus+(2000), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.161-163, p.229
 Name:
 Serial Number: 0
+X4Number: O0859002
 Reaction: 19F(p,pg2-0)19F
 Egamma:197
 Distribution: Energy
