@@ -1,0 +1,24 @@
+Comment:
+Thick target gamma-ray yield.  
+
+Version: R33
+Source: A.Z.Kiss+(1981), Jour. of Radioanal. and Nuclear Chemistry, Vol.89, p.123
+Name:
+Serial Number: 0
+X4Number:  
+Reaction: 19F(p,ag4-0)16O
+Egamma: 7114
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,9,2,8
+Qvalue: 0, 0, 0, 0, 0
+Theta: 55
+Sigfactors: 1, 0
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+2400.0		0.0		5.4E+03		0.0
+3100.0		0.0		4.4E+04		0.0
+3800.0		0.0		4.6E+04		0.0
+EndData:
