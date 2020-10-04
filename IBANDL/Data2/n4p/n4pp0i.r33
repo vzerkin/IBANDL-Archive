@@ -1,0 +1,45 @@
+Comment: \Protons on N14; 1035 - 1075 keV; CM angle = 154; LAB angle = ?;
+\Hagedorn et al., 1957; RPC; No .DIG files exist.  Ratio to Rutherford
+\ vs. proton lab KE in keV.
+\Point on Y axis was    1040.00      3.00
+\Point of origin was    1040.00      1.00
+\Point on X axis was    1070.00      1.00
+16 2
+File was converted RTR -> R33
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: F.B.Hagedorn+(1957), Physical Review, Vol.105, p.219.
+Name: 
+Address1: 
+Serial Number: 
+SubFile: pn_ha57a.rtr
+X4Number: C0851003 
+Reaction: 14N(p,p0)14N
+Distribution: Energy
+Composition: 
+Masses:    1.000,   14.000,    1.000,   14.000
+Zeds: 1, 7, 1, 7
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    152.10
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+ 1036.000,  0.000,   1.710, 0.000
+ 1041.000,  0.000,   1.610, 0.000
+ 1046.000,  0.000,   1.510, 0.000
+ 1051.000,  0.000,   1.390, 0.000
+ 1053.000,  0.000,   1.980, 0.000
+ 1054.000,  0.000,   3.200, 0.000
+ 1055.000,  0.000,   3.610, 0.000
+ 1056.000,  0.000,   3.560, 0.000
+ 1057.000,  0.000,   3.170, 0.000
+ 1058.000,  0.000,   3.000, 0.000
+ 1059.000,  0.000,   2.660, 0.000
+ 1061.000,  0.000,   2.460, 0.000
+ 1063.000,  0.000,   2.460, 0.000
+ 1065.000,  0.000,   2.240, 0.000
+ 1071.000,  0.000,   2.120, 0.000
+ 1076.000,  0.000,   2.170, 0.000
+EndData:
