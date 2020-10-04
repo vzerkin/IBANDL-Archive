@@ -1,0 +1,25 @@
+Comment:
+Thick target gamma-ray yield.
+Measurements assuming elemental composition. 
+	To convert to isotopic yields multiply by Sigfactor  
+
+Version: R33
+Source: A.Z.Kiss+(1981), Jour. of Radioanal. and Nuclear Chemistry, Vol.89, p.123
+Name:
+Serial Number: 0
+X4Number:  
+Reaction: 12C(p,g1-0)13N 
+Egamma: 2366
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,6,0,7
+Qvalue: 0, 0, 0, 0, 0
+Theta: 55
+Sigfactors: 1.01, 0
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+2400.0		0.0		2.3E+02		0.0
+3100.0		0.0		2.7E+02		0.0
+EndData:
