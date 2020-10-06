@@ -9,12 +9,12 @@ File was converted RTR -> R33
 File created by R33 Manager version 0.21
 
 Version: R33
-Source: P.R.Malmberg Phys.Rev. v.101 (1956) 114
+Source: P.R.Malmberg(1956), Physical Review, Vol.101, p.114
 Name: 
 Address1: 
 Serial Number: 
 SubFile: plima56a.rtr
-X4Number: 
+X4Number:  C0852003 20050926
 Reaction: 7Li(p,p0)7Li
 Distribution: Energy
 Composition: 
