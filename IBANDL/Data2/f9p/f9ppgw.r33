@@ -1,0 +1,33 @@
+Comment:   Observation of the second T=2 state of Ne-20 as a compound 
+	   resonance in the F-19+p reactions
+
+
+Version:      R33
+X4Number:    F0970016
+Source:      H.-M.Kuan+(1972), Jour. Nuclear Physics, Vol.193, p.497
+Name:       
+Reaction:     19F(p,pg7-0)19F
+Egamma:	      3910
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1000.00, 0.00, 0.00, 0.00
+Units:        ru
+Masses:       1.0, 19.0, 1.0, 19.0
+Zeds:         1, 9, 1, 9
+Qvalue:       0.00, 0.00, 0.00, 0.00, 0.00
+Theta:        360
+Data:
+5.8396	14500
+5.8504	15200
+5.86	15200
+5.8657	15900
+5.8718	16100
+5.8764	24200
+5.8781	27300
+5.8787	26300
+5.8816	18100
+5.8841	19300
+5.8903	15700
+5.8994	15400
+5.9098	15800
+EndData:
