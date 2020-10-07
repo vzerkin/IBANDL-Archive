@@ -1,0 +1,52 @@
+Comment:   Proton induced thick target g-ray yields of light nuclei at the 
+	   energy region E/P=1.0 - 4.1 MeV.
+
+
+Version:      R33
+X4Number:    O0861005
+Source:      A.Savidou+(1999), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.152, p.12
+Name:       
+Reaction:     19F(p,pg2-0)19F
+Egamma:	      197
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1000.00, 0.00, 0.00, 0.00
+Units:        yield
+Masses:       1.0, 19.0, 1.0, 19.0
+Zeds:         1, 9, 1, 9
+Qvalue:       0.00, 0.00, 0.00, 0.00, 0.00
+Theta:        90
+Data:
+1.77	0	0.2e+06
+2.188	0	0.397e+06
+2.305	0	0.871e+06
+2.392	0	2.54e+06
+2.491	0	3.39e+06
+2.589	0	4.31e+06
+2.693	0	5.95e+06
+2.791	0	8.22e+06
+2.879	0	1.06E+07
+2.987	0	1.19E+07
+3.036	0	1.26E+07
+3.084	0	1.36E+07
+3.133	0	1.50E+07
+3.182	0	1.62E+07
+3.231	0	1.82E+07
+3.28	0	1.90E+07
+3.334	0	2.13E+07
+3.388	0	2.26E+07
+3.437	0	2.41E+07
+3.485	0	2.61E+07
+3.54	0	2.82E+07
+3.578	0	3.10E+07
+3.637	0	3.09E+07
+3.68	0	3.34E+07
+3.734	0	3.68E+07
+3.826	0	3.77E+07
+3.874	0	3.95E+07
+3.928	0	4.00E+07
+3.988	0	4.32E+07
+4	0	4.30E+07
+4.031	0	4.38E+07
+4.091	0	5.15E+07
+EndData:
