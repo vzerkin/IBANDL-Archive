@@ -12,7 +12,7 @@ Comment:    Automatically converted from EXFOR
 
 Version:      R33
 X4Number:     F0922009
-Source:       Omar+(1964), Jour. Nuclear Physics, Vol.56, p.97
+Source:       H.M.Omar+(1964), Jour. Nuclear Physics, Vol.56, p.97
 Reaction:     24Mg(d,p0)25Mg
 Distribution: Energy
 Sigfactors:   1.00, 0.00
