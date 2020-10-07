@@ -1,0 +1,57 @@
+Comment: Data were taken from file XsectdataSigmaBase.xls
+The data were supplied by A.R. Ramos
+WARNING ! THIS IS MAINLY FOR TEST NO GUARANTY IS PROVIDED FOR EVEN
+AGREEMENT WITH THE ORIGINAL PUBLICATION.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: A.R.Ramos+(2002), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.190, p.95
+Name: M. Mayer
+Address1: Max-Planck-Institut fuer Plasmaphysik
+Address2: Boltzmannstr. 2
+Address3: D-85748 Garching
+Address4: Germany
+Address5: ++49 89 3299 1639
+Address6: Matej.Mayer@ipp.mpg.de
+Serial Number: 
+SubFile: HO178_Ramos.r33
+X4Number: D0078005 
+Reaction: 16O(p,p0)16O
+Distribution: Energy
+Composition: 
+Masses:    1.000,   16.000,    1.000,   16.000
+Zeds: 1, 8, 1, 8
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    178.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  748.000,  0.000, 169.200, 0.000
+  998.000,  0.000, 123.460, 0.000
+ 1098.000,  0.000, 109.770, 0.000
+ 1199.000,  0.000, 101.490, 0.000
+ 1298.000,  0.000, 100.280, 0.000
+ 1349.000,  0.000,  97.600, 0.000
+ 1398.000,  0.000,  95.550, 0.000
+ 1448.000,  0.000,  95.440, 0.000
+ 1498.000,  0.000,  87.160, 0.000
+ 1547.000,  0.000,  92.240, 0.000
+ 1598.000,  0.000,  87.610, 0.000
+ 1648.000,  0.000,  83.870, 0.000
+ 1698.000,  0.000,  84.320, 0.000
+ 1748.000,  0.000,  84.240, 0.000
+ 1799.000,  0.000,  79.690, 0.000
+ 1850.000,  0.000,  79.560, 0.000
+ 1899.000,  0.000,  82.280, 0.000
+ 1950.000,  0.000,  84.630, 0.000
+ 1999.000,  0.000,  83.720, 0.000
+ 2049.000,  0.000,  82.900, 0.000
+ 2099.000,  0.000,  79.930, 0.000
+ 2149.000,  0.000,  80.840, 0.000
+ 2199.000,  0.000,  80.690, 0.000
+ 2249.000,  0.000,  79.050, 0.000
+ 2299.000,  0.000,  78.400, 0.000
+ 2398.000,  0.000,  76.240, 0.000
+ 2499.000,  0.000,  73.990, 0.000
+EndData:
