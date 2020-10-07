@@ -1,0 +1,52 @@
+Comment: Data taken from Table 1 in the publication cited below
+WARNING ! THIS IS MAINLY FOR TEST NO GUARANTY IS PROVIDED FOR EVEN
+AGREEMENT WITH THE ORIGINAL PUBLICATION.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: J.Raisanen+(1993), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.73, p.439
+Name: B. Diaz Herrera/M. Mayer
+Address1: Max-Planck-Institut fuer Plasmaphysik
+Address2: Boltzmannstr. 2
+Address3: 85748 Garching
+Address4: Germany
+Serial Number: 
+SubFile: Pi7LiLiTi.r33
+X4Number: A0599004
+Reaction: natTi(7Li,7Li)natTi
+Distribution: Energy
+Composition: Natural
+Masses:    7.000,   48.000,    7.000,   48.000
+Zeds: 3, 22, 3, 22
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    170.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 4950.000,  0.000, 224.000, 4.480
+ 5950.000,  0.000, 156.000, 3.120
+ 6450.000,  0.000, 128.000, 2.560
+ 7200.000,  0.000, 105.000, 2.100
+ 7450.000,  0.000, 101.000, 2.020
+ 7700.000,  0.000,  96.300, 1.930
+ 7950.000,  0.000,  89.600, 1.790
+ 8200.000,  0.000,  78.300, 1.570
+ 8360.000,  0.000,  75.900, 1.520
+ 8460.000,  0.000,  75.200, 1.500
+ 8710.000,  0.000,  70.300, 1.410
+ 8760.000,  0.000,  70.400, 1.410
+ 8960.000,  0.000,  61.300, 1.230
+ 9210.000,  0.000,  58.900, 1.770
+ 9460.000,  0.000,  54.000, 1.620
+ 9710.000,  0.000,  49.900, 1.500
+ 9960.000,  0.000,  43.600, 1.310
+10210.000,  0.000,  37.300, 1.120
+10360.000,  0.000,  35.100, 1.050
+10460.000,  0.000,  26.400, 0.790
+10560.000,  0.000,  26.200, 0.790
+10710.000,  0.000,  27.000, 0.810
+10960.000,  0.000,  23.100, 0.920
+11210.000,  0.000,  19.200, 0.770
+11460.000,  0.000,  13.500, 0.540
+EndData:
