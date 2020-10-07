@@ -3,7 +3,7 @@ Comment: Energy Dependence of F19+p Reactions
 
 Version:      R33
 X4Number:    C1006004
-Source:      A.Ranken, T.W.Bonner, J.H.McCrary, PR 109, 1646 (1958)
+Source:      W.A.Ranken+(1958), Physical Review, Vol.109, p.1646
 Name:       
 Reaction:     19F(p,pg2-0)19F
 Egamma:	      197
