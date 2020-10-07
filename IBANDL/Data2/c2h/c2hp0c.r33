@@ -1,0 +1,71 @@
+Comment: S.Y.Tong,W.N.Lennard,P.F.A.Alkemade and T.V.Mitchell
+      Nucl.Instrum.Methods B45 (1990) 91;
+     Absolute cross section for the 12C(3He,p)14N nuclear reaction 
+have been measured at E(3He)=2.389 MeV with a  precision  of  4-5% 
+for angles in the range 86 to 151 deg lab. The total cross section 
+summed over p0,p1,and p2 varies from 5 to 7 mb/sr in  the  angular 
+range studied. Excitation functions for the  proton  groups  p0,p1 
+and p2 at the laboratory angle of 90 deg  are  presented  both  in 
+graphical and tabular forms.
+     Van de Graaff accelerator, surface  barrier  detector,a  thin 
+aluminized Mylar filter of 6 mcm thickness was mounted in front of 
+the detector. The typical energy loss in the filter for  a  4  MeV 
+proton was 85 keV. A thin amorphous carbon film having an  a  real 
+density of ~12 mcg/cm^2 was mounted over a Si crystal to serve  as 
+a target for the relative  nuclear  reaction  yield  measurements. 
+Carbon buildup during the duration of the experiment was  observed 
+to be <1%. The 12C(3He,p)14N cross section was measured absolutely 
+using a self-supporting carbon  foil  of  13  mcg/cm^2  thickness. 
+Absolute results were obtained by comparing the  nuclear  reaction 
+yields with the 1 MeV 4He backscattering yield on the same  target 
+spot and in the same geometry.
+     The discrepancies with  data  reported  by  Bromley  et  al. 
+[Br57] are revealed.
+Additional comment by M. Mayer: The original file contained the CS-data
+with only 2 digits, while 3 digits were given in Table 2 of the original
+publication. CS-values were re-entered in order to achieve agreement
+with the original publication.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: S.Y.Tong+(1990), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.45, p.91
+Name: 
+Serial Number: 
+SubFile: c2hep0c.r33
+X4Number: C0189004
+Reaction: 12C(3He,p0)14N
+Distribution: Energy
+Composition: 
+Masses:    3.000,   12.000,    1.000,   14.000
+Zeds: 2, 6, 1, 7
+Qvalue:   4779.00,      0.00,      0.00,      0.00,      0.00
+Theta:     90.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+    2.100,  0.000,   0.685, 0.000
+    2.110,  0.000,   0.749, 0.000
+    2.121,  0.000,   0.662, 0.000
+    2.130,  0.000,   0.656, 0.000
+    2.140,  0.000,   0.642, 0.000
+    2.150,  0.000,   0.726, 0.000
+    2.160,  0.000,   0.679, 0.000
+    2.170,  0.000,   0.674, 0.000 
+    2.180,  0.000,   0.671, 0.000
+    2.189,  0.000,   0.754, 0.000
+    2.209,  0.000,   0.795, 0.000
+    2.229,  0.000,   0.774, 0.000
+    2.249,  0.000,   0.832, 0.000
+    2.269,  0.000,   0.959, 0.000
+    2.289,  0.000,   0.964, 0.000
+    2.309,  0.000,   1.180, 0.000
+    2.329,  0.000,   1.320, 0.000
+    2.348,  0.000,   1.600, 0.000
+    2.358,  0.000,   1.530, 0.000
+    2.368,  0.000,   1.800, 0.000
+    2.389,  0.000,   1.850, 0.000
+    2.399,  0.000,   1.890, 0.000
+    2.409,  0.000,   2.030, 0.000
+    2.419,  0.000,   2.030, 0.000
+EndData:
