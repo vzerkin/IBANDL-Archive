@@ -1,0 +1,52 @@
+Comment:   Proton induced thick target g-ray yields of light nuclei at the 
+	   energy region E/P=1.0 - 4.1 MeV.
+
+
+Version:      R33
+X4Number:    O0861008
+Source:      A.Savidou+(1999), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.152, p.12
+Name:       
+Reaction:     27Al(p,pg2-0)27Al
+Egamma:	      1014
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1000.00, 0.00, 0.00, 0.00
+Units:        yield
+Masses:       1.0, 27.0, 1.0, 27.0
+Zeds:         1, 13, 1, 13
+Qvalue:       0.00, 0.00, 0.00, 0.00, 0.00
+Theta:        90
+Data:
+1.77    0.     4800.   
+2.19    0.     90000.   
+2.302   0.   1.66E+05   
+2.403   0.   3.32E+05   
+2.491   0.   4.79E+05   
+2.585   0.   7.28E+05   
+2.697   0.    8.8E+05   
+2.803   0.   1.72E+06   
+2.897   0.   2.42E+06   
+2.997   0.   3.58E+06   
+3.038   0.   3.57E+06   
+3.085   0.   4.04E+06   
+3.144   0.   4.67E+06   
+3.197   0.   4.77E+06   
+3.244   0.   5.E+06   
+3.285   0.   5.51E+06   
+3.338   0.   6.06E+06   
+3.385   0.   6.04E+06   
+3.443   0.   6.49E+06   
+3.485   0.   7.15E+06   
+3.526   0.   7.88E+06   
+3.579   0.   9.1E+06   
+3.631   0.   9.3E+06   
+3.678   0.   9.1E+06   
+3.737   0.   9.5E+06   
+3.837   0.   9.6E+06   
+3.89    0.   1.17E+07   
+3.931   0.   1.26E+07   
+3.966   0.   1.29E+07   
+4.      0.   1.6E+07                
+4.036   0.   1.35E+07   
+4.072   0.   1.45E+07   
+EndData:
