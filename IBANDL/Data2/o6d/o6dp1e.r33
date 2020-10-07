@@ -1,0 +1,26 @@
+Comment: V.Quillet et al. Nucl.Instrum.Methods v.B83 (1993) 47;
+     Differential cross-section for 12C(d,p)13C reaction at Ed=968 
+keV was found to be 29.5+-1.2 mb/sr (teta lab 150 deg).
+     Differential  cross-section  for  16O(d,p1)17O  reaction   at 
+Ed=857 keV was found to be 5.3+-0.4 mb/sr (teta lab 150 deg).
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: V.Quillet+(1993), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.83, p.47
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: O0817007  
+Reaction: 16O(d,p1)17O
+Distribution: Energy
+Composition: 
+Masses:    2.000,   16.000,    1.000,   17.000
+Zeds: 1, 8, 1, 8
+Qvalue:   1047.00,      0.00,      0.00,      0.00,      0.00
+Theta:    150.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  857.000,  0.000,   5.300, 0.400
+EndData:
