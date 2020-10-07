@@ -11,12 +11,12 @@ File was converted RTR -> R33
 File created by R33 Manager version 0.21
 
 Version: R33
-Source: E.Rauhala Nucl. Instrum. Methods B40/41 (1989) 790
+Source: E.Rauhala(1989), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.40/41, p.790
 Name: 
 Address1: 
 Serial Number: 
 SubFile: ptira8~1.rtr
-X4Number: O0880003
+X4Number:  
 Reaction: natTi(p,p0)natTi
 Distribution: Energy
 Composition: Natural
