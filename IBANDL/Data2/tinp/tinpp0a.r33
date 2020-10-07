@@ -1,0 +1,57 @@
+Comment: \NOTE: The calculated "Ratio to Rutherford" column
+\      in this file was corrected on 12-10-97
+\Protons on Ti48; 1000 - 2600 keV; CM angle = 170.2; LAB angle = 170;
+\Rauhala, 1989; RPC;  This is a file made from the data in Table I Ref.[48]
+\
+\ Lab angle = 170
+\ z1 = 1  z2 = 22
+\ m1 =  1.00  m2 = 48.00
+26 2
+File was converted RTR -> R33
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: E.Rauhala(1989), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.40/41, p.790
+Name: 
+Address1: 
+Serial Number: 
+SubFile: ptira8~1.rtr
+X4Number:  
+Reaction: natTi(p,p0)natTi
+Distribution: Energy
+Composition: Natural
+Masses:    1.000,   48.000,    1.000,   48.000
+Zeds: 1, 22, 1, 22
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    170.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+ 1000.000,  0.000,   1.000, 0.000
+ 1200.000,  0.000,   1.020, 0.000
+ 1350.000,  0.000,   0.960, 0.000
+ 1500.000,  0.000,   1.040, 0.000
+ 1650.000,  0.000,   1.050, 0.000
+ 1800.000,  0.000,   1.050, 0.000
+ 1920.000,  0.000,   1.070, 0.000
+ 1930.000,  0.000,   1.090, 0.000
+ 1975.000,  0.000,   1.050, 0.000
+ 2030.000,  0.000,   1.090, 0.000
+ 2065.000,  0.000,   1.060, 0.000
+ 2110.000,  0.000,   1.100, 0.000
+ 2140.000,  0.000,   1.060, 0.000
+ 2175.000,  0.000,   1.080, 0.000
+ 2200.000,  0.000,   1.060, 0.000
+ 2235.000,  0.000,   1.110, 0.000
+ 2275.000,  0.000,   1.050, 0.000
+ 2310.000,  0.000,   1.110, 0.000
+ 2340.000,  0.000,   1.030, 0.000
+ 2385.000,  0.000,   1.130, 0.000
+ 2435.000,  0.000,   1.070, 0.000
+ 2450.000,  0.000,   1.030, 0.000
+ 2480.000,  0.000,   1.090, 0.000
+ 2510.000,  0.000,   1.100, 0.000
+ 2530.000,  0.000,   1.070, 0.000
+ 2580.000,  0.000,   1.060, 0.000
+EndData:
