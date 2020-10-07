@@ -7,7 +7,7 @@ Comment:  	C. Rolfs and W.S. Rodney
 
 Version:      R33
 X4Number:    C0647004
-Source:      C.Rolfs et al., Nucl. Phys. A235 (1974) 450.
+Source:      C.Rolfs+(1974), Jour. Nuclear Physics, Section A, Vol.235, p.450
 Name:        
 Reaction:     15N(p,g0)16O
 Egamma: 12259-14471
