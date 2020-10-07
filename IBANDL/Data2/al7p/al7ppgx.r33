@@ -4,7 +4,7 @@ Comment:   Proton induced thick target g-ray yields of light nuclei at the
 
 Version:      R33
 X4Number:    O0861008
-Source:      A. Savidou et al., Nucl. Instr. and Meth. B152(1999)12 
+Source:      A.Savidou+(1999), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.152, p.12
 Name:       
 Reaction:     27Al(p,pg2-0)27Al
 Egamma:	      1014
