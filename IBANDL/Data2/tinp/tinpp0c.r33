@@ -1,0 +1,52 @@
+Comment:    Automatically converted from EXFOR at 2020-10-07,18:00:00
+            by the IAEA-NDS EXFOR Web-Retrieval System,
+            program X4toR33 ver-2020-05-11 (V.Zerkin).
+            X4Title: "Proton backscattering and computer data analysis in the
+                      non-Rutherford energy region."
+            X4Author: E.Rauhala
+            EXFOR: O0880003    Created: 2001-06-14  Updated: 2006-02-11
+            X4Reaction:22-TI-0(P,EL)22-TI-0,,DA; X4Points:26
+            ENSDF:LevelEnergy=0.00
+            AME2016: M1=1.007825032 M2=47.867 M3=1.007825032 M4=47.867
+
+Version:      R33
+X4Number:     O0880003 20060211
+Source:       E.Rauhala(1989), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.40/41, p.790
+Reaction:     natTi(p,p0)natTi
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 47.867, 1.0, 47.867
+Zeds:         1, 22, 1, 22
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        170
+Data:
+  1000.00,      3.00,    636.00,      0.00
+  1200.00,      3.00,    449.00,      0.00
+  1350.00,      3.00,    356.00,      0.00
+  1500.00,      3.00,    293.00,      0.00
+  1650.00,      3.00,    245.00,      0.00
+  1800.00,      3.00,    206.00,      0.00
+  1920.00,      3.00,    184.00,      0.00
+  1930.00,      3.00,    186.00,      0.00
+  1975.00,      3.00,    171.00,      0.00
+  2030.00,      3.00,    167.00,      0.00
+  2065.00,      3.00,    158.00,      0.00
+  2110.00,      3.00,    157.00,      0.00
+  2140.00,      3.00,    146.00,      0.00
+  2175.00,      3.00,    144.00,      0.00
+  2200.00,      3.00,    138.00,      0.00
+  2235.00,      3.00,    141.00,      0.00
+  2275.00,      3.00,    129.00,      0.00
+  2310.00,      3.00,    133.00,      0.00
+  2340.00,      3.00,    120.00,      0.00
+  2385.00,      3.00,    126.00,      0.00
+  2435.00,      3.00,    114.00,      0.00
+  2450.00,      3.00,    109.00,      0.00
+  2480.00,      3.00,    112.00,      0.00
+  2510.00,      3.00,    112.00,      0.00
+  2530.00,      3.00,    105.00,      0.00
+  2580.00,      3.00,    101.00,      0.00
+EndData:
