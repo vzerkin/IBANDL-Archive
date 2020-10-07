@@ -1,0 +1,42 @@
+Comment: Data were digitized. Energy digitizing error is 1.2 keV,
+         data digitizing error is 0.002 mb/sr. 
+         The group p(6-7) in this reaction was not separated.
+         
+Version: R33
+Source: H.M.Omar+(1964), Jour. Nuclear Physics, Vol.56, p.97
+Name: Sophiya Taova 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0922007
+Reaction:  26Mg(d,p6+7)27Mg
+Distribution: Energy
+Composition: 
+Masses:    2.000,    26.000,    1.000,    27.000
+Zeds: 1,  12,  1,  12
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:      90.0
+Sigfactors: 1.00,  0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:                   
+     1.4622        0.0     3.4171        0.0
+     1.5067        0.0     3.3714        0.0
+     1.5156        0.0     4.3771        0.0
+     1.5778        0.0     4.5143        0.0
+     1.6356        0.0       4.56        0.0
+     1.6933        0.0     5.1086        0.0
+     1.7689        0.0       8.72        0.0
+     1.8356        0.0     9.4514        0.0
+       1.92        0.0     6.2057        0.0
+     2.1644        0.0     3.9657        0.0
+     2.1956        0.0       4.88        0.0
+     2.2622        0.0       4.56        0.0
+     2.3067        0.0     5.2457        0.0
+     2.3867        0.0     5.0171        0.0
+     2.4667        0.0     5.4743        0.0
+       2.56        0.0     5.9771        0.0                                           
+EndData:
