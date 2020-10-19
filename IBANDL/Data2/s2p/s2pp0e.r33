@@ -1,11 +1,11 @@
 Comment: 
 
 Version: R33
-Source: U. Abbondanno et al., Il Nuovo Cimento 13A (1973) 321
+Source: U.Abbondanno+(1973), Nuovo Cimento A, Vol.13, p.321
 Name: 
 Serial Number: 
 SubFile: 
-X4Number: 
+X4Number: O2264002 O2264007 O2264012 
 Reaction: 32S(p,p0)32S
 Distribution: Energy
 Composition: Natural
