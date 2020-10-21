@@ -1,0 +1,63 @@
+Comment: H.C.Chow et al. "The 16O(p,gamma)17F Direct Capture Cross
+ Section with an Extrapolation to Astrophysical Energies"
+  The scattering cross section was measured in a
+separate experiment using thin WO3 on gold
+foil targets, with oxide layers about 60 mcg/cm^2
+thick, in a large scattering chamber. Scattered
+protons were observed at a center of mass
+angle of 171.5 deg, for proton energies starting at
+an energy low enough that the scattering was
+pure Rutherford (0.405 MeV lab.) up to 2.0
+MeV. Runs at each of the higher energies were
+alternated with runs at 0.405 MeV (the lowest
+energy) to check on possible loss of oxygen from
+the target. No loss was detectable during the
+scattering measurements, consistent with the
+fact that beam currents of less than 1 mcA were
+adequate. Before normalizing the scattering
+data at various energies to the calculated
+Rutherford cross section at the lowest energy,
+it was necessary to determine the mean proton
+energy in the oxide layer. For a beam energy of
+0.405 MeV the mean energy in the oxide layer
+used for most of the scattering measurements
+was 385.5 keV resulting from a 14.5 keV loss
+in the gold foil (~150mcg/cm^2), which was
+facing the beam, and a 5.0 keV loss for the
+average proton before scattering in an oxide
+layer approximately 62 mcg/cm^2 thick.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: H.C.Chow+(1975), Canadian Journal of Physics, Vol.53, p.1672
+Name: 
+Serial Number: 
+SubFile: 0
+X4Number: C1014002 20050926
+Reaction: 16O(p,p0)16O
+Distribution: Energy
+Composition: 
+Masses:    1.000,   16.000,    1.000,   16.000
+Zeds: 1, 8, 1, 8
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    170.90
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+  385.500,  1.300, 561.100, 0.000
+  487.100,  1.300, 350.000, 10.000
+  616.200,  1.200, 220.000, 6.000
+  663.100,  1.100, 203.000, 6.000
+  716.200,  1.100, 176.000, 6.000
+  759.000,  1.100, 168.000, 5.000
+  810.800,  1.500, 161.000, 5.000
+  861.200,  1.500, 151.000, 5.000
+  905.800,  1.000, 133.000, 3.000
+  979.000,  1.000, 126.000, 3.000
+ 1106.300,  1.500, 111.000, 3.000
+ 1250.800,  1.500, 103.000, 2.500
+ 1370.400,  1.500,  99.000, 2.400
+ 1589.800,  2.500,  94.700, 1.900
+ 1790.300,  2.500,  85.500, 1.700
+EndData:
