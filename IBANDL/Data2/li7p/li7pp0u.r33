@@ -1,0 +1,70 @@
+Comment: Data were digitized. Energy digitizing error is 1.27 keV,
+         data digitizing error is 0.265 (relative units). 
+         Differential cross-sections are given in relative units.
+         Angle was converted from the center-of mass to the
+         laboratory system. 
+         
+Version: R33
+Source: G.B.Andreev+(1965), Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.29, p.210
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F1004002 20090828
+Reaction: 7Li(p,p0)7Li 
+Distribution: Energy
+Composition: 
+Masses:    1.000,   7.000,    1.000,   7.000
+Zeds: 1, 3, 1, 3
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:  118.05
+Sigfactors: 1.00, 0.00 
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: ru
+Data:
+     1.2037         0.     62.629         0.
+     1.2827         0.     62.624         0.
+     1.3588         0.     65.492         0.
+     1.4378         0.      69.51         0.
+     1.5225         0.     82.147         0.
+     1.6015         0.     87.889         0.
+     1.6833         0.     100.53         0.
+     1.7623         0.     116.04         0.
+     1.8103         0.     132.13         0.
+     1.8385         0.     150.52         0.
+     1.8555         0.     164.31         0.
+     1.8752         0.     167.18         0.
+     1.8837         0.     151.09         0.
+     1.8949         0.     142.47         0.
+      1.926         0.     162.58         0.
+     1.9656         0.     207.98         0.
+     2.0022         0.     217.75         0.
+     2.0445         0.     208.55         0.
+     2.0868         0.     178.09         0.
+     2.1262         0.     140.73         0.
+     2.1685         0.     95.321         0.
+     2.2079         0.     65.433         0.
+      2.239         0.     82.098         0.
+     2.2672         0.     106.81         0.
+     2.3265         0.     144.16         0.
+     2.3547         0.     156.23         0.
+     2.4027         0.      161.4         0.
+      2.445         0.     159.67         0.
+     2.5268         0.     157.37         0.
+     2.6058         0.     154.49         0.
+     2.6848         0.     149.31         0.
+     2.7638         0.      149.3         0.
+     2.8484         0.      149.3         0.
+     2.9245         0.     146.99         0.
+     3.0063         0.     145.84         0.
+      3.091         0.     145.26         0.
+     3.1615         0.      148.7         0.
+     3.2433         0.     149.84         0.
+     3.3223         0.     157.31         0.
+     3.4041         0.     154.43         0.
+     3.4859         0.     153.85         0.
+     3.5677         0.     156.14         0.
+EndData:
