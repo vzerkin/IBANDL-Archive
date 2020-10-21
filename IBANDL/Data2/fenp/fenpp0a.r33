@@ -9,11 +9,11 @@ target.
 File created by R33 Manager version 0.21
 
 Version: R33
-Source: H.Brandle et al. Nucl.Phys. v.A151 (1970) 211
+Source: H.Brandle+(1970), Nuclear Physics, Section A, Vol.151, p.211
 Name: 
 Serial Number: 
 SubFile: 
-X4Number: 
+X4Number: D0130003 20050926
 Reaction: natFe(p,p0)natFe
 Distribution: Energy
 Composition: Natural
