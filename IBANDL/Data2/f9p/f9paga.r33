@@ -1,6 +1,6 @@
 COMMENT: Gamma energy 6.130, 6.917 and 7.117 MeV (from 19F(p,ag2-0)16O, 19F(p,ag3-0)16O and 19F(p,ag4-0)16O, respectively).
 The proton energy is known to better than 0.1%.
-The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is ±13.5% (see "Sigma scale factor" fields).
+The listed uncertainties in the cross-section values are statistical only; the normalization uncertainty is ?13.5% (see "Sigma scale factor" fields).
 
 Version: R33
 Source: A.Caciolli+(2006), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.249, p.98 
