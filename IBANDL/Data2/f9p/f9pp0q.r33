@@ -1,7 +1,7 @@
 COMMENT: Cross-section data presented in graphical form in the original paper; data have then been digitized using Datathief program (www.datathief.com). 
 
 Version: R33
-Source: R. Caracciolo et al., Lettere al Nuovo Cimento 11 (1974) 33
+Source: R.Caracciolo+(1974), Lettere al Nuovo Cimento, Vol.11, p.33
 Name: M. Chiari
 Address1: Istituto Nazionale Fisica Nucleare
 Address2: via G. Sansone 1
@@ -11,7 +11,7 @@ Address5: chiari@fi.infn.it
 Address6: 
 Serial Number: 0
 SubFile: HF135_Caracciolo.R33
-X4Number:
+X4Number: O2207007 20150202
 Reaction: 19F(p,p0)19F
 Distribution: Energy
 Composition: natural
