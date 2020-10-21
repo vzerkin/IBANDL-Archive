@@ -3,7 +3,7 @@ and 45 deg. Data are published in Nucl. Instr. and Meth. B174 (2001) 25
 File created by R33 Manager version 0.21
 
 Version: R33
-Source: I. Bogdanovic Radovic et al. Nucl. Instr. Meth. B174 (2001) 25
+Source: I.Bogdanovic Radovic+(2001), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.174, p.25
 Name: Iva Bogdanovic Radovic
 Address1: Laboratory for Ion Beam Interactions
 Address2: Rudjer Boskovic Institute
@@ -13,7 +13,7 @@ Address5: Croatia
 Address6: iva@rudjer.irb.hr
 Serial Number: 
 SubFile: 1Hap4He45.r33
-X4Number: 
+X4Number: O0850002 20050926
 Reaction: 1H(a,p)4He
 Distribution: Energy
 Composition: 
