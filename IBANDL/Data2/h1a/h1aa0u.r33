@@ -1,0 +1,33 @@
+Comment: Data for 1H(a,p)4He reaction for energies from 2500 to 4500 keV
+and 40 deg. Data are published in Nucl. Instr. and Meth. B174 (2001) 25
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: I.Bogdanovic Radovic+(2001), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.174, p.25
+Name: Iva Bogdanovic Radovic
+Address1: Laboratory for Ion Beam Interactions
+Address2: Rudjer Boskovic Institute
+Address3: P.O. Box 108
+Address4: 10002 Zagreb
+Address5: Croatia
+Address6: iva@rudjer.irb.hr
+Serial Number: 
+SubFile: 1Hap4He40.r33
+X4Number: O0850002 20050926 
+Reaction: 1H(a,p)4He
+Distribution: Energy
+Composition: 
+Masses:    4.000,    1.000,    1.000,    4.000
+Zeds: 2, 1, 1, 2
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:     40.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 2500.000,  0.000, 360.000, 25.000
+ 3000.000,  0.000, 310.000, 22.000
+ 3500.000,  0.000, 296.000, 21.000
+ 4000.000,  0.000, 314.000, 22.000
+ 4500.000,  0.000, 316.000, 22.000
+EndData:
