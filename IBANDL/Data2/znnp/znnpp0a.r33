@@ -1,0 +1,47 @@
+Comment: I.Bogdanovich et al. Nucl.Instr.Methods v.B79 (1993) 524;
+   "Proton elastic scattering from fluorine, chlorine, zinc, 
+    selenium and bromine in the energy range from 2.5 to 4.8 MeV". 
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: I.Bogdanovic+(1993), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.79, p.524
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: D0102004
+Reaction: natZn(p,p0)natZn
+Distribution: Energy
+Composition: Natural
+Masses:    1.000,   65.380,    1.000,   65.380
+Zeds: 1, 30, 1, 30
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    150.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+    2.490,  0.000,   1.000, 0.000
+    2.590,  0.000,   1.000, 0.000
+    2.900,  0.000,   0.940, 0.000
+    3.000,  0.000,   1.050, 0.000
+    3.110,  0.000,   0.990, 0.000
+    3.200,  0.000,   0.990, 0.000
+    3.300,  0.000,   0.970, 0.000
+    3.400,  0.000,   0.950, 0.000
+    3.500,  0.000,   1.030, 0.000
+    3.600,  0.000,   1.010, 0.000
+    3.690,  0.000,   0.990, 0.000
+    3.800,  0.000,   1.150, 0.000
+    3.890,  0.000,   0.980, 0.000
+    3.990,  0.000,   1.070, 0.000
+    4.090,  0.000,   0.930, 0.000
+    4.190,  0.000,   0.990, 0.000
+    4.300,  0.000,   0.920, 0.000
+    4.400,  0.000,   1.090, 0.000
+    4.500,  0.000,   0.970, 0.000
+    4.610,  0.000,   1.050, 0.000
+    4.710,  0.000,   1.070, 0.000
+    4.810,  0.000,   1.010, 0.000
+    4.810,  0.000,   1.010, 0.000
+    4.810,  0.000,   1.010, 0.000
+EndData:
