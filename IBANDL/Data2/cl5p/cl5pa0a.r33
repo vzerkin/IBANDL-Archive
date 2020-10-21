@@ -1,0 +1,42 @@
+Comment: Data were digitized. Energy digitizing error is 0.033 keV
+         data digitizing error is 19.409 (relative units). 
+         Differential cross-sections are given in relative units (number
+         of counts per 85 microC). 
+         
+Version: R33
+Source: B.Bosnjakovic+(1968), Nuclear Physics, Section A, Vol.110, p.17
+Name: Elena Kamskaya 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: kamskaya@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: 
+Reaction: 35Cl(p,a0)32S 
+Distribution: Energy
+Composition: 
+Masses:    1.000,   35.000,    4.000,   32.000
+Zeds: 1, 17, 2, 16
+Qvalue:      1866.60,      0.00,      0.00,      0.00,      0.00
+Theta:  135.00
+Sigfactors: 1.00, 0.00 
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: ru
+Data:
+ 2.5905E+03         0. 3.7507E+03         0.
+ 2.5915E+03         0. 3.9648E+03         0.
+ 2.5925E+03         0. 3.9616E+03         0.
+ 2.5935E+03         0. 4.5713E+03         0.
+ 2.5945E+03         0. 6.4455E+03         0.
+ 2.5955E+03         0. 1.1580E+04         0.
+ 2.5965E+03         0. 1.2565E+04         0.
+ 2.5975E+03         0. 8.9851E+03         0.
+ 2.5985E+03         0. 6.5709E+03         0.
+ 2.5995E+03         0. 5.1843E+03         0.
+ 2.6005E+03         0. 4.4499E+03         0.
+ 2.6016E+03         0. 4.1898E+03         0.
+ 2.6026E+03         0. 4.0481E+03         0.
+ 2.6036E+03         0. 3.8274E+03         0.
+ 2.6046E+03         0. 3.8440E+03         0.
+EndData:
