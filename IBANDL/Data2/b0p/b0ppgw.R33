@@ -1,0 +1,27 @@
+Comment:
+Data sent by Jyrki Raisanen for PIGE CRP
+
+
+Version: R33
+Source: B.Marchand+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.378, p.25
+Serial Number: 0
+X4Number: O2303010   20160730
+Reaction: 10B(p,pg1-0)10B
+Egamma: 718
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,5,1,5
+Qvalue: 0.00, 0.00, 0.00, 0.00, 0.00
+Theta: 55.00
+Sigfactors: 1.00, 0.0
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: yield
+Data:
+4000    0.0   2.09E+06  
+4500    0.0    4.2E+06  
+5000    0.0    6.9E+06  
+5500    0.0    9.2E+06  
+6000    0.0   1.17E+07  
+6500    0.0   1.47E+07  
+EndData:
