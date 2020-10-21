@@ -1,0 +1,25 @@
+Comment: The data are given in lab system.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: J.M.Freeman+(1958), Nuclear Physics, Vol.5, Issue.1, p.148
+Name: 
+Serial Number: 
+SubFile: 
+X4Number: 
+Reaction: 7Li(p,a0)4He
+Distribution: Energy
+Composition: 
+Masses:    1.000,    7.000,    4.000,    4.000
+Zeds: 1, 3, 2, 2
+Qvalue:  17346.00,      0.00,      0.00,      0.00,      0.00
+Theta:     90.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+    1.010,  0.000,   0.691, 0.000
+    1.290,  0.000,   0.801, 0.000
+    1.350,  0.000,   0.957, 0.000
+    1.460,  0.000,   1.226, 0.000
+EndData:
