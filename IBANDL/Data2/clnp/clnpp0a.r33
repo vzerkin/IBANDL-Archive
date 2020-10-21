@@ -1,0 +1,51 @@
+Comment: \Protons on Cl; 2000 - 5000 keV; CM angle = ; LAB angle = 150;
+\Bogdanovic et al., 1993; RPC; No .DIG files exist.  Ratio to Rutherford vs.
+\proton lab KE keV.
+\Point on Y axis was    2000.00      6.00
+\Point of origin was    2000.00      0.00
+\Point on X axis was    5000.00      0.00
+22 2
+File was converted RTR -> R33
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: I.Bogdanovic+(1993), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.79, p.524
+Name: 
+Address1: 
+Serial Number: 
+SubFile: pclbo93a.rtr
+X4Number: D0102003 
+Reaction: natCl(p,p0)natCl
+Distribution: Energy
+Composition: 
+Masses:    1.000,   35.453,    1.000,   35.453
+Zeds: 1, 17, 1, 17
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    150.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+ 2519.000,  0.000,   0.950, 0.000
+ 2602.000,  0.000,   1.090, 0.000
+ 2912.000,  0.000,   0.930, 0.000
+ 3017.000,  0.000,   1.770, 0.000
+ 3099.000,  0.000,   1.200, 0.000
+ 3202.000,  0.000,   1.060, 0.000
+ 3307.000,  0.000,   1.750, 0.000
+ 3388.000,  0.000,   1.190, 0.000
+ 3493.000,  0.000,   1.740, 0.000
+ 3596.000,  0.000,   1.600, 0.000
+ 3700.000,  0.000,   1.730, 0.000
+ 3803.000,  0.000,   1.730, 0.000
+ 3908.000,  0.000,   2.280, 0.000
+ 3989.000,  0.000,   1.580, 0.000
+ 4094.000,  0.000,   2.410, 0.000
+ 4198.000,  0.000,   2.550, 0.000
+ 4299.000,  0.000,   1.570, 0.000
+ 4405.000,  0.000,   2.960, 0.000
+ 4487.000,  0.000,   2.400, 0.000
+ 4592.000,  0.000,   3.370, 0.000
+ 4696.000,  0.000,   3.640, 0.000
+ 4798.000,  0.000,   2.660, 0.000
+EndData:
