@@ -1,0 +1,51 @@
+Comment: \Protons on F19; 2000 - 5000 keV; CM angle = ; LAB angle = 150;
+\Bogdanovic et al., 1993; RPC; No .DIG file exists.  Ratio to Rutherford vs.
+\proton lab KE in keV.
+\Point on Y axis was    2000.00      6.00
+\Point of origin was    2000.00      0.00
+\Point on X axis was    5000.00      0.00
+22 2
+File was converted RTR -> R33
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: I.Bogdanovic+(1993), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.79, p.524
+Name: 
+Address1: 
+Serial Number: 
+SubFile: pf_bo93a.rtr
+X4Number: D0102002 
+Reaction: 19F(p,p0)19F
+Distribution: Energy
+Composition: 
+Masses:    1.000,   19.000,    1.000,   19.000
+Zeds: 1, 9, 1, 9
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    150.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: rr
+Data:
+ 2498.000,  0.000,   1.000, 0.000
+ 2602.000,  0.000,   1.000, 0.000
+ 2892.000,  0.000,   1.860, 0.000
+ 2996.000,  0.000,   2.140, 0.000
+ 3079.000,  0.000,   2.280, 0.000
+ 3185.000,  0.000,   1.590, 0.000
+ 3308.000,  0.000,   2.570, 0.000
+ 3372.000,  0.000,   1.880, 0.000
+ 3496.000,  0.000,   2.020, 0.000
+ 3600.000,  0.000,   2.310, 0.000
+ 3682.000,  0.000,   3.150, 0.000
+ 3806.000,  0.000,   3.710, 0.000
+ 3886.000,  0.000,   5.390, 0.000
+ 3990.000,  0.000,   5.530, 0.000
+ 4097.000,  0.000,   3.860, 0.000
+ 4203.000,  0.000,   2.890, 0.000
+ 4304.000,  0.000,   4.430, 0.000
+ 4411.000,  0.000,   3.180, 0.000
+ 4496.000,  0.000,   2.070, 0.000
+ 4578.000,  0.000,   2.770, 0.000
+ 4704.000,  0.000,   2.220, 0.000
+ 4787.000,  0.000,   2.640, 0.000
+EndData:
