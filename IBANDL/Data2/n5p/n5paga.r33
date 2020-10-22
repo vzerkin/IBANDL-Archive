@@ -2,7 +2,7 @@ Comment: Data were digitized. Energy digitizing error is 37.078 keV
          data digitizing error is 0.004 mb/sr.  
        
 Version: R33
-Source: S.Gorodetzky et al. Nuclear Physics A v.113 (1968) 221
+Source: S.Gorodetzky+(1968), Nuclear Physics, Section A, Vol.113, p.221
 Name: Elena Kamskaya 
 Address1: All-Russia Scientific Research Institute of Experimental Physics
 Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
@@ -10,7 +10,7 @@ Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
 Address4: e-mail: kamskaya@expd.vniief.ru
 Serial Number: 
 SubFile: 
-X4Number: 
+X4Number: F1192002 20140206
 Reaction: 15N(p,ag1-0)12C 
 Egamma: 4439
 Distribution: Energy
