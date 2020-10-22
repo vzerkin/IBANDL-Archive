@@ -1,13 +1,14 @@
 Comment: File created by R33 Manager version 0.1
 
 Version: R33
-Source: M. Kokkoris et al., NIM B 410 (2017) 29-36
+Source: M.Kokkoris+(2017), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.410, p.29
 Name: M. Kokkoris
 Address1: Department of Physics,
 Address2: School of Applied Science and Mathematics,
 Address3: National Technical University of Athens,
 Address4: Zografou Campus 15780, Athens, Greece
 Serial Number: 0
+X4Number:     O2371002 20190207
 Reaction: natN(d,d0)natN
 Distribution: Energy
 Composition: 
