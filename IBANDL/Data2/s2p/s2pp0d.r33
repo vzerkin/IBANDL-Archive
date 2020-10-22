@@ -1,11 +1,11 @@
 Comment: 
 
 Version: R33
-Source: A. Li-Scholz et al. Appl. Phys. Lett. 56 (1990) 2696
+Source: A.Li-Scholz+(1990), Applied Physics Letters, Vol.56, p.2696
 Name: Gurbich
 Serial Number: 
 SubFile: 
-X4Number: 
+X4Number: C2102002 20140709 
 Reaction: 32S(p,p0)32S
 Distribution: Energy
 Composition: Natural
