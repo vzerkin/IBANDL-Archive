@@ -1,0 +1,42 @@
+Comment: Data taken from Table 1 in the publication cited below
+WARNING ! THIS IS MAINLY FOR TEST NO GUARANTY IS PROVIDED FOR EVEN
+AGREEMENT WITH THE ORIGINAL PUBLICATION.
+File created by R33 Manager version 0.21
+
+Version: R33
+Source:J.Raisanen+(1993), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.73, p.439
+Name: B. Diaz Herrera/M. Mayer
+Address1: Max-Planck-Institut fuer Plasmaphysik
+Address2: Boltzmannstr. 2
+Address3: 85748 Garching
+Address4: Germany
+Serial Number: 
+SubFile: 
+X4Number:  A0599003 20050926
+Reaction: natSi(7Li,7Li)natSi
+Distribution: Energy
+Composition: Natural
+Masses:    7.000,   32.000,    7.000,   32.000
+Zeds: 3, 14, 3, 14
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    170.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 4450.000,  0.000, 106.000, 2.120
+ 4950.000,  0.000,  82.200, 1.640
+ 5450.000,  0.000,  69.800, 1.400
+ 5700.000,  0.000,  60.900, 1.220
+ 5950.000,  0.000,  54.600, 1.090
+ 6200.000,  0.000,  50.600, 1.010
+ 6350.000,  0.000,  46.000, 1.380
+ 6450.000,  0.000,  44.600, 1.340
+ 6550.000,  0.000,  42.100, 1.260
+ 6700.000,  0.000,  40.800, 1.220
+ 6950.000,  0.000,  34.400, 1.030
+ 7200.000,  0.000,  32.400, 0.970
+ 7460.000,  0.000,  23.500, 0.710
+ 7590.000,  0.000,  16.400, 0.820
+ 7710.000,  0.000,  12.200, 0.610
+EndData:
