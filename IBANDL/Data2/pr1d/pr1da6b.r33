@@ -1,0 +1,65 @@
+Comment: Data were digitized. Energy digitizing error is 1.9 keV,
+         data digitizing error is 0.0033 mb/sr. 
+         
+VS: Source is the second reference in F0917003. 
+         
+Version: R33
+Source: G.L.Vysotskii+(1973), Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.37, p.1633
+Name: Sophiya Taova 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0917003 20080516
+Reaction: 31P(d,a6)29Si
+Distribution: Energy
+Composition: 
+Masses:    2.000,   31.000,    4.000,   29.000
+Zeds: 1, 15, 2, 14
+Qvalue:    4085.0,      0.00,      0.00,      0.00,      0.00
+Theta:     160.0
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:                   
+ 2.8081     0.0     0.3221     0.0
+ 2.856      0.0     0.2760     0.0
+ 2.9037     0.0     0.2677     0.0
+ 2.9556     0.0     0.2469     0.0
+ 3.0076     0.0     0.1986     0.0
+ 3.0693     0.0     0.3526     0.0
+ 3.1405     0.0     0.7318     0.0
+ 3.2072     0.0     0.6415     0.0
+ 3.2556     0.0     0.4291     0.0
+ 3.2846     0.0     0.4502     0.0
+ 3.3181     0.0     0.3640     0.0
+ 3.356      0.0     0.1894     0.0
+ 3.4012     0.0     0.3054     0.0
+ 3.4141     0.0     0.2002     0.0
+ 3.4391     0.0     0.1560     0.0
+ 3.4531     0.0     0.3014     0.0
+ 3.4883     0.0     0.3099     0.0
+ 3.503      0.0     0.2721     0.0
+ 3.5199     0.0     0.1753     0.0
+ 3.5405     0.0     0.2133     0.0
+ 3.5634     0.0     0.1965     0.0
+ 3.582      0.0     0.2197     0.0
+ 3.6207     0.0     0.4073     0.0
+ 3.6473     0.0     0.5063     0.0
+ 3.6579     0.0     0.4263     0.0
+ 3.6916     0.0     0.2875     0.0
+ 3.7083     0.0     0.2665     0.0
+ 3.7229     0.0     0.2434     0.0
+ 3.7314     0.0     0.1929     0.0
+ 3.7398     0.0     0.1551     0.0
+ 3.7543     0.0     0.1635     0.0
+ 3.7667     0.0     0.1699     0.0
+ 3.7791     0.0     0.1784     0.0
+ 3.7955     0.0     0.2289     0.0
+ 3.8138     0.0     0.3238     0.0
+ 3.8367     0.0     0.3154     0.0
+ 3.855      0.0     0.4208     0.0
+ 3.8798     0.0     0.4251     0.0                                           
+EndData:
