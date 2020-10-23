@@ -1,0 +1,50 @@
+Comment: Data were digitized. Energy digitizing error is 0.031 MeV,
+         data digitizing error is 0.2%. 
+         
+Version: R33
+Source: N.S.Zelenskaya+(1970), Yadernaya Fizika, Vol.11, p.722
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0871002 20080516
+Reaction:  14N(a,p3)17O
+Distribution: Energy
+Composition: 
+Masses:    4.000,    14.000,    1.000,    17.000
+Zeds: 2,   7,  1,   8
+Qvalue:    -5037.4,      0.00,      0.00,      0.00,      0.00
+Theta:     158.0
+Sigfactors: 1.00,  0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:                   
+     16.853        0.0    0.26219  1.684E-02
+     17.212        0.0    0.34437  1.887E-02
+      17.57        0.0    0.35895  1.967E-02
+     17.954        0.0    0.39935  2.188E-02
+     18.337        0.0    0.25003  1.448E-02
+     18.708        0.0    0.30404  1.666E-02
+     19.027        0.0    0.27489  1.852E-02
+     19.423        0.0    0.13103  5.956E-03
+     19.665        0.0  6.136E-02  5.309E-03
+     19.818        0.0  4.351E-02  3.701E-03
+     20.139        0.0    0.12095  6.250E-03
+     20.459        0.0     0.1651  8.017E-03
+     20.792        0.0    0.18588  8.449E-03
+     21.149        0.0     0.1598  9.256E-03
+     21.494        0.0    0.12348  7.152E-03
+     21.788        0.0  9.945E-02  6.073E-03
+     22.121        0.0  9.741E-02  6.255E-03
+     22.428        0.0    0.11065  6.757E-03
+     22.773        0.0    0.14108  7.731E-03
+     23.068        0.0    0.18096  8.788E-03
+       23.4        0.0    0.16073  8.807E-03
+     23.656        0.0    0.13256  7.679E-03
+     24.014        0.0    0.12419  7.584E-03
+     24.333        0.0    0.14532  7.963E-03
+     24.641        0.0    0.19371  1.061E-02
+      24.96        0.0    0.16703  9.675E-03                                          
+EndData:
