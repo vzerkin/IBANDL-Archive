@@ -1,0 +1,58 @@
+Comment: Data were digitized. Energy digitizing error is 0.4 keV,
+         data digitizing error is 0.0007 mb/sr. 
+         
+VS: Source is the second reference in F0917003. 
+         
+Version: R33
+Source: G.L.Vysotskii+(1973), Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.37, p.1633
+Name: Sophiya Taova 
+Address1: All-Russia Scientific Research Institute of Experimental Physics
+Address2: 607190, Mira, 37, Sarov, Nizhni Novgorod reg., Russia
+Address3: tel: (831-30) 2-77-79   fax:( 831-30) 4-55-69
+Address4: e-mail: taova@expd.vniief.ru
+Serial Number: 
+SubFile: 
+X4Number: F0917003 20080516
+Reaction: 31P(d,a3)29Si
+Distribution: Energy
+Composition: 
+Masses:    2.000,   31.000,    4.000,   29.000
+Zeds: 1, 15, 2, 14
+Qvalue:    5739.2,      0.00,      0.00,      0.00,      0.00
+Theta:     160.0
+Sigfactors: 1.00, 0.00
+Enfactors: 1000.00, 0.00, 0.00, 0.00
+Units: mb
+Data:                   
+ 2.8092     0.0     0.4262     0.0
+ 2.8488     0.0     0.3759     0.0
+ 2.8925     0.0     0.4680     0.0
+ 2.9445     0.0     0.5098     0.0
+ 2.9944     0.0     0.2668     0.0
+ 3.059      0.0     0.5767     0.0
+ 3.1276     0.0     0.3086     0.0
+ 3.1922     0.0     0.6771     0.0
+ 3.2276     0.0     0.7902     0.0
+ 3.2464     0.0     0.9912     0.0
+ 3.3274     0.0     0.1409     0.0
+ 3.3503     0.0     0.2623     0.0
+ 3.3858     0.0     0.6895     0.0
+ 3.4108     0.0     0.7146     0.0
+ 3.444      0.0     0.5261     0.0
+ 3.4648     0.0     0.5512     0.0
+ 3.4898     0.0     0.5512     0.0
+ 3.5065     0.0     0.6182     0.0
+ 3.5273     0.0     0.4674     0.0
+ 3.548      0.0     0.4003     0.0
+ 3.5918     0.0     0.5092     0.0
+ 3.6439     0.0     0.7981     0.0
+ 3.6626     0.0     0.7395     0.0
+ 3.6939     0.0     1.2798     0.0
+ 3.7106     0.0     1.2714     0.0
+ 3.7459     0.0     1.0284     0.0
+ 3.7729     0.0     0.5928     0.0
+ 3.7937     0.0     0.5467     0.0
+ 3.8124     0.0     0.4001     0.0
+ 3.8373     0.0     0.3372     0.0
+ 3.8581     0.0     0.4252     0.0                                           
+EndData:
