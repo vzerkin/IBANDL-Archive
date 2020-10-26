@@ -6,7 +6,7 @@ AGREEMENT WITH THE ORIGINAL PUBLICATION.
 File created by R33 Manager version 0.21
 
 Version: R33
-Source: E. Kashy et al., Phys. Rev. 122(3) (1961) 884
+Source: E.Kashy+(1961), Jour. Physical Review, Vol.122, p.884
 Name: M. Mayer
 Address1: Max-Planck-Institut fuer Plasmaphysik
 Address2: Boltzmannstr. 2
@@ -16,7 +16,7 @@ Address5: ++49 89 3299 1639
 Address6: Matej.Mayer@ipp.mpg.de
 Serial Number: 
 SubFile: H13C165_Kashy
-X4Number: 
+X4Number: C2098002 20140616
 Reaction: 13C(p,p0)13C
 Distribution: Energy
 Composition: 
