@@ -2,11 +2,11 @@ Comment: See comment in NIM B 229 (2005) 157 before using these data
 File created by R33 Manager version 0.21
 
 Version: R33
-Source: W.Jiang et al. Nucl. Instr. and Meth. B 227 (2005)450
+Source: W.Jiang+(2005), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.227, p.450
 Name: 
 Serial Number: 
 SubFile: 0 c2pp0-.r33
-X4Number: 
+X4Number: C1471002 20140528 
 Reaction: 12C(p,p0)12C
 Distribution: Energy
 Composition: 
