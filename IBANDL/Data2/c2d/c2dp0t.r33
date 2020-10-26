@@ -1,11 +1,11 @@
 Comment: Data from EXFOR were converted c.m. -> lab.
 
-Source: M.T. McEllistrem et al., Phys.Rev. 104 (1956) 1008
+Source: M.T.McEllistrem+(1956), Physical Review, Vol.104, p.1008
 Name: 
 Address1: 
 Serial Number:
 SubFile: 
-X4Number: C0993006
+X4Number: C0993006 20050926
 Reaction: 12C(d,p0)13C
 Distribution: Energy
 Composition:
