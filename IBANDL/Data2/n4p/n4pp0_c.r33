@@ -1,6 +1,6 @@
 Comment: Energy range: 1900-3000 keV
 
-Source: M. Lambert, M. Durand, Phys. Let. 24B (1967) 287
+Source: M.Lambert+(1967), Jour. Physics Letters,Section B, Vol.24, p.287
 Name: A. R. Ramos
 Address1: ITN- Nuclear and Technological Institute 
 Address2: Estrada Nacional 10
@@ -9,7 +9,7 @@ Address4: Portugal
 Address5: e-mail: ariel@itn.pt
 Serial Number:
 SubFile: LAM1900_3000.r33
-X4Number: 
+X4Number: O0885002 20070702
 Reaction: 14N(p,p0)14N
 Distribution: Energy
 Masses: 1,14,1,14
