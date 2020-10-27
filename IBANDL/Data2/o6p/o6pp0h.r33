@@ -9,13 +9,15 @@ Comment: \NOTE: The calculated "Ratio to Rutherford" column
 File was converted RTR -> R33
 File created by R33 Manager version 0.21
 
+VS. Data in EXFOR DA (mb/sr)
+
 Version: R33
-Source: Amirikas, R., Jamieson, D.N. and Dooley, S.P. Nucl. Instr. and Meth. B77 (1993) 110.
+Source: R.Amirikas+(1993), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.77, p.110  
 Name: 
 Address1: 
 Serial Number:  
 SubFile: po_am93a.rtr
-X4Number: 
+X4Number:  
 Reaction: 16O(p,p0)16O
 Distribution: Energy
 Composition: 
