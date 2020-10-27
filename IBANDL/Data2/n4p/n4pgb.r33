@@ -1,0 +1,39 @@
+Comment:  	R. E. Pixley 	
+		The reaction cross section of nitrogen 14 for protons 
+		between 220 keV and 600 keV	
+		Ph.D. Thesis, California Institute of Technology, 1957.	
+				
+  
+
+Version:      R33
+X4Number:    C1669002   20160701
+Source:      R. E. Pixley, PhD Thesis, 1957. NACRE Compilation Nucl. Phys. A 656 (1999) 3-183.
+Name:        Tassos Lagoyannis for PIGE CRP
+Reaction:     14N(p,g)15O
+Egamma: 7502-7903
+Distribution: Energy
+Sigfactors:   1000.00, 0.00
+Enfactors:    1000.00, 0.00, 0.00, 0.00
+Units:        tot
+Masses:       1.0, 14.0, 0.0, 15.0
+Zeds:         1, 7, 0, 8
+Qvalue:       7296.78, 0.00, 0.00, 0.00, 0.00
+Theta:        360
+Data:
+0.22	0	3.10E-09	1.24E-10
+0.23	0	6.40E-09	2.56E-10
+0.24	0	1.40E-08	5.60E-10
+0.25	0	3.00E-08	1.20E-09
+0.26	0	8.50E-08	3.40E-09
+0.26	0	4.50E-07	1.80E-08
+0.27	0	9.50E-06	3.80E-07
+0.28	0	4.30E-05	1.72E-06
+0.28	0	1.20E-05	4.80E-07
+0.28	0	3.20E-06	1.28E-07
+0.4	0	9.00E-08	3.60E-09
+0.45	0	1.00E-07	4.00E-09
+0.5	0	1.40E-07	5.60E-09
+0.55	0	2.10E-07	8.40E-09
+0.6	0	2.80E-07	1.12E-08
+0.65	0	3.90E-07	1.56E-08
+EndData:
