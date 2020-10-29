@@ -6,16 +6,17 @@ Comment:    Automatically converted from EXFOR via C4
             J.J.Ramirez, R.A.Blue, H.R.Weller
             EXFOR:[T0090002 ]; X4Reaction:5-B-11(A,EL)5-B-11,,DA; X4Points:271
 Converted from CM to lab system by CM2Lab 1.1, Software by M. Mayer (IPP Garching, Germany)
+ 
 
 Version:      R33?
 Subfile: A11B90_Ramirez.r33
 X4Number:     T0090002 20010305
-Source:       J.J.Ramirez+(1972), Jour. Physical Review, Part C, Nuclear Physics, Vol.5, p.17
+Source:       J.J.Ramirez+(1972), Physical Review, Part C, Nuclear Physics, Vol.5, p.17
 Reaction:     11B(a,a0)11B
 Distribution: Energy
 Units:        mb
 Enfactors: 1.0
-Sigfactors: 1.0
+Sigfactors: 1.0, 0.2
 Composition:
 Masses:       4.0, 11.0, 4.0, 11.0
 Zeds:         2, 5, 2, 5
