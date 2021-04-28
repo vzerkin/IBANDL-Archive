@@ -2,6 +2,7 @@ COMMENT: Gamma energy 440 keV.
 The proton energy is known to better than 0.06%. 
 
 Version: R33
+X4Number: O2476003   20200825
 Source: M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118
 Name: Ivana Zamboni
 Address1: Laboratory for Ion Beam Interactions
@@ -13,7 +14,7 @@ Address6: izamboni@irb.hr
 SubFile: Na23ppg_440.R33
 Serial Number: 0
 Reaction: 23Na(p,pg1-0)23Na
-Egamma:440
+Egamma:441
 Distribution: Energy
 Composition: natural
 Masses: 
