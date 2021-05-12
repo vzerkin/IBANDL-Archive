@@ -4,11 +4,11 @@ Comment: This file was substituted for the li6hp0a.r33 file
 for pointing out the mistakes in the 6litp0.r33 file.
 
 Version: R33
-Source:  J.P.Schiffer,T.W.Bonner,R.H.Davis and F.W.Prosser,Phys.Rev.,104(1956),1064
+X4Number:     A1495002 20140331
+Source:       J.P.Schiffer+(1956), Physical Review, Vol.104, p.1064
 Name: 
 Address1: 
 Serial Number:
-X4Number: A1495002
 Reaction: 6Li(3He,p0)8Be
 Distribution: Energy
 Composition: 
