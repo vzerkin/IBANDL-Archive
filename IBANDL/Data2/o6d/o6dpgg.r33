@@ -1,0 +1,42 @@
+Comment: 
+Thick target gamma-ray yield. Gamma-ray energy 871 keV.  The listed uncertainties in the gamma-ray yield values are statistical only.
+There is a systematic uncertainty of +/- 10% (see "Sigma scale factor" fields).
+File created by R33 Manager version 0.21
+
+Version: R33
+X4Number: D0990003 20210223
+Source: A.Jokar+(2020), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.482, p.11
+Name: Alireza Jokar 
+Address1: Van de Graaff Laboratory
+Address2: Nuclear Science and Technology Research Institute
+Address3: PO Box 14395-836
+Address4: End of North Karegar Ave,Tehran
+Address5: Iran
+Address6: arezajokar@gmail.com  
+Serial Number: 0
+Evaluated Data: n
+SubFile: 
+Reaction: 16O(d,pg1-0)17O
+Distribution: Energy
+Composition: Natural
+Masses:    0.000,    0.000,    0.000,    0.000
+Zeds: 1, 8, 1, 8
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:      90.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: yield 
+Data:
+896.5	2.0	5.81E+05	7.62E+02
+996.6	2.0	1.14E+06	1.07E+03
+1096.7	2.0	1.57E+06	1.25E+03
+1196.9	2.0	1.90E+06	1.38E+03
+1297. 	2.0	3.05E+06	1.75E+03
+1397.1	2.0	3.96E+06	1.99E+03
+1497.1	2.0	5.13E+06	2.26E+03
+1597.3	2.0	6.40E+06	2.53E+03
+1697.3	2.0	8.09E+06	2.84E+03
+1797.4	2.0	1.14E+07	3.38E+03
+1897.4	2.0	1.18E+07	3.44E+03
+1997.5	2.0	1.56E+07	3.95E+03 
+EndData:
