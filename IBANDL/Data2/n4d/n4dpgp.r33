@@ -1,0 +1,44 @@
+Comment:
+Thick target gamma-ray yield. Gamma-ray energy 1885 keV.  The listed uncertainties in the gamma-ray yield values are statistical only.
+There is a systematic uncertainty of +/- 10% (see "Sigma scale factor" fields).
+
+Version: R33
+Source: A. Jokar et al., Nucl. Instr. and Meth. B 431 (2018) 25.
+Name:Alireza Jokar 
+Address1: Van de Graaff Laboratory
+Address2: Nuclear Science and Technology Research Institute
+Address3: PO Box 14395-836
+Address4: End of North Karegar Ave,Tehran
+Address5: Iran
+Address6: arezajokar@gmail.com  
+Serial Number: 0
+X4Number:     D0912003 00000000
+Reaction: 14N(d,pg4-1)15N
+Egamma: 1885
+Distribution: Energy
+Composition: Natural
+Masses: 
+Zeds: 1,7,1,7
+Qvalue: 0.00, 0.00, 0.00, 0.00, 0.00
+Theta: 90.00
+Sigfactors: 1.00, 0.1
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: yield
+Data:
+597.08	2.00	16190  	215	
+697.23	2.00	37524 	601	
+797.37	2.00	82917	     1280	
+897.48	2.00	161611	1749	
+997.59	2.00	257993	4873	
+1097.69	2.00	457479	6718	
+1197.77	2.00	597373	7539	
+1297.85	2.00	882229	13178	
+1397.92	2.00	1254175	16499	
+1498.00	2.00	1741921	18600	
+1598.05	2.00	1847916	18612	
+1698.09	2.00	2035824	18977	
+1798.15	2.00	2308854	20088	
+1898.18	2.00	3020794	24033	
+1998.22	2.00	3544557	27127	
+EndData:
+
