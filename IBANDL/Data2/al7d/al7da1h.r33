@@ -1,0 +1,63 @@
+Comment: The differential cross-sections of 27Al(d,a1)25Mg reaction was repeated at 150 degree in INSP, SAFIR(Lab) in France, 
+and benchmarked with thick target spectra obtained from pure aluminium in two independent laboratories. 
+
+Version: R33
+Source: M. Salimi+(2021), Submitted Scientific Reports, Nature 
+Name: M. Salimi, O. Kakuee, S.F. Masoudi, H. Rafi kheiri, E. Briand, J-J. Ganem, I. Vickridge
+Address1: Sorbonne Universit, CNRS, Institut des NanoSciences de Paris, INSP, SAFIR, F-75005 Paris, France
+Address2: Department of Physics, K.N. Toosi University of Technology, P.O. Box 15875-4416, Tehran, Iran
+Address3: Physics and Accelerators Research School, NSTRI, PO Box 14395-836,Tehran
+Serial Number:  
+SubFile: 
+X4Number: 
+Reaction: 27Al(d,a1)25Mg
+Distribution: Energy
+Composition: 
+Masses:    2.0,   27.0,    4.0,   25.0
+Zeds: 1, 13, 2, 12
+Qvalue:   6121.6,      0.00,      0.00,      0.00,      0.00
+Theta:    150.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+2007.7833	0.0000	0.0588	0.0035
+1997.7063	0.0000	0.0627	0.0038
+1987.6303	0.0000	0.0748	0.0041
+1977.5533	0.0000	0.0859	0.0044
+1967.4763	0.0000	0.0910	0.0047
+1957.3993	0.0000	0.1121	0.0052
+1947.3228	0.0000	0.0995	0.0049
+1937.2453	0.0000	0.0976	0.0049
+1927.1678	0.0000	0.1009	0.0049
+1917.0903	0.0000	0.1142	0.0053
+1907.0128	0.0000	0.1159	0.0051
+1907.0128	0.0000	0.1159	0.0051
+1896.9358	0.0000	0.1212	0.0054
+1886.8578	0.0000	0.1139	0.0053
+1876.7798	0.0000	0.1089	0.0051
+1866.7018	0.0000	0.0938	0.0048
+1856.6238	0.0000	0.1125	0.0052
+1846.5453	0.0000	0.0985	0.0049
+1836.4668	0.0000	0.0861	0.0045
+1826.3883	0.0000	0.0683	0.0041
+1816.3098	0.0000	0.0886	0.0045
+1806.2308	0.0000	0.0885	0.0044
+1796.1523	0.0000	0.0850	0.0045
+1775.9938	0.0000	0.0661	0.0040
+1765.9138	0.0000	0.0576	0.0037
+1755.8343	0.0000	0.0429	0.0032
+1745.7548	0.0000	0.0298	0.0027
+1735.6753	0.0000	0.0254	0.0024
+1725.5958	0.0000	0.0306	0.0027
+1715.5148	0.0000	0.0344	0.0028
+1705.4348	0.0000	0.0545	0.0037
+1695.3548	0.0000	0.0554	0.0036
+1685.2738	0.0000	0.0794	0.0043
+1675.1933	0.0000	0.0907	0.0046
+1665.1118	0.0000	0.1007	0.0049
+1655.0313	0.0000	0.0949	0.0047
+1644.9503	0.0000	0.0923	0.0047
+1634.8688	0.0000	0.0763	0.0042
+1624.7878	0.0000	0.0606	0.0038
+EndData:
