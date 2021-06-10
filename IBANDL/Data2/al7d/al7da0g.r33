@@ -1,0 +1,48 @@
+Comment: The differential cross-sections of 27Al(d,a0)25Mg reaction were measured at 150 degree in INSP, SAFIR(Lab) in France, 
+and benchmarked with thick target spectra obtained from pure aluminium in two independent laboratories. 
+
+
+Version: R33
+Source: M. Salimi+(2021), Submitted Scientific Reports, Nature 
+Name: M. Salimi, O. Kakuee, S.F. Masoudi, H. Rafi kheiri, E. Briand, J-J. Ganem, I. Vickridge
+Address1: Sorbonne University, CNRS, Institut des NanoSciences de Paris, INSP, SAFIR, F-75005 Paris, France
+Address2: Department of Physics, K.N. Toosi University of Technology, P.O. Box 15875-4416, Tehran, Iran
+Address3: Physics and Accelerators Research School, NSTRI, PO Box 14395-836,Tehran
+Serial Number: 
+SubFile: 
+X4Number: 
+Reaction: 27Al(d,a0)25Mg
+Distribution: Energy
+Composition: 
+Masses:    2.000,   27.000,    4.000,   25.000
+Zeds: 1, 13, 2, 12
+Qvalue:   6706.7,      0.00,      0.00,      0.00,      0.00
+Theta:    150.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+1513.7703	0.0000	0.0657	0.0039
+1533.9378	0.0000	0.0787	0.0043
+1554.1038	0.0000	0.1035	0.0046
+1574.2698	0.0000	0.1217	0.0049
+1594.4348	0.0000	0.1347	0.0052
+1614.5998	0.0000	0.1416	0.0053
+1634.7628	0.0000	0.1421	0.0055
+1654.9253	0.0000	0.1318	0.0054
+1675.0883	0.0000	0.1374	0.0055
+1695.2498	0.0000	0.1304	0.0054
+1715.4111	0.0000	0.1366	0.0055
+1735.5703	0.0000	0.1697	0.0061
+1755.7308	0.0000	0.1863	0.0064
+1775.8903	0.0000	0.1886	0.0067
+1796.0483	0.0000	0.1611	0.0060
+1816.2063	0.0000	0.1475	0.0057
+1836.3643	0.0000	0.1827	0.0063
+1856.5213	0.0000	0.2578	0.0072
+1876.6778	0.0000	0.2877	0.0079
+1896.8338	0.0000	0.2844	0.0077
+1916.9883	0.0000	0.3274	0.0084
+1937.1433	0.0000	0.3592	0.0090
+1957.2983	0.0000	0.4064	0.0098
+EndData:
