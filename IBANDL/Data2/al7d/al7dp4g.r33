@@ -3,14 +3,14 @@ and benchmarked with thick target spectra obtained from pure aluminium in two in
  
 
 Version: R33
-Source: M. Salimi+(2021), Submitted Scientific Reports, Nature 
+Source: M. Salimi+(2021), Scientific Reports, Vol.11, p.18036
 Name: M. Salimi, O. Kakuee, S.F. Masoudi, H. Rafi kheiri, E. Briand, J-J. Ganem, I. Vickridge
 Address1:Physics and Accelerators Research School, NSTRI, PO Box 14395-836,Tehran
 Address2: Department of Physics, K.N. Toosi University of Technology, P.O. Box 15875-4416, Tehran, Iran
 Address3: Sorbonne University, CNRS, Institut des NanoSciences de Paris, INSP, SAFIR, F-75005 Paris, France
 Serial Number: 
 SubFile: 
-X4Number: 
+X4Number: D1046003
 Reaction: 27Al(d,p4)28Al
 Distribution: Energy
 Composition: 
@@ -87,5 +87,4 @@ Data:
 602.2762	0.0000	0.0009	0.0000
 502.1926	0.0000	0.0007	0.0000
 302.1926	0.0000	0.0000	0.0000
-0.000000	0.0000	0.0000	0.0000
 EndData:
