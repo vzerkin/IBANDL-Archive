@@ -1,0 +1,31 @@
+Comment:    Automatically converted from EXFOR at 2021-07-08,13:39:21
+            by the IAEA-NDS EXFOR Web-Retrieval System,
+            program X4toR33 ver-2020-10-12 (V.Zerkin).
+            X4Title: "7Li(He3,p)9Be reaction and primordial nucleosynthesis"
+            X4Author: D.P.Rath, R.N.Boyd, H.J.Hausman, M.S.Islam, 
+            G.W.Kolnicki
+            EXFOR: C0139002    Created: 1997-04-01  Updated: 2005-09-26
+            X4Reaction:3-LI-7(HE3,P)4-BE-9,PAR,DA; X4Points:53
+            ENSDF:LevelEnergy=0.00
+            AME2016: M1=3.016029322 M2=7.016003436 M3=1.007825032 M4=9.012183066
+
+Version:      R33
+X4Number:     C0139002 20050926
+Source:       D.P.Rath+(1990), Nuclear Physics, Section A, Vol.515, p.338
+Reaction:     7Li(3He,p0)9Be
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 7.0, 1.0, 9.0
+Zeds:         2, 3, 1, 4
+Qvalue:       11200.9, 0.00, 0.00, 0.00, 0.00
+Theta:        140
+Data:
+  1000.00,      0.00,    0.1491,      0.00
+  1500.00,      0.00,    0.3072,      0.00
+  2000.00,      0.00,    0.3489,      0.00
+  2400.00,      0.00,    0.2652,    0.3397
+  2500.00,      0.00,    0.5843,      0.00
+EndData:
