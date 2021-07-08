@@ -1,0 +1,39 @@
+Comment:    Automatically converted from EXFOR at 2021-07-08,12:40:30
+            by the IAEA-NDS EXFOR Web-Retrieval System,
+            program X4toR33 ver-2020-10-12 (V.Zerkin).
+            X4Title: "Helium-3 induced reaction on Li-7 at bombarding
+                      energies of 2.2 to 3.2 MeV."
+            X4Author: Y.C.Lru
+            EXFOR: O1035002    Created: 2003-02-13  Updated: 2005-09-26
+            X4Reaction:3-LI-7(HE3,P)4-BE-9,PAR,DA; X4Points:52
+            ENSDF:LevelEnergy=1670.00
+            AME2016: M1=3.016029322 M2=7.016003436 M3=1.007825032 M4=9.012183066
+
+Version:      R33
+X4Number:     O1035002 20050926
+Source:       Y.C.Lru(1972), Chinese Journal of Physics (Taiwan), Vol.10, p.76
+Reaction:     7Li(3He,p1)9Be
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 7.0, 1.0, 9.0
+Zeds:         2, 3, 1, 4
+Qvalue:       9530.9, 0.00, 0.00, 0.00, 0.00
+Theta:        120
+Data:
+  1799.00,      0.00,      0.24,      0.02
+  1900.00,      0.00,     0.175,     0.014
+  2001.00,      0.00,     0.184,     0.014
+  2097.00,      0.00,     0.208,     0.022
+  2196.00,      0.00,      0.22,     0.016
+  2302.00,      0.00,     0.252,     0.018
+  2398.00,      0.00,     0.249,     0.018
+  2501.00,      0.00,     0.226,      0.02
+  2600.00,      0.00,     0.227,     0.018
+  2699.00,      0.00,      0.24,     0.018
+  2799.00,      0.00,     0.225,     0.018
+  2894.00,      0.00,     0.206,     0.022
+  2958.00,      0.00,     0.211,     0.018
+EndData:
