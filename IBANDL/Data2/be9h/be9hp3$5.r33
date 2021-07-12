@@ -1,0 +1,45 @@
+
+
+Comment:    Automatically converted from EXFOR at 2021-07-12,11:51:11
+            by the IAEA-NDS EXFOR Web-Retrieval System,
+            program X4toR33 ver-2021-07-12 (V.Zerkin).
+            X4Title: "Differential cross section measurements of the
+                      9Be(3He,p)11B reaction for NRA applications"
+            X4Author: G.Provatas,  S.Fazinic,  N.Soic,  N.Vukman, 
+             D.Cosic, M.Krmpotic,  M.Vuksic,  A.Crnjac, 
+             R.Popocovski, L.Palada,  P.Colovic,  D.Dell'aquila, 
+             I.Gasparic, D.Jelavic Malenica,  T.Mijatovic,  M.Uroic
+            EXFOR: D0977002    Created: 2019-04-09  Updated: 2020-08-06
+            X4Reaction:4-BE-9(HE3,P)5-B-11,PAR,DA; X4Points:4680
+            ENSDF:LevelEnergy=5020.00 keV
+            Theta groupping interval=0.99 deg.
+            Systematic uncertainty: ErrSys=4.24%
+            AME2020: M1=3.016029321 M2=9.012183062 M3=1.007825031 M4=11.009305166
+
+Version:      R33
+X4Number:     D0977002 20200806
+Source:       G.Provatas+(2020), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.472, p.36
+Reaction:     9Be(3He,p3)11B
+Distribution: Energy
+Sigfactors:   1.00, 0.0424
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 9.0, 1.0, 11.0
+Zeds:         2, 4, 1, 5
+Qvalue:       5302.99, 0.00, 0.00, 0.00, 0.00
+Theta:        114
+Data:
+  1275.55,     80.01,     0.038,    0.0068
+  1336.41,     78.37,     0.058,    0.0097
+  1397.27,     76.79,     0.053,    0.0087
+  1458.13,     75.27,     0.053,    0.0066
+  1518.99,     73.80,     0.072,    0.0095
+  1579.85,     72.39,     0.093,    0.0113
+  1640.71,     71.03,     0.122,    0.0151
+  1701.57,     69.73,     0.164,    0.0198
+  1762.43,     68.47,      0.14,    0.0191
+  1823.29,     67.26,     0.159,    0.0209
+  1884.15,     66.09,     0.214,    0.0265
+  1945.01,     64.97,      0.24,     0.025
+EndData:
