@@ -1,0 +1,60 @@
+
+Comment:    Automatically converted from EXFOR at 2021-07-12,11:51:11
+            by the IAEA-NDS EXFOR Web-Retrieval System,
+            program X4toR33 ver-2021-07-12 (V.Zerkin).
+            X4Title: "Differential cross section measurements of the
+                      9Be(3He,p)11B reaction for NRA applications"
+            X4Author: G.Provatas,  S.Fazinic,  N.Soic,  N.Vukman, 
+             D.Cosic, M.Krmpotic,  M.Vuksic,  A.Crnjac, 
+             R.Popocovski, L.Palada,  P.Colovic,  D.Dell'aquila, 
+             I.Gasparic, D.Jelavic Malenica,  T.Mijatovic,  M.Uroic
+            EXFOR: D0977002    Created: 2019-04-09  Updated: 2020-08-06
+            X4Reaction:4-BE-9(HE3,P)5-B-11,PAR,DA; X4Points:4680
+            ENSDF:LevelEnergy=7286.00 keV
+            Theta groupping interval=0.99 deg.
+            Systematic uncertainty: ErrSys=4.24%
+            AME2020: M1=3.016029321 M2=9.012183062 M3=1.007825031 M4=11.009305166
+
+Version:      R33
+X4Number:     D0977002 20200806
+Source:       G.Provatas+(2020), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.472, p.36
+Reaction:     9Be(3He,p6)11B
+Distribution: Energy
+Sigfactors:   1.00, 0.0424
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 9.0, 1.0, 11.0
+Zeds:         2, 4, 1, 5
+Qvalue:       3036.99, 0.00, 0.00, 0.00, 0.00
+Theta:        162
+Data:
+  1275.55,     80.01,     0.112,    0.0142
+  1336.41,     78.37,     0.151,    0.0179
+  1397.27,     76.79,     0.149,    0.0179
+  1458.13,     75.27,     0.212,     0.019
+  1518.99,     73.80,     0.198,    0.0192
+  1579.85,     72.39,     0.327,    0.0266
+  1640.71,     71.03,     0.427,    0.0357
+  1701.57,     69.73,     0.413,    0.0393
+  1762.43,     68.47,     0.436,     0.041
+  1823.29,     67.26,     0.472,    0.0447
+  1884.15,     66.09,     0.489,    0.0488
+  1945.01,     64.97,     0.534,    0.0457
+  2005.87,     63.89,     0.526,     0.047
+  2066.73,     62.85,     0.456,    0.0472
+  2127.59,     61.85,      0.48,    0.0532
+  2188.45,     60.88,     0.603,    0.0587
+  2249.31,     59.95,     0.435,    0.0529
+  2310.17,     59.05,     0.497,    0.0551
+  2371.03,     58.19,     0.569,    0.0593
+  2431.89,     57.35,     0.495,    0.0519
+  2492.75,     56.53,     0.477,    0.0501
+  2553.61,     55.75,     0.567,    0.0561
+  2614.47,     54.98,      0.43,     0.054
+  2675.33,     54.24,     0.503,    0.0646
+  2705.76,     53.88,     0.388,    0.0525
+  2736.19,     53.52,     0.501,    0.0582
+  2797.05,     52.81,     0.526,    0.0546
+  2857.91,     52.12,      0.41,    0.0532
+EndData:
