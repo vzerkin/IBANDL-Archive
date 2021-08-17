@@ -1,0 +1,46 @@
+Comment:    Automatically converted from EXFOR at 2021-08-17,12:20:54
+            by the IAEA-NDS EXFOR Web-Retrieval System,
+            program X4toR33 ver-2021-07-12 (V.Zerkin).
+            X4Title: "N14+He4 and O16+He3 Differential Cross Sections."
+            X4Author: E.A.Silverstein, S.R.Salisbury, G.Hardie, L.D.Oppliger
+            EXFOR: C1008006    Created: 2004-04-06  Updated: 2005-09-26
+            X4Reaction:8-O-16(HE3,A)8-O-15,PAR,DA; X4Points:18
+            Converted from C.M. to Lab.:  Theta (Sigma: not converted) 
+            ThetaLab=93.4 ThetaCM:100.3
+            ENSDF:LevelEnergy=0.00 keV
+            Theta groupping interval=1.0 deg.
+            AME2020: M1=3.016029321 M2=15.994914619 M3=4.002603254 M4=15.003065636
+
+Version:      R33
+X4Number:     C1008006 20050926
+Source:       E.A.Silverstein+(1961), Physical Review, Vol.124, p.868
+Reaction:     16O(3He,a0)15O
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 16.0, 4.0, 15.0
+Zeds:         2, 8, 2, 8
+Qvalue:       4913.68, 0.00, 0.00, 0.00, 0.00
+Theta:        93.4
+Data:
+  2070.00,      0.00,      0.56,      0.00
+  2153.00,      0.00,      1.23,      0.00
+  2195.00,      0.00,      1.44,      0.00
+  2235.00,      0.00,      2.10,      0.00
+  2277.00,      0.00,      3.34,      0.00
+  2315.00,      0.00,      4.57,      0.00
+  2335.00,      0.00,      4.67,      0.00
+  2357.00,      0.00,      5.68,      0.00
+  2377.00,      0.00,      6.42,      0.00
+  2388.00,      0.00,      6.48,      0.00
+  2396.00,      0.00,      4.00,      0.00
+  2440.00,      0.00,      3.29,      0.00
+  2479.00,      0.00,      2.39,      0.00
+  2521.00,      0.00,      1.90,      0.00
+  2560.00,      0.00,      2.15,      0.00
+  2599.00,      0.00,      1.55,      0.00
+  2640.00,      0.00,      1.30,      0.00
+  2682.00,      0.00,      1.18,      0.00
+EndData:
