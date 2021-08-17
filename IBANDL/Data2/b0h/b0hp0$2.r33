@@ -1,0 +1,49 @@
+Comment:    Automatically converted from EXFOR at 2021-08-17,09:31:49
+            by the IAEA-NDS EXFOR Web-Retrieval System,
+            program X4toR33 ver-2021-07-12 (V.Zerkin).
+            X4Title: "10B(He3,particle) cross sections and the 26, 28
+                      and 32 MeV states of 13N"
+            X4Author: R.A.I.Bell, I.G.Graham, J.V.Thompson, E.W.Titterton
+            EXFOR: F0473002    Created: 1992-05-27  Updated: 2005-09-26
+            X4Reaction:5-B-10(HE3,P)6-C-12,PAR,DA,,,EXP; X4Points:121
+            ENSDF:LevelEnergy=0.00 keV
+            Theta groupping interval=1.0 deg.
+            Systematic uncertainty: ErrSys=2.91%  Min=0.48%  Max=10.0%
+            AME2020: M1=3.016029321 M2=10.012936862 M3=1.007825031 M4=12.0
+
+Version:      R33
+X4Number:     F0473002 20050926
+Source:       R.A.I.Bell+(1972), Nuclear Physics, Section A, Vol.193, p.385
+Reaction:     10B(3He,p0)12C
+Distribution: Energy
+Sigfactors:   1.00, 0.0291
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 10.0, 1.0, 12.0
+Zeds:         2, 5, 1, 6
+Qvalue:       19692.86, 0.00, 0.00, 0.00, 0.00
+Theta:        90
+Data:
+ 11580.00,     30.00,    0.0203,    0.0024
+ 11810.00,     30.00,    0.0267,    0.0033
+ 11990.00,     30.00,    0.0205,    0.0025
+ 12200.00,     30.00,    0.0198,    0.0024
+ 12410.00,     30.00,    0.0199,    0.0024
+ 12590.00,     30.00,    0.0215,    0.0026
+ 12800.00,     30.00,    0.0177,    0.0021
+ 12980.00,     30.00,    0.0202,    0.0024
+ 13180.00,     30.00,    0.0187,    0.0022
+ 13390.00,     30.00,    0.0196,    0.0023
+ 13590.00,     30.00,    0.0181,    0.0021
+ 13780.00,     30.00,    0.0174,     0.002
+ 13980.00,     30.00,    0.0183,    0.0022
+ 14190.00,     30.00,    0.0152,    0.0017
+ 14420.00,     30.00,    0.0161,    0.0018
+ 14620.00,     30.00,    0.0162,    0.0019
+ 14810.00,     30.00,    0.0139,    0.0015
+ 14990.00,     30.00,    0.0132,    0.0014
+ 15190.00,     30.00,    0.0133,    0.0014
+ 15400.00,     30.00,    0.0134,    0.0014
+ 15600.00,     30.00,    0.0112,    0.0011
+EndData:
