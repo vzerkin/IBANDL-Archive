@@ -1,0 +1,23 @@
+Comment:
+Thick target gamma-ray yield.  
+
+Version: R33
+Source: A.Anttila+(1981),Jour. of Radioanal. and Nuclear Chemistry, Vol.62, p.293 
+Name:
+Serial Number: 0
+X4Number:  
+Reaction: 33S(p,pg1-0)33S
+Egamma: 841
+Distribution: Energy
+Composition:
+Masses: 
+Zeds: 1,16,1,16
+Qvalue: 0, 0, 0, 0, 0
+Theta: 55
+Sigfactors: 133.33, 0
+Enfactors: 1, 0, 0, 0
+Units: yield
+Data:
+1000.0		0.0		9.1		0.0
+2400.0		0.0		1.4E+02		0.0
+EndData:
