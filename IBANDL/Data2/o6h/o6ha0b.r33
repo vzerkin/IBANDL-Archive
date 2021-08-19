@@ -1,0 +1,22 @@
+Comment: Differential cross sections for four angles are given in the paper at 2379 keV.
+Angle(deg)/Cross section(mb/sr):
+93.4/5.23   113.8/2.90   133.9/1.01   153.7/0.279             
+
+Version: R33
+Source:  W.N.Lennard+(1989), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.43, p.187
+Name:
+Serial Number: 0
+X4Number: C0198003
+Reaction: 16O(3He,a0)15O
+Distribution: Energy
+Composition:
+Masses: 3,16,4,15
+Zeds: 2,8,2,8
+Qvalue: 4913.9, 0, 0, 0, 0
+Theta: 153.7
+Sigfactors: 1, 0
+Enfactors: 1, 0, 0, 0
+Units: mb
+Data:
+2379 0.0 0.279 0.0 
+EndData:
