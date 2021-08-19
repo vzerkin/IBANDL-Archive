@@ -1,0 +1,34 @@
+Comment:  Numerical data received from J.Cruz 28.10.2020
+
+Version: R33
+Source: H.Silva+(2019), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.452, p.26 
+Name:
+Serial Number: 0
+X4Number: O2451002 20210518
+Reaction:     31P(p,pg1-0)31P
+Egamma:	      1266.1
+Distribution: Energy
+Sigfactors:   1.00, 0.0
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        yield
+Masses:       1.0, 31.0, 1.0, 31.0
+Zeds:         1, 15, 1, 15
+Qvalue:       0.00, 0.00, 0.00, 0.00, 0.00
+Theta:        130
+Data:
+2650., 2.6,  1.545E+03,   0.0                                           
+2801., 2.8,  8.009E+03,   0.0                                          
+2920., 2.9,  1.143E+04,   0.0                                         
+3007., 3.0,  1.565E+04,   0.0                                            
+3095., 3.1,  2.206E+04,   0.0                                          
+3152., 3.2,  2.698E+04,   0.0                                            
+3300., 3.3,  3.916E+04,   0.0                                             
+3360., 3.4,  4.218E+04,   0.0                                             
+3480., 3.5,  4.806E+04,   0.0                                            
+3575., 3.6,  5.370E+04,   0.0                                             
+3640., 3.6,  6.054E+04,   0.0                                             
+3712., 3.7,  6.373E+04,   0.0                                             
+3804., 3.8,  7.259E+04,   0.0                                            
+3887., 3.9,  8.428E+04,   0.0                                            
+EndData:
+
