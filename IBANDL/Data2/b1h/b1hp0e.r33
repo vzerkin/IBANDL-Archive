@@ -1,0 +1,41 @@
+Comment:    Automatically converted from EXFOR at 2021-08-20,15:17:31
+            by the IAEA-NDS EXFOR Web-Retrieval System,
+            program X4toR33 ver-2021-07-12 (V.Zerkin).
+            X4Title: "Comparison of the C-13(d,a)B-11 and B-11(3He,p)C-13
+                      reactions."
+            X4Author: B.B.Marsh, O.M.Bilaniuk
+            EXFOR: F0282005    Created: 1982-06-21  Updated: 2012-07-02
+            X4Reaction:5-B-11(HE3,P)6-C-13,PAR,DA; X4Points:27
+            ENSDF:LevelEnergy=0.00 keV
+            Theta groupping interval=1.0 deg.
+            AME2020: M1=3.016029321 M2=11.009305166 M3=1.007825031 M4=13.003354835
+
+Version:      R33
+X4Number:     F0282005 20120702
+Source:       B.B.Marsh+(1963), Physical Review, Vol.130, p.2373
+Reaction:     11B(3He,p0)13C
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 11.0, 1.0, 13.0
+Zeds:         2, 5, 1, 6
+Qvalue:       13184.94, 0.00, 0.00, 0.00, 0.00
+Theta:        140
+Data:
+ 8003.001,      0.00,    0.1532,    0.0131
+  8235.00,      0.00,    0.1418,     0.013
+  8410.00,      0.00,    0.1636,    0.0131
+  8617.00,      0.00,    0.1852,    0.0164
+  8840.00,      0.00,    0.2166,    0.0132
+  9027.00,      0.00,    0.2121,    0.0131
+  9231.00,      0.00,    0.2173,    0.0165
+  9415.00,      0.00,    0.1964,    0.0195
+  9630.00,      0.00,    0.1688,    0.0163
+  9818.00,      0.00,    0.1774,    0.0131
+ 10080.00,      0.00,    0.1592,    0.0098
+ 10330.00,      0.00,    0.1478,    0.0098
+ 10640.00,      0.00,    0.1556,    0.0097
+ 10850.00,      0.00,    0.1542,    0.0131
+EndData:
