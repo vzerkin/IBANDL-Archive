@@ -1,0 +1,56 @@
+Comment:    Automatically converted from EXFOR at 2021-12-07,16:11:36
+            by the IAEA-NDS EXFOR Web-Retrieval System,
+            program X4toR33 ver-2021-10-12 (V.Zerkin).
+            X4Title: "Angular distribution of proton non-Rutherford elastic
+                      scattering cross section of carbon and silicon."
+            X4Author: R.Salomonovic
+            EXFOR: F0571002    Created: 2003-02-04  Updated: 2005-09-26
+            X4Reaction:14-SI-28(P,EL)14-SI-28,,DA; X4Points:253
+            ENSDF:LevelEnergy=0.00 keV
+            Theta groupping interval=1.0 deg.
+            Systematic uncertainty: ErrSys=22.36%
+            AME2020: M1=1.007825031 M2=27.976926534 M3=1.007825031 M4=27.976926534
+
+Version:      R33
+X4Number:     F0571002 20050926
+Source:       R.Salomonovic(1993), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.82, p.1
+Reaction:     28Si(p,p0)28Si
+Distribution: Energy
+Sigfactors:   1.00, 0.2236
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       1.0, 28.0, 1.0, 28.0
+Zeds:         1, 14, 1, 14
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        170
+Data:
+  1530.00,      0.00,     90.00,      0.00
+  1550.00,      0.00,     81.00,      0.00
+  1580.00,      0.00,     66.00,      0.00
+  1600.00,      0.00,     55.00,      0.00
+  1610.00,      0.00,     48.00,      0.00
+  1614.00,      0.00,     46.00,      0.00
+  1620.00,      0.00,     46.00,      0.00
+  1624.00,      0.00,     45.00,      0.00
+  1630.00,      0.00,     49.00,      0.00
+  1634.00,      0.00,     55.00,      0.00
+  1640.00,      0.00,     72.00,      0.00
+  1650.00,      0.00,    122.00,      0.00
+  1660.00,      0.00,    187.00,      0.00
+  1664.00,      0.00,    211.00,      0.00
+  1670.00,      0.00,    239.00,      0.00
+  1674.00,      0.00,    247.00,      0.00
+  1680.00,      0.00,    250.00,      0.00
+  1684.00,      0.00,    244.00,      0.00
+  1690.00,      0.00,    235.00,      0.00
+  1700.00,      0.00,    219.00,      0.00
+  1710.00,      0.00,    203.00,      0.00
+  1730.00,      0.00,    175.00,      0.00
+  1760.00,      0.00,    148.00,      0.00
+  1790.00,      0.00,    131.00,      0.00
+  1830.00,      0.00,    118.00,      0.00
+  1860.00,      0.00,    110.00,      0.00
+  1920.00,      0.00,     97.00,      0.00
+  1990.00,      0.00,     83.00,      0.00
+EndData:
