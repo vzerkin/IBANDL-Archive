@@ -12,7 +12,7 @@ Comment:    Automatically converted from EXFOR on 2019-04-03,17:01:40
 
 Version:      R33
 X4Number:     D0086005 20050926
-Source:       G.Amsel(1964), Jour. Annales de Physique (Paris), Vol.9, p.297
+Source:       G.Amsel(1964), Annales de Physique (Paris), Vol.9, p.297
 Reaction:     16O(d,p0)17O
 Distribution: Energy
 Sigfactors:   1.00, 0.0103
