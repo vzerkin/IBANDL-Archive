@@ -1,0 +1,48 @@
+Comment:    Automatically converted from EXFOR
+            by the IAEA-NDS EXFOR Web-Retrieval System
+            program version-2018-10-10, by V.Zerkin.
+            X4Title: "Non-Rutherford cross-sections for alpha elastic
+             scattering off Z=28-38 elements in the energy range
+             up to 10 MeV."
+            X4Author: A.F.Gurbich,  M.V.Bokhovko
+            EXFOR: F1345004    Created: 2018-07-09  Updated: 2018-10-08
+            X4Reaction:39-Y-89(A,EL)39-Y-89,,DA,,RTH; X4Points:21
+            ENSDF:LevelEnergy=0.00
+            AME2016:M1=4.002603254 M2=88.905841205 M3=4.002603254 M4=88.905841205
+
+Version:      R33
+X4Number:     F1345004
+Source:       A.F.Gurbich+(2018), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.420, p.1
+Reaction:     natY(a,a0)natY
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        rr
+Composition:
+Masses:       4.0, 89.0, 4.0, 89.0
+Zeds:         2, 39, 2, 39
+Qvalue:       0.0, 0.00, 0.00, 0.00, 0.00
+Theta:        170
+Data:
+ 7000.00,     4.20,     1.00,     0.02
+ 7100.00,     4.26,    0.975,     0.02
+ 7200.00,     4.32,     0.99,     0.02
+ 7300.00,     4.38,    1.021,     0.02
+ 7400.00,     4.44,    1.016,     0.02
+ 7500.00,     4.50,    0.978,     0.02
+ 7600.00,     4.56,    1.014,     0.02
+ 7700.00,     4.62,    1.006,     0.02
+ 7800.00,     4.68,    1.005,     0.02
+ 7900.00,     4.74,    1.009,     0.02
+ 8000.00,     4.80,    1.016,     0.02
+ 8100.00,     4.86,    1.018,     0.02
+ 8200.00,     4.92,    0.979,     0.02
+ 8300.00,     4.98,    0.978,     0.02
+ 8400.00,     5.04,    1.023,     0.02
+ 8500.00,     5.10,    0.987,     0.02
+ 8600.00,     5.16,    1.023,     0.02
+ 8700.00,     5.22,    1.003,     0.02
+ 8800.00,     5.28,    1.022,     0.02
+ 8900.00,     5.34,     1.03,     0.02
+ 9000.00,     5.40,    1.023,     0.02
+EndData:
