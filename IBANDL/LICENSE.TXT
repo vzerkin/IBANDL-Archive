@@ -1,0 +1,8 @@
+"IBANDL - Ion Beam Analysis Nuclear Data Library"
+ IAEA-NDS, 2005-2023, version 2021-12-20
+_______________________________________________________________________________
+
+Copyright: (c) 2005-2023, International Atomic Energy Agency (IAEA)
+License:   Creative Commons — Attribution 4.0 International (CC BY 4.0)
+           https://creativecommons.org/licenses/by/4.0/
+_______________________________________________________________________________
