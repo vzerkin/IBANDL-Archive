@@ -1,0 +1,44 @@
+Comment:    Automatically converted from EXFOR at 2022-09-01,09:13:39
+            by the IAEA-NDS EXFOR Web-Retrieval System,
+            program X4toR33 ver-2021-12-15 (V.Zerkin).
+            X4Title: "Measurement of differential cross section of
+                      D(3He,p)4He from 0.8 MeV to 3.6 MeV"
+            X4Author: J.P.Zhu, X.Xiao, S.Yan, Y.Gao, 
+            J.M.Xue, Y.G.Wang
+            EXFOR: S0089002    Created: 2020-02-19  Updated: 2020-04-21
+            X4Reaction:1-H-2(HE3,P)2-HE-4,,DA; X4Points:15
+            ENSDF:LevelEnergy=0.00 keV
+            Theta groupping interval=1.0 deg.
+            Systematic uncertainty: ErrSys=5.62%
+            AME2020: M1=3.016029321 M2=2.014101777 M3=1.007825031 M4=4.002603254
+
+Version:      R33
+X4Number:     S0089002 20200421
+Source:       J.P.Zhu+(2017), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.412, p.81
+Reaction:     2H(3He,p0)4He
+Distribution: Energy
+Sigfactors:   1.00, 0.0562
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 2.0, 1.0, 4.0
+Zeds:         2, 1, 1, 2
+Qvalue:       18353.05, 0.00, 0.00, 0.00, 0.00
+Theta:        135
+Data:
+   752.20,      0.00,     54.20,    0.6504
+   954.90,      0.00,     38.90,    0.4668
+  1158.20,      0.00,     29.00,     0.348
+  1360.70,      0.00,     21.50,     0.258
+  1565.40,      0.00,     16.80,    0.2016
+  1766.70,      0.00,     13.30,    0.1596
+  1969.70,      0.00,     11.50,     0.138
+  2170.00,      0.00,      9.90,    0.1188
+  2371.00,      0.00,      8.50,     0.102
+  2574.10,      0.00,      8.00,     0.096
+  2775.10,      0.00,      7.40,    0.0888
+  2976.60,      0.00,      7.10,    0.0852
+  3177.60,      0.00,      6.80,    0.0816
+  3376.30,      0.00,      6.60,    0.0792
+  3580.00,      0.00,      6.30,    0.0756
+EndData:
