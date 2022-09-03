@@ -1,74 +1,66 @@
-Comment: These cross sections have been digitized from the publication
-cited below. No error of either the energy and or the sigma is given.
-Some errors may be among the data, we are recently checking them.
-The Los Alamos Ion Beam Handbook also will contain these data as soon
-as it is ready. If you use this data please refer to the paper below.
-Special comment:
-WARNING ! THIS IS MAINLY FOR TEST NO GUARANTY IS PROVIDED FOR EVEN
-AGREEMENT WITH THE ORIGINAL PUBLICATION.
-File created by R33 Manager version 0.21
+Comment:    Automatically converted from EXFOR at 2022-09-03,06:54:13
+            by the IAEA-NDS EXFOR Web-Retrieval System,
+            program X4toR33 ver-2021-12-15 (V.Zerkin).
+            X4Title: "Study of the reaction mechanism for (He3,p) reactions
+                      with Li-6, B-10, and C-13"
+            X4Author: J.P.Schiffer,  T.W.Bonner,  R.H.Davis,  F.W.Prosser Jr
+            EXFOR: A1495007    Created: 1980-08-11  Updated: 2014-03-31
+            X4Reaction:5-B-10(HE3,P)6-C-12,PAR,DA; X4Points:79
+            Converted from C.M. to Lab.: Sigma (Theta: not converted) 
+            SigmaLab=SigmaCM/{1.000714, 1.0020221}
+            ENSDF:LevelEnergy=4439.00 keV
+            Theta groupping interval=1.0 deg.
+            Systematic uncertainty: ErrSys=15.0%
+            AME2020: M1=3.016029321 M2=10.012936862 M3=1.007825031 M4=12.0
 
-Version: R33
-Source: J.P.Schiffer,T.W.Bonner,R.H.Davis and .W.Prosser,Phys.Rev.,104(1956),10
-Name: Gyorgy Vizkelethy
-Address1: Department of Physics
-Address2: Idaho State University
-Address3: Campus Box 8106
-Address4: Pocatello, ID 83209-8106
-Address5: (208) 236-2626
-Address6: vizkel@physics.isu.edu
-Serial Number: 
-SubFile: 10btp1.r33
-X4Number: A1495007
-Reaction: 10B(3He,p1)12C
+Version:      R33
+X4Number:     A1495007 20140331
+Source:       J.P.Schiffer+(1956), Physical Review, Vol.104, p.1064
+Reaction:     10B(3He,p1)12C
 Distribution: Energy
-Composition: 
-Masses:    3.000,   10.000,    1.000,   12.000
-Zeds: 2, 5, 1, 6
-Qvalue:  15263.10,      0.00,      0.00,      0.00,      0.00
-Theta:     90.00
-Sigfactors: 1.00, 0.00
-Enfactors: 1.00, 0.00, 0.00, 0.00
-Units: mb
+Sigfactors:   1.00, 0.15
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 10.0, 1.0, 12.0
+Zeds:         2, 5, 1, 6
+Qvalue:       15253.86, 0.00, 0.00, 0.00, 0.00
+Theta:        90
 Data:
- 1289.000,  0.000,   0.058, 0.000
- 1400.000,  0.000,   0.100, 0.000
- 1530.000,  0.000,   0.185, 0.000
- 1652.000,  0.000,   0.209, 0.000
- 1796.000,  0.000,   0.324, 0.000
- 1890.000,  0.000,   0.445, 0.000
- 1981.000,  0.000,   0.544, 0.000
- 2254.000,  0.000,   0.639, 0.000
- 2332.000,  0.000,   0.629, 0.000
- 2404.000,  0.000,   0.680, 0.000
- 2487.000,  0.000,   0.683, 0.000
- 2605.000,  0.000,   0.715, 0.000
- 2716.000,  0.000,   0.726, 0.000
- 2845.000,  0.000,   0.754, 0.000
- 2967.000,  0.000,   0.791, 0.000
- 3093.000,  0.000,   0.810, 0.000
- 3221.000,  0.000,   0.799, 0.000
- 3264.000,  0.000,   0.767, 0.000
- 3343.000,  0.000,   0.783, 0.000
- 3411.000,  0.000,   0.786, 0.000
- 3468.000,  0.000,   0.802, 0.000
- 3536.000,  0.000,   0.801, 0.000
- 3601.000,  0.000,   0.800, 0.000
- 3672.000,  0.000,   0.798, 0.000
- 3736.000,  0.000,   0.779, 0.000
- 3804.000,  0.000,   0.778, 0.000
- 3880.000,  0.000,   0.798, 0.000
- 3955.000,  0.000,   0.797, 0.000
- 4005.000,  0.000,   0.787, 0.000
- 4084.000,  0.000,   0.785, 0.000
- 4144.000,  0.000,   0.767, 0.000
- 4183.000,  0.000,   0.740, 0.000
- 4308.000,  0.000,   0.720, 0.000
- 4412.000,  0.000,   0.700, 0.000
- 4522.000,  0.000,   0.610, 0.000
- 4597.000,  0.000,   0.609, 0.000
- 4662.000,  0.000,   0.695, 0.000
- 4727.000,  0.000,   0.698, 0.000
- 4848.000,  0.000,   0.691, 0.000
- 4920.000,  0.000,   0.690, 0.000
+  1549.00,      0.00,    0.1788,      0.00
+  2000.00,      0.00,    0.5527,      0.00
+  2262.00,      0.00,    0.6449,      0.00
+  2353.00,      0.00,    0.6361,      0.00
+  2421.00,      0.00,    0.6905,      0.00
+  2507.00,      0.00,    0.7096,      0.00
+  2626.00,      0.00,    0.7281,      0.00
+  2740.00,      0.00,    0.7397,      0.00
+  2859.00,      0.00,    0.7581,      0.00
+  2973.00,      0.00,    0.7977,      0.00
+  3103.00,      0.00,    0.8089,      0.00
+  3228.00,      0.00,    0.7995,      0.00
+  3284.00,      0.00,    0.7705,      0.00
+  3353.00,      0.00,    0.7969,      0.00
+  3421.00,      0.00,    0.8025,      0.00
+  3478.00,      0.00,    0.8153,      0.00
+  3557.00,      0.00,    0.8068,      0.00
+  3608.00,      0.00,    0.8057,      0.00
+  3676.00,      0.00,    0.7973,      0.00
+  3750.00,      0.00,    0.7819,      0.00
+  3818.00,      0.00,    0.7806,      0.00
+  3886.00,      0.00,    0.8001,      0.00
+  3960.00,      0.00,    0.7917,      0.00
+  4016.00,      0.00,    0.7906,      0.00
+  4096.00,      0.00,    0.7889,      0.00
+  4158.00,      0.00,    0.7668,      0.00
+  4192.00,      0.00,    0.7383,      0.00
+  4282.00,      0.00,    0.7295,      0.00
+  4316.00,      0.00,    0.7219,      0.00
+  4418.00,      0.00,     0.692,      0.00
+  4525.00,      0.00,    0.6203,      0.00
+  4593.00,      0.00,     0.612,      0.00
+  4656.00,      0.00,    0.7011,      0.00
+  4713.00,      0.00,    0.6861,      0.00
+  4849.00,      0.00,    0.6833,      0.00
+  4923.00,      0.00,    0.6819,      0.00
 EndData:
