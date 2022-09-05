@@ -1,0 +1,29 @@
+Comment:
+
+Version: R33
+Source:  S.,Taskaev+(2021), Nucl., Instrum., Methods in Physics Res.,, Sect.,B, Vol.,525, p.,55
+Name:
+Serial Number: 0
+X4Number: 
+Reaction:     7Li(p,a0)4He
+Egamma:	       
+Distribution: Energy
+Sigfactors:   1.,0, 0.,00
+Enfactors:    1.,00, 0.,00, 0.,00, 0.,00
+Units:        mb
+Masses:       1.,0, 7.,0, 4.,0, 4.,0
+Zeds:         1, 3, 2, 2
+Qvalue:       0.,00, 0.,00, 0.,00, 0.,00, 0.,00
+Theta:        168
+Data:
+       601.,         3.,      0.450,     0.023
+       796.,         4.,      0.630,     0.029 
+       900.,         3.,      0.714,     0.033
+      1000.,         3.,      0.784,     0.035
+      1104.,         4.,      0.884,     0.040
+      1300.,         4.,      1.010,     0.046
+      1503.,         2.,      1.172,     0.052
+      1703.,         4.,      1.425,     0.066
+      1803.,         2.,      1.606,     0.077
+      2008.,        15.,      1.892,     0.084
+EndData:
