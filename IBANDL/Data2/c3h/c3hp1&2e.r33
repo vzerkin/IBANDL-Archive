@@ -1,0 +1,44 @@
+Comment:    Automatically converted from EXFOR at 2022-09-06,14:39:55
+            by the IAEA-NDS EXFOR Web-Retrieval System,
+            program X4toR33 ver-2021-12-15 (V.Zerkin).
+            X4Title: "Excitation functions and angular distributions for
+                      C-13(He3,p)N-15 for E(He3)=3.6-6.6 MeV."
+            X4Author: S.H.Chew, J.Lowe, J.M.Nelson, A.R.Barnett
+            EXFOR: O1799002    Created: 2009-11-23  Updated: 2010-08-06
+            X4Reaction:6-C-13(HE3,P)7-N-15,PAR,DA; X4Points:823
+            ENSDF:LevelEnergy=5270.00 keV
+            Theta groupping interval=1.0 deg.
+            Systematic uncertainty: ErrSys=5.0%
+            AME2020: M1=3.016029321 M2=13.003354835 M3=1.007825031 M4=15.000108898
+
+Version:      R33
+X4Number:     O1799002 20100806
+Source:       S.H.Chew+(1978), Nuclear Physics, Section A, Vol.306, p.125
+Reaction:     13C(3He,p1+2)15N
+Distribution: Energy
+Sigfactors:   1.00, 0.05
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 13.0, 1.0, 15.0
+Zeds:         2, 6, 1, 7
+Qvalue:       5395.82, 0.00, 0.00, 0.00, 0.00
+Theta:        165
+Data:
+  3536.00,      0.00,      1.02,      0.09
+  3733.00,      0.00,      1.16,      0.17
+  3912.00,      0.00,      1.21,      0.17
+  4118.00,      0.00,      1.23,      0.18
+  4315.00,      0.00,      1.28,      0.19
+  4522.00,      0.00,      1.20,      0.16
+  4719.00,      0.00,      1.17,      0.18
+  4916.00,      0.00,      1.30,      0.19
+  5114.00,      0.00,      1.07,      0.14
+  5313.00,      0.00,      0.84,      0.12
+  5519.00,      0.00,      0.88,      0.11
+  5698.00,      0.00,      0.83,      0.12
+  5922.00,      0.00,      0.94,      0.14
+  6110.00,      0.00,      0.98,      0.13
+  6316.00,      0.00,      0.91,      0.12
+  6515.00,      0.00,      0.61,      0.08
+EndData:
