@@ -13,7 +13,7 @@ Comment:    Automatically converted from EXFOR
 Version:      R33
 X4Number:     T0411002
 Source:       W.E.Kieser+(1979), Jour. Nuclear Physics, Section A, Vol.331, p.155
-Reaction:     17O(p,a)14N
+Reaction:     17O(p,a0)14N
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
