@@ -3,12 +3,12 @@
  | Program zvR33test, v.2026-11-12 |
  | by V.Zerkin, Vienna, 2015-2026. |
  +---------------------------------+
- Running:  2026-11-15,19:30:24
+ Running:  2026-11-15,19:31:45
  Computer: zerkin-VirtualBox
  Platform: Linux/6.8.0-149-generic/amd64
 
-...Reading IBANDL archive: IBANDL-DATA-20220919.zip
-...IBANDL: [IBANDL-DATA-20220919.zip] Files:4286
+...Reading IBANDL archive: IBANDL-DATA-20221129.zip
+...IBANDL: [IBANDL-DATA-20221129.zip] Files:4286
 
 
  +---------------------------------+
@@ -20,7 +20,7 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Corrected Lines [IBANDL-DATA-20220919.zip]
+...Corrected Lines [IBANDL-DATA-20221129.zip]
  1)---programmatically corrected line---  mg6p/mg6pp0j.r33 2020-10-04  Reaction:26Mg(p,p0)26Mg /mb/
 	from:[V.B.Gubin+(1974), Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.38, Issue.4, p.868Comment: Data were digitized. Energy digitizing error is 1.67 keV]
 	to:  [Comment: Data were digitized. Energy digitizing error is 1.67 keV]
@@ -50,7 +50,7 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Wrong File Location [IBANDL-DATA-20220919.zip]
+...Wrong File Location [IBANDL-DATA-20221129.zip]
  1)---wrong file location---[nna/ninaa0c.r33] must be:[nina/ninaa0c.r33] 2021-12-10  Reaction:natNi(a,a0)natNi /mb/
 
 
@@ -63,11 +63,11 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Wrong Dir Name [IBANDL-DATA-20220919.zip]
+...Wrong Dir Name [IBANDL-DATA-20221129.zip]
  1)---wrong dir name--- now: c2a/    must-be: cna/    first-file: c2a/c2aa0w.r33     2020-04-07  Reaction:natC(a,a0)natC /rr/
  2)---wrong dir name--- now: c3d/    must-be: c3h/    first-file: c3d/c3daga.r33     2021-08-22  Reaction:13C(3He,ag8-0)12C /mb/
  3)---wrong dir name--- now: h2a/    must-be: li7h/   first-file: h2a/h2aa0m.r33     2022-09-02  Reaction:7Li(3He,a0)6Li /mb/
- 4)---wrong dir name--- now: li6a/   must-be: li7a/   first-file: li6a/li6aa1a.r33   2020-04-07  Reaction:7Li(a,a1)7Li /mb/
+ 4)---wrong dir name--- now: li6a/   must-be: li7a/   first-file: li6a/li6aa1a.r33   2020-04-06  Reaction:7Li(a,a1)7Li /mb/
  5)---wrong dir name--- now: n4d/    must-be: nnd/    first-file: n4d/n4dd0b.r33     2019-04-01  Reaction:natN(d,d0)natN /mb/
  6)---wrong dir name--- now: nna/    must-be: nina/   first-file: nna/ninaa0c.r33    2021-12-10  Reaction:natNi(a,a0)natNi /mb/
  7)---wrong dir name--- now: pr1a/   must-be: p1a/    first-file: pr1a/pr1ap0a.r33   2009-01-11  Reaction:31P(a,p0)34S /mb/
@@ -85,13 +85,13 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Wrong File Prefix [IBANDL-DATA-20220919.zip]
+...Wrong File Prefix [IBANDL-DATA-20221129.zip]
   1)---wrong file name--- now: c2a/c2aa0w.r33     must-be: cna/cnaa0w.r33     2020-04-07  Reaction:natC(a,a0)natC /rr/
   2)---wrong file name--- now: c2a/c2aa0_n.r33    must-be: cna/cnaa0_n.r33    2020-04-07  Reaction:natC(a,a0)natC /rr/
   3)---wrong file name--- now: c3d/c3daga.r33     must-be: c3h/c3haga.r33     2021-08-22  Reaction:13C(3He,ag8-0)12C /mb/
   4)---wrong file name--- now: c3d/c3dagb.r33     must-be: c3h/c3hagb.r33     2021-08-22  Reaction:13C(3He,ag11-0)12C /mb/
   5)---wrong file name--- now: h2a/h2aa0m.r33     must-be: li7h/li7ha0m.r33   2022-09-02  Reaction:7Li(3He,a0)6Li /mb/
-  6)---wrong file name--- now: li6a/li6aa1a.r33   must-be: li7a/li7aa1a.r33   2020-04-07  Reaction:7Li(a,a1)7Li /mb/
+  6)---wrong file name--- now: li6a/li6aa1a.r33   must-be: li7a/li7aa1a.r33   2020-04-06  Reaction:7Li(a,a1)7Li /mb/
   7)---wrong file name--- now: n4d/n4dd0b.r33     must-be: nnd/nndd0b.r33     2019-04-01  Reaction:natN(d,d0)natN /mb/
   8)---wrong file name--- now: pr1a/pr1ap0a.r33   must-be: p1a/p1ap0a.r33     2009-01-11  Reaction:31P(a,p0)34S /mb/
   9)---wrong file name--- now: pr1a/pr1ap0b.r33   must-be: p1a/p1ap0b.r33     2009-01-11  Reaction:31P(a,p0)34S /mb/
@@ -141,7 +141,7 @@
  53)---wrong file name--- now: pr1p/pr1pga.r33    must-be: p1p/p1pga.r33      2017-01-16  Reaction:31P(p,g1-0)32S /yield/
  54)---wrong file name--- now: pr1p/pr1pgb.r33    must-be: p1p/p1pgb.r33      2017-01-13  Reaction:31P(p,g1-0)31P /yield/
  55)---wrong file name--- now: pr1p/pr1pgc.r33    must-be: p1p/p1pgc.r33      2022-09-10  Reaction:31P(p,g1-0)32S+31P(p,pg2-0)31P /yield/
- 56)---wrong file name--- now: pr1p/pr1pgd.r33    must-be: p1p/p1pgd.r33      2020-10-08  Reaction:31P(p,g1-0)32S+31P(p,pg2-0)31P /yield/
+ 56)---wrong file name--- now: pr1p/pr1pgd.r33    must-be: p1p/p1pgd.r33      2020-10-07  Reaction:31P(p,g1-0)32S+31P(p,pg2-0)31P /yield/
  57)---wrong file name--- now: pr1p/pr1pge.r33    must-be: p1p/p1pge.r33      2017-02-16  Reaction:31P(p,g8-0)32S+31P(p,pg2-0)31P /yield/
  58)---wrong file name--- now: pr1p/pr1pp0a.r33   must-be: p1p/p1pp0a.r33     2006-06-23  Reaction:31P(p,p0)31P /rr/
  59)---wrong file name--- now: pr1p/pr1pp0b.r33   must-be: p1p/p1pp0b.r33     2008-03-24  Reaction:31P(p,p0)31P /mb/
@@ -156,7 +156,7 @@
  68)---wrong file name--- now: pr1p/pr1ppgb.r33   must-be: p1p/p1ppgb.r33     2011-07-07  Reaction:31P(p,pg1-0)31P /yield/
  69)---wrong file name--- now: pr1p/pr1ppgc.r33   must-be: p1p/p1ppgc.r33     2022-09-10  Reaction:31P(p,pg1-0)31P /yield/
  70)---wrong file name--- now: pr1p/pr1ppgd.r33   must-be: p1p/p1ppgd.r33     2021-08-18  Reaction:31P(p,pg1-0)31P /yield/
- 71)---wrong file name--- now: pr1p/pr1ppge.r33   must-be: p1p/p1ppge.r33     2020-10-08  Reaction:31P(p,pg1-0)31P /yield/
+ 71)---wrong file name--- now: pr1p/pr1ppge.r33   must-be: p1p/p1ppge.r33     2020-10-07  Reaction:31P(p,pg1-0)31P /yield/
  72)---wrong file name--- now: pr1p/pr1ppgf.R33   must-be: p1p/p1ppgf.R33     2016-10-04  Reaction:31P(p,pg1-0)31P /mb/
  73)---wrong file name--- now: pr1p/pr1ppgg.R33   must-be: p1p/p1ppgg.R33     2021-05-14  Reaction:31P(p,pg1-0)31P /yield/
  74)---wrong file name--- now: pr1p/pr1ppgh.r33   must-be: p1p/p1ppgh.r33     2017-02-16  Reaction:31P(p,pg1-0)31P /yield/
@@ -174,48 +174,48 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Warning: Year=0 [IBANDL-DATA-20220919.zip]
-  1) 2019-02-05 IBANDL-DATA-20220919/Data2/mg5p/mg5ppgr.r33 0,Jesus                    25Mg(p,pg1-0)25Mg,pts:579(mb)           A.P.Jesus et al, unpublished data
-  2) 2006-06-23 IBANDL-DATA-20220919/Data2/n4d/n4dp1b.r33 0,Pellegrino               14N(d,p1+2)15N,pts:11(mb)               S. Pellegrino, to be published
-  3) 2006-06-23 IBANDL-DATA-20220919/Data2/n4d/n4dp3c.r33 0,Pellegrino               14N(d,p3)15N,pts:282(mb)                S. Pellegrino, to be published
-  4) 2006-06-23 IBANDL-DATA-20220919/Data2/n4d/n4dp4b.r33 0,Pellegrino               14N(d,p4)15N,pts:70(mb)                 S. Pellegrino, to be published
-  5) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp0b.r33 0,Lagoyannis               32S(d,p0)33S,pts:26(mb)        D0449002 A. Lagoyannis et al., NIM B 266, 2259, 2008
-  6) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp0c.r33 0,Lagoyannis               32S(d,p0)33S,pts:26(mb)        D0449002 A. Lagoyannis et al., NIM B 266, 2259, 2008
-  7) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp0d.r33 0,Lagoyannis               32S(d,p0)33S,pts:26(mb)        D0449002 A. Lagoyannis et al., NIM B 266, 2259, 2008
-  8) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp0e.r33 0,Lagoyannis               32S(d,p0)33S,pts:26(mb)        D0449002 A. Lagoyannis et al., NIM B 266, 2259, 2008
-  9) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp1b.r33 0,Lagoyannis               32S(d,p1)33S,pts:26(mb)        D0449003 A. Lagoyannis et al., NIM B 266, 2259, 2008
- 10) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp1c.r33 0,Lagoyannis               32S(d,p1)33S,pts:26(mb)        D0449003 A. Lagoyannis et al., NIM B 266, 2259, 2008
- 11) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp1d.r33 0,Lagoyannis               32S(d,p1)33S,pts:26(mb)        D0449003 A. Lagoyannis et al.,  NIM B 266, 2259, 2008
- 12) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp1e.r33 0,Lagoyannis               32S(d,p1)33S,pts:26(mb)        D0449003 A. Lagoyannis et al., NIM B 266, 2259, 2008
- 13) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp2b.r33 0,Lagoyannis               32S(d,p2)33S,pts:26(mb)        D0449004 A. Lagoyannis et al., NIM B 266, 2259, 2008
- 14) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp2c.r33 0,Lagoyannis               32S(d,p2)33S,pts:26(mb)        D0449004 A. Lagoyannis et al., NIM B 266, 2259, 2008
- 15) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp2d.r33 0,Lagoyannis               32S(d,p2)33S,pts:26(mb)        D0449004 A. Lagoyannis et al., NIM B 266, 2259, 2008
- 16) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp2e.r33 0,Lagoyannis               32S(d,p2)33S,pts:26(mb)        D0449004 A. Lagoyannis et al., NIM B 266, 2259, 2008
- 17) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp3b.r33 0,Lagoyannis               32S(d,p3)33S,pts:26(mb)        D0449005 A. Lagoyannis et al., NIM B 266, 2259, 2008
- 18) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp3c.r33 0,Lagoyannis               32S(d,p3)33S,pts:26(mb)        D0449005 A. Lagoyannis et al., NIM B 266, 2259, 2008
- 19) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp3d.r33 0,Lagoyannis               32S(d,p3)33S,pts:26(mb)        D0449005 A. Lagoyannis et al., NIM B 266, 2259, 2008
- 20) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp3e.r33 0,Lagoyannis               32S(d,p3)33S,pts:26(mb)        D0449005 A. Lagoyannis et al., NIM B 266, 2259, 2008
- 21) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp7b.r33 0,Lagoyannis               32S(d,p7)33S,pts:26(mb)        D0449006 A. Lagoyannis et al., NIM B 266, 2259, 2008
- 22) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp7c.r33 0,Lagoyannis               32S(d,p7)33S,pts:26(mb)        D0449006 A. Lagoyannis et al., NIM B 266, 2259, 2008
- 23) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp7d.r33 0,Lagoyannis               32S(d,p7)33S,pts:26(mb)        D0449006 A. Lagoyannis et al., NIM B 266, 2259, 2008
- 24) 2020-04-08 IBANDL-DATA-20220919/Data2/s2d/s2dp7e.r33 0,Lagoyannis               32S(d,p7)33S,pts:26(mb)        D0449006 A. Lagoyannis et al., NIM B 266, 2259, 2008
- 25) 2019-02-07 IBANDL-DATA-20220919/Data2/s2p/s2pp0m.r33 0,Chiari                   32S(p,p0)32S,pts:183(mb)                M. Chiari et al., unpublished data.
- 26) 2016-02-29 IBANDL-DATA-20220919/Data2/s2p/s2pp0n.r33 0,Chiari                   32S(p,p0)32S,pts:183(mb)                M. Chiari et al., unpublished data
- 27) 2016-02-29 IBANDL-DATA-20220919/Data2/s2p/s2pp0o.r33 0,Chiari                   32S(p,p0)32S,pts:183(mb)                M. Chiari et al., unpublished data
- 28) 2016-02-29 IBANDL-DATA-20220919/Data2/s2p/s2pp0p.r33 0,Chiari                   32S(p,p0)32S,pts:183(mb)                M. Chiari et al., unpublished data
- 29) 2016-02-29 IBANDL-DATA-20220919/Data2/s2p/s2pp0q.r33 0,Chiari                   32S(p,p0)32S,pts:183(mb)                M. Chiari et al., unpublished data
+...Warning: Year=0 [IBANDL-DATA-20221129.zip]
+  1) 2019-02-05 IBANDL-DATA-20221129/Data2/mg5p/mg5ppgr.r33 0,Jesus                    25Mg(p,pg1-0)25Mg,pts:579(mb)           A.P.Jesus et al, unpublished data
+  2) 2006-06-23 IBANDL-DATA-20221129/Data2/n4d/n4dp1b.r33 0,Pellegrino               14N(d,p1+2)15N,pts:11(mb)               S. Pellegrino, to be published
+  3) 2006-06-23 IBANDL-DATA-20221129/Data2/n4d/n4dp3c.r33 0,Pellegrino               14N(d,p3)15N,pts:282(mb)                S. Pellegrino, to be published
+  4) 2006-06-23 IBANDL-DATA-20221129/Data2/n4d/n4dp4b.r33 0,Pellegrino               14N(d,p4)15N,pts:70(mb)                 S. Pellegrino, to be published
+  5) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp0b.r33 0,Lagoyannis               32S(d,p0)33S,pts:26(mb)        D0449002 A. Lagoyannis et al., NIM B 266, 2259, 2008
+  6) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp0c.r33 0,Lagoyannis               32S(d,p0)33S,pts:26(mb)        D0449002 A. Lagoyannis et al., NIM B 266, 2259, 2008
+  7) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp0d.r33 0,Lagoyannis               32S(d,p0)33S,pts:26(mb)        D0449002 A. Lagoyannis et al., NIM B 266, 2259, 2008
+  8) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp0e.r33 0,Lagoyannis               32S(d,p0)33S,pts:26(mb)        D0449002 A. Lagoyannis et al., NIM B 266, 2259, 2008
+  9) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp1b.r33 0,Lagoyannis               32S(d,p1)33S,pts:26(mb)        D0449003 A. Lagoyannis et al., NIM B 266, 2259, 2008
+ 10) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp1c.r33 0,Lagoyannis               32S(d,p1)33S,pts:26(mb)        D0449003 A. Lagoyannis et al., NIM B 266, 2259, 2008
+ 11) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp1d.r33 0,Lagoyannis               32S(d,p1)33S,pts:26(mb)        D0449003 A. Lagoyannis et al.,  NIM B 266, 2259, 2008
+ 12) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp1e.r33 0,Lagoyannis               32S(d,p1)33S,pts:26(mb)        D0449003 A. Lagoyannis et al., NIM B 266, 2259, 2008
+ 13) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp2b.r33 0,Lagoyannis               32S(d,p2)33S,pts:26(mb)        D0449004 A. Lagoyannis et al., NIM B 266, 2259, 2008
+ 14) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp2c.r33 0,Lagoyannis               32S(d,p2)33S,pts:26(mb)        D0449004 A. Lagoyannis et al., NIM B 266, 2259, 2008
+ 15) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp2d.r33 0,Lagoyannis               32S(d,p2)33S,pts:26(mb)        D0449004 A. Lagoyannis et al., NIM B 266, 2259, 2008
+ 16) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp2e.r33 0,Lagoyannis               32S(d,p2)33S,pts:26(mb)        D0449004 A. Lagoyannis et al., NIM B 266, 2259, 2008
+ 17) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp3b.r33 0,Lagoyannis               32S(d,p3)33S,pts:26(mb)        D0449005 A. Lagoyannis et al., NIM B 266, 2259, 2008
+ 18) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp3c.r33 0,Lagoyannis               32S(d,p3)33S,pts:26(mb)        D0449005 A. Lagoyannis et al., NIM B 266, 2259, 2008
+ 19) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp3d.r33 0,Lagoyannis               32S(d,p3)33S,pts:26(mb)        D0449005 A. Lagoyannis et al., NIM B 266, 2259, 2008
+ 20) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp3e.r33 0,Lagoyannis               32S(d,p3)33S,pts:26(mb)        D0449005 A. Lagoyannis et al., NIM B 266, 2259, 2008
+ 21) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp7b.r33 0,Lagoyannis               32S(d,p7)33S,pts:26(mb)        D0449006 A. Lagoyannis et al., NIM B 266, 2259, 2008
+ 22) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp7c.r33 0,Lagoyannis               32S(d,p7)33S,pts:26(mb)        D0449006 A. Lagoyannis et al., NIM B 266, 2259, 2008
+ 23) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp7d.r33 0,Lagoyannis               32S(d,p7)33S,pts:26(mb)        D0449006 A. Lagoyannis et al., NIM B 266, 2259, 2008
+ 24) 2020-04-08 IBANDL-DATA-20221129/Data2/s2d/s2dp7e.r33 0,Lagoyannis               32S(d,p7)33S,pts:26(mb)        D0449006 A. Lagoyannis et al., NIM B 266, 2259, 2008
+ 25) 2019-02-07 IBANDL-DATA-20221129/Data2/s2p/s2pp0m.r33 0,Chiari                   32S(p,p0)32S,pts:183(mb)                M. Chiari et al., unpublished data.
+ 26) 2016-02-29 IBANDL-DATA-20221129/Data2/s2p/s2pp0n.r33 0,Chiari                   32S(p,p0)32S,pts:183(mb)                M. Chiari et al., unpublished data
+ 27) 2016-02-29 IBANDL-DATA-20221129/Data2/s2p/s2pp0o.r33 0,Chiari                   32S(p,p0)32S,pts:183(mb)                M. Chiari et al., unpublished data
+ 28) 2016-02-29 IBANDL-DATA-20221129/Data2/s2p/s2pp0p.r33 0,Chiari                   32S(p,p0)32S,pts:183(mb)                M. Chiari et al., unpublished data
+ 29) 2016-02-29 IBANDL-DATA-20221129/Data2/s2p/s2pp0q.r33 0,Chiari                   32S(p,p0)32S,pts:183(mb)                M. Chiari et al., unpublished data
 
-...Error: line [EndData:] file:[IBANDL-DATA-20220919.zip]
-   1) -err-line-[EndData:] 0  2021-12-07 x4auto IBANDL-DATA-20220919/Data2/c2p/c2pp0$12.r33 1963,Nikolic               12C(p,p0)12C,pts:132(mb)       C2362 N.Nikolic+(1963), Physical Review, Vol.132, p.2212
-   2) -err-line-[EndData:] 0  2021-04-22        IBANDL-DATA-20220919/Data2/li6h/li6hp0c.r33 2021,Zhu                   6Li(3He,p0)8Be,pts:19(mb)      S0268 J.Zhu+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.494-495, p.23
-   3) -err-line-[EndData:] 0  2020-09-09 x4auto IBANDL-DATA-20220919/Data2/o6a/o6aa0c.r33 1990,Leavitt               16O(a,a0)16O,pts:242(rr)       C0091 J.A.Leavitt+(1990), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.44, p.260
-   4) -err-line-[EndData:] 0  2020-09-09 x4auto IBANDL-DATA-20220919/Data2/o6a/o6aa0j.r33 1998,Wetteland             16O(a,a0)16O,pts:20(rr)        C2103 C.J.Wetteland+(1998), Rept. Los Alamos Scientific Lab. Reports, No.98-4867
-   5) -err-line-[EndData:] 0  2020-09-09 x4auto IBANDL-DATA-20220919/Data2/o6a/o6aa0_b.r33 1993,Huan-Sheng Cheng      16O(a,a0)16O,pts:13(rr)        O0877 Huan-Sheng Cheng+(1993), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.83, p.449
-   6) -err-line-[EndData:] 0  2020-09-09 x4auto IBANDL-DATA-20220919/Data2/o6a/o6aa0_d.r33 1993,Huan-Sheng Cheng      16O(a,a0)16O,pts:14(rr)        O0877 Huan-Sheng Cheng+(1993), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.83, p.449
-   7) -err-line-[EndData:] 0  2020-10-03 x4auto IBANDL-DATA-20220919/Data2/o6d/o6da0f.r33 1964,Amsel                 16O(d,a)14N,pts:129(mb)        D0086 G.Amsel(1964), Jour. Annales de Physique (Paris), Vol.9, p.297
-   8) -err-line-[EndData:] 0  2020-10-03 x4auto IBANDL-DATA-20220919/Data2/o6d/o6da0g.r33 1964,Amsel                 16O(d,a)14N,pts:129(mb)        D0086 G.Amsel(1964), Jour. Annales de Physique (Paris), Vol.9, p.297
-   9) -err-line-[EndData:] 0  2020-09-09 x4auto IBANDL-DATA-20220919/Data2/o8a/o8aa0a.r33 1964,Powers                18O(a,a0)18O,pts:99(rr)        C0750 D.Powers+(1964), Physical Review, Vol.134, p.B1237
-  10) -err-line-[EndData:] 0  2017-03-06        IBANDL-DATA-20220919/Data2/si8d/si8dpgk.r33 1994,Kiss                  28Si(d,pg1-0)29Si,pts:23(yield)       A.Z. Kiss et al., Nucl. Instr. & Meth. B85 (1994) 118
+...Error: line [EndData:] file:[IBANDL-DATA-20221129.zip]
+   1) -err-line-[EndData:] 0  2021-12-07 x4auto IBANDL-DATA-20221129/Data2/c2p/c2pp0$12.r33 1963,Nikolic               12C(p,p0)12C,pts:132(mb)       C2362 N.Nikolic+(1963), Physical Review, Vol.132, p.2212
+   2) -err-line-[EndData:] 0  2021-04-22        IBANDL-DATA-20221129/Data2/li6h/li6hp0c.r33 2021,Zhu                   6Li(3He,p0)8Be,pts:19(mb)      S0268 J.Zhu+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.494-495, p.23
+   3) -err-line-[EndData:] 0  2020-09-09 x4auto IBANDL-DATA-20221129/Data2/o6a/o6aa0c.r33 1990,Leavitt               16O(a,a0)16O,pts:242(rr)       C0091 J.A.Leavitt+(1990), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.44, p.260
+   4) -err-line-[EndData:] 0  2020-09-09 x4auto IBANDL-DATA-20221129/Data2/o6a/o6aa0j.r33 1998,Wetteland             16O(a,a0)16O,pts:20(rr)        C2103 C.J.Wetteland+(1998), Rept. Los Alamos Scientific Lab. Reports, No.98-4867
+   5) -err-line-[EndData:] 0  2020-09-09 x4auto IBANDL-DATA-20221129/Data2/o6a/o6aa0_b.r33 1993,Huan-Sheng Cheng      16O(a,a0)16O,pts:13(rr)        O0877 Huan-Sheng Cheng+(1993), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.83, p.449
+   6) -err-line-[EndData:] 0  2020-09-09 x4auto IBANDL-DATA-20221129/Data2/o6a/o6aa0_d.r33 1993,Huan-Sheng Cheng      16O(a,a0)16O,pts:14(rr)        O0877 Huan-Sheng Cheng+(1993), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.83, p.449
+   7) -err-line-[EndData:] 0  2020-10-03 x4auto IBANDL-DATA-20221129/Data2/o6d/o6da0f.r33 1964,Amsel                 16O(d,a)14N,pts:129(mb)        D0086 G.Amsel(1964), Jour. Annales de Physique (Paris), Vol.9, p.297
+   8) -err-line-[EndData:] 0  2020-10-03 x4auto IBANDL-DATA-20221129/Data2/o6d/o6da0g.r33 1964,Amsel                 16O(d,a)14N,pts:129(mb)        D0086 G.Amsel(1964), Jour. Annales de Physique (Paris), Vol.9, p.297
+   9) -err-line-[EndData:] 0  2020-09-09 x4auto IBANDL-DATA-20221129/Data2/o8a/o8aa0a.r33 1964,Powers                18O(a,a0)18O,pts:99(rr)        C0750 D.Powers+(1964), Physical Review, Vol.134, p.B1237
+  10) -err-line-[EndData:] 0  2017-03-06        IBANDL-DATA-20221129/Data2/si8d/si8dpgk.r33 1994,Kiss                  28Si(d,pg1-0)29Si,pts:23(yield)       A.Z. Kiss et al., Nucl. Instr. & Meth. B85 (1994) 118
 
 
  +---------------------------------+
@@ -228,87 +228,87 @@
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
 ...Reverse Energy Order in Data:
-/1/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7da0f.r33	2021-06-10 nPoints:54	nox4:An=135.0:R=27Al(d,a0)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/2/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7da0h.r33	2021-08-19 nPoints:39	nox4:An=150.0:R=27Al(d,a0)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/3/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7da0i.r33	2021-06-10 nPoints:54	nox4:An=150.0:R=27Al(d,a0)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/4/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7da0j.r33	2021-06-10 nPoints:54	nox4:An=165.0:R=27Al(d,a0)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/5/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7da1f.r33	2021-06-10 nPoints:54	nox4:An=135.0:R=27Al(d,a1)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/6/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7da1h.r33	2021-06-10 nPoints:39	nox4:An=150.0:R=27Al(d,a1)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/7/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7da1i.r33	2021-06-10 nPoints:54	nox4:An=150.0:R=27Al(d,a1)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/8/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7da1j.r33	2021-06-10 nPoints:54	nox4:An=165.0:R=27Al(d,a1)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/9/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7da2f.r33	2021-06-10 nPoints:54	nox4:An=135.0:R=27Al(d,a2)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/10/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7da2g.r33	2021-06-10 nPoints:39	nox4:An=150.0:R=27Al(d,a2)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/11/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7da2i.r33	2021-06-10 nPoints:54	nox4:An=150.0:R=27Al(d,a2)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/12/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7da2j.r33	2021-06-10 nPoints:53	nox4:An=165.0:R=27Al(d,a2)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/13/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7da3f.r33	2021-06-10 nPoints:54	nox4:An=135.0:R=27Al(d,a3)25Mg/mb/	Source: M. Salimi+(2021), Scientific Reports, Nature
-/14/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7da3h.r33	2021-06-10 nPoints:39	nox4:An=150.0:R=27Al(d,a3)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/15/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7da3i.r33	2021-06-10 nPoints:54	nox4:An=150.0:R=27Al(d,a3)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/16/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7da3j.r33	2021-06-10 nPoints:54	nox4:An=165.0:R=27Al(d,a3)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/17/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7da4f.r33	2021-06-10 nPoints:39	nox4:An=150.0:R=27Al(d,a4)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/18/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp0e.r33	2021-06-10 nPoints:72	nox4:An=150.0:R=27Al(d,p0+1)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/19/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp0f.r33	2021-06-10 nPoints:65	nox4:An=165.0:R=27Al(d,p0+1)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/20/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp0g.r33	2021-06-10 nPoints:65	nox4:An=135.0:R=27Al(d,p0+1)28Al/mb/	Source: M. Salimi+(2021), Scientific Reports, Nature
-/21/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp0h.r33	2021-06-10 nPoints:65	nox4:An=150.0:R=27Al(d,p0+1)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/22/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp10b.r33	2021-06-10 nPoints:54	nox4:An=150.0:R=27Al(d,p10)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/23/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp11b.r33	2021-06-10 nPoints:54	nox4:An=150.0:R=27Al(d,p11)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/24/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp12b.r33	2021-06-10 nPoints:54	nox4:An=150.0:R=27Al(d,p12)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/25/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp2d.r33	2021-06-10 nPoints:66	nox4:An=135.0:R=27Al(d,p2+3)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/26/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp2e.r33	2021-06-10 nPoints:73	nox4:An=150.0:R=27Al(d,p2+3)28Al/mb/	Source: M. Salimi+(2021), Scientific Reports, Nature
-/27/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp2f.r33	2021-06-10 nPoints:66	nox4:An=150.0:R=27Al(d,p2+3)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/28/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp2g.r33	2021-06-10 nPoints:66	nox4:An=165.0:R=27Al(d,p2+3)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/29/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp4d.r33	2021-06-10 nPoints:66	nox4:An=135.0:R=27Al(d,p4)28Al/mb/	Source: M. Salimi+(2021), Scientific Reports, Nature
-/30/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp4e.r33	2021-06-10 nPoints:73	nox4:An=150.0:R=27Al(d,p4)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/31/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp4f.r33	2021-06-10 nPoints:66	nox4:An=150.0:R=27Al(d,p4)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/32/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp4g.r33	2021-06-10 nPoints:66	nox4:An=165.0:R=27Al(d,p4)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/33/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp5d.r33	2021-06-10 nPoints:65	nox4:An=135.0:R=27Al(d,p5+6)28Al/mb/	Source: M. Salimi+(2021), Scientific Reports, Nature
-/34/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp5e.r33	2021-06-10 nPoints:72	nox4:An=150.0:R=27Al(d,p5+6)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/35/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp5f.r33	2021-06-10 nPoints:65	nox4:An=150.0:R=27Al(d,p5+6)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/36/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp5g.r33	2021-06-10 nPoints:65	nox4:An=165.0:R=27Al(d,p5+6)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/37/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7d/al7dp9b.r33	2021-06-10 nPoints:54	nox4:An=150.0:R=27Al(d,p9)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
-/38/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/al7p/al7ppgy.r33	2019-02-06 nPoints:51	nox4:An=55.0:R=27Al(p,pg1-0)27Al/mb/	Source: J. Raisanen, IAEA-TECDOC-1822, Vienna (2017).
-/39/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/be7p/be7pgh.r33	2014-02-26 nPoints:3	nox4:An=360.0:R=7Be(p,g)8B/tot/	Source: F. Hammache, Ph.D. thesis. NACRE Compilation, NPA 656 (1999) 3-183.
-/40/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/c2p/c2pp0j.r33	2020-10-08 nPoints:22	F0571003:An=170.0:R=12C(p,p0)12C/mb/	Source: R.Salomonovic(1993), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.82, p.1
-/41/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/c2p/c2pp0k.r33	2020-10-08 nPoints:22	F0571003:An=160.0:R=12C(p,p0)12C/mb/	Source: R.Salomonovic(1993), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.82, p.1
-/42/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/c2p/c2pp0l.r33	2020-10-08 nPoints:22	F0571003:An=150.0:R=12C(p,p0)12C/mb/	Source: R.Salomonovic(1993), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.82, p.1
-/43/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/f9p/f9ppga.r33	2020-10-04 nPoints:199	O0859002:An=130.0:R=19F(p,pg2-0)19F/tot/	Source: A.P.Jesus+(2000), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.161-163, p.229
-/44/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/li6h/li6hp0c.r33	2021-04-22 nPoints:19	S0268004:An=146.0:R=6Li(3He,p0)8Be/mb/	Source: J.Zhu+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.494-495, p.23
-/45/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/li7h/li7hd0a.r33	2021-04-22 nPoints:18	S0268003:An=146.0:R=7Li(3He,d0)8Be/mb/	Source: J.Zhu+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.494-495, p.23
-/46/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/li7h/li7hp0a.r33	2021-04-28 nPoints:18	S0268002:An=146.0:R=7Li(3He,p0)9Be/mb/	Source: J.Zhu+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.494-495, p.23
-/47/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/li7h/li7hp1a.r33	2021-04-28 nPoints:18	S0268002:An=146.0:R=7Li(3He,p1)9Be/mb/	Source: J.Zhu+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.494-495, p.23
-/48/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/li7h/li7hp2a.r33	2021-04-28 nPoints:18	S0268002:An=146.0:R=7Li(3He,p2)9Be/mb/	Source: J.Zhu+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.494-495, p.23
-/49/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/li7h/li7hp4a.r33	2021-04-28 nPoints:18	S0268002:An=146.0:R=7Li(3He,p3+4)9Be/mb/	Source: J.Zhu+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.494-495, p.23
-/50/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/li7p/li7ppgb.r33	2021-12-15 nPoints:96	D0328002:An=135.0:R=7Li(p,pg1-0)7Li/tot/	Source: R.Mateus+(2002),Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.190, p.117
-/51/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp0m.R33	2020-10-29 nPoints:38	D0797002:An=90.0:R=24Mg(d,p0)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/52/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp0n.R33	2020-10-29 nPoints:38	D0797002:An=135.0:R=24Mg(d,p0)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/53/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp0o.R33	2020-10-29 nPoints:38	D0797002:An=150.0:R=24Mg(d,p0)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/54/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp0p.R33	2020-10-29 nPoints:38	D0797002:An=165.0:R=24Mg(d,p0)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/55/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp1m.R33	2020-10-29 nPoints:38	D0797003:An=90.0:R=24Mg(d,p1)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/56/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp1n.R33	2020-10-29 nPoints:38	D0797003:An=135.0:R=24Mg(d,p1)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/57/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp1o.R33	2020-10-29 nPoints:38	D0797003:An=150.0:R=24Mg(d,p1)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/58/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp1p.R33	2020-10-29 nPoints:38	D0797003:An=165.0:R=24Mg(d,p1)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/59/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp2l.R33	2020-09-22 nPoints:38	D0797004:An=90.0:R=24Mg(d,p2)25Mg/mb/	Source: H. Rafi-kheiri, O. Kakuee, M. Lamehi-Rachti, Nucl. Instr. Meth. B 373 (2016) 63-69
-/60/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp2n.R33	2020-10-29 nPoints:38	D0797004:An=135.0:R=24Mg(d,p2)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/61/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp2o.R33	2020-10-29 nPoints:38	D0797004:An=150.0:R=24Mg(d,p2)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/62/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp2p.R33	2020-10-29 nPoints:38	D0797004:An=165.0:R=24Mg(d,p2)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/63/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp3c.R33	2020-10-29 nPoints:37	D0797005:An=90.0:R=24Mg(d,p3)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/64/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp3d.R33	2020-10-29 nPoints:37	D0797005:An=135.0:R=24Mg(d,p3)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/65/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp3e.R33	2020-10-29 nPoints:37	D0797005:An=150.0:R=24Mg(d,p3)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/66/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp3f.R33	2020-10-29 nPoints:36	D0797005:An=165.0:R=24Mg(d,p3)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/67/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp4c.R33	2020-10-29 nPoints:37	D0797006:An=90.0:R=24Mg(d,p4)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/68/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp4d.R33	2020-10-23 nPoints:37	D0797006:An=135.0:R=24Mg(d,p4)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/69/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp4e.R33	2020-10-29 nPoints:37	D0797006:An=150.0:R=24Mg(d,p4)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/70/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mg4d/mg4dp4f.R33	2020-10-29 nPoints:38	D0797006:An=165.0:R=24Mg(d,p4)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/71/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mgnd/mgndd0g.R33	2020-10-23 nPoints:30	D0797007:An=135.0:R=natMg(d,d0)natMg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/72/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mgnd/mgndd0h.R33	2020-10-23 nPoints:38	D0797007:An=150.0:R=natMg(d,d0)natMg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/73/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/mgnd/mgndd0i.R33	2020-10-23 nPoints:38	D0797007:An=165.0:R=natMg(d,d0)natMg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/74/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/n4p/n4ppgw.r33	2020-04-17 nPoints:81	D4396002:An=55.0:R=14N(p,pg1-0)14N/mb/	Source: L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56.
-/75/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/na3p/na3ppga.r33	2020-10-22 nPoints:168	nox4:An=130.0:R=23Na(p,pg1-0)23Na/tot/	Source: R.Mateus+(2004), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.219-220, p.307
-/76/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/nnp/nnpp0a.r33	2020-04-17 nPoints:125	D4396005:An=135.0:R=natN(p,p0)natN/mb/	Source: L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56.
-/77/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/s2d/s2dpga.r33	2017-02-07 nPoints:15	O0875012:An=135.0:R=32S(d,pg1-0)33S/yield/	Source: Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
-/78/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/si8p/si8pp1a.r33	2020-04-17 nPoints:123	D4396007:An=135.0:R=28Si(p,p1)28Si/mb/	Source: L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56.
-/79/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/si8p/si8ppgp.r33	2020-04-17 nPoints:125	D4396003:An=55.0:R=28Si(p,pg1-0)28Si/mb/	Source: L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56.
-/80/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/si9p/si9ppgp.r33	2020-04-20 nPoints:125	D4396004:An=55.0:R=29Si(p,pg1-0)29Si/mb/	Source: L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56.
-/81/ ReverseEnOrder  IBANDL-DATA-20220919/Data2/sinp/sinpp0j.r33	2020-10-01 nPoints:124	D4396006:An=135.0:R=natSi(p,p0)natSi/mb/	Source: L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56.
+/1/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7da0f.r33	2021-06-10 nPoints:54	nox4:An=135.0:R=27Al(d,a0)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/2/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7da0h.r33	2021-08-19 nPoints:39	nox4:An=150.0:R=27Al(d,a0)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/3/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7da0i.r33	2021-06-10 nPoints:54	nox4:An=150.0:R=27Al(d,a0)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/4/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7da0j.r33	2021-06-10 nPoints:54	nox4:An=165.0:R=27Al(d,a0)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/5/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7da1f.r33	2021-06-10 nPoints:54	nox4:An=135.0:R=27Al(d,a1)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/6/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7da1h.r33	2021-06-10 nPoints:39	nox4:An=150.0:R=27Al(d,a1)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/7/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7da1i.r33	2021-06-10 nPoints:54	nox4:An=150.0:R=27Al(d,a1)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/8/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7da1j.r33	2021-06-10 nPoints:54	nox4:An=165.0:R=27Al(d,a1)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/9/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7da2f.r33	2021-06-10 nPoints:54	nox4:An=135.0:R=27Al(d,a2)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/10/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7da2g.r33	2021-06-10 nPoints:39	nox4:An=150.0:R=27Al(d,a2)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/11/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7da2i.r33	2021-06-10 nPoints:54	nox4:An=150.0:R=27Al(d,a2)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/12/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7da2j.r33	2021-06-10 nPoints:53	nox4:An=165.0:R=27Al(d,a2)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/13/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7da3f.r33	2021-06-10 nPoints:54	nox4:An=135.0:R=27Al(d,a3)25Mg/mb/	Source: M. Salimi+(2021), Scientific Reports, Nature
+/14/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7da3h.r33	2021-06-10 nPoints:39	nox4:An=150.0:R=27Al(d,a3)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/15/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7da3i.r33	2021-06-10 nPoints:54	nox4:An=150.0:R=27Al(d,a3)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/16/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7da3j.r33	2021-06-10 nPoints:54	nox4:An=165.0:R=27Al(d,a3)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/17/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7da4f.r33	2021-06-10 nPoints:39	nox4:An=150.0:R=27Al(d,a4)25Mg/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/18/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp0e.r33	2021-06-10 nPoints:72	nox4:An=150.0:R=27Al(d,p0+1)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/19/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp0f.r33	2021-06-10 nPoints:65	nox4:An=165.0:R=27Al(d,p0+1)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/20/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp0g.r33	2021-06-10 nPoints:65	nox4:An=135.0:R=27Al(d,p0+1)28Al/mb/	Source: M. Salimi+(2021), Scientific Reports, Nature
+/21/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp0h.r33	2021-06-10 nPoints:65	nox4:An=150.0:R=27Al(d,p0+1)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/22/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp10b.r33	2021-06-10 nPoints:54	nox4:An=150.0:R=27Al(d,p10)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/23/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp11b.r33	2021-06-10 nPoints:54	nox4:An=150.0:R=27Al(d,p11)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/24/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp12b.r33	2021-06-10 nPoints:54	nox4:An=150.0:R=27Al(d,p12)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/25/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp2d.r33	2021-06-10 nPoints:66	nox4:An=135.0:R=27Al(d,p2+3)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/26/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp2e.r33	2021-06-10 nPoints:73	nox4:An=150.0:R=27Al(d,p2+3)28Al/mb/	Source: M. Salimi+(2021), Scientific Reports, Nature
+/27/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp2f.r33	2021-06-10 nPoints:66	nox4:An=150.0:R=27Al(d,p2+3)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/28/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp2g.r33	2021-06-10 nPoints:66	nox4:An=165.0:R=27Al(d,p2+3)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/29/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp4d.r33	2021-06-10 nPoints:66	nox4:An=135.0:R=27Al(d,p4)28Al/mb/	Source: M. Salimi+(2021), Scientific Reports, Nature
+/30/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp4e.r33	2021-06-10 nPoints:73	nox4:An=150.0:R=27Al(d,p4)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/31/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp4f.r33	2021-06-10 nPoints:66	nox4:An=150.0:R=27Al(d,p4)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/32/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp4g.r33	2021-06-10 nPoints:66	nox4:An=165.0:R=27Al(d,p4)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/33/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp5d.r33	2021-06-10 nPoints:65	nox4:An=135.0:R=27Al(d,p5+6)28Al/mb/	Source: M. Salimi+(2021), Scientific Reports, Nature
+/34/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp5e.r33	2021-06-10 nPoints:72	nox4:An=150.0:R=27Al(d,p5+6)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/35/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp5f.r33	2021-06-10 nPoints:65	nox4:An=150.0:R=27Al(d,p5+6)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/36/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp5g.r33	2021-06-10 nPoints:65	nox4:An=165.0:R=27Al(d,p5+6)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/37/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7d/al7dp9b.r33	2021-06-10 nPoints:54	nox4:An=150.0:R=27Al(d,p9)28Al/mb/	Source: M. Salimi+(2021), Submitted Scientific Reports, Nature
+/38/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/al7p/al7ppgy.r33	2019-02-06 nPoints:51	nox4:An=55.0:R=27Al(p,pg1-0)27Al/mb/	Source: J. Raisanen, IAEA-TECDOC-1822, Vienna (2017).
+/39/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/be7p/be7pgh.r33	2014-02-26 nPoints:3	nox4:An=360.0:R=7Be(p,g)8B/tot/	Source: F. Hammache, Ph.D. thesis. NACRE Compilation, NPA 656 (1999) 3-183.
+/40/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/c2p/c2pp0j.r33	2020-10-07 nPoints:22	F0571003:An=170.0:R=12C(p,p0)12C/mb/	Source: R.Salomonovic(1993), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.82, p.1
+/41/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/c2p/c2pp0k.r33	2020-10-07 nPoints:22	F0571003:An=160.0:R=12C(p,p0)12C/mb/	Source: R.Salomonovic(1993), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.82, p.1
+/42/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/c2p/c2pp0l.r33	2020-10-07 nPoints:22	F0571003:An=150.0:R=12C(p,p0)12C/mb/	Source: R.Salomonovic(1993), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.82, p.1
+/43/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/f9p/f9ppga.r33	2020-10-04 nPoints:199	O0859002:An=130.0:R=19F(p,pg2-0)19F/tot/	Source: A.P.Jesus+(2000), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.161-163, p.229
+/44/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/li6h/li6hp0c.r33	2021-04-22 nPoints:19	S0268004:An=146.0:R=6Li(3He,p0)8Be/mb/	Source: J.Zhu+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.494-495, p.23
+/45/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/li7h/li7hd0a.r33	2021-04-22 nPoints:18	S0268003:An=146.0:R=7Li(3He,d0)8Be/mb/	Source: J.Zhu+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.494-495, p.23
+/46/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/li7h/li7hp0a.r33	2021-04-28 nPoints:18	S0268002:An=146.0:R=7Li(3He,p0)9Be/mb/	Source: J.Zhu+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.494-495, p.23
+/47/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/li7h/li7hp1a.r33	2021-04-28 nPoints:18	S0268002:An=146.0:R=7Li(3He,p1)9Be/mb/	Source: J.Zhu+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.494-495, p.23
+/48/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/li7h/li7hp2a.r33	2021-04-28 nPoints:18	S0268002:An=146.0:R=7Li(3He,p2)9Be/mb/	Source: J.Zhu+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.494-495, p.23
+/49/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/li7h/li7hp4a.r33	2021-04-28 nPoints:18	S0268002:An=146.0:R=7Li(3He,p3+4)9Be/mb/	Source: J.Zhu+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.494-495, p.23
+/50/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/li7p/li7ppgb.r33	2021-12-15 nPoints:96	D0328002:An=135.0:R=7Li(p,pg1-0)7Li/tot/	Source: R.Mateus+(2002),Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.190, p.117
+/51/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp0m.R33	2020-10-29 nPoints:38	D0797002:An=90.0:R=24Mg(d,p0)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/52/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp0n.R33	2020-10-29 nPoints:38	D0797002:An=135.0:R=24Mg(d,p0)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/53/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp0o.R33	2020-10-29 nPoints:38	D0797002:An=150.0:R=24Mg(d,p0)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/54/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp0p.R33	2020-10-29 nPoints:38	D0797002:An=165.0:R=24Mg(d,p0)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/55/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp1m.R33	2020-10-29 nPoints:38	D0797003:An=90.0:R=24Mg(d,p1)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/56/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp1n.R33	2020-10-29 nPoints:38	D0797003:An=135.0:R=24Mg(d,p1)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/57/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp1o.R33	2020-10-29 nPoints:38	D0797003:An=150.0:R=24Mg(d,p1)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/58/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp1p.R33	2020-10-29 nPoints:38	D0797003:An=165.0:R=24Mg(d,p1)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/59/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp2l.R33	2020-09-21 nPoints:38	D0797004:An=90.0:R=24Mg(d,p2)25Mg/mb/	Source: H. Rafi-kheiri, O. Kakuee, M. Lamehi-Rachti, Nucl. Instr. Meth. B 373 (2016) 63-69
+/60/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp2n.R33	2020-10-29 nPoints:38	D0797004:An=135.0:R=24Mg(d,p2)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/61/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp2o.R33	2020-10-29 nPoints:38	D0797004:An=150.0:R=24Mg(d,p2)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/62/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp2p.R33	2020-10-29 nPoints:38	D0797004:An=165.0:R=24Mg(d,p2)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/63/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp3c.R33	2020-10-29 nPoints:37	D0797005:An=90.0:R=24Mg(d,p3)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/64/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp3d.R33	2020-10-29 nPoints:37	D0797005:An=135.0:R=24Mg(d,p3)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/65/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp3e.R33	2020-10-29 nPoints:37	D0797005:An=150.0:R=24Mg(d,p3)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/66/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp3f.R33	2020-10-29 nPoints:36	D0797005:An=165.0:R=24Mg(d,p3)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/67/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp4c.R33	2020-10-29 nPoints:37	D0797006:An=90.0:R=24Mg(d,p4)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/68/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp4d.R33	2020-10-22 nPoints:37	D0797006:An=135.0:R=24Mg(d,p4)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/69/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp4e.R33	2020-10-29 nPoints:37	D0797006:An=150.0:R=24Mg(d,p4)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/70/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mg4d/mg4dp4f.R33	2020-10-29 nPoints:38	D0797006:An=165.0:R=24Mg(d,p4)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/71/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mgnd/mgndd0g.R33	2020-10-22 nPoints:30	D0797007:An=135.0:R=natMg(d,d0)natMg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/72/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mgnd/mgndd0h.R33	2020-10-22 nPoints:38	D0797007:An=150.0:R=natMg(d,d0)natMg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/73/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/mgnd/mgndd0i.R33	2020-10-22 nPoints:38	D0797007:An=165.0:R=natMg(d,d0)natMg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/74/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/n4p/n4ppgw.r33	2020-04-17 nPoints:81	D4396002:An=55.0:R=14N(p,pg1-0)14N/mb/	Source: L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56.
+/75/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/na3p/na3ppga.r33	2020-10-22 nPoints:168	nox4:An=130.0:R=23Na(p,pg1-0)23Na/tot/	Source: R.Mateus+(2004), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.219-220, p.307
+/76/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/nnp/nnpp0a.r33	2020-04-17 nPoints:125	D4396005:An=135.0:R=natN(p,p0)natN/mb/	Source: L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56.
+/77/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/s2d/s2dpga.r33	2017-02-07 nPoints:15	O0875012:An=135.0:R=32S(d,pg1-0)33S/yield/	Source: Z.Elekes et al. Nucl. Instr. & Meth. B168 (2000) 305
+/78/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/si8p/si8pp1a.r33	2020-04-17 nPoints:123	D4396007:An=135.0:R=28Si(p,p1)28Si/mb/	Source: L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56.
+/79/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/si8p/si8ppgp.r33	2020-04-17 nPoints:125	D4396003:An=55.0:R=28Si(p,pg1-0)28Si/mb/	Source: L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56.
+/80/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/si9p/si9ppgp.r33	2020-04-20 nPoints:125	D4396004:An=55.0:R=29Si(p,pg1-0)29Si/mb/	Source: L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56.
+/81/ ReverseEnOrder  IBANDL-DATA-20221129/Data2/sinp/sinpp0j.r33	2020-10-01 nPoints:124	D4396006:An=135.0:R=natSi(p,p0)natSi/mb/	Source: L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56.
 
 
  +---------------------------------+
@@ -1755,7 +1755,7 @@
 	65)	2.3102      0.0      93.260       0.0
 [39]________File:ar0p/ar0pp0g.r33 Data:108 En:#inc:106 #eq:2 #dec:0
 
-/40/ WrongEnergyOrder ar6pp0e.r33 	2020-10-08 pts:532	F1005002:An=139.97:R=36Ar(p,p0)36Ar/mb/	Source: V.E.Storizhko+(1964), Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.28, p.1145
+/40/ WrongEnergyOrder ar6pp0e.r33 	2020-10-07 pts:532	F1005002:An=139.97:R=36Ar(p,p0)36Ar/mb/	Source: V.E.Storizhko+(1964), Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.28, p.1145
 #40.1 - E[3]>E[4]	i:3,4/lines:29,30
 	29)	     1.4442         0.    0.25199         0.
 	30)	     1.4404         0.    0.24978         0.
@@ -1896,7 +1896,7 @@
 	530)	     3.5323         0. 5.1986E-02         0.
 [40]________File:ar6p/ar6pp0e.r33 Data:532 En:#inc:486 #eq:14 #dec:32
 
-/41/ WrongEnergyOrder ar6pp0f.r33 	2020-10-08 pts:139	F1005004:An=139.97:R=36Ar(p,p0)36Ar/rr/	Source: V.E.Storizhko+(1964), Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.28, p.1145
+/41/ WrongEnergyOrder ar6pp0f.r33 	2020-10-07 pts:139	F1005004:An=139.97:R=36Ar(p,p0)36Ar/rr/	Source: V.E.Storizhko+(1964), Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.28, p.1145
 #41.1 = E[12]==E[13]	i:12,13/lines:39,40
 	39)	  1.511E+03         0.    0.47745         0.
 	40)	  1.511E+03         0.    0.77207         0.
@@ -1905,13 +1905,13 @@
 	152)	 3.5013E+03         0.    0.45574         0.
 [41]________File:ar6p/ar6pp0f.r33 Data:139 En:#inc:137 #eq:2 #dec:0
 
-/42/ WrongEnergyOrder ar6pp0g.r33 	2020-10-08 pts:138	F1005003:An=88.41:R=36Ar(p,p0)36Ar/rr/	Source: V.E.Storizhko+(1964), Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.28, p.1145
+/42/ WrongEnergyOrder ar6pp0g.r33 	2020-10-07 pts:138	F1005003:An=88.41:R=36Ar(p,p0)36Ar/rr/	Source: V.E.Storizhko+(1964), Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.28, p.1145
 #42.1 - E[49]>E[50]	i:49,50/lines:76,77
 	76)	 2.7254E+03         0.    0.83009         0.
 	77)	 2.7244E+03         0.    0.93272         0.
 [42]________File:ar6p/ar6pp0g.r33 Data:138 En:#inc:137 #eq:0 #dec:1
 
-/43/ WrongEnergyOrder ar6pp0h.r33 	2020-10-08 pts:141	F1005004:An=123.67:R=36Ar(p,p0)36Ar/rr/	Source: V.E.Storizhko+(1964), Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.28, p.1145
+/43/ WrongEnergyOrder ar6pp0h.r33 	2020-10-07 pts:141	F1005004:An=123.67:R=36Ar(p,p0)36Ar/rr/	Source: V.E.Storizhko+(1964), Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.28, p.1145
 #43.1 = E[53]==E[54]	i:53,54/lines:80,81
 	80)	 2.7299E+03         0.    0.75931         0.
 	81)	 2.7299E+03         0.     1.2199         0.
@@ -2268,7 +2268,7 @@
 	121)	    3.800,  0.000,  56.860, 0.000
 [67]________File:b1p/b1pp0b.r33 Data:81 En:#inc:70 #eq:11 #dec:0
 
-/68/ WrongEnergyOrder b1pp0c.r33 	2020-10-08 pts:155	C0847002:An=150.0:R=11B(p,p0)11B/rr/	Source: G.W.Tautfest+(1956), Physical Review, Vol.103, p.196
+/68/ WrongEnergyOrder b1pp0c.r33 	2020-10-07 pts:155	C0847002:An=150.0:R=11B(p,p0)11B/rr/	Source: G.W.Tautfest+(1956), Physical Review, Vol.103, p.196
 #68.1 - E[3]>E[4]	i:3,4/lines:31,32
 	31)	  581.000,  0.000,   0.610, 0.000
 	32)	  580.000,  0.000,   0.630, 0.000
@@ -2403,7 +2403,7 @@
 	138)	 2224.000,  0.000,  77.000, 0.040
 [75]________File:be9p/be9pp0d.r33 Data:128 En:#inc:127 #eq:1 #dec:0
 
-/76/ WrongEnergyOrder be9pp0e.r33 	2020-10-29 pts:204	F0900002:An=135.0:R=9Be(p,p0)9Be/mb/	Source: V.S.Siksin+(1970), Yadernaya Fizika, Vol.12, p.15
+/76/ WrongEnergyOrder be9pp0e.r33 	2020-10-28 pts:204	F0900002:An=135.0:R=9Be(p,p0)9Be/mb/	Source: V.S.Siksin+(1970), Yadernaya Fizika, Vol.12, p.15
 #76.1 = E[39]==E[40]	i:39,40/lines:63,64
 	63)	     2.0239        0.0  9.466E-02        0.0
 	64)	     2.0239        0.0  8.998E-02        0.0
@@ -2454,7 +2454,7 @@
 	223)	     2.1075        0.0  9.836E-02        0.0
 [76]________File:be9p/be9pp0e.r33 Data:204 En:#inc:188 #eq:16 #dec:0
 
-/77/ WrongEnergyOrder be9pp0f.r33 	2020-10-29 pts:166	F0900002:An=45.0:R=9Be(p,p0)9Be/mb/	Source: V.S.Siksin+(1970), Yadernaya Fizika, Vol.12, p.15
+/77/ WrongEnergyOrder be9pp0f.r33 	2020-10-28 pts:166	F0900002:An=45.0:R=9Be(p,p0)9Be/mb/	Source: V.S.Siksin+(1970), Yadernaya Fizika, Vol.12, p.15
 #77.1 - E[3]>E[4]	i:3,4/lines:27,28
 	27)	     2.0084        0.0     0.6147           
 	28)	     2.0054        0.0     0.6297  3.128E-02
@@ -2595,7 +2595,7 @@
 	187)	     2.1063        0.0     0.6115  2.697E-02
 [77]________File:be9p/be9pp0f.r33 Data:166 En:#inc:120 #eq:7 #dec:39
 
-/78/ WrongEnergyOrder be9pp0g.r33 	2020-10-29 pts:191	F0900002:An=83.5:R=9Be(p,p0)9Be/mb/	Source: V.S.Siksin+(1970), Yadernaya Fizika, Vol.12, p.15
+/78/ WrongEnergyOrder be9pp0g.r33 	2020-10-28 pts:191	F0900002:An=83.5:R=9Be(p,p0)9Be/mb/	Source: V.S.Siksin+(1970), Yadernaya Fizika, Vol.12, p.15
 #78.1 - E[1]>E[2]	i:1,2/lines:25,26
 	25)	      2.005        0.0     0.2504        0.0
 	26)	     2.0033        0.0     0.2476        0.0
@@ -3231,7 +3231,7 @@
 	129)	1930	0	24.6	1.1
 [99]________File:c2d/c2dp0d.r33 Data:119 En:#inc:112 #eq:7 #dec:0
 
-/100/ WrongEnergyOrder c2dp0g.r33 	2020-10-05 pts:58	C1007003:An=165.0:R=12C(d,p0)13C/mb/	Source: E.Kashy+(1960), Jour. Physical Review, Vol.117, p.1289
+/100/ WrongEnergyOrder c2dp0g.r33 	2020-10-04 pts:58	C1007003:An=165.0:R=12C(d,p0)13C/mb/	Source: E.Kashy+(1960), Jour. Physical Review, Vol.117, p.1289
 #100.1 - E[34]>E[35]	i:34,35/lines:67,68
 	67)	 1435.000,  0.000,  43.700, 0.000
 	68)	 1433.000,  0.000,  59.100, 0.000
@@ -4323,7 +4323,7 @@
 	70)	2465	0	450	0
 [113]________File:c2d/c2dpgm.r33 Data:126 En:#inc:125 #eq:1 #dec:0
 
-/114/ WrongEnergyOrder c2hh0a.r33 	2020-10-08 pts:28	A0623004:An=177.2:R=12C(3He,3He0)12C/mb/	Source: G.Terwagne(1997), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.122, p.1
+/114/ WrongEnergyOrder c2hh0a.r33 	2020-10-07 pts:28	A0623004:An=177.2:R=12C(3He,3He0)12C/mb/	Source: G.Terwagne(1997), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.122, p.1
 #114.1 - E[3]>E[4]	i:3,4/lines:29,30
 	29)	 2445.840,  0.000,  22.150, 1.770
 	30)	 2055.450,  0.000,  33.440, 2.680
@@ -4353,7 +4353,7 @@
 	47)	     4.4729         0.     2.3191    0.10445
 [115]________File:c2h/c2hh0d.r33 Data:49 En:#inc:47 #eq:0 #dec:2
 
-/116/ WrongEnergyOrder c2hp0d.r33 	2020-10-08 pts:70	A0623002:An=90.0:R=12C(3He,p0)14N/mb/	Source: G.Terwagne(1997), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.122, p.1
+/116/ WrongEnergyOrder c2hp0d.r33 	2020-10-07 pts:70	A0623002:An=90.0:R=12C(3He,p0)14N/mb/	Source: G.Terwagne(1997), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.122, p.1
 #116.1 - E[36]>E[37]	i:36,37/lines:63,64
 	63)	 3000.000,  0.000,   2.980, 0.240
 	64)	 1958.000,  0.000,   0.370, 0.030
@@ -4383,7 +4383,7 @@
 	91)	 1958.000,  0.000,   0.390, 0.030
 [116]________File:c2h/c2hp0d.r33 Data:70 En:#inc:61 #eq:1 #dec:8
 
-/117/ WrongEnergyOrder c2hp1c.r33 	2020-10-08 pts:28	A0623002:An=177.2:R=12C(3He,p1)14N/mb/	Source: G.Terwagne(1997), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.122, p.1
+/117/ WrongEnergyOrder c2hp1c.r33 	2020-10-07 pts:28	A0623002:An=177.2:R=12C(3He,p1)14N/mb/	Source: G.Terwagne(1997), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.122, p.1
 #117.1 - E[3]>E[4]	i:3,4/lines:29,30
 	29)	 2445.840,  0.000,   2.550, 0.200
 	30)	 2055.450,  0.000,   0.250, 0.020
@@ -4404,7 +4404,7 @@
 	49)	 2714.750,  0.000,   1.520, 0.120
 [117]________File:c2h/c2hp1c.r33 Data:28 En:#inc:22 #eq:0 #dec:6
 
-/118/ WrongEnergyOrder c2hp1d.r33 	2020-10-08 pts:70	A0623002:An=90.0:R=12C(3He,p1)14N/mb/	Source: G.Terwagne(1997), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.122, p.1
+/118/ WrongEnergyOrder c2hp1d.r33 	2020-10-07 pts:70	A0623002:An=90.0:R=12C(3He,p1)14N/mb/	Source: G.Terwagne(1997), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.122, p.1
 #118.1 - E[36]>E[37]	i:36,37/lines:63,64
 	63)	 3000.000,  0.000,   1.490, 0.120
 	64)	 1958.000,  0.000,   0.340, 0.030
@@ -4446,7 +4446,7 @@
 	35)	     2.4525         0.     1.4366         0.
 [120]________File:c2h/c2hp1g.r33 Data:55 En:#inc:54 #eq:0 #dec:1
 
-/121/ WrongEnergyOrder c2hp2d.r33 	2020-10-08 pts:70	A0623002:An=90.0:R=12C(3He,p2)14N/mb/	Source: G.Terwagne(1997), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.122, p.1
+/121/ WrongEnergyOrder c2hp2d.r33 	2020-10-07 pts:70	A0623002:An=90.0:R=12C(3He,p2)14N/mb/	Source: G.Terwagne(1997), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.122, p.1
 #121.1 - E[36]>E[37]	i:36,37/lines:63,64
 	63)	 3000.000,  0.000,   1.470, 0.120
 	64)	 1958.000,  0.000,   0.220, 0.020
@@ -4476,7 +4476,7 @@
 	91)	 1958.000,  0.000,   0.240, 0.020
 [121]________File:c2h/c2hp2d.r33 Data:70 En:#inc:61 #eq:1 #dec:8
 
-/122/ WrongEnergyOrder c2hp4a.r33 	2020-10-08 pts:64	A0623002:An=90.0:R=12C(3He,p4)14N/mb/	Source: G.Terwagne(1997), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.122, p.1
+/122/ WrongEnergyOrder c2hp4a.r33 	2020-10-07 pts:64	A0623002:An=90.0:R=12C(3He,p4)14N/mb/	Source: G.Terwagne(1997), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.122, p.1
 #122.1 - E[30]>E[31]	i:30,31/lines:57,58
 	57)	 3000.000,  0.000,   2.800, 0.220
 	58)	 1958.000,  0.000,   0.480, 0.040
@@ -5520,7 +5520,7 @@
 	141)	     5.0452        0.0     2.6874        0.0
 [173]________File:ca8d/ca8dp1e.r33 Data:158 En:#inc:157 #eq:1 #dec:0
 
-/174/ WrongEnergyOrder canaa0b.r33 	2020-10-08 pts:120	F0609005:An=145.0:R=natCa(a,a0)natCa/rr/	Source: J.P.F.Sellschop+(1987), Jour. Jour. of Physics, Part G (Nucl.and Part.Phys.), Vol.13, p.1129
+/174/ WrongEnergyOrder canaa0b.r33 	2020-10-07 pts:120	F0609005:An=145.0:R=natCa(a,a0)natCa/rr/	Source: J.P.F.Sellschop+(1987), Jour. Jour. of Physics, Part G (Nucl.and Part.Phys.), Vol.13, p.1129
 #174.1 - E[79]>E[80]	i:79,80/lines:107,108
 	107)	 7447.000,  0.000,   0.700, 0.000
 	108)	 7446.000,  0.000,   0.730, 0.000
@@ -8415,7 +8415,7 @@
 	121)	     1.9822         0.    42.5694         0.
 [257]________File:f9p/f9pp0_z.r33 Data:118 En:#inc:116 #eq:2 #dec:0
 
-/258/ WrongEnergyOrder f9pp2e.R33 	2020-09-10 pts:130	O2312003:An=150.0:R=19F(p,p2)19F/mb/	Source: M. Chiari et al. Nucl. Intr. and Meth. B 384 (2016) 37-41
+/258/ WrongEnergyOrder f9pp2e.R33 	2020-09-09 pts:130	O2312003:An=150.0:R=19F(p,p2)19F/mb/	Source: M. Chiari et al. Nucl. Intr. and Meth. B 384 (2016) 37-41
 #258.1 = E[77]==E[78]	i:77,78/lines:101,102
 	101)	4964.1	0.0	8.19	0.20
 	102)	4964.1	0.0	8.32	0.21
@@ -10788,7 +10788,7 @@
 	958)	3.2037	0.0	65.4	0.0
 [284]________File:knp/knpp0i.r33 Data:946 En:#inc:915 #eq:24 #dec:7
 
-/285/ WrongEnergyOrder li6aa0d.r33 	2020-04-07 pts:19	F1003003:An=75.8:R=6Li(a,a0)6Li/ru/	Source: G.Dearnaley et al. Nuclear Physics  v.36 (1962) 71
+/285/ WrongEnergyOrder li6aa0d.r33 	2020-04-06 pts:19	F1003003:An=75.8:R=6Li(a,a0)6Li/ru/	Source: G.Dearnaley et al. Nuclear Physics  v.36 (1962) 71
 #285.1 = E[15]==E[16]	i:15,16/lines:40,41
 	40)	     1.3767         0.     3.3271         0.
 	41)	     1.3767         0.     3.2256         0.
@@ -10836,7 +10836,7 @@
 	47)	  837.620,  0.000,   0.028, 0.000
 [291]________File:li7p/li7pp0b.r33 Data:47 En:#inc:46 #eq:0 #dec:1
 
-/292/ WrongEnergyOrder li7pp0d.r33 	2020-10-07 pts:78	x4none:An=90.0:R=7Li(p,p0)7Li/mb/	Source: P.R.Malmberg(1956), Physical Review, Vol.101, p.114
+/292/ WrongEnergyOrder li7pp0d.r33 	2020-10-06 pts:78	x4none:An=90.0:R=7Li(p,p0)7Li/mb/	Source: P.R.Malmberg(1956), Physical Review, Vol.101, p.114
 #292.1 = E[20]==E[21]	i:20,21/lines:40,41
 	40)	    1.820,  0.000, 110.279, 0.000
 	41)	    1.820,  0.000, 115.005, 0.000
@@ -10851,19 +10851,19 @@
 	56)	    2.000,  0.000, 115.246, 0.000
 [292]________File:li7p/li7pp0d.r33 Data:78 En:#inc:74 #eq:4 #dec:0
 
-/293/ WrongEnergyOrder li7pp0m.r33 	2020-10-07 pts:73	x4none:An=102.0:R=7Li(p,p0)7Li/mb/	Source: P.R.Malmberg(1956), Physical Review, Vol.101, p.114
+/293/ WrongEnergyOrder li7pp0m.r33 	2020-10-06 pts:73	x4none:An=102.0:R=7Li(p,p0)7Li/mb/	Source: P.R.Malmberg(1956), Physical Review, Vol.101, p.114
 #293.1 = E[25]==E[26]	i:25,26/lines:51,52
 	51)	1861.30  0.00  95.03  9.50
 	52)	1861.30  0.00  98.83  9.88
 [293]________File:li7p/li7pp0m.r33 Data:73 En:#inc:72 #eq:1 #dec:0
 
-/294/ WrongEnergyOrder li7pp0o.r33 	2020-10-07 pts:83	x4none:An=123.1:R=7Li(p,p0)7Li/mb/	Source: P.R.Malmberg(1956), Physical Review, Vol.101, p.114
+/294/ WrongEnergyOrder li7pp0o.r33 	2020-10-06 pts:83	x4none:An=123.1:R=7Li(p,p0)7Li/mb/	Source: P.R.Malmberg(1956), Physical Review, Vol.101, p.114
 #294.1 = E[26]==E[27]	i:26,27/lines:52,53
 	52)	1886.10  0.00  53.76  5.38
 	53)	1886.10  0.00  60.65  6.07
 [294]________File:li7p/li7pp0o.r33 Data:83 En:#inc:82 #eq:1 #dec:0
 
-/295/ WrongEnergyOrder li7pp0r.r33 	2020-10-07 pts:70	x4none:An=145.3:R=7Li(p,p0)7Li/mb/	Source: P.R.Malmberg(1956), Physical Review, Vol.101, p.114
+/295/ WrongEnergyOrder li7pp0r.r33 	2020-10-06 pts:70	x4none:An=145.3:R=7Li(p,p0)7Li/mb/	Source: P.R.Malmberg(1956), Physical Review, Vol.101, p.114
 #295.1 = E[69]==E[70]	i:69,70/lines:95,96
 	95)	2624.90	0.00	76.66	7.67
 	96)	2624.90	0.00	79.19	7.92
@@ -11280,13 +11280,13 @@
 	41)	     4.8764         0.     29.513         0.
 [326]________File:mg5p/mg5pp0g.r33 Data:66 En:#inc:65 #eq:1 #dec:0
 
-/327/ WrongEnergyOrder mg5pp2a.r33 	2020-09-30 pts:66	F1191003:An=120.0:R=25Mg(p,p2)25Mg/mb/	Source: A.Gallmann et al. Nuclear Physics  v.88 (1966) 675
+/327/ WrongEnergyOrder mg5pp2a.r33 	2020-09-29 pts:66	F1191003:An=120.0:R=25Mg(p,p2)25Mg/mb/	Source: A.Gallmann et al. Nuclear Physics  v.88 (1966) 675
 #327.1 - E[35]>E[36]	i:35,36/lines:59,60
 	59)	      5.444         0.      3.091         0.
 	60)	     5.3446         0.     2.8091         0.
 [327]________File:mg5p/mg5pp2a.r33 Data:66 En:#inc:65 #eq:0 #dec:1
 
-/328/ WrongEnergyOrder mg5ppg$9.r33 	2022-09-07 pts:579	02551002:An=130.0:R=25Mg(p,pg1-0)25Mg/mb/	Source: J.Cruz+(2022), European Physical Journal , Vol.58, p.128
+/328/ WrongEnergyOrder mg5ppg$9.r33 	2022-09-06 pts:579	02551002:An=130.0:R=25Mg(p,pg1-0)25Mg/mb/	Source: J.Cruz+(2022), European Physical Journal , Vol.58, p.128
 #328.1 = E[24]==E[25]	i:24,25/lines:44,45
 	44)	1234.5	1.    0.057	0.0023
 	45)	1234.5	1.    0.114	0.0034
@@ -11421,7 +11421,7 @@
 	355)	 6246.000,  0.000,   5.590, 0.000
 [333]________File:n4a/n4aa0f.r33 Data:545 En:#inc:543 #eq:1 #dec:1
 
-/334/ WrongEnergyOrder n4aa0h.r33 	2020-10-22 pts:74	x4none:An=167.0:R=14N(a,a0)14N/rr/	Source: L.A.Foster+(1993), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.79, p.454
+/334/ WrongEnergyOrder n4aa0h.r33 	2020-10-21 pts:74	x4none:An=167.0:R=14N(a,a0)14N/rr/	Source: L.A.Foster+(1993), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.79, p.454
 #334.1 = E[12]==E[13]	i:12,13/lines:40,41
 	40)	 7454.000,  0.000,  28.990, 0.000
 	41)	 7454.000,  0.000,  28.990, 0.000
@@ -11742,7 +11742,7 @@
 	159)	 2752.000,  0.000,   8.790, 0.000
 [348]________File:n4p/n4pp0o.r33 Data:154 En:#inc:150 #eq:4 #dec:0
 
-/349/ WrongEnergyOrder n4pp0r.r33 	2020-10-08 pts:103	C0847003:An=150.0:R=14N(p,p0)14N/rr/	Source: G.W.Tautfest+(1956), Physical Review, Vol.103, p.196
+/349/ WrongEnergyOrder n4pp0r.r33 	2020-10-07 pts:103	C0847003:An=150.0:R=14N(p,p0)14N/rr/	Source: G.W.Tautfest+(1956), Physical Review, Vol.103, p.196
 #349.1 = E[16]==E[17]	i:16,17/lines:44,45
 	44)	 1024.000,  0.000,   1.550, 0.000
 	45)	 1024.000,  0.000,   1.460, 0.000
@@ -12102,7 +12102,7 @@
 	625)	 5135.000,  0.000,   2.710, 0.000
 [362]________File:n5a/n5aa0f.r33 Data:632 En:#inc:590 #eq:42 #dec:0
 
-/363/ WrongEnergyOrder n5pagb.r33 	2021-08-19 pts:336	C1936009:An=360.0:R=15N(p,ag1-0)12C/tot/	Source: G.Imbriani+(2012),Jour. Physical Review, Part C, Nuclear Physics, Vol.85, p.065810
+/363/ WrongEnergyOrder n5pagb.r33 	2021-08-18 pts:336	C1936009:An=360.0:R=15N(p,ag1-0)12C/tot/	Source: G.Imbriani+(2012),Jour. Physical Review, Part C, Nuclear Physics, Vol.85, p.065810
 #363.1 = E[11]==E[12]	i:11,12/lines:34,35
 	34)	315.00,     0.00,     1.32E-02,     6.58E-04
 	35)	315.00,     0.00,     1.20E-02,     7.85E-04
@@ -13869,7 +13869,7 @@ E<=0	129/156:	X=0.0	Y=0.0	dY=0.0
 	156)	EndData
 [407]________File:o6d/o6da0g.r33 Data:129 En:#inc:128 #eq:0 #dec:1
 
-/408/ WrongEnergyOrder o6da0l.r33 	2020-10-08 pts:288	C1030004:An=164.25:R=16O(d,a0)14N/mb/	Source: R.F.Seiler+(1963), Jour. Nuclear Physics, Vol.45, p.647
+/408/ WrongEnergyOrder o6da0l.r33 	2020-10-07 pts:288	C1030004:An=164.25:R=16O(d,a0)14N/mb/	Source: R.F.Seiler+(1963), Jour. Nuclear Physics, Vol.45, p.647
 #408.1 = E[167]==E[168]	i:167,168/lines:192,193
 	192)	    1451  0.0   1.092   0.
 	193)	    1451  0.0   2.711   0.
@@ -14076,7 +14076,7 @@ E<=0	129/156:	X=0.0	Y=0.0	dY=0.0
 	31)	     3.4685         0.    0.17862         0.
 [428]________File:o6p/o6pp0v.r33 Data:85 En:#inc:84 #eq:1 #dec:0
 
-/429/ WrongEnergyOrder o6pp0w.r33 	2020-09-04 pts:172	F1059002:An=90.0:R=16O(p,p0)16O/rr/	Source: R.Morlock+(1997), Jour. Physical Review Letters, Vol.79, p.3837
+/429/ WrongEnergyOrder o6pp0w.r33 	2020-09-03 pts:172	F1059002:An=90.0:R=16O(p,p0)16O/rr/	Source: R.Morlock+(1997), Jour. Physical Review Letters, Vol.79, p.3837
 #429.1 - E[85]>E[86]	i:85,86/lines:110,111
 	110)	     2.6665         0.     3.6331         0.
 	111)	     2.6616         0.     3.4652         0.
@@ -14115,7 +14115,7 @@ E<=0	129/156:	X=0.0	Y=0.0	dY=0.0
 	188)	     3.4527         0.     2.5013         0.
 [429]________File:o6p/o6pp0w.r33 Data:172 En:#inc:160 #eq:0 #dec:12
 
-/430/ WrongEnergyOrder o6pp0x.r33 	2020-09-04 pts:124	F1059003:An=120.0:R=16O(p,p0)16O/rr/	Source: R.Morlock+(1997), Jour. Physical Review Letters, Vol.79, p.3837
+/430/ WrongEnergyOrder o6pp0x.r33 	2020-09-03 pts:124	F1059003:An=120.0:R=16O(p,p0)16O/rr/	Source: R.Morlock+(1997), Jour. Physical Review Letters, Vol.79, p.3837
 #430.1 - E[62]>E[63]	i:62,63/lines:87,88
 	87)	      2.667         0.     3.4961         0.
 	88)	     2.6627         0.     3.8032         0.
@@ -14214,7 +14214,7 @@ E<=0	99/125:	X=0.0	Y=0.0	dY=0.0
 	46)	  640.300,  0.000,  10.300, 0.000
 [437]________File:o8p/o8pa0d.r33 Data:13 En:#inc:10 #eq:1 #dec:2
 
-/438/ WrongEnergyOrder o8pa0f.r33 	2020-10-24 pts:118	O0816002:An=155.0:R=18O(p,a0)15N/mb/	Source: .F.A.Alkemade+(1988), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.35, p.135
+/438/ WrongEnergyOrder o8pa0f.r33 	2020-10-23 pts:118	O0816002:An=155.0:R=18O(p,a0)15N/mb/	Source: .F.A.Alkemade+(1988), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.35, p.135
 #438.1 - E[64]>E[65]	i:64,65/lines:102,103
 	102)	 1755.000,  0.000,  58.400, 0.000
 	103)	 1754.700,  0.000,  59.700, 0.000
@@ -14958,7 +14958,7 @@ E<=0	99/125:	X=0.0	Y=0.0	dY=0.0
 	195)	 3670.000,  0.000,   5.810, 0.000
 [470]________File:s2p/s2pp0c.r33 Data:190 En:#inc:186 #eq:1 #dec:3
 
-/471/ WrongEnergyOrder s2pp0e.r33 	2020-10-20 pts:384	O2264002:An=90.0:R=32S(p,p0)32S/mb/	Source: U.Abbondanno+(1973), Nuovo Cimento A, Vol.13, p.321
+/471/ WrongEnergyOrder s2pp0e.r33 	2020-10-19 pts:384	O2264002:An=90.0:R=32S(p,p0)32S/mb/	Source: U.Abbondanno+(1973), Nuovo Cimento A, Vol.13, p.321
 #471.1 - E[83]>E[84]	i:83,84/lines:102,103
 	102)	 4495.9   0.0   66.060   4.753
 	103)	 4489.6   0.0   66.105   5.281
@@ -14976,7 +14976,7 @@ E<=0	99/125:	X=0.0	Y=0.0	dY=0.0
 	328)	 5280.2   0.0   27.277  3.804
 [471]________File:s2p/s2pp0e.r33 Data:384 En:#inc:379 #eq:0 #dec:5
 
-/472/ WrongEnergyOrder s2pp0f.r33 	2020-10-20 pts:387	O2264003:An=123.0:R=32S(p,p0)32S/mb/	Source: U.Abbondanno+(1973), Nuovo Cimento A, Vol.13, p.321
+/472/ WrongEnergyOrder s2pp0f.r33 	2020-10-19 pts:387	O2264003:An=123.0:R=32S(p,p0)32S/mb/	Source: U.Abbondanno+(1973), Nuovo Cimento A, Vol.13, p.321
 #472.1 - E[218]>E[219]	i:218,219/lines:237,238
 	237)	 5000.2  0.0   31.479  2.781
 	238)	 4999.8  0.0   29.081  2.708
@@ -14988,7 +14988,7 @@ E<=0	99/125:	X=0.0	Y=0.0	dY=0.0
 	406)	 5187.9  0.0   56.245  5.939
 [472]________File:s2p/s2pp0f.r33 Data:387 En:#inc:384 #eq:0 #dec:3
 
-/473/ WrongEnergyOrder s2pp0g.r33 	2020-10-20 pts:395	O2264005:An=139.0:R=32S(p,p0)32S/mb/	Source: U.Abbondanno+(1973), Nuovo Cimento A, Vol.13, p.321
+/473/ WrongEnergyOrder s2pp0g.r33 	2020-10-19 pts:395	O2264005:An=139.0:R=32S(p,p0)32S/mb/	Source: U.Abbondanno+(1973), Nuovo Cimento A, Vol.13, p.321
 #473.1 - E[62]>E[63]	i:62,63/lines:81,82
 	81)	 4318.5  0.0  72.765   5.244
 	82)	 4138.3  0.0  126.365  10.492
@@ -15006,7 +15006,7 @@ E<=0	99/125:	X=0.0	Y=0.0	dY=0.0
 	406)	 4999.5  0.0  22.642   3.684
 [473]________File:s2p/s2pp0g.r33 Data:395 En:#inc:390 #eq:0 #dec:5
 
-/474/ WrongEnergyOrder s2pp0h.r33 	2020-10-20 pts:380	O2264006:An=165.0:R=32S(p,p0)32S/mb/	Source: U.Abbondanno+(1973), Nuovo Cimento A, Vol.13, p.321
+/474/ WrongEnergyOrder s2pp0h.r33 	2020-10-19 pts:380	O2264006:An=165.0:R=32S(p,p0)32S/mb/	Source: U.Abbondanno+(1973), Nuovo Cimento A, Vol.13, p.321
 #474.1 - E[28]>E[29]	i:28,29/lines:47,48
 	47)	 4149.1  0.0  139.373   0.000
 	48)	 4137.7  0.0  463.533  41.796
@@ -15033,13 +15033,13 @@ E<=0	99/125:	X=0.0	Y=0.0	dY=0.0
 	364)	 5367.4  0.0   146.315   3.158
 [474]________File:s2p/s2pp0h.r33 Data:380 En:#inc:372 #eq:0 #dec:8
 
-/475/ WrongEnergyOrder s2pp0i.r33 	2020-10-22 pts:379	D0784002:An=88.3:R=32S(p,p0)32S/mb/	Source: L.K.Fifield+(1974), Nuclear Physics, Section A, Vol.220, p.183
+/475/ WrongEnergyOrder s2pp0i.r33 	2020-10-21 pts:379	D0784002:An=88.3:R=32S(p,p0)32S/mb/	Source: L.K.Fifield+(1974), Nuclear Physics, Section A, Vol.220, p.183
 #475.1 = E[137]==E[138]	i:137,138/lines:156,157
 	156)	4.2168    0.0	131.024   0.0
 	157)	4.2168    0.0	129.239   0.0
 [475]________File:s2p/s2pp0i.r33 Data:379 En:#inc:378 #eq:1 #dec:0
 
-/476/ WrongEnergyOrder s2pp0j.r33 	2020-10-22 pts:320	x4none:An=141.7:R=32S(p,p0)32S/mb/	Source: L.K.Fifield+(1974), Nuclear Physics, Section A, Vol.220, p.183
+/476/ WrongEnergyOrder s2pp0j.r33 	2020-10-21 pts:320	x4none:An=141.7:R=32S(p,p0)32S/mb/	Source: L.K.Fifield+(1974), Nuclear Physics, Section A, Vol.220, p.183
 #476.1 = E[88]==E[89]	i:88,89/lines:107,108
 	107)	4.151   0.0	73.874   0.0
 	108)	4.151   0.0	70.171   0.0
@@ -15048,13 +15048,13 @@ E<=0	99/125:	X=0.0	Y=0.0	dY=0.0
 	211)	4.566   0.0	101.998   0.0
 [476]________File:s2p/s2pp0j.r33 Data:320 En:#inc:318 #eq:2 #dec:0
 
-/477/ WrongEnergyOrder s2pp0k.r33 	2020-10-22 pts:364	D0784003:An=121.7:R=32S(p,p0)32S/mb/	Source: L.K.Fifield+(1974), Nuclear Physics, Section A, Vol.220, p.183
+/477/ WrongEnergyOrder s2pp0k.r33 	2020-10-21 pts:364	D0784003:An=121.7:R=32S(p,p0)32S/mb/	Source: L.K.Fifield+(1974), Nuclear Physics, Section A, Vol.220, p.183
 #477.1 = E[199]==E[200]	i:199,200/lines:218,219
 	218)	4.487   0.0	61.111   0.0
 	219)	4.487   0.0	79.63   0.0
 [477]________File:s2p/s2pp0k.r33 Data:364 En:#inc:363 #eq:1 #dec:0
 
-/478/ WrongEnergyOrder s2pp0l.r33 	2020-10-22 pts:415	D0784005:An=161.7:R=32S(p,p0)32S/mb/	Source: L.K.Fifield+(1974), Nuclear Physics, Section A, Vol.220, p.183
+/478/ WrongEnergyOrder s2pp0l.r33 	2020-10-21 pts:415	D0784005:An=161.7:R=32S(p,p0)32S/mb/	Source: L.K.Fifield+(1974), Nuclear Physics, Section A, Vol.220, p.183
 #478.1 = E[95]==E[96]	i:95,96/lines:114,115
 	114)	4.115   0.0	128.483   0.0
 	115)	4.115   0.0	119.224   0.0
@@ -15069,7 +15069,7 @@ E<=0	99/125:	X=0.0	Y=0.0	dY=0.0
 	347)	4.745   0.0	62.092   0.0
 [478]________File:s2p/s2pp0l.r33 Data:415 En:#inc:411 #eq:4 #dec:0
 
-/479/ WrongEnergyOrder s2pp1a.r33 	2020-10-20 pts:361	O2264004:An=123.0:R=32S(p,p1)32S/mb/	Source: U.Abbondanno+(1973), Nuovo Cimento A, Vol.13, p.321
+/479/ WrongEnergyOrder s2pp1a.r33 	2020-10-19 pts:361	O2264004:An=123.0:R=32S(p,p1)32S/mb/	Source: U.Abbondanno+(1973), Nuovo Cimento A, Vol.13, p.321
 #479.1 - E[54]>E[55]	i:54,55/lines:73,74
 	73)	 4308.9  0.0  1.928   
 	74)	 4298.5  0.0  1.982   
@@ -15807,7 +15807,7 @@ E<=0	99/125:	X=0.0	Y=0.0	dY=0.0
 	98)	 3338	0.0	2.732	0.0
 [501]________File:sinp/sinpp0h.r33 Data:116 En:#inc:114 #eq:2 #dec:0
 
-/502/ WrongEnergyOrder sinpp0i.r33 	2020-10-19 pts:103	x4none:An=123.3:R=natSi(p,p0)natSi/rr/	Source: T.A.Belote+(1961), Physical Review, Vol.122, p.920
+/502/ WrongEnergyOrder sinpp0i.r33 	2020-10-18 pts:103	x4none:An=123.3:R=natSi(p,p0)natSi/rr/	Source: T.A.Belote+(1961), Physical Review, Vol.122, p.920
 #502.1 = E[54]==E[55]	i:54,55/lines:73,74
 	73)	3090	0.0	1.27	0.0
 	74)	3090	0.0	1.20	0.0
@@ -17008,7 +17008,7 @@ E<=0	99/125:	X=0.0	Y=0.0	dY=0.0
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...IBANDL archive IBANDL-DATA-20220919.zip
+...IBANDL archive IBANDL-DATA-20221129.zip
    Summary of R33 files:
     OK-files:          4286   100.%
     Bad-files:         0
