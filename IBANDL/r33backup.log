@@ -1,15 +1,15 @@
  Program zvR33_backup v.2023-09-04
  Backup IBANDL data library (zip)
  by V.Zerkin, IAEA, Vienna, 2023
- Running: 2023-09-05,09:22:25
+ Running: 2023-09-05,09:22:58
 
-...outputDir:[IBANDL-DATA-20221129/Data2]
+...outputDir:[IBANDL-DATA-20230118/Data2]
 
-...Reading IBANDL data: IBANDL/2022-11-29/iba-2022-11-29.zip
+...Reading IBANDL data: IBANDL/2023-01-18/iba-2023-01-18.zip
 
-...IBANDL data IBANDL/2022-11-29/iba-2022-11-29.zip
+...IBANDL data IBANDL/2023-01-18/iba-2023-01-18.zip
    Summary of R33:
-   OK-files:  4286
+   OK-files:  4287
    Bad-files: 0
 
 Program successfully completed.
