@@ -1,0 +1,58 @@
+Comment:    Automatically converted from EXFOR at 2022-12-09,08:27:18
+            by the IAEA-NDS EXFOR Web-Retrieval System,
+            program X4toR33 ver-2021-12-15 (V.Zerkin).
+            X4Title: "Differential cross sections of the deuteron reactions
+                      on beryllium at energies and angles suitable for
+                      nuclear reaction analysis"
+            X4Author: P.Tsavalas, A.Lagoyannis, K.Mergia, E.Ntemou, 
+            C.P.Lungu
+            EXFOR: O2481003    Created: 2020-09-10  Updated: 2021-05-18
+            X4Reaction:4-BE-9(D,A)3-LI-7,PAR,DA; X4Points:508
+            ENSDF:LevelEnergy=478.00 keV
+            Theta groupping interval=1.0 deg.
+            AME2020: M1=2.014101777 M2=9.012183062 M3=4.002603254 M4=7.016003434
+
+Version:      R33
+X4Number:     O2481003 20210518
+Source:       P.Tsavalas+(2020), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.479, p.205
+Reaction:     9Be(d,a1)7Li
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 9.0, 4.0, 7.0
+Zeds:         1, 4, 2, 3
+Qvalue:       6674.15, 0.00, 0.00, 0.00, 0.00
+Theta:        140
+Data:
+  1000.00,      0.00,      0.88,      0.03
+  1020.00,      0.00,      0.90,      0.04
+  1040.00,      0.00,      0.92,      0.04
+  1060.00,      0.00,      1.00,      0.03
+  1080.00,      0.00,      0.85,      0.04
+  1100.00,      0.00,      1.12,      0.05
+  1120.00,      0.00,      1.09,      0.04
+  1140.00,      0.00,      1.17,      0.04
+  1160.00,      0.00,      1.12,      0.06
+  1180.00,      0.00,      1.17,      0.04
+  1200.00,      0.00,      1.05,      0.04
+  1220.00,      0.00,      1.08,      0.06
+  1240.00,      0.00,      1.15,      0.04
+  1260.00,      0.00,      1.46,      0.06
+  1280.00,      0.00,      1.36,      0.06
+  1300.00,      0.00,      1.18,      0.04
+  1320.00,      0.00,      1.17,      0.05
+  1340.00,      0.00,      1.23,      0.05
+  1360.00,      0.00,      1.30,      0.04
+  2020.00,      0.00,      1.03,      0.03
+  2040.00,      0.00,      1.17,      0.03
+  2060.00,      0.00,      1.13,      0.04
+  2080.00,      0.00,      1.11,      0.03
+  2100.00,      0.00,      0.92,      0.03
+  2120.00,      0.00,      1.10,      0.05
+  2140.00,      0.00,      1.08,      0.04
+  2160.00,      0.00,      1.01,      0.04
+  2180.00,      0.00,      1.00,      0.03
+  2200.00,      0.00,      0.96,      0.03
+EndData:
