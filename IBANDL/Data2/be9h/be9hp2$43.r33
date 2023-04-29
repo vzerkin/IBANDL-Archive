@@ -1,0 +1,25 @@
+Comment:  Uncertainties given in the data section are statistical according to R33 format. 
+Total uncertainties are reported in the supplementary data of 
+Phys.Scr., Vol.98, p.035306 and included in the 
+EXFOR subentry O2566002  
+
+Version:      R33
+X4Number:     O2566002 20230425
+Source:       C.M.Vitor+(2023), Phys.Scr., Vol.98, p.035306
+Reaction:     9Be(3He,p2)11B
+Distribution: Energy
+Sigfactors:   1.00, 0.0 
+Enfactors:    1000.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 9.0, 1.0, 11.0
+Zeds:         2, 4, 1, 5
+Qvalue:       5877.99, 0.00, 0.00, 0.00, 0.00
+Theta:        160
+Data:
+2.481,   0.008,   0.324,   0.044
+2.202,   0.007,   0.381,   0.053
+1.952,   0.006,   0.491,   0.051
+1.722,   0.005,   0.437,   0.026
+1.462,   0.004,   0.223,   0.013
+EndData:
