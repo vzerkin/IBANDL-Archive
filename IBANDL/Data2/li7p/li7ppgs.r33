@@ -1,0 +1,27 @@
+Comment: Proton induced thick target 7Li(p,p'gamma)7Li gamma-ray yield measurements at the energy region E = 1 - 4 MeV.
+
+Version: R33
+Source: A.Ziagkova+(2023), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.539, p.113
+Name: 
+Serial Number: 0
+X4Number:     O2569003
+Reaction: 7Li(p,pg1-0)7Li
+Egamma:	477.6
+Distribution: Energy
+Composition: 
+Masses:    1.000,    7.000,    1.000,    7.000
+Zeds: 1, 3, 1, 3
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:     90.00
+Sigfactors: 1.00, 0.08
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: yield
+Data:
+ 1010.000,  0.000, 280486.722, 0.000
+ 1240.000,  0.000, 1788350.000, 0.000
+ 1800.000,  0.000, 7785490.000, 0.000
+ 2565.000,  0.000, 26019800.000, 0.000
+ 3000.000,  0.000, 41869700.000, 0.000
+ 3500.000,  0.000, 59416300.000, 0.000
+ 4000.000,  0.000, 86088300.000, 0.000
+EndData:
