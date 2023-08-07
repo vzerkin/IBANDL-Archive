@@ -1,0 +1,71 @@
+Comment: Differential cross section data. Gamma-ray energy 953 keV.  The listed uncertainties in the cross section values are statistical only. 
+There is a systematic uncertainty of +/- 8% (see "Sigma scale factor" fields)
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: Hafez Taghipour Aslani,et al.,Nucl .Instrum. Methods Phys. Res B 540 (2023), 141-147.
+Address1: Van de Graaff Laboratory
+Address2: Nuclear Science and Technology Research Institute
+Address3: PO Box 14395-836
+Address4: End of North Karegar Ave,Tehran
+Address5: Iran
+Address6: arezajokar@gmail.com
+Serial Number: 0
+Evaluated Data: 
+SubFile: 
+X4Number: D1048002
+Reaction: 11B(d,pg1-0)12B  
+Egamma: 953
+Distribution: Energy
+Composition: Natural
+Masses:    2,    11,    1,   12
+Zeds: 1, 5, 1, 5
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:      90.00
+Sigfactors: 1, 0.08
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+671.1    2.	  1.2 	0.03
+711.3    2.	  1.45	0.03
+752.2    2.	  1.63	0.03
+792.7    2.	  1.92	0.04
+833.2    2.	  2.14	0.04
+873.7    2.	  2.45	0.04
+914.1    2.	  2.87	0.05
+954.4    2.	  3.19	0.05
+994.9    2.	  3.28	0.05
+1025.1   2.	  3.33	0.05
+1055.3   2.	  3.63	0.05
+1085.6   2.	  4.   	0.05
+1115.8   2.	  4.19	0.06
+1146.    2.	  4.4 	0.06
+1176.3   2.	  4.56	0.06
+1206.5   2.	  4.79	0.07
+1236.7   2.	  4.94	0.07
+1266.9   2.	  5.07	0.06
+1297.1   2.	  5.2 	0.07
+1327.2   2.	  5.4 	0.09
+1357.4   2.	  5.52	0.09
+1387.6   2.	  5.65	0.10
+1417.7   2.	  5.7 	0.10
+1447.9   2.	  5.75	0.10
+1478.1   2.	  5.81	0.10
+1508.2   2.	  5.8 	0.10
+1538.3   2.	  5.77	0.10
+1568.5   2.	  5.84	0.10
+1598.7   2.	  5.82	0.10
+1628.8   2.	  6.1 	0.10
+1658.9   2.	  6.3 	0.10
+1689.    2.	  6.39	0.10
+1719.2   2.	  6.56	0.11
+1749.3   2.	  6.54	0.11
+1779.4   2.	  6.6 	0.11
+1809.5   2.	  6.92	0.11
+1839.6   2.	  7.03	0.11
+1869.7   2.	  7.13	0.11
+1899.8   2.	  7.38	0.11
+1929.9   2.	  7.52	0.11
+1960.    2.	  7.7 	0.12
+1990.1   2.	  7.76	0.09
+EndData:
