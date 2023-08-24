@@ -1,0 +1,48 @@
+Comment: File created by R33 Manager version 0.1
+The reported errors correspond to the total estimated uncertainty
+
+Version: R33
+X4Number:     O2578002 20230811
+Source:       V.Foteinou+(2023), Nucl. Instrum. Methods in Physics Name: V. Foteinou
+Address1: Dr. V. Foteinou
+Address2: Central Unit for Ion Beams and Radionuclides
+Address3: Ruhr University Bochum
+Address4: 44801 Bochum, Germany
+Address5: varvara.foteinou@rub.de
+Serial Number: 0
+Reaction: 9Be(3He,3He0)9Be
+Distribution: Energy
+Composition: 
+Masses:    3.016,    9.012,    3.016,    9.012
+Zeds: 2, 4, 2, 4
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:    140.00
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+ 2266.000,  3.000,   9.800, 0.500
+ 2366.000,  3.000,   8.400, 0.500
+ 2416.000,  3.000,   7.900, 0.500
+ 2466.000,  3.000,   7.300, 0.400
+ 2516.000,  3.000,   6.900, 0.500
+ 2566.000,  3.000,   6.600, 0.400
+ 2666.000,  3.000,   6.900, 0.400
+ 2765.000,  3.000,   5.500, 0.400
+ 2865.000,  3.000,   5.900, 0.400
+ 2956.000,  3.000,   5.400, 0.300
+ 3065.000,  3.000,   4.900, 0.300
+ 3115.000,  3.000,   4.600, 0.300
+ 4960.000,  3.000,   5.040, 0.260
+ 5059.000,  3.000,   4.960, 0.260
+ 5159.000,  3.000,   4.970, 0.260
+ 5258.000,  3.000,   4.870, 0.260
+ 5358.000,  3.000,   4.720, 0.250
+ 5458.000,  3.000,   4.780, 0.250
+ 5557.000,  3.000,   4.410, 0.220
+ 5657.000,  3.000,   4.350, 0.220
+ 5756.000,  3.000,   4.510, 0.230
+ 5856.000,  3.000,   4.250, 0.210
+ 5956.000,  3.000,   4.220, 0.220
+EndData:
+
