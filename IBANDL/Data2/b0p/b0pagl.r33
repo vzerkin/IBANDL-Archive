@@ -2,10 +2,10 @@ Comment:
 Thick target gamma-ray yield.  
 
 Version: R33
-Source: R.B. Day et al., J. Phys. Rev. 95 (1954) 1003.
+Source: R.B. Day+(1954), Jour. Physical Review, Vol.95, p.1003.
 Name:
 Serial Number: 0
-X4Number:  
+X4Number: C2525002 
 Reaction: 10B(p,ag1-0)7Be
 Egamma: 432
 Distribution: Energy
