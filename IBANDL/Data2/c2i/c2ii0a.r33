@@ -5,6 +5,7 @@ AGREEMENT WITH THE ORIGINAL PUBLICATION.
 File created by R33 Manager version 0.21
 
 Version: R33
+X4Number:     O0909002 20210305
 Source: M. Mayer and M. Schneider, Nucl. Instr. Meth. B183 (2001) 221
 Name: M. Mayer
 Address1: Max-Planck-Institut fuer Plasmaphysik
@@ -15,7 +16,6 @@ Address5:
 Address6: 
 Serial Number: 
 SubFile: C6LiLiC.r33
-X4Number: 
 Reaction: 12C(6Li,6Li0)12C
 Distribution: Energy
 Composition: Natural
