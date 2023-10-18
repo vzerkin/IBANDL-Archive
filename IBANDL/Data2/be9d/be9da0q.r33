@@ -1,0 +1,31 @@
+Comment: Cross sections calculated using Legendre coefficients reported in the publication and converted to laboratory system using IBANDL functionality with cm: 0 1 1"   
+
+Version:      R33
+X4Number:     F0451002 20200626
+Source:       A.Saganek+(1971), Acta Physica Polonica, Part B, Vol.2, p.473
+Reaction:     9Be(d,a0)7Li
+Distribution: Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1000.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 9.0, 4.0, 7.0
+Zeds:         1, 4, 2, 3
+Qvalue:       7152.15, 0.00, 0.00, 0.00, 0.00
+Theta:        163
+Data:
+0.900,   0.000,   2.871,   0.000
+1.000,   0.000,   3.631,   0.000
+1.100,   0.000,   4.014,   0.000
+1.200,   0.000,   4.435,   0.000
+1.300,   0.000,   4.488,   0.000
+1.400,   0.000,   4.629,   0.000
+1.500,   0.000,   4.122,   0.000
+1.600,   0.000,   4.354,   0.000
+1.700,   0.000,   4.219,   0.000
+1.800,   0.000,   3.829,   0.000
+1.900,   0.000,   3.282,   0.000
+2.000,   0.000,   3.035,   0.000
+2.100,   0.000,   2.703,   0.000
+2.200,   0.000,   2.396,   0.000
+EndData:
