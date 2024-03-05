@@ -3,12 +3,12 @@
  | Program zvR33test, v.2026-11-12 |
  | by V.Zerkin, Vienna, 2015-2026. |
  +---------------------------------+
- Running:  2026-11-15,19:37:59
+ Running:  2026-11-15,19:38:54
  Computer: zerkin-VirtualBox
  Platform: Linux/6.8.0-149-generic/amd64
 
-...Reading IBANDL archive: iba-2024-02-27.zip
-...IBANDL: [iba-2024-02-27.zip] Files:4537
+...Reading IBANDL archive: iba-2024-03-06.zip
+...IBANDL: [iba-2024-03-06.zip] Files:4537
 
 
  +---------------------------------+
@@ -20,7 +20,7 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Corrected Lines [iba-2024-02-27.zip]
+...Corrected Lines [iba-2024-03-06.zip]
  1)---programmatically corrected line---  mg6p/mg6pp0j.r33 2020-10-04  Reaction:26Mg(p,p0)26Mg /mb/
 	from:[V.B.Gubin+(1974), Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.38, Issue.4, p.868Comment: Data were digitized. Energy digitizing error is 1.67 keV]
 	to:  [Comment: Data were digitized. Energy digitizing error is 1.67 keV]
@@ -50,7 +50,7 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Wrong File Location [iba-2024-02-27.zip]
+...Wrong File Location [iba-2024-03-06.zip]
  1)---wrong file location---[nna/ninaa0c.r33] must be:[nina/ninaa0c.r33] 2021-12-10  Reaction:natNi(a,a0)natNi /mb/
 
 
@@ -63,7 +63,7 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Wrong Dir Name [iba-2024-02-27.zip]
+...Wrong Dir Name [iba-2024-03-06.zip]
  1)---wrong dir name--- now: c2a/    must-be: cna/    first-file: c2a/c2aa0w.r33     2020-04-07  Reaction:natC(a,a0)natC /rr/
  2)---wrong dir name--- now: c3d/    must-be: c3h/    first-file: c3d/c3daga.r33     2021-08-22  Reaction:13C(3He,ag8-0)12C /mb/
  3)---wrong dir name--- now: h2a/    must-be: li7h/   first-file: h2a/h2aa0m.r33     2022-09-02  Reaction:7Li(3He,a0)6Li /mb/
@@ -86,7 +86,7 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Wrong File Prefix [iba-2024-02-27.zip]
+...Wrong File Prefix [iba-2024-03-06.zip]
   1)---wrong file name--- now: c2a/c2aa0w.r33     must-be: cna/cnaa0w.r33     2020-04-07  Reaction:natC(a,a0)natC /rr/
   2)---wrong file name--- now: c2a/c2aa0_n.r33    must-be: cna/cnaa0_n.r33    2020-04-07  Reaction:natC(a,a0)natC /rr/
   3)---wrong file name--- now: c3d/c3daga.r33     must-be: c3h/c3haga.r33     2021-08-22  Reaction:13C(3He,ag8-0)12C /mb/
@@ -176,7 +176,7 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Warning: Year=0 [iba-2024-02-27.zip]
+...Warning: Year=0 [iba-2024-03-06.zip]
   1) 2019-02-05 mg5p/mg5ppgr.r33   0,Jesus                    25Mg(p,pg1-0)25Mg,pts:579(mb)           A.P.Jesus et al, unpublished data
   2) 2006-06-23 n4d/n4dp1b.r33     0,Pellegrino               14N(d,p1+2)15N,pts:11(mb)               S. Pellegrino, to be published
   3) 2006-06-23 n4d/n4dp3c.r33     0,Pellegrino               14N(d,p3)15N,pts:282(mb)                S. Pellegrino, to be published
@@ -11691,7 +11691,7 @@
 	29)	0.13	0.00	9.10E-11	1.80E-11
 [339]________File:n4p/n4pga.r33 Data:8 En:#inc:5 #eq:3 #dec:0
 
-/340/ WrongEnergyOrder n4pgb.r33 	2020-10-27 pts:16	C1669002:An=360.0:R=14N(p,g)15O/tot/	Source: R. E. Pixley, PhD Thesis, 1957. NACRE Compilation Nucl. Phys. A 656 (1999) 3-183.
+/340/ WrongEnergyOrder n4pgb.r33 	2020-10-28 pts:16	C1669002:An=360.0:R=14N(p,g)15O/tot/	Source: R. E. Pixley, PhD Thesis, 1957. NACRE Compilation Nucl. Phys. A 656 (1999) 3-183.
 #340.1 = E[5]==E[6]	i:5,6/lines:27,28
 	27)	0.26	0	8.50E-08	3.40E-09
 	28)	0.26	0	4.50E-07	1.80E-08
@@ -16891,7 +16891,7 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...IBANDL archive iba-2024-02-27.zip
+...IBANDL archive iba-2024-03-06.zip
    Summary of R33 files:
     OK-files:          4537   100.%
     Bad-files:         0
