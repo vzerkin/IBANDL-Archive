@@ -1,0 +1,42 @@
+Version: R33
+Source: L.Hess, M. Mayer and T. Schwarz-Selinger, Nuclear Inst. and Methods in Physics Research B, 165454 (2024)
+Name: Laurin Hess
+Address1: Max-Planck-Institut fuer Plasmaphysik
+Address2: Boltzmannstr. 2
+Address3: D-85748 Garching, GERMANY
+Address4: laurin.hess@ipp.mpg.de
+Serial Number: 
+SubFile:
+X4Number:
+Reaction: 13C(3He,p9)15N
+Distribution: Energy
+Composition: 
+Masses:    3.000,   13.000,    1.000,   15.000
+Zeds: 2, 6, 1, 7
+Qvalue:   1616.11,	0.00,	0.00,      0.00
+Theta:    175.0
+Sigfactors: 1.00, 0.00
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+2528.60,3.15,0.605,0.043
+2577.94,3.17,0.613,0.043
+2627.27,3.19,0.662,0.044
+2676.59,3.21,0.556,0.041
+2725.92,3.24,0.560,0.041
+2775.24,3.26,0.507,0.040
+2824.56,3.28,0.510,0.039
+2873.88,3.30,0.644,0.040
+2923.19,3.32,0.605,0.039
+2972.50,3.34,0.532,0.037
+3021.81,3.36,0.526,0.038
+3071.11,3.39,0.554,0.038
+3120.42,3.41,0.619,0.040
+3169.72,3.43,0.526,0.038
+3219.02,3.45,0.585,0.040
+3268.32,3.48,0.651,0.042
+3317.62,3.50,0.703,0.043
+3366.91,3.52,0.687,0.042
+3416.20,3.55,0.835,0.046
+3465.49,3.57,0.941,0.050
+Enddata:
