@@ -1,0 +1,42 @@
+Comment: Differential cross section data.  The listed uncertainties in the cross section values are statistical only. 
+The overall systematic uncertainty was estimated to be less than 4 %. (see "Sigma scale factor" fields)
+File created by R33 Manager version 0.21
+
+Version: R33
+Source: H. Rafi-Kheiri+(2024), Jour. Nucl .Instrum. Methods in Physics Res., Sect. B, Vol. 553, p. 165401
+Address2: Nuclear Science and Technology Research Institute
+Address3: PO Box 14395-836
+Address4: End of North Karegar Ave,Tehran
+Address5: Iran
+Serial Number:
+Evaluated Data: 
+SubFile: 
+X4Number: 
+Reaction: 1H(p,p0)1H  
+Distribution: Energy
+Composition: Natural
+Masses:    1,    1,    1,    1
+Zeds: 1, 1, 1, 1
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:     30.00
+Sigfactors: 1, 0.04
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+1547	3	570.02	17.67
+1647	3	562.16	15.57
+1747	3	555.87	15.86
+1847	3	547.38	16.18
+1947	3	543.98	16.08
+2047	3	540.65	15.37
+2147	3	536.18	15.04
+2247	3	529.02	14.40
+2347	3	522.90	14.30
+2447	3	517.90	13.83
+2547	3	509.79	13.74
+2648	3	502.23	13.83
+2748	3	492.04	14.39
+2848	3	481.92	14.01
+2948	3	478.27	15.19
+3048	3	464.46	12.43
+EndData:
