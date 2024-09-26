@@ -1,0 +1,40 @@
+Comment: Differential cross section data. Gamma-ray energy 2124 keV. The listed uncertainties in the cross section values are statistical only. 
+The overall systematic uncertainty of the cross-sections was estimated to be about 10 % (see "Sigma scale factor" fields)
+
+Version: R33
+Source: H.T. Aslani+(2024), Jour. Nucl. Instrum. Methods in Physics Res., Sect. B, Vol.556, p. 165509
+Address2: Nuclear Science and Technology Research Institute (NSTRI)
+Address3: PO Box 14395-836
+Address4: End of North Karegar Ave,Tehran
+Address5: Iran
+Address6: ajowkar@aeoi.org.ir
+Serial Number:
+Evaluated Data: 
+SubFile: 
+X4Number: D0960004 
+Reaction: 11B(p,pg1-0)11B  
+Egamma: 2125
+Distribution: Energy
+Composition: Natural
+Masses:    11,    1,    1,    11
+Zeds: 5, 1, 1, 5
+Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00
+Theta:     90.00
+Sigfactors: 1, 0.10
+Enfactors: 1.00, 0.00, 0.00, 0.00
+Units: mb
+Data:
+2555.9	3.0	0.017	0.002
+2575.9	3.0	0.090	0.005
+2600.9	3.0	0.250	0.006
+2616.0	3.0	0.492	0.012
+2636.0	3.0	1.354	0.029
+2656.0	3.0	3.145	0.045
+2666.0	3.0	3.354	0.046
+2676.0	3.0	2.460	0.039
+2696.0	3.0	1.649	0.032
+2716.1	3.0	1.315	0.029
+2736.1	3.0	1.254	0.025
+2756.1	3.0	1.327	0.027
+2776.1	3.0	1.360	0.027
+EndData:
