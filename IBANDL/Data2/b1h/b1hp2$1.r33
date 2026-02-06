@@ -1,0 +1,18 @@
+Version:	R33
+X4Number:	D1063003   20250324
+Source:	T. Dunatov+(2024), Radiation Physics and Chemistry (2024): 112298.
+Reaction:	11B(3He,p2)13C
+Distribution:	Energy
+Sigfactors:   1.00, 0.00
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:	mb
+Masses:	 3.0, 11.0, 1.0, 13.0
+Zeds:	 2, 5, 1, 6
+Qvalue:	 9500.44
+Theta:	146
+Data:
+	2700.000,	18.160,	0.260,	0.011
+	2800.000,	15.797,	0.273,	0.012
+	2900.000,	15.939,	0.278,	0.012
+	3000.000,	15.931,	0.287,	0.012
+EndData:
