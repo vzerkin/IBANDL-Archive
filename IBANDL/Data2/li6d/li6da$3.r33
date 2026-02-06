@@ -1,17 +1,9 @@
-Comment:    Automatically converted from EXFOR
-            by IAEA-NDS EXFOR Web-Retrieval System (v-2008/11/03)
-            "Absolute cross sections for deuteron-induced reactions
-             on 6Li at energies below 1 MeV."
-            A.J.Elwyn, R.E.Holland, C.N.Davids, L.Meyer-Schuetzmeister, 
-            J.E.Monahan, F.P.Mooring, W.Ray Jr
-            EXFOR: T0134002    Created: 2000-11-21  Updated: 2001-03-30
-            X4Reaction:3-LI-6(D,A)2-HE-4,,DA; X4Points:185
-            Theta groupping interval=3.0 deg.
+Comment:    
 
 Version:      R33
-X4Number:     T0134002
-Source:       A.J.Elwyn+(1977), Jour. Physical Review, Part C, Nuclear Physics, Vol.16, p.1744
-Reaction:     6Li(d,a0)4He
+X4Number:     F1513002   20241216
+Source:       S. Taskaev+(2024), Nuclear Instruments and Methods in Physics Research B 554 (2024) 165460
+Reaction:     6Li(d,a)4He
 Distribution: Energy
 Sigfactors:   1.00, 0.00
 Enfactors:    1.00, 0.00, 0.00, 0.00
@@ -19,20 +11,26 @@ Units:        mb
 Composition:
 Masses:       2.0, 6.0, 4.0, 4.0
 Zeds:         1, 3, 2, 2
-Qvalue:       22372.68, 0.00, 0.00, 0.00, 0.00
-Theta:        145
+Qvalue:       22372.77, 0.00, 0.00, 0.00, 0.00
+Theta:        168
 Data:
-  118.00,     0.00,    0.058,     0.00
-  145.00,     0.00,     0.16,     0.00
-  182.00,     0.00,     0.30,     0.00
-  263.00,     0.00,     1.04,     0.00
-  266.00,     0.00,     1.05,     0.00
-  366.00,     0.00,     1.58,     0.00
-  369.00,     0.00,     1.66,     0.00
-  570.00,     0.00,     2.33,     0.00
-  673.00,     0.00,     2.30,     0.00
-  773.00,     0.00,     2.20,     0.00
-  875.00,     0.00,     2.17,     0.00
-  975.00,     0.00,     2.06,     0.00
+	329.00	72.00	1.25	0.07
+	439.00	63.00	1.93	0.1
+	545.00	56.00	2.43	0.13
+	651.00	51.00	2.58	0.13
+	756.00	46.00	2.58	0.13
+	859.00	43.00	2.50	0.13
+	963.00	40.00	2.36	0.12
+	1065.00	38.00	2.20	0.12
+	1168.00	36.00	2.15	0.11
+	1268.00	34.00	2.06	0.11
+	1372.00	32.00	1.98	0.1
+	1473.00	31.00	1.88	0.1
+	1573.00	29.00	1.85	0.1
+	1675.00	28.00	1.75	0.09
+	1776.00	27.00	1.75	0.09
+	1877.00	26.00	1.69	0.09
+	1979.00	25.00	1.64	0.09
+	2078.00	24.00	1.65	0.09
+	2180.00	24.00	1.62	0.09
 EndData:
-
