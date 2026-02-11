@@ -1,0 +1,64 @@
+
+
+Comment:    Automatically converted from EXFOR at 2026-02-11,11:06:48
+            by the IAEA-NDS EXFOR Web-Retrieval System,
+            program X4toR33 ver-2023-01-20 (V.Zerkin).
+            X4Title: "Differential cross-section measurements for
+                      3He-induced reactions and elastic scattering on 12C"
+            X4Author: F.Maragkos,  V.Foteinou,  H.-W.Becker,  M.Kokkoris, 
+            M.Mayer,  G.Provatas,  D.Rogalla
+            EXFOR: O2630003    Created: 2024-09-17  Updated: 2026-01-14
+            X4Reaction:6-C-12(HE3,P)7-N-14,PAR,DA; X4Points:874
+            ENSDF:LevelEnergy=2313.00 keV
+            Theta groupping interval=1.0 deg.
+            Systematic uncertainty: ErrSys=7.25%
+            AME2020: M1=3.016029321 M2=12.0 M3=1.007825031 M4=14.003074004
+
+Version:      R33
+X4Number:     O2630003 20260114
+Source:       F.Maragkos+(2024), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.556, p.165517
+Reaction:     12C(3He,p1)14N
+Distribution: Energy
+Sigfactors:   1.00, 0.0725
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       3.0, 12.0, 1.0, 14.0
+Zeds:         2, 6, 1, 7
+Qvalue:       2465.83, 0.00, 0.00, 0.00, 0.00
+Theta:        140
+Data:
+2178.80  ,0.00     ,0.70     ,0.06     
+2278.20  ,0.00     ,1.51     ,0.12     
+2377.10  ,0.00     ,2.74     ,0.21     
+2476.60  ,0.00     ,2.45     ,0.20     
+2526.40  ,0.00     ,2.05     ,0.20     
+2576.00  ,0.00     ,1.87     ,0.16     
+2625.70  ,0.00     ,1.62     ,0.17     
+2675.50  ,0.00     ,1.45     ,0.12     
+2725.20  ,0.00     ,1.35     ,0.12     
+2774.80  ,0.00     ,1.38     ,0.12     
+2800.20  ,0.00     ,1.24     ,0.10     
+2824.40  ,0.00     ,1.15     ,0.10     
+2874.20  ,0.00     ,0.89     ,0.08     
+2899.60  ,0.00     ,0.85     ,0.07     
+2923.90  ,0.00     ,0.46     ,0.04     
+4513.70  ,0.00     ,0.92     ,0.08     
+4563.30  ,0.00     ,0.88     ,0.08     
+4612.90  ,0.00     ,0.91     ,0.08     
+4662.60  ,0.00     ,1.00     ,0.08     
+4712.40  ,0.00     ,1.04     ,0.09     
+4762.00  ,0.00     ,1.01     ,0.09     
+4811.70  ,0.00     ,0.95     ,0.08     
+4861.40  ,0.00     ,0.82     ,0.07     
+4910.90  ,0.00     ,0.60     ,0.05     
+4960.60  ,0.00     ,0.55     ,0.05     
+5010.30  ,0.00     ,0.54     ,0.05     
+5060.00  ,0.00     ,0.45     ,0.04     
+5109.70  ,0.00     ,0.47     ,0.04     
+5159.30  ,0.00     ,0.44     ,0.04     
+5209.00  ,0.00     ,0.39     ,0.03     
+5258.60  ,0.00     ,0.26     ,0.02     
+5507.00  ,0.00     ,0.25     ,0.02     
+5556.70  ,0.00     ,0.39     ,0.03     
+EndData:
