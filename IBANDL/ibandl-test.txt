@@ -3,12 +3,12 @@
  | Program zvR33test, v.2026-11-12 |
  | by V.Zerkin, Vienna, 2015-2026. |
  +---------------------------------+
- Running:  2026-11-15,19:39:42
+ Running:  2026-11-15,19:40:34
  Computer: zerkin-VirtualBox
  Platform: Linux/6.8.0-149-generic/amd64
 
-...Reading IBANDL archive: iba-2024-09-26.zip
-...IBANDL: [iba-2024-09-26.zip] Files:4564
+...Reading IBANDL archive: iba-2026-02-12.zip
+...IBANDL: [iba-2026-02-12.zip] Files:4658
 
 
  +---------------------------------+
@@ -20,7 +20,7 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Corrected Lines [iba-2024-09-26.zip]
+...Corrected Lines [iba-2026-02-12.zip]
  1)---programmatically corrected line---  mg6p/mg6pp0j.r33 2020-10-04  Reaction:26Mg(p,p0)26Mg /mb/
 	from:[V.B.Gubin+(1974), Izv. Rossiiskoi Akademii Nauk, Ser.Fiz., Vol.38, Issue.4, p.868Comment: Data were digitized. Energy digitizing error is 1.67 keV]
 	to:  [Comment: Data were digitized. Energy digitizing error is 1.67 keV]
@@ -39,6 +39,12 @@
  6)---programmatically corrected line---  ti8p/ti8ppge.r33 2017-03-07  Reaction:48Ti(p,pg1-0)48Ti /yield/
 	from:[value:      0.00,      0.00,      0.00,      0.00,      0.00]
 	to: [Qvalue:      0.00,      0.00,      0.00,      0.00,      0.00]
+ 7)---programmatically corrected line---  zrnp/zrnpp0$1.r33 2026-02-12  Reaction:natZr(p,p)natZr /mb/
+	from:[Reaction: Zr(p,p)Zr]
+	to:  [Reaction: natZr(p,p)natZr]
+ 8)---programmatically corrected line---  zrnp/zrnpp0$2.r33 2026-02-12  Reaction:natZr(p,p)natZr /mb/
+	from:[Reaction: Zr(p,p)Zr]
+	to:  [Reaction: natZr(p,p)natZr]
 
 
  +---------------------------------+
@@ -50,7 +56,7 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Wrong File Location [iba-2024-09-26.zip]
+...Wrong File Location [iba-2026-02-12.zip]
  1)---wrong file location---[nna/ninaa0c.r33] must be:[nina/ninaa0c.r33] 2021-12-10  Reaction:natNi(a,a0)natNi /mb/
 
 
@@ -63,7 +69,7 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Wrong Dir Name [iba-2024-09-26.zip]
+...Wrong Dir Name [iba-2026-02-12.zip]
  1)---wrong dir name--- now: c2a/    must-be: cna/    first-file: c2a/c2aa0w.r33     2020-04-07  Reaction:natC(a,a0)natC /rr/
  2)---wrong dir name--- now: c3d/    must-be: c3h/    first-file: c3d/c3daga.r33     2021-08-22  Reaction:13C(3He,ag8-0)12C /mb/
  3)---wrong dir name--- now: h2a/    must-be: li7h/   first-file: h2a/h2aa0m.r33     2022-09-02  Reaction:7Li(3He,a0)6Li /mb/
@@ -86,7 +92,7 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Wrong File Prefix [iba-2024-09-26.zip]
+...Wrong File Prefix [iba-2026-02-12.zip]
   1)---wrong file name--- now: c2a/c2aa0w.r33     must-be: cna/cnaa0w.r33     2020-04-07  Reaction:natC(a,a0)natC /rr/
   2)---wrong file name--- now: c2a/c2aa0_n.r33    must-be: cna/cnaa0_n.r33    2020-04-07  Reaction:natC(a,a0)natC /rr/
   3)---wrong file name--- now: c3d/c3daga.r33     must-be: c3h/c3haga.r33     2021-08-22  Reaction:13C(3He,ag8-0)12C /mb/
@@ -159,8 +165,8 @@
  70)---wrong file name--- now: pr1p/pr1ppgc.r33   must-be: p1p/p1ppgc.r33     2022-09-10  Reaction:31P(p,pg1-0)31P /yield/
  71)---wrong file name--- now: pr1p/pr1ppgd.r33   must-be: p1p/p1ppgd.r33     2023-10-18  Reaction:31P(p,pg1-0)31P /yield/
  72)---wrong file name--- now: pr1p/pr1ppge.r33   must-be: p1p/p1ppge.r33     2020-10-07  Reaction:31P(p,pg1-0)31P /yield/
- 73)---wrong file name--- now: pr1p/pr1ppgf.R33   must-be: p1p/p1ppgf.R33     2016-10-04  Reaction:31P(p,pg1-0)31P /mb/
- 74)---wrong file name--- now: pr1p/pr1ppgg.R33   must-be: p1p/p1ppgg.R33     2021-05-14  Reaction:31P(p,pg1-0)31P /yield/
+ 73)---wrong file name--- now: pr1p/pr1ppgf.r33   must-be: p1p/p1ppgf.r33     2016-10-04  Reaction:31P(p,pg1-0)31P /mb/
+ 74)---wrong file name--- now: pr1p/pr1ppgg.r33   must-be: p1p/p1ppgg.r33     2021-05-14  Reaction:31P(p,pg1-0)31P /yield/
  75)---wrong file name--- now: pr1p/pr1ppgh.r33   must-be: p1p/p1ppgh.r33     2017-02-16  Reaction:31P(p,pg1-0)31P /yield/
  76)---wrong file name--- now: pr1p/pr1ppgi.r33   must-be: p1p/p1ppgi.r33     2021-08-19  Reaction:31P(p,pg1-0)31P /mb/
  77)---wrong file name--- now: pr1p/pr1ppgj.r33   must-be: p1p/p1ppgj.r33     2021-08-19  Reaction:31P(p,pg1-0)31P /yield/
@@ -176,7 +182,7 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...Warning: Year=0 [iba-2024-09-26.zip]
+...Warning: Year=0 [iba-2026-02-12.zip]
   1) 2019-02-05 mg5p/mg5ppgr.r33   0,Jesus                    25Mg(p,pg1-0)25Mg,pts:579(mb)           A.P.Jesus et al, unpublished data
   2) 2006-06-23 n4d/n4dp1b.r33     0,Pellegrino               14N(d,p1+2)15N,pts:11(mb)               S. Pellegrino, to be published
   3) 2006-06-23 n4d/n4dp3c.r33     0,Pellegrino               14N(d,p3)15N,pts:282(mb)                S. Pellegrino, to be published
@@ -376,29 +382,29 @@
 /156/ ReverseEnOrder  li7h/li7hp2a.r33	2021-04-28 nPoints:18	S0268002:An=146.0:R=7Li(3He,p2)9Be/mb/	Source: J.Zhu+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.494-495, p.23
 /157/ ReverseEnOrder  li7h/li7hp4a.r33	2021-04-28 nPoints:18	S0268002:An=146.0:R=7Li(3He,p3+4)9Be/mb/	Source: J.Zhu+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.494-495, p.23
 /158/ ReverseEnOrder  li7p/li7ppgb.r33	2021-12-15 nPoints:96	D0328002:An=135.0:R=7Li(p,pg1-0)7Li/tot/	Source: R.Mateus+(2002),Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.190, p.117
-/159/ ReverseEnOrder  mg4d/mg4dp0m.R33	2020-10-29 nPoints:38	D0797002:An=90.0:R=24Mg(d,p0)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/160/ ReverseEnOrder  mg4d/mg4dp0n.R33	2020-10-29 nPoints:38	D0797002:An=135.0:R=24Mg(d,p0)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/161/ ReverseEnOrder  mg4d/mg4dp0o.R33	2020-10-29 nPoints:38	D0797002:An=150.0:R=24Mg(d,p0)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/162/ ReverseEnOrder  mg4d/mg4dp0p.R33	2020-10-29 nPoints:38	D0797002:An=165.0:R=24Mg(d,p0)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/163/ ReverseEnOrder  mg4d/mg4dp1m.R33	2020-10-29 nPoints:38	D0797003:An=90.0:R=24Mg(d,p1)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/164/ ReverseEnOrder  mg4d/mg4dp1n.R33	2020-10-29 nPoints:38	D0797003:An=135.0:R=24Mg(d,p1)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/165/ ReverseEnOrder  mg4d/mg4dp1o.R33	2020-10-29 nPoints:38	D0797003:An=150.0:R=24Mg(d,p1)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/166/ ReverseEnOrder  mg4d/mg4dp1p.R33	2020-10-29 nPoints:38	D0797003:An=165.0:R=24Mg(d,p1)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/167/ ReverseEnOrder  mg4d/mg4dp2l.R33	2020-09-22 nPoints:38	D0797004:An=90.0:R=24Mg(d,p2)25Mg/mb/	Source: H. Rafi-kheiri, O. Kakuee, M. Lamehi-Rachti, Nucl. Instr. Meth. B 373 (2016) 63-69
-/168/ ReverseEnOrder  mg4d/mg4dp2n.R33	2020-10-29 nPoints:38	D0797004:An=135.0:R=24Mg(d,p2)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/169/ ReverseEnOrder  mg4d/mg4dp2o.R33	2020-10-29 nPoints:38	D0797004:An=150.0:R=24Mg(d,p2)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/170/ ReverseEnOrder  mg4d/mg4dp2p.R33	2020-10-29 nPoints:38	D0797004:An=165.0:R=24Mg(d,p2)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/171/ ReverseEnOrder  mg4d/mg4dp3c.R33	2020-10-29 nPoints:37	D0797005:An=90.0:R=24Mg(d,p3)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/172/ ReverseEnOrder  mg4d/mg4dp3d.R33	2020-10-29 nPoints:37	D0797005:An=135.0:R=24Mg(d,p3)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/173/ ReverseEnOrder  mg4d/mg4dp3e.R33	2020-10-29 nPoints:37	D0797005:An=150.0:R=24Mg(d,p3)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/174/ ReverseEnOrder  mg4d/mg4dp3f.R33	2020-10-29 nPoints:36	D0797005:An=165.0:R=24Mg(d,p3)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/175/ ReverseEnOrder  mg4d/mg4dp4c.R33	2020-10-29 nPoints:37	D0797006:An=90.0:R=24Mg(d,p4)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/176/ ReverseEnOrder  mg4d/mg4dp4d.R33	2020-10-22 nPoints:37	D0797006:An=135.0:R=24Mg(d,p4)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/177/ ReverseEnOrder  mg4d/mg4dp4e.R33	2020-10-29 nPoints:37	D0797006:An=150.0:R=24Mg(d,p4)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/178/ ReverseEnOrder  mg4d/mg4dp4f.R33	2020-10-29 nPoints:38	D0797006:An=165.0:R=24Mg(d,p4)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/179/ ReverseEnOrder  mgnd/mgndd0g.R33	2020-10-22 nPoints:30	D0797007:An=135.0:R=natMg(d,d0)natMg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/180/ ReverseEnOrder  mgnd/mgndd0h.R33	2020-10-22 nPoints:38	D0797007:An=150.0:R=natMg(d,d0)natMg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
-/181/ ReverseEnOrder  mgnd/mgndd0i.R33	2020-10-22 nPoints:38	D0797007:An=165.0:R=natMg(d,d0)natMg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/159/ ReverseEnOrder  mg4d/mg4dp0m.r33	2020-10-29 nPoints:38	D0797002:An=90.0:R=24Mg(d,p0)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/160/ ReverseEnOrder  mg4d/mg4dp0n.r33	2020-10-29 nPoints:38	D0797002:An=135.0:R=24Mg(d,p0)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/161/ ReverseEnOrder  mg4d/mg4dp0o.r33	2020-10-29 nPoints:38	D0797002:An=150.0:R=24Mg(d,p0)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/162/ ReverseEnOrder  mg4d/mg4dp0p.r33	2020-10-29 nPoints:38	D0797002:An=165.0:R=24Mg(d,p0)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/163/ ReverseEnOrder  mg4d/mg4dp1m.r33	2020-10-29 nPoints:38	D0797003:An=90.0:R=24Mg(d,p1)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/164/ ReverseEnOrder  mg4d/mg4dp1n.r33	2020-10-29 nPoints:38	D0797003:An=135.0:R=24Mg(d,p1)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/165/ ReverseEnOrder  mg4d/mg4dp1o.r33	2020-10-29 nPoints:38	D0797003:An=150.0:R=24Mg(d,p1)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/166/ ReverseEnOrder  mg4d/mg4dp1p.r33	2020-10-29 nPoints:38	D0797003:An=165.0:R=24Mg(d,p1)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/167/ ReverseEnOrder  mg4d/mg4dp2l.r33	2020-09-22 nPoints:38	D0797004:An=90.0:R=24Mg(d,p2)25Mg/mb/	Source: H. Rafi-kheiri, O. Kakuee, M. Lamehi-Rachti, Nucl. Instr. Meth. B 373 (2016) 63-69
+/168/ ReverseEnOrder  mg4d/mg4dp2n.r33	2020-10-29 nPoints:38	D0797004:An=135.0:R=24Mg(d,p2)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/169/ ReverseEnOrder  mg4d/mg4dp2o.r33	2020-10-29 nPoints:38	D0797004:An=150.0:R=24Mg(d,p2)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/170/ ReverseEnOrder  mg4d/mg4dp2p.r33	2020-10-29 nPoints:38	D0797004:An=165.0:R=24Mg(d,p2)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/171/ ReverseEnOrder  mg4d/mg4dp3c.r33	2020-10-29 nPoints:37	D0797005:An=90.0:R=24Mg(d,p3)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/172/ ReverseEnOrder  mg4d/mg4dp3d.r33	2020-10-29 nPoints:37	D0797005:An=135.0:R=24Mg(d,p3)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/173/ ReverseEnOrder  mg4d/mg4dp3e.r33	2020-10-29 nPoints:37	D0797005:An=150.0:R=24Mg(d,p3)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/174/ ReverseEnOrder  mg4d/mg4dp3f.r33	2020-10-29 nPoints:36	D0797005:An=165.0:R=24Mg(d,p3)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/175/ ReverseEnOrder  mg4d/mg4dp4c.r33	2020-10-29 nPoints:37	D0797006:An=90.0:R=24Mg(d,p4)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/176/ ReverseEnOrder  mg4d/mg4dp4d.r33	2020-10-22 nPoints:37	D0797006:An=135.0:R=24Mg(d,p4)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/177/ ReverseEnOrder  mg4d/mg4dp4e.r33	2020-10-29 nPoints:37	D0797006:An=150.0:R=24Mg(d,p4)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/178/ ReverseEnOrder  mg4d/mg4dp4f.r33	2020-10-29 nPoints:38	D0797006:An=165.0:R=24Mg(d,p4)25Mg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/179/ ReverseEnOrder  mgnd/mgndd0g.r33	2020-10-22 nPoints:30	D0797007:An=135.0:R=natMg(d,d0)natMg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/180/ ReverseEnOrder  mgnd/mgndd0h.r33	2020-10-22 nPoints:38	D0797007:An=150.0:R=natMg(d,d0)natMg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
+/181/ ReverseEnOrder  mgnd/mgndd0i.r33	2020-10-22 nPoints:38	D0797007:An=165.0:R=natMg(d,d0)natMg/mb/	Source: H.Rafi-Kheiri+(2016), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.373, p.63
 /182/ ReverseEnOrder  n4p/n4ppgw.r33	2020-04-17 nPoints:81	D4396002:An=55.0:R=14N(p,pg1-0)14N/mb/	Source: L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56.
 /183/ ReverseEnOrder  na3p/na3ppga.r33	2020-10-22 nPoints:168	nox4:An=130.0:R=23Na(p,pg1-0)23Na/tot/	Source: R.Mateus+(2004), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.219-220, p.307
 /184/ ReverseEnOrder  nnp/nnpp0a.r33	2020-04-17 nPoints:125	D4396005:An=135.0:R=natN(p,p0)natN/mb/	Source: L. Csedreki et al. Nucl. Instr. & Meth. B 443 (2019) 48-56.
@@ -2022,17 +2028,17 @@
 	32)	955.0	3.0	0.425	0.020
 [47]________File:b0p/b0pag$1.r33 Data:97 En:#inc:96 #eq:0 #dec:1
 
-/48/ WrongEnergyOrder b0pagk.R33 	2016-02-25 pts:158	O2254016:An=165.0:R=10B(p,ag1-0)7Be/mb/	Source: A. Lagoyannis et al., NIMB 342 (2015) 271-276
+/48/ WrongEnergyOrder b0pagk.r33 	2016-02-25 pts:158	O2254016:An=165.0:R=10B(p,ag1-0)7Be/mb/	Source: A. Lagoyannis et al., NIMB 342 (2015) 271-276
 #48.1 = E[157]==E[158]	i:157,158/lines:176,177
 	176)	 5001.000,  7.500,   4.413, 0.151
 	177)	 5001.000,  7.500,   4.413, 0.151
-[48]________File:b0p/b0pagk.R33 Data:158 En:#inc:157 #eq:1 #dec:0
+[48]________File:b0p/b0pagk.r33 Data:158 En:#inc:157 #eq:1 #dec:0
 
-/49/ WrongEnergyOrder b0pagt.R33 	2020-04-18 pts:29	O2449002:An=90.0:R=10B(p,ag1-0)7Be/tot/	Source: A. Caciolli et al., Eur. Phys. J. A 55 (2019) 171
+/49/ WrongEnergyOrder b0pagt.r33 	2020-04-18 pts:29	O2449002:An=90.0:R=10B(p,ag1-0)7Be/tot/	Source: A. Caciolli et al., Eur. Phys. J. A 55 (2019) 171
 #49.1 - E[8]>E[9]	i:8,9/lines:27,28
 	27)	 8812.,	1.0,	2.57,  0.12
 	28)	 931.,	1.0,	3.8,	  0.09
-[49]________File:b0p/b0pagt.R33 Data:29 En:#inc:28 #eq:0 #dec:1
+[49]________File:b0p/b0pagt.r33 Data:29 En:#inc:28 #eq:0 #dec:1
 
 /50/ WrongEnergyOrder b0pg0a.r33 	2020-10-08 pts:66	C1274002:An=360.0:R=10B(p,g0)11C/tot/	Source: M. Wiescher et al., Phys. Rev C28 (1983) 1431.
 #50.1 = E[14]==E[15]	i:14,15/lines:36,37
@@ -8439,11 +8445,11 @@
 	121)	     1.9822         0.    42.5694         0.
 [255]________File:f9p/f9pp0_z.r33 Data:118 En:#inc:116 #eq:2 #dec:0
 
-/256/ WrongEnergyOrder f9pp2e.R33 	2020-09-09 pts:130	O2312003:An=150.0:R=19F(p,p2)19F/mb/	Source: M. Chiari et al. Nucl. Intr. and Meth. B 384 (2016) 37-41
+/256/ WrongEnergyOrder f9pp2e.r33 	2020-09-09 pts:130	O2312003:An=150.0:R=19F(p,p2)19F/mb/	Source: M. Chiari et al. Nucl. Intr. and Meth. B 384 (2016) 37-41
 #256.1 = E[77]==E[78]	i:77,78/lines:101,102
 	101)	4964.1	0.0	8.19	0.20
 	102)	4964.1	0.0	8.32	0.21
-[256]________File:f9p/f9pp2e.R33 Data:130 En:#inc:129 #eq:1 #dec:0
+[256]________File:f9p/f9pp2e.r33 Data:130 En:#inc:129 #eq:1 #dec:0
 
 /257/ WrongEnergyOrder f9pp5a.r33 	2009-09-18 pts:65	F0970005:An=168.0:R=19F(p,p5)19F/mb/	Source: H.M. Kuan et al. Nuclear Physics A v.193 (1972) 497
 #257.1 - E[34]>E[35]	i:34,35/lines:58,59
@@ -13137,17 +13143,17 @@
 	73)	      6.702        0.0      877.3        0.0
 [378]________File:na3p/na3pp2b.r33 Data:49 En:#inc:48 #eq:0 #dec:1
 
-/379/ WrongEnergyOrder na3ppg$4.R33 	2019-01-29 pts:233	x4none:An=90.0:R=23Na(p,pg1-0)23Na/mb/	Source: M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118
+/379/ WrongEnergyOrder na3ppg$4.r33 	2019-01-29 pts:233	x4none:An=90.0:R=23Na(p,pg1-0)23Na/mb/	Source: M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118
 #379.1 = E[170]==E[171]	i:170,171/lines:195,196
 	195)	2389	0.00	3.50	0.22
 	196)	2389	0.00	3.40	0.22
-[379]________File:na3p/na3ppg$4.R33 Data:233 En:#inc:232 #eq:1 #dec:0
+[379]________File:na3p/na3ppg$4.r33 Data:233 En:#inc:232 #eq:1 #dec:0
 
-/380/ WrongEnergyOrder na3ppg$5.R33 	2019-01-29 pts:233	x4none:An=90.0:R=23Na(p,pg2-1)23Na/mb/	Source: M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118
+/380/ WrongEnergyOrder na3ppg$5.r33 	2019-01-29 pts:233	x4none:An=90.0:R=23Na(p,pg2-1)23Na/mb/	Source: M. Chiari et al., Nucl. Instr. and Meth. B 441 (2019) 108-118
 #380.1 = E[170]==E[171]	i:170,171/lines:195,196
 	195)	2389	0.00	5.14	0.33
 	196)	2389	0.00	4.99	0.32
-[380]________File:na3p/na3ppg$5.R33 Data:233 En:#inc:232 #eq:1 #dec:0
+[380]________File:na3p/na3ppg$5.r33 Data:233 En:#inc:232 #eq:1 #dec:0
 
 /381/ WrongEnergyOrder na3ppge.r33 	2015-12-18 pts:54	x4none:An=90.0:R=23Na(p,pg1-0)23Na/tot/	Source: P.Trocellier+, J. Radioanal. Chem. 67 (1981) 135
 #381.1 = E[21]==E[22]	i:21,22/lines:40,41
@@ -14976,11 +14982,11 @@
 	70)	     6.7746         0.     84.873         0.
 [462]________File:s4p/s4pp0a.r33 Data:81 En:#inc:79 #eq:0 #dec:2
 
-/463/ WrongEnergyOrder sc5pp0b.R33 	2019-02-07 pts:97	O1969002:An=160.0:R=45Sc(p,p0)45Sc/mb/	Source: G. Provatas et al., Nucl. Instr. and Meth. B 269 (2011) 2994.
+/463/ WrongEnergyOrder sc5pp0b.r33 	2019-02-07 pts:97	O1969002:An=160.0:R=45Sc(p,p0)45Sc/mb/	Source: G. Provatas et al., Nucl. Instr. and Meth. B 269 (2011) 2994.
 #463.1 = E[96]==E[97]	i:96,97/lines:121,122
 	121)	 5493.000,  5.000,  34.000, 3.000
 	122)	 5493.000,  5.000,  34.000, 3.000
-[463]________File:sc5p/sc5pp0b.R33 Data:97 En:#inc:96 #eq:1 #dec:0
+[463]________File:sc5p/sc5pp0b.r33 Data:97 En:#inc:96 #eq:1 #dec:0
 
 /464/ WrongEnergyOrder si0pp0a.r33 	2020-10-23 pts:324	D5100002:An=88.09:R=30Si(p,p0)30Si/mb/	Source: A.K.Valter+(1962), Zhurnal Eksperimental`noi i Teoret. Fiziki, Vol.43, p.2038
 #464.1 - E[9]>E[10]	i:9,10/lines:34,35
@@ -15141,7 +15147,7 @@
 	64)	     2.8766         0.     0.8312         0.
 [468]________File:si8d/si8dp4c.r33 Data:102 En:#inc:101 #eq:0 #dec:1
 
-/469/ WrongEnergyOrder si8ppgj.R33 	2020-10-01 pts:149	O2303003:An=55.0:R=28Si(p,pg1-0)28Si/tot/	Source: B. Marchand et al, Nucl. Instr. Meth. B 378 (2016) 25
+/469/ WrongEnergyOrder si8ppgj.r33 	2020-10-01 pts:149	O2303003:An=55.0:R=28Si(p,pg1-0)28Si/tot/	Source: B. Marchand et al, Nucl. Instr. Meth. B 378 (2016) 25
 #469.1 = E[7]==E[8]	i:7,8/lines:25,26
 	25)	3886.   0.0   28.35156
 	26)	3886.   0.0   37.46078
@@ -15241,7 +15247,7 @@
 #469.33 = E[141]==E[142]	i:141,142/lines:159,160
 	159)	6540.   0.0   2469.489
 	160)	6540.   0.0   371.1543
-[469]________File:si8p/si8ppgj.R33 Data:149 En:#inc:116 #eq:33 #dec:0
+[469]________File:si8p/si8ppgj.r33 Data:149 En:#inc:116 #eq:33 #dec:0
 
 /470/ WrongEnergyOrder si9pp0a.r33 	2009-01-13 pts:275	F1010002:An=160.0:R=29Si(p,p0)29Si/ru/	Source: M.Cenja et al. Izvestiya Academii Nauk v.47 (1983) 2143
 #470.1 - E[46]>E[47]	i:46,47/lines:71,72
@@ -15417,7 +15423,7 @@
 	263)	     1.9652         0.     1.2893         0.
 [477]________File:si9p/si9pp0h.r33 Data:294 En:#inc:288 #eq:6 #dec:0
 
-/478/ WrongEnergyOrder si9ppgi.R33 	2020-04-19 pts:151	O2303004:An=55.0:R=29Si(p,pg1-0)29Si/tot/	Source: B. Marchand et al, Nucl. Instr. Meth. B 378 (2016) 25
+/478/ WrongEnergyOrder si9ppgi.r33 	2020-04-19 pts:151	O2303004:An=55.0:R=29Si(p,pg1-0)29Si/tot/	Source: B. Marchand et al, Nucl. Instr. Meth. B 378 (2016) 25
 #478.1 = E[7]==E[8]	i:7,8/lines:25,26
 	25)	3886.   0.0   111.5986
 	26)	3886.   0.0   182.0301
@@ -15517,7 +15523,7 @@
 #478.33 = E[143]==E[144]	i:143,144/lines:161,162
 	161)	6540.   0.0   2535.948
 	162)	6540.   0.0   2757.987
-[478]________File:si9p/si9ppgi.R33 Data:151 En:#inc:118 #eq:33 #dec:0
+[478]________File:si9p/si9ppgi.r33 Data:151 En:#inc:118 #eq:33 #dec:0
 
 /479/ WrongEnergyOrder sinaa0d.r33 	2021-08-19 pts:229	x4none:An=165.1:R=natSi(a,a0)natSi/rr/	Source: M.K.Leung(1972), Thes. Thesis or dissertation, Name.Leung
 #479.1 - E[1]>E[2]	i:1,2/lines:29,30
@@ -15702,59 +15708,59 @@
 	74)	3090	0.0	1.20	0.0
 [484]________File:sinp/sinpp0i.r33 Data:103 En:#inc:102 #eq:1 #dec:0
 
-/485/ WrongEnergyOrder sinpp0k.R33 	2023-10-13 pts:163	O2559002:An=130.0:R=natSi(p,p0)natSi/mb/	Source: F.Maragkos+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.507, p.20 - 26
+/485/ WrongEnergyOrder sinpp0k.r33 	2023-10-13 pts:163	O2559002:An=130.0:R=natSi(p,p0)natSi/mb/	Source: F.Maragkos+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.507, p.20 - 26
 #485.1 = E[63]==E[64]	i:63,64/lines:86,87
 	86)	 3672.000,  6.000,  28.490, 1.159
 	87)	 3672.000,  6.000,  27.749, 1.133
 #485.2 = E[128]==E[129]	i:128,129/lines:151,152
 	151)	 4542.000,  6.000,  94.078, 3.659
 	152)	 4542.000,  6.000,  92.819, 3.636
-[485]________File:sinp/sinpp0k.R33 Data:163 En:#inc:161 #eq:2 #dec:0
+[485]________File:sinp/sinpp0k.r33 Data:163 En:#inc:161 #eq:2 #dec:0
 
-/486/ WrongEnergyOrder sinpp0l.R33 	2023-10-13 pts:163	O2559002:An=140.0:R=natSi(p,p0)natSi/mb/	Source: F.Maragkos+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.507, p.20 - 26
+/486/ WrongEnergyOrder sinpp0l.r33 	2023-10-13 pts:163	O2559002:An=140.0:R=natSi(p,p0)natSi/mb/	Source: F.Maragkos+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.507, p.20 - 26
 #486.1 = E[63]==E[64]	i:63,64/lines:86,87
 	86)	 3672.000,  6.000,  37.840, 1.660
 	87)	 3672.000,  6.000,  39.219, 1.719
 #486.2 = E[128]==E[129]	i:128,129/lines:151,152
 	151)	 4542.000,  6.000, 103.229, 4.549
 	152)	 4542.000,  6.000, 109.711, 5.022
-[486]________File:sinp/sinpp0l.R33 Data:163 En:#inc:161 #eq:2 #dec:0
+[486]________File:sinp/sinpp0l.r33 Data:163 En:#inc:161 #eq:2 #dec:0
 
-/487/ WrongEnergyOrder sinpp0m.R33 	2023-10-13 pts:163	O2559002:An=150.0:R=natSi(p,p0)natSi/mb/	Source: F.Maragkos+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.507, p.20 - 26
+/487/ WrongEnergyOrder sinpp0m.r33 	2023-10-13 pts:163	O2559002:An=150.0:R=natSi(p,p0)natSi/mb/	Source: F.Maragkos+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.507, p.20 - 26
 #487.1 = E[63]==E[64]	i:63,64/lines:86,87
 	86)	 3672.000,  6.000,  52.018, 2.381
 	87)	 3672.000,  6.000,  52.310, 2.420
 #487.2 = E[128]==E[129]	i:128,129/lines:151,152
 	151)	 4542.000,  6.000, 111.266, 5.243
 	152)	 4542.000,  6.000, 114.625, 5.518
-[487]________File:sinp/sinpp0m.R33 Data:163 En:#inc:161 #eq:2 #dec:0
+[487]________File:sinp/sinpp0m.r33 Data:163 En:#inc:161 #eq:2 #dec:0
 
-/488/ WrongEnergyOrder sinpp0n.R33 	2023-10-13 pts:163	O2559002:An=170.0:R=natSi(p,p0)natSi/mb/	Source: F.Maragkos+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.507, p.20 - 26
+/488/ WrongEnergyOrder sinpp0n.r33 	2023-10-13 pts:163	O2559002:An=170.0:R=natSi(p,p0)natSi/mb/	Source: F.Maragkos+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.507, p.20 - 26
 #488.1 = E[63]==E[64]	i:63,64/lines:86,87
 	86)	 3672.000,  6.000,  66.510, 2.561
 	87)	 3672.000,  6.000,  65.320, 2.496
 #488.2 = E[128]==E[129]	i:128,129/lines:151,152
 	151)	 4542.000,  6.000, 117.649, 4.817
 	152)	 4542.000,  6.000, 115.504, 4.708
-[488]________File:sinp/sinpp0n.R33 Data:163 En:#inc:161 #eq:2 #dec:0
+[488]________File:sinp/sinpp0n.r33 Data:163 En:#inc:161 #eq:2 #dec:0
 
-/489/ WrongEnergyOrder sinpp0o.R33 	2023-10-13 pts:163	O2559002:An=120.0:R=natSi(p,p0)natSi/mb/	Source: F.Maragkos+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.507, p.20 - 26
+/489/ WrongEnergyOrder sinpp0o.r33 	2023-10-13 pts:163	O2559002:An=120.0:R=natSi(p,p0)natSi/mb/	Source: F.Maragkos+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.507, p.20 - 26
 #489.1 = E[63]==E[64]	i:63,64/lines:86,87
 	86)	 3672.000,  6.000,  20.720, 1.002
 	87)	 3672.000,  6.000,  21.132, 1.021
 #489.2 = E[128]==E[129]	i:128,129/lines:151,152
 	151)	 4542.000,  6.000,  90.268, 3.918
 	152)	 4542.000,  6.000,  85.176, 3.686
-[489]________File:sinp/sinpp0o.R33 Data:163 En:#inc:161 #eq:2 #dec:0
+[489]________File:sinp/sinpp0o.r33 Data:163 En:#inc:161 #eq:2 #dec:0
 
-/490/ WrongEnergyOrder sinpp0p.R33 	2023-10-13 pts:163	x4none:An=160.0:R=natSi(p,p0)natSi/mb/	Source: F.Maragkos+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.507, p.20 - 26
+/490/ WrongEnergyOrder sinpp0p.r33 	2023-10-13 pts:163	x4none:An=160.0:R=natSi(p,p0)natSi/mb/	Source: F.Maragkos+(2021), Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.507, p.20 - 26
 #490.1 = E[63]==E[64]	i:63,64/lines:85,86
 	85)	 3672.000,  6.000,  61.344, 2.383
 	86)	 3672.000,  6.000,  61.295, 2.369
 #490.2 = E[128]==E[129]	i:128,129/lines:150,151
 	150)	 4542.000,  6.000, 118.968, 4.875
 	151)	 4542.000,  6.000, 118.401, 4.937
-[490]________File:sinp/sinpp0p.R33 Data:163 En:#inc:161 #eq:2 #dec:0
+[490]________File:sinp/sinpp0p.r33 Data:163 En:#inc:161 #eq:2 #dec:0
 
 /491/ WrongEnergyOrder ti0pp0f.r33 	2010-06-02 pts:304	F1097005:An=90.0:R=50Ti(p,p0)50Ti/rr/	Source: C.Gaarde et al. Nuclear Physics A v.118 (1968) 641
 #491.1 - E[10]>E[11]	i:10,11/lines:35,36
@@ -16897,23 +16903,23 @@
  |      MM   MM         MM  MM MM  |
  |      WW    WWWW  WWWWW    WWW   |
  +---------------------------------+
-...IBANDL archive iba-2024-09-26.zip
+...IBANDL archive iba-2026-02-12.zip
    Summary of R33 files:
-    OK-files:          4564   100.%
+    OK-files:          4658   100.%
     Bad-files:         0
-    Corrected lines:   6
+    Corrected lines:   8
     Wrong file loc:    1
     Wrong dir name:    11
     Wrong file name:   78
     Unknown Year=0:    29
-    Reverse-EnOrder:   193    4.23%
-    Wrong-EnOrder:     503    11.0%
-  All Errors+Warnings: 792    17.4%
+    Reverse-EnOrder:   193    4.14%
+    Wrong-EnOrder:     503    10.8%
+  All Errors+Warnings: 794    17.0%
   Summary of Data Points: 
-    All Data Points:   399672 100.%
-    Increasing Energy: 388079 97.1%
+    All Data Points:   402687 100.%
+    Increasing Energy: 391094 97.1%
     Single Energy:     123    0.03%
-    Reverse Energy:    6485   1.62%
+    Reverse Energy:    6485   1.61%
     Next Equal Energy: 3132   0.78%
     Decreasing Energy: 1853   0.46%
 -End-
