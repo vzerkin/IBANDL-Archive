@@ -1,0 +1,36 @@
+Comment:    Converted from EXFOR D0717007 (version 20260904) by kinematic
+            transformation C.M. -> Lab. (non-relativistic, AME2020 masses).
+            X4Title: "Study of the 12C(d,d), 12C(d,p0) and 12C(d,p1)
+                      reactions at 1.4 < Ed < 2.3 MeV  (In French)"
+            X4Author: M.Allab, M.Amiel, A.Amokrane, H.Beaumevieille, 
+            A.Henni, M.Lambert
+            EXFOR: D0717007    Created: 2013-09-16  Updated: 2026-09-04
+            X4Reaction:6-C-12(D,P)6-C-13,PAR,DA; X4Points:130
+            Converted from C.M. to Lab.: Sigma, Theta
+            SigmaLab=SigmaCM/{1.202578, 1.222464}
+            ThetaLab=131.7 ThetaCM:137.4 [136.70, 139.00]
+            ENSDF:LevelEnergy=3089.00 keV
+            Theta groupping interval=3.0 deg.
+            Systematic uncertainty: ErrSys=20.0%
+            AME2020: M1=2.014101777 M2=12.0 M3=1.007825031 M4=13.003354835
+
+Version:      R33
+X4Number:     D0717007 20260904
+Source:       M.Allab+(1970), Journal de Physique, Vol.31, p.919
+Reaction:     12C(d,p1)13C
+Distribution: Energy
+Sigfactors:   1.00, 0.20
+Enfactors:    1.00, 0.00, 0.00, 0.00
+Units:        mb
+Composition:
+Masses:       2.0, 12.0, 1.0, 13.0
+Zeds:         1, 6, 1, 6
+Qvalue:       -367.26, 0.00, 0.00, 0.00, 0.00
+Theta:        131.7
+Data:
+1465.00  ,0.00     ,23.0299  ,0.00     
+1480.00  ,0.00     ,13.2536  ,0.00     
+1600.00  ,0.00     ,18.7547  ,0.00     
+1850.00  ,0.00     ,8.2124   ,0.00     
+1890.00  ,0.00     ,5.6262   ,0.00     
+EndData:
