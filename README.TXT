@@ -7,7 +7,7 @@
                  Ion Beam Analysis Nuclear Data Library
  -----------------------------------------------------------------------------
         This archive created 2023-02-03 by V.Zerkin@iaea.org
-                       Last updated: 2023-05-26
+                       Last updated: 2023-09-18
 
  -----------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ Example:
  -----------------------------------------------------------------------------
                       Nuclear Data Section
                International Atomic Energy Agency
-                      Vienna, 2023-05-26
+                      Vienna, 2023-09-18
 
                            WARNING.
 
