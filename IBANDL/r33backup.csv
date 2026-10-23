@@ -539,7 +539,7 @@ iR33,dir,file,fileDate,targ,zaTarg,proj,year,author1,Source,Reaction,dataType,x4
 537,b1p,b1pa0f,2016-02-25T12:42:46,11B,5011,p,2010,M.Kokkoris,"M. Kokkoris+(2010), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.268, p.3539","11B(p,a0)8Be","NRA","O1876003",2177.0,4185.0,"",mb,145,41
 538,b1p,b1pa0g,2016-02-25T12:42:54,11B,5011,p,2010,M.Kokkoris,"M. Kokkoris+(2010), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.268, p.3539","11B(p,a0)8Be","NRA","O1876003",2177.0,4185.0,"",mb,140,41
 539,b1p,b1pa0h,2016-02-25T12:43:00,11B,5011,p,2010,M.Kokkoris,"M. Kokkoris+(2010), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.268, p.3539","11B(p,a0)8Be","NRA","O1876003",2177.0,4185.0,"",mb,135,41
-540,b1p,b1pa1$1,2011-09-01T16:09:00,11B,5011,p,2002,J.Liu,"J.Liu+(2002), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.190, p.107","11B(p,a1)8Be","NRA","C1238002",462.0,1530.0,"",mb,150,33
+540,b1p,b1pa1$1,2018-09-10T12:01:45,11B,5011,p,2002,J.Liu,"J.Liu+(2002), Jour. Nucl. Instrum. Methods in Physics Res., Sect.B, Vol.190, p.107","11B(p,a1)8Be","NRA","C1238002",462.0,1530.0,"",mb,150,33
 541,b1p,b1pg0a,2014-01-29T17:55:06,11B,5011,p,1982,M.C.Wright,"M.C.Wright+(1982), Jour. Physical Review, Part C, Nuclear Physics, Vol.25, p.2823","11B(p,g0)12C","PIGE,NRA","C1254002",2900.0,4630.0,"",mb,60,19
 542,b1p,b1pg0b,2014-01-29T17:55:48,11B,5011,p,1982,M.C.Wright,"M.C.Wright+(1982), Jour. Physical Review, Part C, Nuclear Physics, Vol.25, p.2823","11B(p,g0)12C","PIGE,NRA","C1254002",2900.0,4620.0,"",mb,90,19
 543,b1p,b1pg0c,2016-02-23T12:14:30,11B,5011,p,1982,M.T.Collins,"M.T.Collins+(1982), Jour. Physical Review, Part C, Nuclear Physics, Vol.26, p.332","11B(p,g0)12C","PIGE,NRA","T0038002",4990.0,14000.0,"",mb,90,7
